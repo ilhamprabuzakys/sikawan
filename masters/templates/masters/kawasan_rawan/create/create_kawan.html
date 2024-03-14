@@ -1,0 +1,297 @@
+{% extends 'dashboard/base_dashboard.html' %}
+{% load static %}
+{% block title %} Tambah Data Kawasan Rawan {% endblock %}
+
+{% block css_tambahan %}
+<style>
+    .selected_location span:not(#selected_kota_label) {
+        font-weight: bold;
+    }
+
+    .selected_location {
+        margin-left: 0.8rem;
+    }
+</style>
+{% endblock css_tambahan %}
+
+{% block modal_tambahan %}
+{% include "masters/kawasan_rawan/create/modals/import_modal.html" %}
+{% include "masters/kawasan_rawan/create/modals/export_modal.html" %}
+{% include "masters/kawasan_rawan/create/modals/detail_modal.html" %}
+{% include "masters/kawasan_rawan/create/modals/edit_modal.html" %}
+{% endblock modal_tambahan %}
+
+{% block content %}
+<div class="mb-3">
+    <div class="row justify-content-between">
+        <div class="col-6 d-flex align-items-center">
+            <div>
+                <h3 class="heading d-block mb-2">Tambah Data Kawasan Rawan -
+                    {% if user.profile.role == 'bnnp' %}
+                    <b>Provinsi {{ user.profile.satker.provinsi.nama_provinsi }}</b>
+                    {% elif user.profile.role == 'bnnk' %}
+                    <b>{{ user.profile.satker.kabupaten.nama_kabupaten }}</b>
+                    {% else %}
+                    <b>Indonesia</b>
+                    {% endif %}
+                </h3>
+                <span class="mb-0">
+                    <span class="text-muted fw-light">Masters /</span>
+                    <span class="text-muted fw-light">Kawasan Rawan /</span>
+                    <span class="ms-1 fw-medium">Tambah Data</span>
+                </span>
+            </div>
+        </div>
+        <div class="col-6 d-flex justify-content-end align-items-end">
+            <div class="w-lg-25 w-sm-25 me-2 d-flex align-items-center h-75 cursor-pointer"
+                onclick="handleRefetchData()">
+                <span class="text-primary"><i class="fas fa-lg fa-refresh"></i></span>
+            </div>
+            <div class="w-lg-25 w-sm-50 me-2">
+                <label for="statistik_pelaporan_kawasan" class="form-label">Data Kawasan Rawan</label>
+                <span class="form-control"><span id="statistik_pelaporan_kawasan">0</span>/{{ desa_count }}</span>
+            </div>
+            <div class="w-lg-25 w-sm-50">
+                <label for="rekap_tahun" class="form-label">Tahun</label>
+                <select id="filter_statistik_tahun" class="form-select" id="rekap_tahun">
+                    {% for item in list_year %}
+                    <option value="{{ item }}" {% if item == tahun %} selected {% endif %}>{{ item }}</option>
+                    {% endfor %}
+                </select>
+            </div>
+        </div>
+    </div>
+</div>
+
+<section id="__data">
+    <div class="row g-4 mb-4">
+
+        <!-- Statistics -->
+        <div class="col-sm-12 col-xl-12">
+            {% include "masters/kawasan_rawan/create/partials/blok_statistik_status_kerawanan.html" %}
+        </div>
+        <!--/ Statistics -->
+
+        <!-- Untuk unduh data rekap tahun lalunya -->
+        <div class="col-sm-12 col-xl-12">
+            <div class="card">
+                <div class="card-header row justify-content-between">
+                    <div class="col-lg-4 d-flex align-items-center">
+                        <div>
+                            <h5 class="card-title mb-0">Ambil Data Rekap Kawasan Rawan </h5>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 d-flex justify-content-end align-items-end">
+                        {% comment %} <div>
+                            <label for="rekap_tahun" class="form-label required">Tahun</label>
+                            <select id="rekap_tahun" class="form-select" required>
+                                <option disabled value="">-- Pilih Tahun --</option>
+                                {% for item in list_year %}
+                                {% if item != tahun_saat_ini %}
+                                <option value="{{ item }}">{{ item }}</option>
+                                {% endif %}
+                                {% endfor %}
+                            </select>
+                        </div>
+                        <div class="ms-2">
+                            <label for="tipe_file" class="form-label required">Tipe</label>
+                            <select id="tipe_file" class="form-select" required>
+                                <option disabled value="">-- Pilih Tipe --</option>
+                                <option value="xlsx">Excel</option>
+                                <option selected value="csv">CSV</option>
+                            </select>
+                        </div>
+                        <div class="ms-2">
+                            <button class="btn btn-primary" type="submit"><i class="fas fa-save me-2"></i>Export
+                                Data</button>
+                        </div> {% endcomment %}
+                        <div class="ms-2">
+                            <button class="btn btn-primary" type="button" data-bs-toggle="modal"
+                                data-bs-target="#exportDataModal">
+                                <i class="fas fa-file-export me-2"></i>
+                                Export Data</button>
+                        </div>
+                        <div class="ms-2">
+                            <button class="btn btn-success" type="button" data-bs-toggle="modal"
+                                data-bs-target="#importDataModal">
+                                <i class="fas fa-file-import me-2"></i>
+                                Import Data</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Tambah Kawasan Rawan -->
+        {% include "masters/kawasan_rawan/create/partials/post_form.html" %}
+        <!--/ Tambah Kawasan Rawan -->
+
+        <div class="col-sm-12 col-xl-12">
+            <div class="card">
+                <div class="card-header row justify-content-between pb-0">
+                    <div class="col-lg-8 d-flex align-items-center">
+                        <div>
+                            <h5 class="card-title mb-0">Data Kawasan Rawan -
+                                {% if user.profile.role == 'bnnp' %}
+                                <b>Provinsi {{ user.profile.satker.provinsi.nama_provinsi }}</b>
+                                {% elif user.profile.role == 'bnnk' %}
+                                <b>{{ user.profile.satker.kabupaten.nama_kabupaten }}</b>
+                                {% else %}
+                                <b>Indonesia</b>
+                                {% endif %}
+                                <b id="info_selected_tahun">{{ tahun }}</b>
+                            </h5>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 d-flex justify-content-lg-end justify-content-sm-end gap-3 my-sm-3 my-lg-0">
+                        <div>
+                            <div class="btn-group dropstart" data-bs-toggle="tooltip" data-bs-placement="top"
+                                data-bs-custom-class="tooltip-dark"
+                                data-bs-original-title="Klik disini untuk memfilter data.">
+                                <button type="button"
+                                    class="btn btn-label-success rounded-pill dropdown-toggle hide-arrow"
+                                    data-bs-toggle="dropdown" aria-expanded="false" data-bs-offset="10,20"
+                                    data-bs-auto-close="outside"><i class="fas fa-filter me-2"></i>Filter</button>
+                                <ul class="dropdown-menu w-px-500">
+                                    <li>
+                                        <h5 class="dropdown-header text-uppercase">Filter Data</h5>
+                                    </li>
+                                    <li>
+                                        <hr class="dropdown-divider">
+                                    </li>
+                                    <div class="pt-0 pb-3 px-3" id="filter_form">
+
+                                        {% if user.profile.role == 'bnnp' %}
+                                        <div class="mb-2">
+                                            <label for="filter__kabupaten" class="form-label">Kota/Kabupaten</label>
+                                            <select id="filter__kabupaten" class="form-select select2 no-placeholder"
+                                                required>
+                                                <option disabled value="">-- Pilih Kota/Kabupaten --</option>
+                                                <option selected value="">-- Semua --</option>
+                                                {% for item in list_kabupaten %}
+                                                <option value="{{ item.pk }}">{{ item.nama_kabupaten }}</option>
+                                                {% endfor %}
+                                            </select>
+                                        </div>
+                                        <div class="mb-2">
+                                            <label for="filter__kecamatan" class="form-label">Kecamatan</label>
+                                            <select id="filter__kecamatan" class="form-select select2 no-placeholder"
+                                                required disabled>
+                                                <option disabled value="">-- Pilih Kecamatan --</option>
+                                                <option selected value="">-- Semua --</option>
+                                            </select>
+                                        </div>
+                                        {% elif user.profile.role == 'bnnk' %}
+                                        <div class="mb-2">
+                                            <label for="filter__kecamatan" class="form-label">Kecamatan</label>
+                                            <select id="filter__kecamatan" class="form-select select2 no-placeholder"
+                                                required>
+                                                <option disabled value="">-- Pilih Kecamatan --</option>
+                                                <option selected value="">-- Semua --</option>
+                                                {% for item in list_kecamatan %}
+                                                <option value="{{ item.pk }}">{{ item.nama_kecamatan }}</option>
+                                                {% endfor %}
+                                            </select>
+                                        </div>
+                                        {% endif %}
+
+                                        <div class="mb-2">
+                                            <label for="filter__status" class="form-label">Status</label>
+                                            <select id="filter__status" class="form-select" required>
+                                                <option disabled value="">-- Pilih Status --</option>
+                                                <option selected value="">-- Semua --</option>
+                                                <option value="KOSONG">Kosong</option>
+                                                <option value="SUDAH">Sudah terlaporkan</option>
+                                                {% for item in list_status %}
+                                                <option value="{{ item.value }}">{{ item.label }}</option>
+                                                {% endfor %}
+                                            </select>
+                                        </div>
+                                        <div class="mb-2">
+                                            <label for="filter__tahun" class="form-label">Tahun</label>
+                                            <select id="filter__tahun" class="form-select" required>
+                                                <option disabled value="">-- Pilih Tahun --</option>
+                                                {% for item in list_year %}
+                                                <option value="{{ item }}" {% if item == tahun %} selected {% endif %}>
+                                                    {{ item }}
+                                                </option>
+                                                {% endfor %}
+                                            </select>
+                                        </div>
+                                    </div>
+                                    <li>
+                                        <hr class="dropdown-divider">
+                                    </li>
+                                    <div class="d-flex justify-content-end px-3 py-2">
+                                        <button type="button" class="btn btn-label-secondary fw-semibold me-2 px-6"
+                                            id="resetFilter" onclick="handleResetFilter()"><i
+                                                class="fas fa-xmark me-2"></i>Reset</button>
+
+                                        <button type="button" class="btn btn-primary fw-semibold px-6"
+                                            onclick="handleApplyFilter()" id="applyFilter"><i
+                                                class="fas fa-save me-2"></i>
+                                            Terapkan</button>
+                                    </div>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="card-body">
+                    <hr class="mx-n4">
+                    <div class="table-responsive">
+                        {% if user.profile.role == 'bnnp' %}
+                        {% include 'masters/kawasan_rawan/create/tables/table_bnnp.html' %}
+                        {% elif user.profile.role == 'bnnk' %}
+                        {% include 'masters/kawasan_rawan/create/tables/table_bnnk.html' %}
+                        {% endif %}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+{% endblock %}
+
+{% block js_tambahan %}
+<script>
+    var selected_tahun = '{{ tahun }}';
+    var s = '';
+    var role = '{{ user.profile.role }}'
+</script>
+
+<!-- Load Data -->
+<script src="{% static 'masters/kawasan_rawan/create/js/load_data.js' %}"></script>
+
+<!-- Action -->
+<script src="{% static 'masters/kawasan_rawan/create/js/form_actions.js' %}"></script>
+
+<!-- Aksi Datatable -->
+<script src="{% static 'masters/kawasan_rawan/create/js/dt_actions.js' %}"></script>
+
+<!-- Filter Datatable -->
+<script src="{% static 'masters/kawasan_rawan/create/js/dt_filters.js' %}"></script>
+
+{% if user.profile.role == 'bnnp' %}
+<script>
+    var id_provinsi = parseInt('{{ user.profile.satker.provinsi.pk }}');
+    var nama_provinsi = '{{ user.profile.satker.provinsi.nama_provinsi }}';
+    var total_desa_provinsi = parseInt('{{ desa_count }}');
+</script>
+<!-- Statisik -->
+<script src="{% static 'masters/kawasan_rawan/create/js/bnnp/statistik_bnnp.js' %}"></script>
+<!-- Datatable -->
+<script src="{% static 'masters/kawasan_rawan/create/js/bnnp/dt_bnnp.js' %}"></script>
+{% elif user.profile.role == 'bnnk' %}
+<script>
+    var id_kabupaten = parseInt('{{ user.profile.satker.kabupaten.pk }}');
+    var nama_kabupaten = '{{ user.profile.satker.kabupaten.nama_kabupaten }}';
+    var total_desa_kabupaten = parseInt('{{ desa_count }}');
+</script>
+<!-- Statistik -->
+<script src="{% static 'masters/kawasan_rawan/create/js/bnnk/statistik_bnnk.js' %}"></script>
+<!-- Datatable -->
+<script src="{% static 'masters/kawasan_rawan/create/js/bnnk/dt_bnnk.js' %}"></script>
+{% endif %}
+{% endblock %}

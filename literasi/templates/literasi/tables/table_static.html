@@ -1,0 +1,110 @@
+{% load static %}
+<table class="table table-bordered table-sm" id="__table">
+    <thead class="bg-soft-success">
+        <tr class="text-center">
+            <th>No</th>
+            <th>Judul</th>
+            <th>Dokumen</th>
+            <th>Kategori</th>
+            <th>Status</th>
+            <th>Tags</th>
+            <th>Dibuat oleh</th>
+            <th>Tanggal diupload</th>
+            <th>Aksi <i class="fas fa-edit ms-2"></i></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr class="align-td-middle">
+            <td>1.</td>
+            <td>Modul literasi A</td>
+            <td>
+                <a href="{% static 'assets/home/sample/book.pdf' %}" class="badge bg-primary">
+                    <i class="fas fa-download me-2"></i>
+                    Unduh dokumen
+                </a>
+            </td>
+            <td class="text-center">Buku</td>
+            <td>
+                <a href="javascript:void(0)" class="badge bg-success">
+                    <i class="fas fa-check-double me-2"></i>
+                    PUBLISHED
+                </a>
+            </td>
+            <td class="text-primary">
+                #Literasi #Informasi #KawasanRawan
+            </td>
+
+            <td>
+                <a href="javascript:void(0)">BNNP Jawa Tengah</a>
+            </td>
+
+            <td>13 Februari 2024</td>
+
+            <td class="__action_button" x-data>
+                <div class="list-button gx-3 text-uppercase">
+                    <div>
+                        <a href="javascript:void(0);" data-bs-toggle="modal" data-bs-target="#detailLiterasiModal"
+                            class="badge bg-primary mb-1"><i
+                                class="fas fa-eye me-2"></i>Lihat</a>
+                    </div>
+                    <div>
+                        <a href="javascript:void(0);" data-bs-toggle="modal" data-bs-target="#editLiterasiModal"
+                            class="badge bg-success mb-1"><i
+                                class="fas fa-pen-to-square me-2"></i>Edit</a>
+                    </div>
+                    <div>
+                        <a href="javascript:void(0);" class="badge bg-danger mb-1" x-on:click="showSwalConfirm(`Menghapus data <b>Literasi A</b>? <br> Data yang dihapus tidak dapat <b>dipulihkan</b> kembali`, 'Ya hapus ini')"><i
+                            class="fas fa-trash-alt me-2"></i>Hapus</a>
+                    </div>
+                </div>
+            </td>
+
+        </tr>
+        <tr class="align-td-middle">
+            <td>2.</td>
+            <td>Modul literasi B</td>
+            <td>
+                <a href="{% static 'assets/home/sample/book.pdf' %}" class="badge bg-primary">
+                    <i class="fas fa-download me-2"></i>
+                    Unduh dokumen
+                </a>
+            </td>
+            <td class="text-center">Video</td>
+            <td>
+                <a href="javascript:void(0)" class="badge bg-primary">
+                    <i class="fas fa-archive me-2"></i>
+                    ARCHIVED
+                </a>
+            </td>
+            <td class="text-primary">
+                #Tutorial #Informasi #KawasanRawan
+            </td>
+
+            <td>
+                <a href="javascript:void(0)">BNNP Kalimantan Barat</a>
+            </td>
+
+            <td>10 Februari 2024</td>
+
+            <td class="__action_button">
+                <div class="list-button gx-3 text-uppercase">
+                    <div>
+                        <a href="javascript:void(0);" data-bs-toggle="modal" data-bs-target="#detailLiterasiModal"
+                            class="badge bg-primary text-white text-decoration-none mb-1"><i
+                                class="fas fa-eye me-2"></i>Lihat</a>
+                    </div>
+                    <div>
+                        <a href="javascript:void(0);" data-bs-toggle="modal" data-bs-target="#editLiterasiModal"
+                            class="badge bg-success text-white text-decoration-none mb-1"><i
+                                class="fas fa-pen-to-square me-2"></i>Edit</a>
+                    </div>
+                    <div>
+                        <a href="javascript:void(0);" class="badge bg-danger text-white text-decoration-none mb-1" onclick="deleteDataLiterasi(1)"><i
+                                class="fas fa-trash-alt me-2"></i>Hapus</a>
+                    </div>
+                </div>
+            </td>
+
+        </tr>
+    </tbody>
+</table>

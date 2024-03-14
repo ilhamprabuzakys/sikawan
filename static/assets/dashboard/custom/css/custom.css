@@ -1,0 +1,241 @@
+/* ===========================
+   CUSTOM DASHBOARD SETTINGS
+============================== */
+
+/* ==========================
+ * SCROLL BAR
+============================= */
+::-webkit-scrollbar {
+    width: 15px;
+}
+
+::-webkit-scrollbar-thumb {
+    height: 6px;
+    border: 4px solid rgba(0, 0, 0, 0);
+    background-clip: padding-box;
+    -webkit-border-radius: 7px;
+    background-color: #a9a9a9;
+}
+
+#search-clear {
+    cursor: pointer;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+/* ==========================
+ * UTILITY
+============================= */
+.action-disabled {
+    cursor: not-allowed;
+    /* pointer-events: none; */
+}
+
+.pointer-none {
+    pointer-events: none;
+}
+
+.text-capitilize {
+    text-transform: capitalize;
+}
+
+.ms-0-15r {
+    margin-left: 0.15rem;
+}
+
+/* ==========================
+ * TABLE
+============================= */
+/* Table header align */
+table thead th {
+    vertical-align: middle !important;
+}
+
+/* Table body align */
+table tbody tr td {
+    vertical-align: top;
+}
+
+table tbody tr td:first-child {
+    text-align: center;
+}
+
+table tbody tr td[scope="row"] {
+    text-align: center;
+}
+
+table tbody tr.align-td-middle td {
+    vertical-align: middle;
+}
+
+table tbody.align-tr-middle tr td {
+    vertical-align: middle;
+}
+
+table ul li span.label {
+    width: 150px;
+    display: inline-block;
+}
+
+table ul li span.value {
+    padding-left: 10px;
+    font-weight: bold;
+}
+
+/* --------------------------
+ * TOPBAR ROLE INFORMATION
+----------------------------- */
+#btn-role {
+    text-transform: uppercase !important;
+}
+
+/* --------------------------
+ * ACCOUNT SETTINGS
+----------------------------- */
+ul.nav-pills .nav-item .nav-link.active {
+    background-color: #3BAC73;
+}
+
+/* ==========================
+ * SELECT 2
+============================= */
+.select2-container {
+    width: auto !important;
+    display: block;
+}
+
+/* ==!! OVERRIDING DEFAULT THEME !!== */
+/* ==========================
+ * SIDEBAR
+============================= */
+aside#layout-menu.bg-menu-theme .menu-header {
+    color: #fff;
+}
+
+aside#layout-menu.bg-menu-theme .menu-link,
+aside#layout-menu.bg-menu-theme .menu-horizontal-prev,
+aside#layout-menu.bg-menu-theme .menu-horizontal-next {
+    color: #fff;
+}
+
+aside#layout-menu.bg-menu-theme
+    .menu-item.open:not(.menu-item-closing)
+    > .menu-toggle,
+.bg-menu-theme .menu-item.active > .menu-link {
+    color: #ffffff;
+}
+
+aside#layout-menu.bg-menu-theme
+    .menu-inner
+    .menu-sub
+    .menu-item:not(.active)
+    > .menu-link::before {
+    color: #fff !important;
+}
+
+aside#layout-menu ul.menu-inner.menu-inner-logout {
+    height: 100px;
+}
+
+aside#layout-menu ul.menu-inner.menu-inner-logout li.menu-item.logout-item {
+    margin-top: 20px;
+    position: fixed;
+    bottom: 0;
+}
+
+section table.table {
+    border-left: 2px solid #eee;
+    border-right: 2px solid #eee;
+}
+
+/**=== SIDEBAR BRAND (LOGO BNN) ===**/
+.app-brand-link img {
+    width: 50px;
+    object-fit: contain;
+    position: absolute;
+    left: 20px;
+}
+
+.app-brand-text.demo {
+    padding-left: 50px !important;
+}
+
+/* ==========================
+ * MODAL
+============================= */
+.modal.modal-literasi .modal-body {
+    padding: 0;
+}
+
+.modal.modal-literasi .modal-body .container-fluid {
+    padding: 5px;
+}
+
+/* ==========================
+ * BUTTON
+============================= */
+button.btn-light {
+    background-color: #f9f9f9 !important;
+}
+
+button.btn-light:hover,
+button.btn-light:active,
+button.btn-light:focus  {
+    background-color: #f6f6f6 !important;
+}
+
+/**=== VUE JS STYLING ===**/
+[v-cloak], [x-cloak] {
+    display: none;
+}
+
+.v-enter-active,
+.v-leave-active {
+    transition: opacity 0.5s ease;
+}
+
+.v-enter-from,
+.v-leave-to {
+    opacity: 0;
+}
+
+/* ==========================
+ * BOOTSTRAP
+============================= */
+a.badge {
+    text-decoration: none;
+    color: #fff;
+}
+
+ul.dropdown-menu {
+    z-index: 99999999999;
+}
+
+/* ======= CKEDITOR ======= */
+.ck-editor__editable {
+    min-height: 200px;
+}
+
+/* ==========================
+ * RESPONSIVE BREAKPOINTS
+============================= */
+@media (max-width: 800px) {
+    a#btn-role {
+        font-size: 1.3rem;
+    }
+    ul li.user-info-dropdown a .row .col:nth-child(2),
+    ul li.user-info-dropdown a .row .col:nth-child(3) {
+        display: none;
+    }
+}
+
+@media (max-width: 450px) {
+    a#btn-role {
+        font-size: 0.8rem;
+        padding: 6px 15px;
+        display: none;
+    }
+}
+

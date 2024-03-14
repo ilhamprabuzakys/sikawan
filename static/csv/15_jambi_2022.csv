@@ -1,0 +1,1528 @@
+﻿1;Kota Jambi;1;Alam Barajo;1;Bagan Pete;Aman
+;Kota Jambi;;Alam Barajo;2;Beliung;Aman
+;Kota Jambi;;Alam Barajo;3;Kenali Besar;Aman
+;Kota Jambi;;Alam Barajo;4;Mayang Mangurai;Aman
+;Kota Jambi;;Alam Barajo;5;Rawa Sari;Aman
+;Kota Jambi;2;Danau Sipin;1;Legok;Waspada
+;Kota Jambi;;Danau Sipin;2;Murni;Aman
+;Kota Jambi;;Danau Sipin;3;Selamat;Aman
+;Kota Jambi;;Danau Sipin;4;Solok Sipin;Aman
+;Kota Jambi;;Danau Sipin;5;Sungai Putri;Aman
+;Kota Jambi;3;Danau Teluk;1;Olak Kemang;Aman
+;Kota Jambi;;Danau Teluk;2;Pasir Panjang;Aman
+;Kota Jambi;;Danau Teluk;3;Tanjung Pasir;Aman
+;Kota Jambi;;Danau Teluk;4;Tanjung Raden;Aman
+;Kota Jambi;;Danau Teluk;5;Ulu Gedong;Aman
+;Kota Jambi;4;Jambi Selatan;1;Pakuan Baru;Aman
+;Kota Jambi;;Jambi Selatan;2;Pasir Putih;Aman
+;Kota Jambi;;Jambi Selatan;3;Tambak Sari;Aman
+;Kota Jambi;;Jambi Selatan;4;The Hok;Aman
+;Kota Jambi;;Jambi Selatan;5;Wijaya Pura;Aman
+;Kota Jambi;5;Jambi Timur;1;Budiman;Aman
+;Kota Jambi;;Jambi Timur;2;Kasang;Waspada
+;Kota Jambi;;Jambi Timur;3;Kasang Jaya;Aman
+;Kota Jambi;;Jambi Timur;4;Rajawali;Aman
+;Kota Jambi;;Jambi Timur;5;Sijinjang;Aman
+;Kota Jambi;;Jambi Timur;6;Sulanjana;Aman
+;Kota Jambi;;Jambi Timur;7;Talang Banjar;Aman
+;Kota Jambi;;Jambi Timur;8;Tanjung Pinang;Aman
+;Kota Jambi;;Jambi Timur;9;Tanjung Sari;Aman
+;Kota Jambi;6;Jelutung;1;Cempaka Putih;Aman
+;Kota Jambi;;Jelutung;2;Handil Jaya;Aman
+;Kota Jambi;;Jelutung;3;Jelutung;Aman
+;Kota Jambi;;Jelutung;4;Kebun Handil;Aman
+;Kota Jambi;;Jelutung;5;Lebak Bandung;Waspada
+;Kota Jambi;;Jelutung;6;Payo Lebar;Aman
+;Kota Jambi;;Jelutung;7;Talang Jauh;Aman
+;Kota Jambi;7;Kota Baru;1;Kenali Asam Atas;Aman
+;Kota Jambi;;Kota Baru;2;Kenali Asam Bawah;Aman
+;Kota Jambi;;Kota Baru;3;Paal Lima;Aman
+;Kota Jambi;;Kota Baru;4;Simpang Tiga Sipin;Aman
+;Kota Jambi;;Kota Baru;5;Sukakarya;Aman
+;Kota Jambi;8;Paal Merah;1;Eka Jaya;Aman
+;Kota Jambi;;Paal Merah;2;Lingkar Selatan;Aman
+;Kota Jambi;;Paal Merah;3;Paal Merah;Aman
+;Kota Jambi;;Paal Merah;4;Payo Selincah;Aman
+;Kota Jambi;;Paal Merah;5;Talang Bakung;Aman
+;Kota Jambi;9;Pasar Jambi;1;Beringin;Aman
+;Kota Jambi;;Pasar Jambi;2;Orang Kayo Hitam;Aman
+;Kota Jambi;;Pasar Jambi;3;Pasar Jambi;Aman
+;Kota Jambi;;Pasar Jambi;4;Sungai Asam;Aman
+;Kota Jambi;11;Pelayangan;1;Arab Melayu;Aman
+;Kota Jambi;;Pelayangan;2;Jelmu;Aman
+;Kota Jambi;;Pelayangan;3;Mudung Laut;Aman
+;Kota Jambi;;Pelayangan;4;Tahtul Yaman;Aman
+;Kota Jambi;;Pelayangan;5;Tanjung Johor;Aman
+;Kota Jambi;;Pelayangan;6;Tengah;Aman
+;Kota Jambi;12;Telanipura;1;Buluran Kenali;Aman
+;Kota Jambi;;Telanipura;2;Pematang Sulur;Aman
+;Kota Jambi;;Telanipura;3;Penyengat Rendah;Aman
+;Kota Jambi;;Telanipura;4;Simpang Empat Sipin;Aman
+;Kota Jambi;;Telanipura;5;Telanaipura;Aman
+;Kota Jambi;;Telanipura;6;Teluk Kenali;Aman
+2;Kabupaten Muaro Jambi;1;Bahar Selatan;1;Adipura Kencana;Aman
+;Kabupaten Muaro Jambi;;Bahar Selatan;2;Bukit Jaya;Aman
+;Kabupaten Muaro Jambi;;Bahar Selatan;3;Tanjung Sari;Aman
+;Kabupaten Muaro Jambi;;Bahar Selatan;4;Tanjung Mulia;Aman
+;Kabupaten Muaro Jambi;;Bahar Selatan;5;Mekar Jaya;Aman
+;Kabupaten Muaro Jambi;;Bahar Selatan;6;Tri Jaya;Aman
+;Kabupaten Muaro Jambi;;Bahar Selatan;7;Bukit Subur;Aman
+;Kabupaten Muaro Jambi;;Bahar Selatan;8;Ujung Tanjung;Aman
+;Kabupaten Muaro Jambi;;Bahar Selatan;9;Tanjung Baru;Aman
+;Kabupaten Muaro Jambi;;Bahar Selatan;10;Tanjung Lebar;Aman
+;Kabupaten Muaro Jambi;2;Jambi Luar Kota;1;Pijoan;Aman
+;Kabupaten Muaro Jambi;;Jambi Luar Kota;2;Danau Sarang Elang;Aman
+;Kabupaten Muaro Jambi;;Jambi Luar Kota;3;Kedemangan;Aman
+;Kabupaten Muaro Jambi;;Jambi Luar Kota;4;Mendalo Darat;Aman
+;Kabupaten Muaro Jambi;;Jambi Luar Kota;5;Mendalo Indah;Aman
+;Kabupaten Muaro Jambi;;Jambi Luar Kota;6;Mendalo Laut;Aman
+;Kabupaten Muaro Jambi;;Jambi Luar Kota;7;Muhajirin;Aman
+;Kabupaten Muaro Jambi;;Jambi Luar Kota;8;Pematang Gajah;Aman
+;Kabupaten Muaro Jambi;;Jambi Luar Kota;9;Pematang Jering;Aman
+;Kabupaten Muaro Jambi;;Jambi Luar Kota;10;Penyengat Olak;Aman
+;Kabupaten Muaro Jambi;;Jambi Luar Kota;11;Muaro Pijoan;Aman
+;Kabupaten Muaro Jambi;;Jambi Luar Kota;12;Rengas Bandung;Aman
+;Kabupaten Muaro Jambi;;Jambi Luar Kota;13;Sarang Burung;Aman
+;Kabupaten Muaro Jambi;;Jambi Luar Kota;14;Sembubuk;Aman
+;Kabupaten Muaro Jambi;;Jambi Luar Kota;15;Senaung;Aman
+;Kabupaten Muaro Jambi;;Jambi Luar Kota;16;Simp. Limo;Aman
+;Kabupaten Muaro Jambi;;Jambi Luar Kota;17;Simp. Sungai Duren;Aman
+;Kabupaten Muaro Jambi;;Jambi Luar Kota;18;Sungai Bertam;Aman
+;Kabupaten Muaro Jambi;;Jambi Luar Kota;19;Sungai Duren;Aman
+;Kabupaten Muaro Jambi;;Jambi Luar Kota;20;Maro Sebo;Aman
+;Kabupaten Muaro Jambi;;Jambi Luar Kota;21;Danau Kedap Jambi Kecil;Siaga
+;Kabupaten Muaro Jambi;3;Kumpeh;1;Tanjung;Aman
+;Kabupaten Muaro Jambi;;Kumpeh;2;Betung;Aman
+;Kabupaten Muaro Jambi;;Kumpeh;3;Gedong Karya;Aman
+;Kabupaten Muaro Jambi;;Kumpeh;4;Jebus;Aman
+;Kabupaten Muaro Jambi;;Kumpeh;5;Londerang;Aman
+;Kabupaten Muaro Jambi;;Kumpeh;6;Maju Jaya;Aman
+;Kabupaten Muaro Jambi;;Kumpeh;7;Mekar Sari;Aman
+;Kabupaten Muaro Jambi;;Kumpeh;8;Pematang Raman;Aman
+;Kabupaten Muaro Jambi;;Kumpeh;9;Petanang;Aman
+;Kabupaten Muaro Jambi;;Kumpeh;10;Puding;Aman
+;Kabupaten Muaro Jambi;;Kumpeh;11;Pulau Mentaro;Aman
+;Kabupaten Muaro Jambi;;Kumpeh;12;Rantau Panjang;Aman
+;Kabupaten Muaro Jambi;;Kumpeh;13;Rondang;Aman
+;Kabupaten Muaro Jambi;;Kumpeh;14;Seponjen;Aman
+;Kabupaten Muaro Jambi;;Kumpeh;15;Sogo;Aman
+;Kabupaten Muaro Jambi;;Kumpeh;16;Sungai Aur;Aman
+;Kabupaten Muaro Jambi;;Kumpeh;17;Sungai Bugur;Aman
+;Kabupaten Muaro Jambi;4;Kumpuh Ulu;1;Arang Arang;Siaga
+;Kabupaten Muaro Jambi;;Kumpuh Ulu;2;Kasang Kota Karang;Aman
+;Kabupaten Muaro Jambi;;Kumpuh Ulu;3;Kasang Kumpeh;Aman
+;Kabupaten Muaro Jambi;;Kumpuh Ulu;4;Kasang Lopak Alai;Aman
+;Kabupaten Muaro Jambi;;Kumpuh Ulu;5;Kasang Pudak;Aman
+;Kabupaten Muaro Jambi;;Kumpuh Ulu;6;Kota Karang;Aman
+;Kabupaten Muaro Jambi;;Kumpuh Ulu;7;Lopak Alai;Aman
+;Kabupaten Muaro Jambi;;Kumpuh Ulu;8;Muara Kumpeh;Aman
+;Kabupaten Muaro Jambi;;Kumpuh Ulu;9;Pemunduran;Aman
+;Kabupaten Muaro Jambi;;Kumpuh Ulu;10;Pudak;Aman
+;Kabupaten Muaro Jambi;;Kumpuh Ulu;11;Ramin;Aman
+;Kabupaten Muaro Jambi;;Kumpuh Ulu;12;Sakean;Aman
+;Kabupaten Muaro Jambi;;Kumpuh Ulu;13;Sipin Teluk Duren;Aman
+;Kabupaten Muaro Jambi;;Kumpuh Ulu;14;Solok;Aman
+;Kabupaten Muaro Jambi;;Kumpuh Ulu;15;Sumber Jaya;Aman
+;Kabupaten Muaro Jambi;;Kumpuh Ulu;16;Sungai Terap;Aman
+;Kabupaten Muaro Jambi;;Kumpuh Ulu;17;Tarikan;Aman
+;Kabupaten Muaro Jambi;;Kumpuh Ulu;18;Teluk Raya;Aman
+;Kabupaten Muaro Jambi;5;Maro Sebo;1;Jambi Kecil;Aman
+;Kabupaten Muaro Jambi;;Maro Sebo;2;Bakung;Aman
+;Kabupaten Muaro Jambi;;Maro Sebo;3;Danau Kedap;Aman
+;Kabupaten Muaro Jambi;;Maro Sebo;4;Danau Lamo;Aman
+;Kabupaten Muaro Jambi;;Maro Sebo;5;Jambi Tulo;Aman
+;Kabupaten Muaro Jambi;;Maro Sebo;6;Lubuk Raman;Aman
+;Kabupaten Muaro Jambi;;Maro Sebo;7;Muaro Jambi;Aman
+;Kabupaten Muaro Jambi;;Maro Sebo;8;Mudung Darat;Aman
+;Kabupaten Muaro Jambi;;Maro Sebo;9;Niaso;Aman
+;Kabupaten Muaro Jambi;;Maro Sebo;10;Setiris;Aman
+;Kabupaten Muaro Jambi;;Maro Sebo;11;Tanjung Katung;Aman
+;Kabupaten Muaro Jambi;;Maro Sebo;12;Baru;Aman
+;Kabupaten Muaro Jambi;6;Mestong;1;Tempino;Aman
+;Kabupaten Muaro Jambi;;Mestong;2;Baru;Aman
+;Kabupaten Muaro Jambi;;Mestong;3;Ibru;Aman
+;Kabupaten Muaro Jambi;;Mestong;4;Muaro Sebapo;Aman
+;Kabupaten Muaro Jambi;;Mestong;5;Nagasari;Aman
+;Kabupaten Muaro Jambi;;Mestong;6;Nyogan;Aman
+;Kabupaten Muaro Jambi;;Mestong;7;Pondok Meja;Aman
+;Kabupaten Muaro Jambi;;Mestong;8;Sebapo;Aman
+;Kabupaten Muaro Jambi;;Mestong;9;Suka Damai;Aman
+;Kabupaten Muaro Jambi;;Mestong;10;Suka Maju;Aman
+;Kabupaten Muaro Jambi;;Mestong;11;Sungai Landai;Aman
+;Kabupaten Muaro Jambi;;Mestong;12;Tanjung Pauh KM.32;Aman
+;Kabupaten Muaro Jambi;;Mestong;13;Tanjung Pauh KM.39;Aman
+;Kabupaten Muaro Jambi;;Mestong;14;Tanjung Pauh Talang Pelita;Aman
+;Kabupaten Muaro Jambi;;Mestong;15;Pelempang;Aman
+;Kabupaten Muaro Jambi;7;Sekernan;1;Sengeti;Aman
+;Kabupaten Muaro Jambi;;Sekernan;2;Bukit Baling;Aman
+;Kabupaten Muaro Jambi;;Sekernan;3;Gerunggung;Aman
+;Kabupaten Muaro Jambi;;Sekernan;4;Kedotan;Aman
+;Kabupaten Muaro Jambi;;Sekernan;5;Keranggan;Aman
+;Kabupaten Muaro Jambi;;Sekernan;6;Pematang Pulai;Aman
+;Kabupaten Muaro Jambi;;Sekernan;7;Pulau Kayu Aro;Waspada
+;Kabupaten Muaro Jambi;;Sekernan;8;Rantau Majo;Aman
+;Kabupaten Muaro Jambi;;Sekernan;9;Sekernan;Aman
+;Kabupaten Muaro Jambi;;Sekernan;10;Suak Putat;Aman
+;Kabupaten Muaro Jambi;;Sekernan;11;Suko Awin Jaya;Aman
+;Kabupaten Muaro Jambi;;Sekernan;12;Tanjung Lanjut;Aman
+;Kabupaten Muaro Jambi;;Sekernan;13;Tantan;Aman
+;Kabupaten Muaro Jambi;;Sekernan;14;Tunas Baru;Aman
+;Kabupaten Muaro Jambi;;Sekernan;15;Tunas Mudo;Aman
+;Kabupaten Muaro Jambi;;Sekernan;16;Berembang;Aman
+;Kabupaten Muaro Jambi;8;Sungai Bahar;1;Bakti Mulya;Aman
+;Kabupaten Muaro Jambi;;Sungai Bahar;2;Berkah;Aman
+;Kabupaten Muaro Jambi;;Sungai Bahar;3;Bukit Makmur;Aman
+;Kabupaten Muaro Jambi;;Sungai Bahar;4;Bukit Mas;Aman
+;Kabupaten Muaro Jambi;;Sungai Bahar;5;Marga Manunggal Jaya;Aman
+;Kabupaten Muaro Jambi;;Sungai Bahar;6;Mulya;Aman
+;Kabupaten Muaro Jambi;;Sungai Bahar;7;Mekar Sari Makmur;Aman
+;Kabupaten Muaro Jambi;;Sungai Bahar;8;Panca Bakti;Aman
+;Kabupaten Muaro Jambi;;Sungai Bahar;9;Panca Mulya;Aman
+;Kabupaten Muaro Jambi;;Sungai Bahar;10;Suka Makmur;Aman
+;Kabupaten Muaro Jambi;;Sungai Bahar;11;Tanjung Harapan;Aman
+;Kabupaten Muaro Jambi;9;Sungai Gelam;1;Gambut Jaya;Aman
+;Kabupaten Muaro Jambi;;Sungai Gelam;2;Kebon IX;Aman
+;Kabupaten Muaro Jambi;;Sungai Gelam;3;Ladang Panjang;Aman
+;Kabupaten Muaro Jambi;;Sungai Gelam;4;Mekar Jaya;Aman
+;Kabupaten Muaro Jambi;;Sungai Gelam;5;Mingkung Jaya;Aman
+;Kabupaten Muaro Jambi;;Sungai Gelam;6;Parit;Aman
+;Kabupaten Muaro Jambi;;Sungai Gelam;7;Petaling Jaya;Aman
+;Kabupaten Muaro Jambi;;Sungai Gelam;8;Sido Mukti;Aman
+;Kabupaten Muaro Jambi;;Sungai Gelam;9;Sumber Agung;Aman
+;Kabupaten Muaro Jambi;;Sungai Gelam;10;Sungai Gelam;Aman
+;Kabupaten Muaro Jambi;;Sungai Gelam;11;Talang Belindo;Aman
+;Kabupaten Muaro Jambi;;Sungai Gelam;12;Talang Kerinci;Aman
+;Kabupaten Muaro Jambi;;Sungai Gelam;13;Tangkit;Aman
+;Kabupaten Muaro Jambi;;Sungai Gelam;14;Tangkit Baru;Aman
+;Kabupaten Muaro Jambi;;Sungai Gelam;15;Trimulya Jaya;Aman
+;Kabupaten Muaro Jambi;10;Taman Rajo;1;Dusun Mudo;Aman
+;Kabupaten Muaro Jambi;;Taman Rajo;2;Kemingking Dalam;Aman
+;Kabupaten Muaro Jambi;;Taman Rajo;3;Kemingking Luar;Aman
+;Kabupaten Muaro Jambi;;Taman Rajo;4;Kunangan;Aman
+;Kabupaten Muaro Jambi;;Taman Rajo;5;Manis Mato;Aman
+;Kabupaten Muaro Jambi;;Taman Rajo;6;Rukam;Aman
+;Kabupaten Muaro Jambi;;Taman Rajo;7;Sekumbang;Aman
+;Kabupaten Muaro Jambi;;Taman Rajo;8;Talang Duku;Aman
+;Kabupaten Muaro Jambi;;Taman Rajo;9;Tebat Patah;Aman
+;Kabupaten Muaro Jambi;;Taman Rajo;10;Teluk Jambu;Aman
+;Kabupaten Muaro Jambi;11;Bahar Utara;1;Bahar Mulya;Aman
+;Kabupaten Muaro Jambi;;Bahar Utara;2;Bukit Mulya;Aman
+;Kabupaten Muaro Jambi;;Bahar Utara;3;Markanding;Aman
+;Kabupaten Muaro Jambi;;Bahar Utara;4;Matra Manunggal;Aman
+;Kabupaten Muaro Jambi;;Bahar Utara;5;Mulya Jaya;Aman
+;Kabupaten Muaro Jambi;;Bahar Utara;6;Pinang Tinggi;Aman
+;Kabupaten Muaro Jambi;;Bahar Utara;7;Sumber Jaya;Aman
+;Kabupaten Muaro Jambi;;Bahar Utara;8;Sumber Mulya;Aman
+;Kabupaten Muaro Jambi;;Bahar Utara;9;Sungai Dayo;Aman
+;Kabupaten Muaro Jambi;;Bahar Utara;10;Talang Bukit;Aman
+;Kabupaten Muaro Jambi;;Bahar Utara;11;Talang Datar;Aman
+3;Kabupaten Batanghari;1;Bajubang;1;Bajubang;Aman
+;Kabupaten Batanghari;;Bajubang;2;Batin;Aman
+;Kabupaten Batanghari;;Bajubang;3;Bungku;Siaga
+;Kabupaten Batanghari;;Bajubang;4;Ladang Peris;Aman
+;Kabupaten Batanghari;;Bajubang;5;Mekar Jaya;Aman
+;Kabupaten Batanghari;;Bajubang;6;Mekar Sari Nes;Aman
+;Kabupaten Batanghari;;Bajubang;7;Penerokan;Aman
+;Kabupaten Batanghari;;Bajubang;8;Petajen;Aman
+;Kabupaten Batanghari;;Bajubang;9;Pompa Air;Aman
+;Kabupaten Batanghari;;Bajubang;10;Sungkai;Aman
+;Kabupaten Batanghari;2;Batin XXIV;1;Aur Gading;Aman
+;Kabupaten Batanghari;;Batin XXIV;2;Bulian Baru;Aman
+;Kabupaten Batanghari;;Batin XXIV;3;Durian Luncuk;Aman
+;Kabupaten Batanghari;;Batin XXIV;4;Hajran;Aman
+;Kabupaten Batanghari;;Batin XXIV;5;Muara Jangga;Aman
+;Kabupaten Batanghari;;Batin XXIV;6;Jangga Baru;Aman
+;Kabupaten Batanghari;;Batin XXIV;7;Jelutih;Aman
+;Kabupaten Batanghari;;Batin XXIV;8;KarmeoAman
+;Kabupaten Batanghari;;Batin XXIV;9;Koto Boyo;Aman
+;Kabupaten Batanghari;;Batin XXIV;10;Mata Gual;Aman
+;Kabupaten Batanghari;;Batin XXIV;11;Jangga;Aman
+;Kabupaten Batanghari;;Batin XXIV;12;Olak Besar;Aman
+;Kabupaten Batanghari;;Batin XXIV;13;Paku Aji;Aman
+;Kabupaten Batanghari;;Batin XXIV;14;Simp.Aur Gading;Aman
+;Kabupaten Batanghari;;Batin XXIV;15;Simp.Jelutih;Aman
+;Kabupaten Batanghari;;Batin XXIV;16;Simp.Karmeo;Aman
+;Kabupaten Batanghari;;Batin XXIV;17;Terentang Baru;Aman
+;Kabupaten Batanghari;3;Mersam;1;Belanti Jaya;Aman
+;Kabupaten Batanghari;;Mersam;2;Benteng Rendah;Aman
+;Kabupaten Batanghari;;Mersam;3;Bukit Harapan;Aman
+;Kabupaten Batanghari;;Mersam;4;Bukit Kemuning;Aman
+;Kabupaten Batanghari;;Mersam;5;Kembang Paseban;Siaga
+;Kabupaten Batanghari;;Mersam;6;Belanti Jaya;Aman
+;Kabupaten Batanghari;;Mersam;7;Mersam;Aman
+;Kabupaten Batanghari;;Mersam;8;Pematang Gadung;Aman
+;Kabupaten Batanghari;;Mersam;9;Rantau Gedang;Aman
+;Kabupaten Batanghari;;Mersam;10;Sengkati Baru;Aman
+;Kabupaten Batanghari;;Mersam;11;Sengkati Gedang;Aman
+;Kabupaten Batanghari;;Mersam;12;Sengkati Kecil;Aman
+;Kabupaten Batanghari;;Mersam;13;Sengkati Mudo;Aman
+;Kabupaten Batanghari;;Mersam;14;Simp.Rantau Gedang;Aman
+;Kabupaten Batanghari;;Mersam;15;Sungai Puar;Aman
+;Kabupaten Batanghari;;Mersam;16;Tanjung Putra;Aman
+;Kabupaten Batanghari;;Mersam;17;Tapah Sari;Aman
+;Kabupaten Batanghari;;Mersam;18;Teluk Melintang;Aman
+;Kabupaten Batanghari;4;Maro Sebo Ilir;1;Bukit Sari;Aman
+;Kabupaten Batanghari;;Maro Sebo Ilir;2;Bulian Jaya;Aman
+;Kabupaten Batanghari;;Maro Sebo Ilir;3;Danau Embat;Aman
+;Kabupaten Batanghari;;Maro Sebo Ilir;4;Karya Mukti;Aman
+;Kabupaten Batanghari;;Maro Sebo Ilir;5;Kehidupan Baru;Aman
+;Kabupaten Batanghari;;Maro Sebo Ilir;6;Terusan;Aman
+;Kabupaten Batanghari;;Maro Sebo Ilir;7;Terusan;Aman
+;Kabupaten Batanghari;;Maro Sebo Ilir;8;Tidar Kuranji;Aman
+;Kabupaten Batanghari;5;Maro Sebo Ulu;1;Batu Sawar;Aman
+;Kabupaten Batanghari;;Maro Sebo Ulu;2;Buluh Kasab;Aman
+;Kabupaten Batanghari;;Maro Sebo Ulu;3;Kampung Baru;Aman
+;Kabupaten Batanghari;;Maro Sebo Ulu;4;Kembang Seri;Aman
+;Kabupaten Batanghari;;Maro Sebo Ulu;5;Kembang Seri Baru;Aman
+;Kabupaten Batanghari;;Maro Sebo Ulu;6;Mekar Sari;Aman
+;Kabupaten Batanghari;;Maro Sebo Ulu;7;Olak Kemang;Aman
+;Kabupaten Batanghari;;Maro Sebo Ulu;8;Padang po;Aman
+;Kabupaten Batanghari;;Maro Sebo Ulu;9;Peninjauan;Aman
+;Kabupaten Batanghari;;Maro Sebo Ulu;10;Rawa Mekar;Aman
+;Kabupaten Batanghari;;Maro Sebo Ulu;11;Rengas IX;Aman
+;Kabupaten Batanghari;;Maro Sebo Ulu;12;Simp.Sungai Rengas;Waspada
+;Kabupaten Batanghari;;Maro Sebo Ulu;13;Sungai Lingkar;Aman
+;Kabupaten Batanghari;;Maro Sebo Ulu;14;Sungai Ruan Ilir;Aman
+;Kabupaten Batanghari;;Maro Sebo Ulu;15;Sungai Ruan Ulu;Aman
+;Kabupaten Batanghari;;Maro Sebo Ulu;16;Tebing Tinggi;Aman
+;Kabupaten Batanghari;;Maro Sebo Ulu;17;Teluk Leban;Aman
+;Kabupaten Batanghari;6;Muara Tembesi;1;Ampelu;Aman
+;Kabupaten Batanghari;;Muara Tembesi;2;Ampelu Mudo;Aman
+;Kabupaten Batanghari;;Muara Tembesi;3;Jebak;Aman
+;Kabupaten Batanghari;;Muara Tembesi;4;Kampung Baru;Siaga
+;Kabupaten Batanghari;;Muara Tembesi;5;Pasar Muara Tembesi;Aman
+;Kabupaten Batanghari;;Muara Tembesi;6;Pelayangan;Aman
+;Kabupaten Batanghari;;Muara Tembesi;7;Pematang Lima Suku;Aman
+;Kabupaten Batanghari;;Muara Tembesi;8;Pulau;Aman
+;Kabupaten Batanghari;;Muara Tembesi;9;Rambutan Masam;Aman
+;Kabupaten Batanghari;;Muara Tembesi;10;Rantau Kapas Mudo;Aman
+;Kabupaten Batanghari;;Muara Tembesi;11;Rantau Kapas Tuo;Aman
+;Kabupaten Batanghari;;Muara Tembesi;12;Sukaramai;Aman
+;Kabupaten Batanghari;;Muara Tembesi;13;Sungai Pulai;Aman
+;Kabupaten Batanghari;;Muara Tembesi;14;Tanjung Marwo;Aman
+;Kabupaten Batanghari;7;Muara Bulian;1;Muara Bulian;Aman
+;Kabupaten Batanghari;;Muara Bulian;2;Rengas Condong;Aman
+;Kabupaten Batanghari;;Muara Bulian;3;Pasar Baru;Aman
+;Kabupaten Batanghari;;Muara Bulian;4;Sridadi;Aman
+;Kabupaten Batanghari;;Muara Bulian;5;Teratai;Aman
+;Kabupaten Batanghari;;Muara Bulian;6;Pasar Terusan;Aman
+;Kabupaten Batanghari;;Muara Bulian;7;Simp. Terusan;Aman
+;Kabupaten Batanghari;;Muara Bulian;8;Tenam;Aman
+;Kabupaten Batanghari;;Muara Bulian;9;Malapari;Aman
+;Kabupaten Batanghari;;Muara Bulian;10;Napal Sisik;Aman
+;Kabupaten Batanghari;;Muara Bulian;11;Pelayangan;Aman
+;Kabupaten Batanghari;;Muara Bulian;12;Rambahan;Aman
+;Kabupaten Batanghari;;Muara Bulian;13;Olak;Aman
+;Kabupaten Batanghari;;Muara Bulian;14;Muaro Singoan;Aman
+;Kabupaten Batanghari;;Muara Bulian;15;Aro;Aman
+;Kabupaten Batanghari;;Muara Bulian;16;Sungai Baung;Aman
+;Kabupaten Batanghari;;Muara Bulian;17;Bajubang Laut;Aman
+;Kabupaten Batanghari;;Muara Bulian;18;Sungai Buluh;Aman
+;Kabupaten Batanghari;;Muara Bulian;19;Rantau Puri;Aman
+;Kabupaten Batanghari;;Muara Bulian;20;Kilangan;Aman
+;Kabupaten Batanghari;;Muara Bulian;21;Singkawang;Aman
+;Kabupaten Batanghari;8;Pemayung;1;Awin;Aman
+;Kabupaten Batanghari;;Pemayung;2;Jembatan Mas;Aman
+;Kabupaten Batanghari;;Pemayung;3;Kampung Pulau;Aman
+;Kabupaten Batanghari;;Pemayung;4;Kaos;Aman
+;Kabupaten Batanghari;;Pemayung;5;Kuap;Aman
+;Kabupaten Batanghari;;Pemayung;6;Kubu Kandang;Aman
+;Kabupaten Batanghari;;Pemayung;7;Lopak Aur;Aman
+;Kabupaten Batanghari;;Pemayung;8;Lubuk Ruso;Aman
+;Kabupaten Batanghari;;Pemayung;9;Olak Rambahan;Aman
+;Kabupaten Batanghari;;Pemayung;10;Pulau Betung;Aman
+;Kabupaten Batanghari;;Pemayung;12;Selat;Aman
+;Kabupaten Batanghari;;Pemayung;13;Senaning;Aman
+;Kabupaten Batanghari;;Pemayung;14;Serasah;Aman
+;Kabupaten Batanghari;;Pemayung;15;Simp.Kubu Kandang;Aman
+;Kabupaten Batanghari;;Pemayung;16;Tebing Tinggi;Aman
+;Kabupaten Batanghari;;Pemayung;17;Teluk;Aman
+;Kabupaten Batanghari;;Pemayung;18;Teluk Ketapang;Aman
+;Kabupaten Batanghari;;Pemayung;20;Ture;Aman
+4;Kabupaten Tanjung Jabung Timur;1;Berbak;1;Rantau Makmur;Aman
+;Kabupaten Tanjung Jabung Timur;;Berbak;2;Rantau Rasau;Aman
+;Kabupaten Tanjung Jabung Timur;;Berbak;3;Rawa Sari;Aman
+;Kabupaten Tanjung Jabung Timur;;Berbak;4;Simpang;Aman
+;Kabupaten Tanjung Jabung Timur;;Berbak;5;Sungai Rambut;Aman
+;Kabupaten Tanjung Jabung Timur;;Berbak;6;Telaga Limo;Aman
+;Kabupaten Tanjung Jabung Timur;2;Dendang;1;Catur Rahayu;Aman
+;Kabupaten Tanjung Jabung Timur;;Dendang;2;Jati Mulyo;Aman
+;Kabupaten Tanjung Jabung Timur;;Dendang;3;Koto Kandis;Aman
+;Kabupaten Tanjung Jabung Timur;;Dendang;4;Koto Kandis Dendang;Aman
+;Kabupaten Tanjung Jabung Timur;;Dendang;5;Kuala Dendang;Aman
+;Kabupaten Tanjung Jabung Timur;;Dendang;6;Rantau Indah;Aman
+;Kabupaten Tanjung Jabung Timur;;Dendang;7;Sido Mukti;Aman
+;Kabupaten Tanjung Jabung Timur;3;Geragai;1;Kota Baru;Aman
+;Kabupaten Tanjung Jabung Timur;;Geragai;2;Lagan Tengah;Aman
+;Kabupaten Tanjung Jabung Timur;;Geragai;3;Lagan Ulu;Aman
+;Kabupaten Tanjung Jabung Timur;;Geragai;4;Pandan Jaya;Aman
+;Kabupaten Tanjung Jabung Timur;;Geragai;5;Pandan Lagan;Aman
+;Kabupaten Tanjung Jabung Timur;;Geragai;6;Pandan Makmur;Aman
+;Kabupaten Tanjung Jabung Timur;;Geragai;7;Pandan Sejahtera;Aman
+;Kabupaten Tanjung Jabung Timur;;Geragai;8;Rantau Karya;Aman
+;Kabupaten Tanjung Jabung Timur;;Geragai;9;Suka Maju;Aman
+;Kabupaten Tanjung Jabung Timur;4;Kuala Jambi;1;Kampung Laut;Waspada
+;Kabupaten Tanjung Jabung Timur;;Kuala Jambi;2;Kuala Lagan;Aman
+;Kabupaten Tanjung Jabung Timur;;Kuala Jambi;3;Majelis Hidayah;Aman
+;Kabupaten Tanjung Jabung Timur;;Kuala Jambi;4;Manunggal Makmur;Aman
+;Kabupaten Tanjung Jabung Timur;;Kuala Jambi;5;Tanjung Solok;Aman
+;Kabupaten Tanjung Jabung Timur;;Kuala Jambi;6;Teluk Majelis;Aman
+;Kabupaten Tanjung Jabung Timur;5;Mendahara;1;Mendahara Ilir;Aman
+;Kabupaten Tanjung Jabung Timur;;Mendahara;2;Bakti Idaman;Aman
+;Kabupaten Tanjung Jabung Timur;;Mendahara;3;Lagan Ilir;Aman
+;Kabupaten Tanjung Jabung Timur;;Mendahara;4;Mendahara Tengah;Aman
+;Kabupaten Tanjung Jabung Timur;;Mendahara;5;Merbau;Aman
+;Kabupaten Tanjung Jabung Timur;;Mendahara;6;Pangkal Duri Ilir;Aman
+;Kabupaten Tanjung Jabung Timur;;Mendahara;7;Pangkal Duri;Aman
+;Kabupaten Tanjung Jabung Timur;;Mendahara;8;Sinar Kalimantan;Aman
+;Kabupaten Tanjung Jabung Timur;;Mendahara;9;Sungai Tawar;Aman
+;Kabupaten Tanjung Jabung Timur;6;Mendahara Ulu;1;Simpang Tuan;Aman
+;Kabupaten Tanjung Jabung Timur;;Mendahara Ulu;2;Bukit Tempurung;Aman
+;Kabupaten Tanjung Jabung Timur;;Mendahara Ulu;3;Mencolok;Aman
+;Kabupaten Tanjung Jabung Timur;;Mendahara Ulu;4;Pematang Rahim;Aman
+;Kabupaten Tanjung Jabung Timur;;Mendahara Ulu;5;Sungai Toman;Aman
+;Kabupaten Tanjung Jabung Timur;;Mendahara Ulu;6;Sinar Wajo;Aman
+;Kabupaten Tanjung Jabung Timur;;Mendahara Ulu;7;Sungai Beras;Aman
+;Kabupaten Tanjung Jabung Timur;7;Muara Sabak Barat;1;Kampung Singkep;Aman
+;Kabupaten Tanjung Jabung Timur;;Muara Sabak Barat;2;Nibung Putih;Aman
+;Kabupaten Tanjung Jabung Timur;;Muara Sabak Barat;3;Parit Culum I;Aman
+;Kabupaten Tanjung Jabung Timur;;Muara Sabak Barat;4;Parit Culum II;Aman
+;Kabupaten Tanjung Jabung Timur;;Muara Sabak Barat;5;Rano;Aman
+;Kabupaten Tanjung Jabung Timur;;Muara Sabak Barat;6;Talang Babat;Aman
+;Kabupaten Tanjung Jabung Timur;;Muara Sabak Barat;7;Teluk Dawan;Aman
+;Kabupaten Tanjung Jabung Timur;8;Muara Sabak Timur;1;Alang-Alang;Aman
+;Kabupaten Tanjung Jabung Timur;;Muara Sabak Timur;2;Kota Harapan;Aman
+;Kabupaten Tanjung Jabung Timur;;Muara Sabak Timur;3;Kota Raja;Aman
+;Kabupaten Tanjung Jabung Timur;;Muara Sabak Timur;4;Kuala Simbur;Aman
+;Kabupaten Tanjung Jabung Timur;;Muara Sabak Timur;5;Lambur;Aman
+;Kabupaten Tanjung Jabung Timur;;Muara Sabak Timur;6;Lambur I;Aman
+;Kabupaten Tanjung Jabung Timur;;Muara Sabak Timur;7;Lambur II;Aman
+;Kabupaten Tanjung Jabung Timur;;Muara Sabak Timur;8;Muara Sabak Ilir;Aman
+;Kabupaten Tanjung Jabung Timur;;Muara Sabak Timur;9;Muara Sabak Ulu;Aman
+;Kabupaten Tanjung Jabung Timur;;Muara Sabak Timur;10;Siau Dalam;Aman
+;Kabupaten Tanjung Jabung Timur;;Muara Sabak Timur;11;Simbur Naik;Aman
+;Kabupaten Tanjung Jabung Timur;;Muara Sabak Timur;12;Sungai Ular;Aman
+;Kabupaten Tanjung Jabung Timur;9;Nipah Panjang;1;Nipah Panjang I;Waspada
+;Kabupaten Tanjung Jabung Timur;;Nipah Panjang;2;Nipah Panjang II;Aman
+;Kabupaten Tanjung Jabung Timur;;Nipah Panjang;3;Bunga Tanjung;Aman
+;Kabupaten Tanjung Jabung Timur;;Nipah Panjang;4;Pemusiran;Aman
+;Kabupaten Tanjung Jabung Timur;;Nipah Panjang;5;Simpang Jelita;Aman
+;Kabupaten Tanjung Jabung Timur;;Nipah Panjang;6;Simpang Datuk;Aman
+;Kabupaten Tanjung Jabung Timur;;Nipah Panjang;7;Sungai Jeruk;Aman
+;Kabupaten Tanjung Jabung Timur;;Nipah Panjang;8;Sungai Raya;Aman
+;Kabupaten Tanjung Jabung Timur;;Nipah Panjang;9;Sungai Tering;Aman
+;Kabupaten Tanjung Jabung Timur;;Nipah Panjang;10;Teluk Kijing;Aman
+;Kabupaten Tanjung Jabung Timur;10;Rantau Rasau;1;Bandar Jaya;Aman
+;Kabupaten Tanjung Jabung Timur;;Rantau Rasau;2;Bangun Karya;Aman
+;Kabupaten Tanjung Jabung Timur;;Rantau Rasau;3;Harapan Makmur;Aman
+;Kabupaten Tanjung Jabung Timur;;Rantau Rasau;4;Karya Bakti;Aman
+;Kabupaten Tanjung Jabung Timur;;Rantau Rasau;5;Marga Mulya;Aman
+;Kabupaten Tanjung Jabung Timur;;Rantau Rasau;6;Pematang Mayan;Aman
+;Kabupaten Tanjung Jabung Timur;;Rantau Rasau;7;Rantau Jaya;Aman
+;Kabupaten Tanjung Jabung Timur;;Rantau Rasau;8;Rantau Rasau I;Aman
+;Kabupaten Tanjung Jabung Timur;;Rantau Rasau;9;Rantau Rasau II;Aman
+;Kabupaten Tanjung Jabung Timur;;Rantau Rasau;10;Sungai Dusun;Aman
+;Kabupaten Tanjung Jabung Timur;;Rantau Rasau;11;Tri Mulya;Aman
+;Kabupaten Tanjung Jabung Timur;11;Sadu;1;Sungai Lokan;Aman
+;Kabupaten Tanjung Jabung Timur;;Sadu;2;Air Hitam Laut;Aman
+;Kabupaten Tanjung Jabung Timur;;Sadu;3;Labuhan Pering;Aman
+;Kabupaten Tanjung Jabung Timur;;Sadu;4;Remau Baku Tuo;Aman
+;Kabupaten Tanjung Jabung Timur;;Sadu;5;Sungai Benuh;Aman
+;Kabupaten Tanjung Jabung Timur;;Sadu;6;Sungai Cemara;Aman
+;Kabupaten Tanjung Jabung Timur;;Sadu;7;Sungai Itik;Aman
+;Kabupaten Tanjung Jabung Timur;;Sadu;8;Sungai Jambat;Aman
+;Kabupaten Tanjung Jabung Timur;;Sadu;9;Sungai Sayang;Aman
+5;Kabupaten Tanjung Jabung Barat;1;Batang Asam;1;Dusun Kebon;Aman
+;Kabupaten Tanjung Jabung Barat;;Batang Asam;2;Kampung Baru;Aman
+;Kabupaten Tanjung Jabung Barat;;Batang Asam;3;Lubuk Bernai;Aman
+;Kabupaten Tanjung Jabung Barat;;Batang Asam;4;Lubuk Lawas;Aman
+;Kabupaten Tanjung Jabung Barat;;Batang Asam;5;Rawa Medang;Aman
+;Kabupaten Tanjung Jabung Barat;;Batang Asam;6;Rawang Kempas;Aman
+;Kabupaten Tanjung Jabung Barat;;Batang Asam;7;Sri Agung;Aman
+;Kabupaten Tanjung Jabung Barat;;Batang Asam;8;Sungai Badar;Aman
+;Kabupaten Tanjung Jabung Barat;;Batang Asam;9;Sungai Penoban;Aman
+;Kabupaten Tanjung Jabung Barat;;Batang Asam;10;Tanjung Bojo;Aman
+;Kabupaten Tanjung Jabung Barat;2;Betara;1;Teluk Serdang;Aman
+;Kabupaten Tanjung Jabung Barat;;Betara;2;Bunga Tanjung;Aman
+;Kabupaten Tanjung Jabung Barat;;Betara;3;Lubuk Terentang;Aman
+;Kabupaten Tanjung Jabung Barat;;Betara;4;Makmur Jaya;Aman
+;Kabupaten Tanjung Jabung Barat;;Betara;5;Mandala Jaya;Aman
+;Kabupaten Tanjung Jabung Barat;;Betara;6;Mekar jaya;Aman
+;Kabupaten Tanjung Jabung Barat;;Betara;7;Muntialo;Aman
+;Kabupaten Tanjung Jabung Barat;;Betara;8;Pematang Buluh;Aman
+;Kabupaten Tanjung Jabung Barat;;Betara;9;Pematang Lumut;Aman
+;Kabupaten Tanjung Jabung Barat;;Betara;10;Serdang Jaya;Aman
+;Kabupaten Tanjung Jabung Barat;;Betara;11;Sungai Terap;Aman
+;Kabupaten Tanjung Jabung Barat;;Betara;12;Terjun Gajah;Aman
+;Kabupaten Tanjung Jabung Barat;3;Bram Itam;1;Bram Itam Kiri;Aman
+;Kabupaten Tanjung Jabung Barat;;Bram Itam;2;Bram Itam Kanan;Aman
+;Kabupaten Tanjung Jabung Barat;;Bram Itam;3;Bram Itam Jaya;Aman
+;Kabupaten Tanjung Jabung Barat;;Bram Itam;4;Jati Emas;Aman
+;Kabupaten Tanjung Jabung Barat;;Bram Itam;5;Kemuning;Aman
+;Kabupaten Tanjung Jabung Barat;;Bram Itam;6;Mekar Tanjung;Aman
+;Kabupaten Tanjung Jabung Barat;;Bram Itam;7;Pantai Gading;Aman
+;Kabupaten Tanjung Jabung Barat;;Bram Itam;8;Pembengis;Aman
+;Kabupaten Tanjung Jabung Barat;;Bram Itam;9;Semau;Aman
+;Kabupaten Tanjung Jabung Barat;;Bram Itam;10;Tanjung Senjulang;Aman
+;Kabupaten Tanjung Jabung Barat;4;Kuala Betara;1;Betara Kiri;Aman
+;Kabupaten Tanjung Jabung Barat;;Kuala Betara;2;Betara Kanan;Aman
+;Kabupaten Tanjung Jabung Barat;;Kuala Betara;3;Dataran Pinang;Aman
+;Kabupaten Tanjung Jabung Barat;;Kuala Betara;4;Kuala Indah;Aman
+;Kabupaten Tanjung Jabung Barat;;Kuala Betara;5;Suak Labu;Aman
+;Kabupaten Tanjung Jabung Barat;;Kuala Betara;6;Sungai Dualap;Aman
+;Kabupaten Tanjung Jabung Barat;;Kuala Betara;7;Sungai Dungun;Aman
+;Kabupaten Tanjung Jabung Barat;;Kuala Betara;8;Sungai Gebar;Aman
+;Kabupaten Tanjung Jabung Barat;;Kuala Betara;9;Sungai Gebar Barat;Aman
+;Kabupaten Tanjung Jabung Barat;;Kuala Betara;10;Tanjung Pasir;Aman
+;Kabupaten Tanjung Jabung Barat;5;Merlung;1;Merlung;Aman
+;Kabupaten Tanjung Jabung Barat;;Merlung;2;Adi Purwa;Aman
+;Kabupaten Tanjung Jabung Barat;;Merlung;3;Bukit Harapan;Aman
+;Kabupaten Tanjung Jabung Barat;;Merlung;4;Merlung;Aman
+;Kabupaten Tanjung Jabung Barat;;Merlung;5;Lubuk Terap;Aman
+;Kabupaten Tanjung Jabung Barat;;Merlung;6;Pengabuan;Aman
+;Kabupaten Tanjung Jabung Barat;;Merlung;7;Pinang Gading;Aman
+;Kabupaten Tanjung Jabung Barat;;Merlung;8;Tanjung Benanak;Aman
+;Kabupaten Tanjung Jabung Barat;;Merlung;9;Tanjung Makmur;Aman
+;Kabupaten Tanjung Jabung Barat;;Merlung;10;Tanjung Paku;Aman
+;Kabupaten Tanjung Jabung Barat;6;Muara Papalik;1;Bukit Indah;Aman
+;Kabupaten Tanjung Jabung Barat;;Muara Papalik;2;Dusun Mudo;Aman
+;Kabupaten Tanjung Jabung Barat;;Muara Papalik;3;Intan Jaya;Aman
+;Kabupaten Tanjung Jabung Barat;;Muara Papalik;4;Kemang Manis;Aman
+;Kabupaten Tanjung Jabung Barat;;Muara Papalik;5;Lubuk Sebontan;Aman
+;Kabupaten Tanjung Jabung Barat;;Muara Papalik;6;Pematang Balam;Aman
+;Kabupaten Tanjung Jabung Barat;;Muara Papalik;7;Rantau Badak;Aman
+;Kabupaten Tanjung Jabung Barat;;Muara Papalik;8;Rantau Badak Lamo;Aman
+;Kabupaten Tanjung Jabung Barat;;Muara Papalik;9;Sungai Muluk;Aman
+;Kabupaten Tanjung Jabung Barat;;Muara Papalik;10;Sungai Papauh;Aman
+;Kabupaten Tanjung Jabung Barat;7;Pengabuan;1;Karya Maju;Aman
+;Kabupaten Tanjung Jabung Barat;;Pengabuan;2;Mekar Jati;Aman
+;Kabupaten Tanjung Jabung Barat;;Pengabuan;3;Parit Bilal;Aman
+;Kabupaten Tanjung Jabung Barat;;Pengabuan;4;Parit Pudin;Aman
+;Kabupaten Tanjung Jabung Barat;;Pengabuan;5;Parit Sidang;Aman
+;Kabupaten Tanjung Jabung Barat;;Pengabuan;6;Pasar Senin;Aman
+;Kabupaten Tanjung Jabung Barat;;Pengabuan;7;Suak Samin;Aman
+;Kabupaten Tanjung Jabung Barat;;Pengabuan;8;Sungai Baung;Aman
+;Kabupaten Tanjung Jabung Barat;;Pengabuan;9;Sungai Jering;Aman
+;Kabupaten Tanjung Jabung Barat;;Pengabuan;10;Sungai Pampang;Aman
+;Kabupaten Tanjung Jabung Barat;;Pengabuan;11;Sungai Raya;Aman
+;Kabupaten Tanjung Jabung Barat;;Pengabuan;12;Sungai Serindit;Aman
+;Kabupaten Tanjung Jabung Barat;;Pengabuan;13;Teluk Nilau;Aman
+;Kabupaten Tanjung Jabung Barat;;Pengabuan;14;Seberang Kota;Waspada
+;Kabupaten Tanjung Jabung Barat;8;Renah Mendaluh;1;Lubuk Kambing;Aman
+;Kabupaten Tanjung Jabung Barat;;Renah Mendaluh;2;Bukit Bakar;Aman
+;Kabupaten Tanjung Jabung Barat;;Renah Mendaluh;3;Lampisi;Aman
+;Kabupaten Tanjung Jabung Barat;;Renah Mendaluh;4;Cinta Damai;Aman
+;Kabupaten Tanjung Jabung Barat;;Renah Mendaluh;5;Muara Danau;Aman
+;Kabupaten Tanjung Jabung Barat;;Renah Mendaluh;6;Pulau Pauh;Aman
+;Kabupaten Tanjung Jabung Barat;;Renah Mendaluh;7;Rantau Benar;Aman
+;Kabupaten Tanjung Jabung Barat;;Renah Mendaluh;8;Sungai Paur;Aman
+;Kabupaten Tanjung Jabung Barat;;Renah Mendaluh;9;Sungai Rotan;Aman
+;Kabupaten Tanjung Jabung Barat;;Renah Mendaluh;10;Tanah Tumbuh;Aman
+;Kabupaten Tanjung Jabung Barat;9;Sebrang Kota;1;Tungkal V;Aman
+;Kabupaten Tanjung Jabung Barat;;Sebrang Kota;2;Harapan Baru;Aman
+;Kabupaten Tanjung Jabung Barat;;Sebrang Kota;3;Kuala Baru;Aman
+;Kabupaten Tanjung Jabung Barat;;Sebrang Kota;4;Kuala Kahar;Aman
+;Kabupaten Tanjung Jabung Barat;;Sebrang Kota;5;Mekar Alam;Aman
+;Kabupaten Tanjung Jabung Barat;;Sebrang Kota;6;Teluk Pulai Raya;Aman
+;Kabupaten Tanjung Jabung Barat;;Sebrang Kota;7;Tungkal IV;Aman
+;Kabupaten Tanjung Jabung Barat;;Sebrang Kota;8;Muara Sebrang;Aman
+;Kabupaten Tanjung Jabung Barat;11;Senyerang;1;Senyerang;Aman
+;Kabupaten Tanjung Jabung Barat;;Senyerang;2;Kempas Jaya;Aman
+;Kabupaten Tanjung Jabung Barat;;Senyerang;3;Lumahan;Aman
+;Kabupaten Tanjung Jabung Barat;;Senyerang;4;Margo Rukun;Aman
+;Kabupaten Tanjung Jabung Barat;;Senyerang;5;Sungai Kayu Aro;Aman
+;Kabupaten Tanjung Jabung Barat;;Senyerang;6;Sungai Kepayang;Aman
+;Kabupaten Tanjung Jabung Barat;;Senyerang;7;Sungai Landak;Aman
+;Kabupaten Tanjung Jabung Barat;;Senyerang;8;Sungai Rambai;Aman
+;Kabupaten Tanjung Jabung Barat;;Senyerang;9;Sungsang;Aman
+;Kabupaten Tanjung Jabung Barat;;Senyerang;10;Teluk Ketapang;Aman
+;Kabupaten Tanjung Jabung Barat;12;Tungkal Ilir;1;Tungkal I;Waspada
+;Kabupaten Tanjung Jabung Barat;;Tungkal Ilir;2;Tungkal II;Aman
+;Kabupaten Tanjung Jabung Barat;;Tungkal Ilir;3;Tungkal III;Aman
+;Kabupaten Tanjung Jabung Barat;;Tungkal Ilir;4;Tungkal IV Kota;Aman
+;Kabupaten Tanjung Jabung Barat;;Tungkal Ilir;5;Tungkal Harapan;Aman
+;Kabupaten Tanjung Jabung Barat;;Tungkal Ilir;6;Kampung Nelayan;Waspada
+;Kabupaten Tanjung Jabung Barat;;Tungkal Ilir;7;Patunas;Aman
+;Kabupaten Tanjung Jabung Barat;;Tungkal Ilir;8;Sriwijaya;Aman
+;Kabupaten Tanjung Jabung Barat;;Tungkal Ilir;9;Sungai Nibung;Aman
+;Kabupaten Tanjung Jabung Barat;;Tungkal Ilir;10;Teluk Sialang;Aman
+;Kabupaten Tanjung Jabung Barat;13;Tungkal Ulu;1;Pelabuhan Dagang;Aman
+;Kabupaten Tanjung Jabung Barat;;Tungkal Ulu;2;Badang;Aman
+;Kabupaten Tanjung Jabung Barat;;Tungkal Ulu;3;Badang Sepakat;Aman
+;Kabupaten Tanjung Jabung Barat;;Tungkal Ulu;4;Brasau;Aman
+;Kabupaten Tanjung Jabung Barat;;Tungkal Ulu;5;Gemuruh;Aman
+;Kabupaten Tanjung Jabung Barat;;Tungkal Ulu;6;Kuala Dasal;Aman
+;Kabupaten Tanjung Jabung Barat;;Tungkal Ulu;7;Pematang Pauh;Aman
+;Kabupaten Tanjung Jabung Barat;;Tungkal Ulu;8;Pematang Tembesu;Aman
+;Kabupaten Tanjung Jabung Barat;;Tungkal Ulu;9;Taman Raja;Aman
+;Kabupaten Tanjung Jabung Barat;;Tungkal Ulu;10;Suban;Waspada
+;Kabupaten Tanjung Jabung Barat;;Tungkal Ulu;11;Tanjung Tayas;Aman
+6;Kabupaten Sarolangun;1;Air Hitam;1;Baru;Aman
+;Kabupaten Sarolangun;;Air Hitam;2;Bukit Suban;Aman
+;Kabupaten Sarolangun;;Air Hitam;3;Jernih;Aman
+;Kabupaten Sarolangun;;Air Hitam;4;Lubuk Jering;Aman
+;Kabupaten Sarolangun;;Air Hitam;5;Lubuk Kepayang;Aman
+;Kabupaten Sarolangun;;Air Hitam;6;Mentawak Baru;Aman
+;Kabupaten Sarolangun;;Air Hitam;7;Mentawak Ulu;Aman
+;Kabupaten Sarolangun;;Air Hitam;8;Pematang Kabau;Aman
+;Kabupaten Sarolangun;;Air Hitam;9;Semurung;Aman
+;Kabupaten Sarolangun;2;Batang Asai;1;Bathin Pengambang;Aman
+;Kabupaten Sarolangun;;Batang Asai;2;Batu Empang;Aman
+;Kabupaten Sarolangun;;Batang Asai;3;Bukit Kalimau Ulu;Aman
+;Kabupaten Sarolangun;;Batang Asai;4;Datuk Nan Duo;Aman
+;Kabupaten Sarolangun;;Batang Asai;5;Kasiro;Aman
+;Kabupaten Sarolangun;;Batang Asai;6;Kasiro Ilir;Aman
+;Kabupaten Sarolangun;;Batang Asai;7;Lubuk Bangkar;Aman
+;Kabupaten Sarolangun;;Batang Asai;8;Muaro Air Duo;Aman
+;Kabupaten Sarolangun;;Batang Asai;9;Muaro Cuban;Aman
+;Kabupaten Sarolangun;;Batang Asai;10;Muaro Pemuat;Aman
+;Kabupaten Sarolangun;;Batang Asai;11;Padang Jering;Aman
+;Kabupaten Sarolangun;;Batang Asai;12;Pekan Gedang;Aman
+;Kabupaten Sarolangun;;Batang Asai;13;Pulau Salak Baru;Aman
+;Kabupaten Sarolangun;;Batang Asai;14;Raden Anom;Aman
+;Kabupaten Sarolangun;;Batang Asai;15;Rantau Panjang;Aman
+;Kabupaten Sarolangun;;Batang Asai;16;Simpang Narso;Aman
+;Kabupaten Sarolangun;;Batang Asai;17;Sungai Baung;Aman
+;Kabupaten Sarolangun;;Batang Asai;18;Sungai Bemban;Aman
+;Kabupaten Sarolangun;;Batang Asai;19;Sungai Keradak;Aman
+;Kabupaten Sarolangun;;Batang Asai;20;Tambak Ratu;Aman
+;Kabupaten Sarolangun;3;Bathin VIII;1;Bangun Jayo;Aman
+;Kabupaten Sarolangun;;Bathin VIII;2;Batu Penyabung;Aman
+;Kabupaten Sarolangun;;Bathin VIII;3;Dusun Dalam;Aman
+;Kabupaten Sarolangun;;Bathin VIII;4;Limbur Tembesi;Aman
+;Kabupaten Sarolangun;;Bathin VIII;5;Muaralati;Aman
+;Kabupaten Sarolangun;;Bathin VIII;6;Penarun;Aman
+;Kabupaten Sarolangun;;Bathin VIII;7;Pulau Buayo;Aman
+;Kabupaten Sarolangun;;Bathin VIII;8;Pulau Lintang;Aman
+;Kabupaten Sarolangun;;Bathin VIII;9;Pulau Melako;Aman
+;Kabupaten Sarolangun;;Bathin VIII;10;Rantau Gedang;Aman
+;Kabupaten Sarolangun;;Bathin VIII;11;Sukajadi;Aman
+;Kabupaten Sarolangun;;Bathin VIII;12;Tanjung;Aman
+;Kabupaten Sarolangun;;Bathin VIII;13;Tanjung Gagak;Aman
+;Kabupaten Sarolangun;;Bathin VIII;14;Teluk Kecimbung;Aman
+;Kabupaten Sarolangun;;Bathin VIII;15;Teluk Mancur;Aman
+;Kabupaten Sarolangun;4;Cermin Nan Gedang;1;Kampung Tujuh;Aman
+;Kabupaten Sarolangun;;Cermin Nan Gedang;2;Lubuk Resam;Aman
+;Kabupaten Sarolangun;;Cermin Nan Gedang;3;Lubuk Resam Hilir;Aman
+;Kabupaten Sarolangun;;Cermin Nan Gedang;4;Pemuncak;Aman
+;Kabupaten Sarolangun;;Cermin Nan Gedang;5;Tambang Tinggi;Aman
+;Kabupaten Sarolangun;;Cermin Nan Gedang;6;Teluk Rendah;Aman
+;Kabupaten Sarolangun;;Cermin Nan Gedang;7;Teluk Tigo;Aman
+;Kabupaten Sarolangun;;Cermin Nan Gedang;8;Tendah;Aman
+;Kabupaten Sarolangun;5;Limun;1;Berkun;Aman
+;Kabupaten Sarolangun;;Limun;2;Demang;Aman
+;Kabupaten Sarolangun;;Limun;3;Lubuk BedorongAman
+;Kabupaten Sarolangun;;Limun;4;Meribung;Aman
+;Kabupaten Sarolangun;;Limun;5;Mersip;Aman
+;Kabupaten Sarolangun;;Limun;6;Moenti;Aman
+;Kabupaten Sarolangun;;Limun;7;Muara Mansao;Aman
+;Kabupaten Sarolangun;;Limun;8;Napal Melintang;Aman
+;Kabupaten Sarolangun;;Limun;9;Panca Karya;Aman
+;Kabupaten Sarolangun;;Limun;10;Pulau Pandan;Aman
+;Kabupaten Sarolangun;;Limun;11;Ranggo;Aman
+;Kabupaten Sarolangun;;Limun;12;Tanjung Raden;Aman
+;Kabupaten Sarolangun;;Limun;13;Temenggung;Aman
+;Kabupaten Sarolangun;6;Mandiangin;1;Bukit Peranginan;Aman
+;Kabupaten Sarolangun;;Mandiangin;2;Butang Baru;Aman
+;Kabupaten Sarolangun;;Mandiangin;3;Guruh Baru;Aman
+;Kabupaten Sarolangun;;Mandiangin;4;Gurun Mudo;Aman
+;Kabupaten Sarolangun;;Mandiangin;5;Gurun Tuo;Aman
+;Kabupaten Sarolangun;;Mandiangin;6;Gurun Tuo Simpang;Aman
+;Kabupaten Sarolangun;;Mandiangin;7;Jati Baru;Aman
+;Kabupaten Sarolangun;;Mandiangin;8;Kerto Pati;Aman
+;Kabupaten Sarolangun;;Mandiangin;9;Mandiangin Dalam;Siaga
+;Kabupaten Sarolangun;;Mandiangin;10;Mandiangin Tuo;Aman
+;Kabupaten Sarolangun;;Mandiangin;11;Meranti Baru;Aman
+;Kabupaten Sarolangun;;Mandiangin;12;Muara Ketalo;Aman
+;Kabupaten Sarolangun;;Mandiangin;13;Pemusiran;Aman
+;Kabupaten Sarolangun;;Mandiangin;14;Petiduran Baru;Aman
+;Kabupaten Sarolangun;;Mandiangin;15;Rangkiling;Aman
+;Kabupaten Sarolangun;;Mandiangin;16;Rangkiling Simpang;Aman
+;Kabupaten Sarolangun;;Mandiangin;17;Simpang Gurun Tuo;Aman
+;Kabupaten Sarolangun;;Mandiangin;18;Simpang Kertopati;Aman
+;Kabupaten Sarolangun;;Mandiangin;19;Sungai Butang;Aman
+;Kabupaten Sarolangun;;Mandiangin;20;Taman Dewa;Aman
+;Kabupaten Sarolangun;7;Pauh;1;Batu Ampar;Aman
+;Kabupaten Sarolangun;;Pauh;2;Batu Kucing;Aman
+;Kabupaten Sarolangun;;Pauh;3;Karang Mandapo;Aman
+;Kabupaten Sarolangun;;Pauh;4;Kasang Melintang;Aman
+;Kabupaten Sarolangun;;Pauh;5;Lamban Sigatal;Aman
+;Kabupaten Sarolangun;;Pauh;6;Lubuk Napal;Aman
+;Kabupaten Sarolangun;;Pauh;7;Pangakalan Bulian;Aman
+;Kabupaten Sarolangun;;Pauh;8;Pauh;Aman
+;Kabupaten Sarolangun;;Pauh;9;Pengidaran;Aman
+;Kabupaten Sarolangun;;Pauh;10;Seko Besar;Aman
+;Kabupaten Sarolangun;;Pauh;11;Semaran;Aman
+;Kabupaten Sarolangun;;Pauh;12;Sepintun;Aman
+;Kabupaten Sarolangun;;Pauh;13;Taman Bandung;Aman
+;Kabupaten Sarolangun;8;Pelawan;1;Batu Putih;Aman
+;Kabupaten Sarolangun;;Pelawan;2;Bukit;Aman
+;Kabupaten Sarolangun;;Pelawan;3;Lubuk Sepuh;Aman
+;Kabupaten Sarolangun;;Pelawan;4;Mekarsari;Aman
+;Kabupaten Sarolangun;;Pelawan;5;Muara Danau;Aman
+;Kabupaten Sarolangun;;Pelawan;6;Pelawan;Siaga
+;Kabupaten Sarolangun;;Pelawan;7;Pematang Kolim;Aman
+;Kabupaten Sarolangun;;Pelawan;8;Penegah;Aman
+;Kabupaten Sarolangun;;Pelawan;9;Pulau Aro;Aman
+;Kabupaten Sarolangun;;Pelawan;10;Rantau Tenang;Aman
+;Kabupaten Sarolangun;;Pelawan;11;Sungai Merah;Aman
+;Kabupaten Sarolangun;9;Sarolangun;1;Aur Gading;Aman
+;Kabupaten Sarolangun;;Sarolangun;2;Baru;Aman
+;Kabupaten Sarolangun;;Sarolangun;3;Bernai;Aman
+;Kabupaten Sarolangun;;Sarolangun;4;Bernai Dalam;Aman
+;Kabupaten Sarolangun;;Sarolangun;5;Dusun Sarolangun;Aman
+;Kabupaten Sarolangun;;Sarolangun;6;Gunung Kembang;Aman
+;Kabupaten Sarolangun;;Sarolangun;7;Ladang Panjang;Aman
+;Kabupaten Sarolangun;;Sarolangun;8;Lidung;Aman
+;Kabupaten Sarolangun;;Sarolangun;9;Panti;Aman
+;Kabupaten Sarolangun;;Sarolangun;10;Pasar Sarolangun;Aman
+;Kabupaten Sarolangun;;Sarolangun;11;Sarolangun Kembang;Aman
+;Kabupaten Sarolangun;;Sarolangun;12;Sungai Baung;Aman
+;Kabupaten Sarolangun;;Sarolangun;13;Sukasari;Waspada
+;Kabupaten Sarolangun;;Sarolangun;14;Sungai Abang;Aman
+;Kabupaten Sarolangun;;Sarolangun;15;Tingting;Aman
+;Kabupaten Sarolangun;;Sarolangun;16;Ujung Tanjung;Aman
+;Kabupaten Sarolangun;10;Singkut;1;Argo Sari;Aman
+;Kabupaten Sarolangun;;Singkut;2;Bukit Bumi Rakyat;Aman
+;Kabupaten Sarolangun;;Singkut;3;Bukit Talang Mas;Aman
+;Kabupaten Sarolangun;;Singkut;4;Bukit Murau;Aman
+;Kabupaten Sarolangun;;Singkut;5;Bukit Tigo;Aman
+;Kabupaten Sarolangun;;Singkut;6;Pasar Singkut;Aman
+;Kabupaten Sarolangun;;Singkut;7;Payo Lebar;Aman
+;Kabupaten Sarolangun;;Singkut;8;Perdamaian;Aman
+;Kabupaten Sarolangun;;Singkut;9;Sendang Sari;Aman
+;Kabupaten Sarolangun;;Singkut;10;Siliwangi;Aman
+;Kabupaten Sarolangun;;Singkut;11;Simpang Nibung;Aman
+;Kabupaten Sarolangun;;Singkut;12;Sungai Benteng;Aman
+;Kabupaten Sarolangun;;Singkut;13;Sungai Gedang;Aman
+7;Kabupaten Tebo;1;VII Koto;1;Aur Cino;Aman
+;Kabupaten Tebo;;VII Koto;2;Dusun Baru; Kec.Aman
+;Kabupaten Tebo;;VII Koto;3;Kuamang;Aman
+;Kabupaten Tebo;;VII Koto;4;Muara Niro;Aman
+;Kabupaten Tebo;;VII Koto;5;Muara Tabun;Aman
+;Kabupaten Tebo;;VII Koto;6;Pucuk Jambi;Aman
+;Kabupaten Tebo;;VII Koto;7;Sungai Abang;Aman
+;Kabupaten Tebo;;VII Koto;8;Tabun;Aman
+;Kabupaten Tebo;;VII Koto;9;Teluk Lancang;Aman
+;Kabupaten Tebo;;VII Koto;10;Teluk Kayu Putih;Aman
+;Kabupaten Tebo;2;VII Koto Ilir;1;Balai Rajo;Aman
+;Kabupaten Tebo;;VII Koto Ilir;2;Cermin;Aman
+;Kabupaten Tebo;;VII Koto Ilir;3;Paseban;Aman
+;Kabupaten Tebo;;VII Koto Ilir;4;Sungai Karang;Aman
+;Kabupaten Tebo;;VII Koto Ilir;5;Teluk Kepayang Pulau Indah;Aman
+;Kabupaten Tebo;;VII Koto Ilir;6;Pasir Mayang;Aman
+;Kabupaten Tebo;3;Muara Tabir;1;Bangun Seranten;Aman
+;Kabupaten Tebo;;Muara Tabir;2;Embacang Gedang;Aman
+;Kabupaten Tebo;;Muara Tabir;3;Pintas Tuo;Aman
+;Kabupaten Tebo;;Muara Tabir;4;Sungai Jernih;Aman
+;Kabupaten Tebo;;Muara Tabir;5;Tambun Arang;Aman
+;Kabupaten Tebo;;Muara Tabir;6;Tanah Garo;Aman
+;Kabupaten Tebo;;Muara Tabir;7;Bangko Pintas;Aman
+;Kabupaten Tebo;;Muara Tabir;8;Olak Kemang;Aman
+;Kabupaten Tebo;4;Rimbo Bujang;1;Pematang Sapat;Aman
+;Kabupaten Tebo;;Rimbo Bujang;2;Perintis;Aman
+;Kabupaten Tebo;;Rimbo Bujang;3;Purwo Harjo;Aman
+;Kabupaten Tebo;;Rimbo Bujang;4;Rimbo Mulyo;Aman
+;Kabupaten Tebo;;Rimbo Bujang;5;Sapta Mulia;Aman
+;Kabupaten Tebo;;Rimbo Bujang;6;Tegal Arum;Aman
+;Kabupaten Tebo;;Rimbo Bujang;7;Tirta Kencana;Aman
+;Kabupaten Tebo;5;Rimbo Ilir;1;Giri Purno;Aman
+;Kabupaten Tebo;;Rimbo Ilir;2;Giriwinangun;Aman
+;Kabupaten Tebo;;Rimbo Ilir;3;Karang Dadi;Aman
+;Kabupaten Tebo;;Rimbo Ilir;4;Pulung Rejo;Aman
+;Kabupaten Tebo;;Rimbo Ilir;5;Rantau Kembang;Aman
+;Kabupaten Tebo;;Rimbo Ilir;6;Sarimulya;Aman
+;Kabupaten Tebo;;Rimbo Ilir;7;Sepakat Bersatu;Aman
+;Kabupaten Tebo;;Rimbo Ilir;8;Siderejo;Aman
+;Kabupaten Tebo;;Rimbo Ilir;9;Sumber Agung;Aman
+;Kabupaten Tebo;;Rimbo Ilir;10;Wirotho Agung;Waspada
+;Kabupaten Tebo;6;Rimbo Ulu;1;Sido Rukun;Aman
+;Kabupaten Tebo;;Rimbo Ulu;2;Suka Damai;Aman
+;Kabupaten Tebo;;Rimbo Ulu;3;Suka Maju;Aman
+;Kabupaten Tebo;;Rimbo Ulu;4;Sumber Sari;Aman
+;Kabupaten Tebo;;Rimbo Ulu;5;Sungai Pandan;Aman
+;Kabupaten Tebo;;Rimbo Ulu;6;Wana Reja;Aman
+;Kabupaten Tebo;7;Serai Serumpun;1;Bukit Pemuatan;Aman
+;Kabupaten Tebo;;Serai Serumpun;2;Napal Putih;Aman
+;Kabupaten Tebo;;Serai Serumpun;3;Pagar Puding Lamo;Aman
+;Kabupaten Tebo;;Serai Serumpun;4;Pinang Belai;Aman
+;Kabupaten Tebo;;Serai Serumpun;5;Sako Makmur;Aman
+;Kabupaten Tebo;;Serai Serumpun;6;Sekutur Jaya;Aman
+;Kabupaten Tebo;;Serai Serumpun;7;Tanjung Aur Seberang;Aman
+;Kabupaten Tebo;;Serai Serumpun;8;Teluk Melintang;Aman
+;Kabupaten Tebo;8;Sumay;1;Jati Belarik;Aman
+;Kabupaten Tebo;;Sumay;2;Lembak Bungur;Aman
+;Kabupaten Tebo;;Sumay;3;Muara Sekalo;Aman
+;Kabupaten Tebo;;Sumay;4;Pemayung;Aman
+;Kabupaten Tebo;;Sumay;5;Puntikalo;Aman
+;Kabupaten Tebo;;Sumay;6;Semambu;Aman
+;Kabupaten Tebo;;Sumay;7;Suo Suo;Aman
+;Kabupaten Tebo;;Sumay;8;Tambun Arang;Aman
+;Kabupaten Tebo;;Sumay;9;Teluk Lengkap;Aman
+;Kabupaten Tebo;;Sumay;10;Teluk Singkawang;Aman
+;Kabupaten Tebo;;Sumay;11;Teriti;Aman
+;Kabupaten Tebo;;Sumay;12;Tuo Sumay;Aman
+;Kabupaten Tebo;;Sumay;13;Teluk Kasai Rambahan;Siaga
+;Kabupaten Tebo;9;Tebo Ilir;1;Betung Bedarah Barat;Aman
+;Kabupaten Tebo;;Tebo Ilir;2;Betung Bedarah Timur;Aman
+;Kabupaten Tebo;;Tebo Ilir;3;Kunangan;Aman
+;Kabupaten Tebo;;Tebo Ilir;4;Muara Ketalo;Aman
+;Kabupaten Tebo;;Tebo Ilir;5;Sungai Aro;Aman
+;Kabupaten Tebo;;Tebo Ilir;6;Sungai Bengkal Barat;Aman
+;Kabupaten Tebo;;Tebo Ilir;7;Sungai Bengkal;Aman
+;Kabupaten Tebo;;Tebo Ilir;8;Teluk Rendah Ilir;Aman
+;Kabupaten Tebo;;Tebo Ilir;9;Teluk Rendah Pasar;Aman
+;Kabupaten Tebo;;Tebo Ilir;10;Teluk Rendah Ulu;Aman
+;Kabupaten Tebo;;Tebo Ilir;11;Tuo Ilir;Aman
+;Kabupaten Tebo;10;Tebo Tengah;1;Aburan Batang Tebo;Aman
+;Kabupaten Tebo;;Tebo Tengah;2;Bedaro Rampak;Aman
+;Kabupaten Tebo;;Tebo Tengah;3;Kandang;Aman
+;Kabupaten Tebo;;Tebo Tengah;4;Mangun JayoAman
+;Kabupaten Tebo;;Tebo Tengah;5;Muara Tebo;Aman
+;Kabupaten Tebo;;Tebo Tengah;6;Pelayang;Aman
+;Kabupaten Tebo;;Tebo Tengah;7;Semabu;Aman
+;Kabupaten Tebo;;Tebo Tengah;8;Sungai Alai;Aman
+;Kabupaten Tebo;;Tebo Tengah;9;Sungai Keruh;Aman
+;Kabupaten Tebo;;Tebo Tengah;10;Tebing Tinggi;Aman
+;Kabupaten Tebo;;Tebo Tengah;11;Teluk Pandak;Aman
+;Kabupaten Tebo;;Tebo Tengah;12;Tengah;Aman
+;Kabupaten Tebo;11;Tebo Ulu;1;Bungo Tanjung;Aman
+;Kabupaten Tebo;;Tebo Ulu;2;Lubuk Benteng;Aman
+;Kabupaten Tebo;;Tebo Ulu;3;Malako Intan;Aman
+;Kabupaten Tebo;;Tebo Ulu;4;Pagar Puding;Aman
+;Kabupaten Tebo;;Tebo Ulu;5;Pulau Panjang;Aman
+;Kabupaten Tebo;;Tebo Ulu;6;Pulau Temiang;Aman
+;Kabupaten Tebo;;Tebo Ulu;7;Rantau Langkap;Aman
+;Kabupaten Tebo;;Tebo Ulu;8;Sungai Rambai;Aman
+;Kabupaten Tebo;;Tebo Ulu;9;Tanjung Aur;Aman
+;Kabupaten Tebo;;Tebo Ulu;10;Teluk Kasai Rambahan;Aman
+;Kabupaten Tebo;;Tebo Ulu;11;Teluk Kembang Jambu;Aman
+;Kabupaten Tebo;;Tebo Ulu;12;Teluk Kuali;Aman
+;Kabupaten Tebo;12;Tengah Ilir;1;Lubuk Mandarsah;Aman
+;Kabupaten Tebo;;Tengah Ilir;2;Mengupeh;Aman
+;Kabupaten Tebo;;Tengah Ilir;3;DesaMuara Kilis;Aman
+;Kabupaten Tebo;;Tengah Ilir;4;Penapalan;Aman
+;Kabupaten Tebo;;Tengah Ilir;5;Rantau Api;Aman
+8;Kabupaten Bungo;1;Bathin II Babeko;1;Tanjunga Menanti;Aman
+;Kabupaten Bungo;;Bathin II Babeko;2;Suka Makmur;Aman
+;Kabupaten Bungo;;Bathin II Babeko;3;Simpang Babeko;Aman
+;Kabupaten Bungo;;Bathin II Babeko;4;Babeko;Aman
+;Kabupaten Bungo;;Bathin II Babeko;5;Sepunggur;Aman
+;Kabupaten Bungo;;Bathin II Babeko;6;Tuo Sepunggur;Aman
+;Kabupaten Bungo;2;Bathin II Pelayang;1;Pelayang;Siaga
+;Kabupaten Bungo;;Bathin II Pelayang;2;Peninjau;Aman
+;Kabupaten Bungo;;Bathin II Pelayang;3;Pulau Kerakap;Aman
+;Kabupaten Bungo;;Bathin II Pelayang;4;Seberang Jaya;Aman
+;Kabupaten Bungo;;Bathin II Pelayang;5;Talang Selungko;Aman
+;Kabupaten Bungo;3;Bathin III;1;Manggis;Aman
+;Kabupaten Bungo;;Bathin III;2;Sungai Binjai;Aman
+;Kabupaten Bungo;;Bathin III;3;Bungo Taman Agung;Aman
+;Kabupaten Bungo;;Bathin III;4;Purwo Bakti;Aman
+;Kabupaten Bungo;;Bathin III;5;Air Gemuruh;Aman
+;Kabupaten Bungo;;Bathin III;6;Teluk Panjang;Aman
+;Kabupaten Bungo;;Bathin III;7;Lubuk Benteng;Aman
+;Kabupaten Bungo;;Bathin III;8;Sarana Jaya;Aman
+;Kabupaten Bungo;4;Bathin III Ulu;1;Aur Cino;Aman
+;Kabupaten Bungo;;Bathin III Ulu;2;Buat;Aman
+;Kabupaten Bungo;;Bathin III Ulu;3;Karak Apung;Aman
+;Kabupaten Bungo;;Bathin III Ulu;4;Laman Panjang;Aman
+;Kabupaten Bungo;;Bathin III Ulu;5;Lubuk Beringin;Aman
+;Kabupaten Bungo;;Bathin III Ulu;6;Muara Buat;Aman
+;Kabupaten Bungo;;Bathin III Ulu;7;Senamat Ulu;Aman
+;Kabupaten Bungo;;Bathin III Ulu;8;Sungai Telang;Aman
+;Kabupaten Bungo;;Bathin III Ulu;9;Timbolasi;Aman
+;Kabupaten Bungo;5;Bungo Dani;1;Sungai Pinang;Aman
+;Kabupaten Bungo;;Bungo Dani;2;Pulau Pekan;Aman
+;Kabupaten Bungo;;Bungo Dani;3;Sungai Kerjan;Aman
+;Kabupaten Bungo;;Bungo Dani;4;Talang Pantai;Aman
+;Kabupaten Bungo;;Bungo Dani;5;Sungai Arang;Aman
+;Kabupaten Bungo;6;Jujuhan;1;Baru Balai Panjang;Aman
+;Kabupaten Bungo;;Jujuhan;2;Jumbak;Aman
+;Kabupaten Bungo;;Jujuhan;3;Pulau Jelmu;Aman
+;Kabupaten Bungo;;Jujuhan;4;Rantau Ikil;Siaga
+;Kabupaten Bungo;;Jujuhan;5;Rantau Panjang;Aman
+;Kabupaten Bungo;;Jujuhan;6;Sirih Sekapur;Aman
+;Kabupaten Bungo;;Jujuhan;7;Sirih Sekapur Perkembangan;Aman
+;Kabupaten Bungo;;Jujuhan;8;Talang Pemesun;Aman
+;Kabupaten Bungo;;Jujuhan;9;Tanjung Belit;Aman
+;Kabupaten Bungo;;Jujuhan;10;Ujung Tanjung;Aman
+;Kabupaten Bungo;7;Jujuhan Ilir;1;Aur Gading;Aman
+;Kabupaten Bungo;;Jujuhan Ilir;2;Bukit Sari;Aman
+;Kabupaten Bungo;;Jujuhan Ilir;3;Kuamang;Aman
+;Kabupaten Bungo;;Jujuhan Ilir;4;Lubuk Tenam;Aman
+;Kabupaten Bungo;;Jujuhan Ilir;5;Pulau Batu;Aman
+;Kabupaten Bungo;;Jujuhan Ilir;6;Sari Mulya;Aman
+;Kabupaten Bungo;;Jujuhan Ilir;7;Tepian Danto;Aman
+;Kabupaten Bungo;8;Limbur Lubuk;1;Baru Lubuk Mengkuang;Aman
+;Kabupaten Bungo;;Limbur Lubuk;2;Limbur Baru;Aman
+;Kabupaten Bungo;;Limbur Lubuk;3;Lubuk Tanah Terban;Aman
+;Kabupaten Bungo;;Limbur Lubuk;4;Muara Tebo Pandak;Aman
+;Kabupaten Bungo;;Limbur Lubuk;5;Pauh Agung;Aman
+;Kabupaten Bungo;;Limbur Lubuk;6;Pemunyian;Aman
+;Kabupaten Bungo;;Limbur Lubuk;7;Rantau Tipu;Aman
+;Kabupaten Bungo;;Limbur Lubuk;8;Renah Sungai Besar;Aman
+;Kabupaten Bungo;;Limbur Lubuk;9;Renah Sungai Ipuh;Aman
+;Kabupaten Bungo;;Limbur Lubuk;10;Sekar Mengkuang;Aman
+;Kabupaten Bungo;;Limbur Lubuk;11;Tanjung Bungo;Aman
+;Kabupaten Bungo;;Limbur Lubuk;12;Tebo Jaya;Aman
+;Kabupaten Bungo;;Limbur Lubuk;13;Tuo Limbur;Aman
+;Kabupaten Bungo;;Limbur Lubuk;14;Tuo Lubuk Mengkuang;Aman
+;Kabupaten Bungo;9;Muko-Muko Bathin VII;1;Baru Pusat Jalo;Aman
+;Kabupaten Bungo;;Muko-Muko Bathin VII;2;Bedaro;Aman
+;Kabupaten Bungo;;Muko-Muko Bathin VII;3;Datar;Aman
+;Kabupaten Bungo;;Muko-Muko Bathin VII;4;Mangun Jayo;Aman
+;Kabupaten Bungo;;Muko-Muko Bathin VII;5;Pekan Jumat;Aman
+;Kabupaten Bungo;;Muko-Muko Bathin VII;6;Suka Jaya;Aman
+;Kabupaten Bungo;;Muko-Muko Bathin VII;7;Tanjung Agung;Aman
+;Kabupaten Bungo;;Muko-Muko Bathin VII;8;Tebat;Aman
+;Kabupaten Bungo;;Muko-Muko Bathin VII;9;Tebing Tinggi;Aman
+;Kabupaten Bungo;10;Pasar Muara Bungo;1;Batang Bungo;Aman
+;Kabupaten Bungo;;Pasar Muara Bungo;2;Bungo Barat;Aman
+;Kabupaten Bungo;;Pasar Muara Bungo;3;Bungo Timur;Aman
+;Kabupaten Bungo;;Pasar Muara Bungo;4;Jaya Setia;Aman
+;Kabupaten Bungo;;Pasar Muara Bungo;5;Tanjung Gedang;Waspada
+;Kabupaten Bungo;11;Pelepat;1;Balai Jaya;Aman
+;Kabupaten Bungo;;Pelepat;2;Baru Pelepat;Aman
+;Kabupaten Bungo;;Pelepat;3;Batu Kerbau;Aman
+;Kabupaten Bungo;;Pelepat;4;Bukit Telago;Aman
+;Kabupaten Bungo;;Pelepat;5;Cilodang;Aman
+;Kabupaten Bungo;;Pelepat;6;Dwi Karya Bakti;Aman
+;Kabupaten Bungo;;Pelepat;7;Gapura Suci;Aman
+;Kabupaten Bungo;;Pelepat;8;Mulya Bakti;Aman
+;Kabupaten Bungo;;Pelepat;9;Mulya Jaya;Aman
+;Kabupaten Bungo;;Pelepat;10;Rantau yang;Aman
+;Kabupaten Bungo;;Pelepat;11;Rantel;Aman
+;Kabupaten Bungo;;Pelepat;12;Sekampil;Aman
+;Kabupaten Bungo;;Pelepat;13;Senamat;Aman
+;Kabupaten Bungo;;Pelepat;14;Sungai Beringin;Aman
+;Kabupaten Bungo;;Pelepat;15;Sungai Gurun;Aman
+;Kabupaten Bungo;12;Pelepat Ilir;1;Bangun Harjo;Aman
+;Kabupaten Bungo;;Pelepat Ilir;2;Danau;Aman
+;Kabupaten Bungo;;Pelepat Ilir;3;Daya Murni;Aman
+;Kabupaten Bungo;;Pelepat Ilir;4;Karya Harapan Mukti;Aman
+;Kabupaten Bungo;;Pelepat Ilir;5;Koto Jayo;Aman
+;Kabupaten Bungo;;Pelepat Ilir;6;Kuamang Jaya;Aman
+;Kabupaten Bungo;;Pelepat Ilir;7;Kuning Gading;Aman
+;Kabupaten Bungo;;Pelepat Ilir;8;Lembah Kuamang;Aman
+;Kabupaten Bungo;;Pelepat Ilir;9;Lingga Kuamang;Aman
+;Kabupaten Bungo;;Pelepat Ilir;10;Lubuk;Aman
+;Kabupaten Bungo;;Pelepat Ilir;11;Maju Jaya;Aman
+;Kabupaten Bungo;;Pelepat Ilir;12;Muara Kuamang;Aman
+;Kabupaten Bungo;;Pelepat Ilir;13;Padang Pelangeh;Aman
+;Kabupaten Bungo;;Pelepat Ilir;14;Purwasari;Aman
+;Kabupaten Bungo;;Pelepat Ilir;15;Sumber Harapan;Aman
+;Kabupaten Bungo;;Pelepat Ilir;16;Sumber Mulya;Aman
+;Kabupaten Bungo;;Pelepat Ilir;17;Tirta Mulya;Aman
+;Kabupaten Bungo;13;Rantau Pandan;1;Leban;Aman
+;Kabupaten Bungo;;Rantau Pandan;2;Lubuk Kayu Aro;Aman
+;Kabupaten Bungo;;Rantau Pandan;3;Lubuk Mayan;Aman
+;Kabupaten Bungo;;Rantau Pandan;4;Rantau Duku;Aman
+;Kabupaten Bungo;;Rantau Pandan;5;Rantau Pandan;Aman
+;Kabupaten Bungo;;Rantau Pandan;6;Talang Sungai Bungo;Aman
+;Kabupaten Bungo;14;Rimbo Tengah;1;Candika;Aman
+;Kabupaten Bungo;;Rimbo Tengah;2;Pasir Putih;Aman
+;Kabupaten Bungo;;Rimbo Tengah;3;Sungai Buluh;Aman
+;Kabupaten Bungo;;Rimbo Tengah;4;Sungai Mangkuang;Aman
+;Kabupaten Bungo;15;Tanah Sepenggal;1;Candi;Aman
+;Kabupaten Bungo;;Tanah Sepenggal;2;Empelu;Aman
+;Kabupaten Bungo;;Tanah Sepenggal;3;Pasar Lubuk Landai;Aman
+;Kabupaten Bungo;;Tanah Sepenggal;4;Pasar Rantau Embacang;Aman
+;Kabupaten Bungo;;Tanah Sepenggal;5;Sungai Gambir;Aman
+;Kabupaten Bungo;;Tanah Sepenggal;6;Tanah Bekali;Aman
+;Kabupaten Bungo;;Tanah Sepenggal;7;Tanjung;Aman
+;Kabupaten Bungo;;Tanah Sepenggal;8;Telentam;Aman
+;Kabupaten Bungo;;Tanah Sepenggal;9;Teluk Pandak;Aman
+;Kabupaten Bungo;;Tanah Sepenggal;10;Tenam;Aman
+;Kabupaten Bungo;16;Tanah Sepenggal Lintas;1;Embacang Gedang;Aman
+;Kabupaten Bungo;;Tanah Sepenggal Lintas;2;Lubuk Landai;Aman
+;Kabupaten Bungo;;Tanah Sepenggal Lintas;3;Paku Aji;Aman
+;Kabupaten Bungo;;Tanah Sepenggal Lintas;4;Pematang Panjang;Aman
+;Kabupaten Bungo;;Tanah Sepenggal Lintas;5;Rantau Embacang;Aman
+;Kabupaten Bungo;;Tanah Sepenggal Lintas;6;Rantau Makmur;Aman
+;Kabupaten Bungo;;Tanah Sepenggal Lintas;7;Sungai Lilin;Aman
+;Kabupaten Bungo;;Tanah Sepenggal Lintas;8;Sungai Mancur;Aman
+;Kabupaten Bungo;;Tanah Sepenggal Lintas;9;Sungai Puri;Aman
+;Kabupaten Bungo;;Tanah Sepenggal Lintas;10;Sungai Tembang;Aman
+;Kabupaten Bungo;;Tanah Sepenggal Lintas;11;Tanah Periuk;Aman
+;Kabupaten Bungo;;Tanah Sepenggal Lintas;12;Tebing Tinggi;Aman
+;Kabupaten Bungo;17;Tanah Tumbuh;1;Bukit Kemang;Aman
+;Kabupaten Bungo;;Tanah Tumbuh;2;Koto Jayo;Aman
+;Kabupaten Bungo;;Tanah Tumbuh;3;Lubuk Niur;Aman
+;Kabupaten Bungo;;Tanah Tumbuh;4;Panjang;Aman
+;Kabupaten Bungo;;Tanah Tumbuh;5;Pendukun;Aman
+;Kabupaten Bungo;;Tanah Tumbuh;6;Perenti Luweh;Aman
+;Kabupaten Bungo;;Tanah Tumbuh;7;Rambah;Aman
+;Kabupaten Bungo;;Tanah Tumbuh;8;Renah Jelmu;Aman
+;Kabupaten Bungo;;Tanah Tumbuh;9;Tanah Tumbuh;Aman
+;Kabupaten Bungo;;Tanah Tumbuh;10;Tebing Tinggi Uleh;Aman
+;Kabupaten Bungo;;Tanah Tumbuh;11;Teluk Kecimbung;Aman
+9;Kabupaten Merangin;1;Bangko;1;Dusun Mudo;Aman
+;Kabupaten Merangin;1;Bangko;2;Kungkai;Aman
+;Kabupaten Merangin;1;Bangko;3;Sungai Kapas;Aman
+;Kabupaten Merangin;1;Bangko;4;Langling;Aman
+;Kabupaten Merangin;1;Bangko;5;Dusun Bangko;Aman
+;Kabupaten Merangin;1;Bangko;6;Pasar Bangko;Aman
+;Kabupaten Merangin;1;Bangko;7;Pasar Atas;Aman
+;Kabupaten Merangin;1;Bangko;8;Pematang Kandis;Aman
+;Kabupaten Merangin;2;Bangko Barat;1;Bedeng Rejo;Aman
+;Kabupaten Merangin;2;Bangko Barat;2;Biuku Tanjung;Aman
+;Kabupaten Merangin;2;Bangko Barat;3;Bukit Beringin;Aman
+;Kabupaten Merangin;2;Bangko Barat;4;Pulau Rengas;Aman
+;Kabupaten Merangin;2;Bangko Barat;5;Pulau Rengas Ulu;Aman
+;Kabupaten Merangin;2;Bangko Barat;6;Sungai Putih;Aman
+;Kabupaten Merangin;3;Batang Masumai;1;Kederasan Panjang;Aman
+;Kabupaten Merangin;3;Batang Masumai;2;Lubuk Gaung;Aman
+;Kabupaten Merangin;3;Batang Masumai;3;Nibung;Aman
+;Kabupaten Merangin;3;Batang Masumai;4;Pelangki;Aman
+;Kabupaten Merangin;3;Batang Masumai;5;Pulau Baru;Aman
+;Kabupaten Merangin;3;Batang Masumai;6;Pulau Layang;Aman
+;Kabupaten Merangin;3;Batang Masumai;7;Rantau Alai;Aman
+;Kabupaten Merangin;3;Batang Masumai;8;Salam Buku;Aman
+;Kabupaten Merangin;3;Batang Masumai;9;Tambang Besi;Aman
+;Kabupaten Merangin;3;Batang Masumai;10;Titian Teras;Aman
+;Kabupaten Merangin;4;Jangkat;1;Koto Rawang;Aman
+;Kabupaten Merangin;4;Jangkat;2;Koto Renah;Aman
+;Kabupaten Merangin;4;Jangkat;3;Lubuk Mentilin;Aman
+;Kabupaten Merangin;4;Jangkat;4;Lubuk Punguk;Aman
+;Kabupaten Merangin;4;Jangkat;5;Muara Madras;Aman
+;Kabupaten Merangin;4;Jangkat;6;Pulau Tengah;Aman
+;Kabupaten Merangin;4;Jangkat;7;Rantau Kermas;Aman
+;Kabupaten Merangin;4;Jangkat;8;Renah Alai;Aman
+;Kabupaten Merangin;4;Jangkat;9;Renah Kamumu;Aman
+;Kabupaten Merangin;4;Jangkat;10;Renah Pelaan;Aman
+;Kabupaten Merangin;4;Jangkat;11;Tanjung Kasri;Aman
+;Kabupaten Merangin;5;Jangkat Timur;1;Baru;Aman
+;Kabupaten Merangin;5;Jangkat Timur;2;Beringin Tinggi;Aman
+;Kabupaten Merangin;5;Jangkat Timur;3;Gedang;Aman
+;Kabupaten Merangin;5;Jangkat Timur;4;Jangkat;Aman
+;Kabupaten Merangin;5;Jangkat Timur;5;Kabu;Aman
+;Kabupaten Merangin;5;Jangkat Timur;6;Koto Baru;Aman
+;Kabupaten Merangin;5;Jangkat Timur;7;Koto Teguh;Aman
+;Kabupaten Merangin;5;Jangkat Timur;8;Pematang Pauh;Aman
+;Kabupaten Merangin;5;Jangkat Timur;9;Rantau Suli;Aman
+;Kabupaten Merangin;5;Jangkat Timur;10;Simp.Talang Tembago;Aman
+;Kabupaten Merangin;5;Jangkat Timur;11;Talang Tembago;Aman
+;Kabupaten Merangin;5;Jangkat Timur;12;Tanjung Alam;Aman
+;Kabupaten Merangin;5;Jangkat Timur;13;Tanjung Benuang;Aman
+;Kabupaten Merangin;5;Jangkat Timur;14;Tanjung Mudo;Aman
+;Kabupaten Merangin;6;Lembah Masurai;1;Durian Mukut;Aman
+;Kabupaten Merangin;6;Lembah Masurai;2;Kota Rami;Aman
+;Kabupaten Merangin;6;Lembah Masurai;3;Muara kup;Aman
+;Kabupaten Merangin;6;Lembah Masurai;4;Muara Pangi;Aman
+;Kabupaten Merangin;6;Lembah Masurai;5;Muara Lengayo;Aman
+;Kabupaten Merangin;6;Lembah Masurai;6;Nilo Dingin;Aman
+;Kabupaten Merangin;6;Lembah Masurai;7;Pasar Masurai;Aman
+;Kabupaten Merangin;6;Lembah Masurai;8;Rancan;Aman
+;Kabupaten Merangin;6;Lembah Masurai;9;Rantau Jering;Aman
+;Kabupaten Merangin;6;Lembah Masurai;10;Sungai Lalang;Aman
+;Kabupaten Merangin;6;Lembah Masurai;11;Talang Asal;Aman
+;Kabupaten Merangin;6;Lembah Masurai;12;Talang Paruh;Aman
+;Kabupaten Merangin;6;Lembah Masurai;13;Tanjung Berugo;Aman
+;Kabupaten Merangin;6;Lembah Masurai;14;Tanjung Dalam;Aman
+;Kabupaten Merangin;6;Lembah Masurai;15;Dusun Tuo;Aman
+;Kabupaten Merangin;7;Margo Tabir;1;Lubuk Bumbun;Aman
+;Kabupaten Merangin;7;Margo Tabir;2;Sido Rukun;Aman
+;Kabupaten Merangin;7;Margo Tabir;3;Suko Rejo;Aman
+;Kabupaten Merangin;7;Margo Tabir;4;Sumber Agung;Aman
+;Kabupaten Merangin;7;Margo Tabir;5;Tanjung Rejo;Aman
+;Kabupaten Merangin;7;Margo Tabir;6;Tegal Rejo;Aman
+;Kabupaten Merangin;8;Muara Siau;1;Air Lago;Aman
+;Kabupaten Merangin;8;Muara Siau;2;Badak Tekurung;Aman
+;Kabupaten Merangin;8;Muara Siau;3;Durian Rambun;Aman
+;Kabupaten Merangin;8;Muara Siau;4;Lubuk Beringin;Aman
+;Kabupaten Merangin;8;Muara Siau;5;Lubuk Birah;Aman
+;Kabupaten Merangin;8;Muara Siau;6;Muara Siau;Aman
+;Kabupaten Merangin;8;Muara Siau;7;Pasar Muara Siau;Aman
+;Kabupaten Merangin;8;Muara Siau;8;Peradun Temberas;Aman
+;Kabupaten Merangin;8;Muara Siau;9;Pulau Raman;Aman
+;Kabupaten Merangin;8;Muara Siau;10;Rantau Bayur;Aman
+;Kabupaten Merangin;8;Muara Siau;11;Rantau Bidaro;Aman
+;Kabupaten Merangin;8;Muara Siau;12;Rantau Mancang;Aman
+;Kabupaten Merangin;8;Muara Siau;13;Rantau Panjang;Aman
+;Kabupaten Merangin;8;Muara Siau;14;Sepantai Renah;Aman
+;Kabupaten Merangin;8;Muara Siau;15;Sungai Ulas;Aman
+;Kabupaten Merangin;8;Muara Siau;16;Teluk Sikumbang;Aman
+;Kabupaten Merangin;8;Muara Siau;17;Tiaro;Aman
+;Kabupaten Merangin;9;Nalo Tantan;1;Aur Berduri;Aman
+;Kabupaten Merangin;9;Nalo Tantan;2;Danau;Aman
+;Kabupaten Merangin;9;Nalo Tantan;3;Mentawak;Aman
+;Kabupaten Merangin;9;Nalo Tantan;4;Nalo Baru;Aman
+;Kabupaten Merangin;9;Nalo Tantan;5;Nalo Gedang;Aman
+;Kabupaten Merangin;9;Nalo Tantan;6;Sungai Ulak;Aman
+;Kabupaten Merangin;9;Nalo Tantan;7;Telun;Aman
+;Kabupaten Merangin;10;Pamenang;1;Empang Benao;Aman
+;Kabupaten Merangin;10;Pamenang;2;Jelatang;Aman
+;Kabupaten Merangin;10;Pamenang;3;Karang Berahi;Aman
+;Kabupaten Merangin;10;Pamenang;4;Keroya;Aman
+;Kabupaten Merangin;10;Pamenang;5;Muara Belengo;Aman
+;Kabupaten Merangin;10;Pamenang;6;Pasar Pemenang;Waspada
+;Kabupaten Merangin;10;Pamenang;7;Pauh Menang;Aman
+;Kabupaten Merangin;10;Pamenang;8;Pelakar Jaya;Aman
+;Kabupaten Merangin;10;Pamenang;9;Pematang Kancil;Aman
+;Kabupaten Merangin;10;Pamenang;10;Renjosari;Aman
+;Kabupaten Merangin;10;Pamenang;11;Sialang;Aman
+;Kabupaten Merangin;10;Pamenang;12;Sungai UdangAman
+;Kabupaten Merangin;10;Pamenang;13;Tanah Abang;Aman
+;Kabupaten Merangin;10;Pamenang;14;Tanjung Gedang;Aman
+;Kabupaten Merangin;11;Pamenang Barat;1;Karang Anyar;Aman
+;Kabupaten Merangin;11;Pamenang Barat;2;Limbur Merangin;Aman
+;Kabupaten Merangin;11;Pamenang Barat;3;Mampun Baru;Aman
+;Kabupaten Merangin;11;Pamenang Barat;4;Papit;Aman
+;Kabupaten Merangin;11;Pamenang Barat;5;Pinang Merah;Aman
+;Kabupaten Merangin;11;Pamenang Barat;6;Pulau Tujuh;Aman
+;Kabupaten Merangin;11;Pamenang Barat;7;Simp.Limbur Merangin;Aman
+;Kabupaten Merangin;11;Pamenang Barat;8;Tanjung Lamin;Aman
+;Kabupaten Merangin;12;Pamenang Selatan;1;Pulau Bayur;Aman
+;Kabupaten Merangin;12;Pamenang Selatan;2;Selango;Aman
+;Kabupaten Merangin;12;Pamenang Selatan;3;Tambang Emas;Aman
+;Kabupaten Merangin;12;Pamenang Selatan;4;Tanjung Benuang;Aman
+;Kabupaten Merangin;13;Pangkalan Jambu;1;Baru Pangkalan Jambu;Aman
+;Kabupaten Merangin;13;Pangkalan Jambu;2;Birun;Aman
+;Kabupaten Merangin;13;Pangkalan Jambu;3;Bukit Perentak;Aman
+;Kabupaten Merangin;13;Pangkalan Jambu;4;Bungo Tanjung;Aman
+;Kabupaten Merangin;13;Pangkalan Jambu;5;Kampung Limo;Aman
+;Kabupaten Merangin;13;Pangkalan Jambu;6;Sungai Jering;Aman
+;Kabupaten Merangin;13;Pangkalan Jambu;7;Tanjung Mudo;Aman
+;Kabupaten Merangin;13;Pangkalan Jambu;8;Tiga Alur;Aman
+;Kabupaten Merangin;14;Renah Pemenang;1;Bukit Bungkul;Aman
+;Kabupaten Merangin;14;Renah Pemenang;2;Lantak Seribu;Aman
+;Kabupaten Merangin;14;Renah Pemenang;3;Meranti;Aman
+;Kabupaten Merangin;14;Renah Pemenang;4;Rasau;Aman
+;Kabupaten Merangin;15;Renah Pembarap;1;Air Batu;Aman
+;Kabupaten Merangin;15;Renah Pembarap;2;Durian Batukuk;Aman
+;Kabupaten Merangin;15;Renah Pembarap;3;Guguk;Aman
+;Kabupaten Merangin;15;Renah Pembarap;4;Markeh;Aman
+;Kabupaten Merangin;15;Renah Pembarap;5;Marus Jaya;Aman
+;Kabupaten Merangin;15;Renah Pembarap;6;Muara Bantan;Aman
+;Kabupaten Merangin;15;Renah Pembarap;7;Muara Panco Barat;Aman
+;Kabupaten Merangin;15;Renah Pembarap;8;Muara Panco Timur;Aman
+;Kabupaten Merangin;15;Renah Pembarap;9;Parit Ujung Tanjung;Aman
+;Kabupaten Merangin;15;Renah Pembarap;10;Renah Medan;Aman
+;Kabupaten Merangin;15;Renah Pembarap;11;Simpang Parit;Aman
+;Kabupaten Merangin;15;Renah Pembarap;12;Talang Segegah;Aman
+;Kabupaten Merangin;16;Sungai Manau;1;Benteng;Aman
+;Kabupaten Merangin;16;Sungai Manau;2;Bukit Batu;Aman
+;Kabupaten Merangin;16;Sungai Manau;3;Durian Lencah;Aman
+;Kabupaten Merangin;16;Sungai Manau;4;Gelanggang;Aman
+;Kabupaten Merangin;16;Sungai Manau;5;Palipan;Aman
+;Kabupaten Merangin;16;Sungai Manau;6;Saringat;Aman
+;Kabupaten Merangin;16;Sungai Manau;7;Sungai Manau;Aman
+;Kabupaten Merangin;16;Sungai Manau;8;Sungai Nilau;Aman
+;Kabupaten Merangin;16;Sungai Manau;9;Sei Pinang;Aman
+;Kabupaten Merangin;16;Sungai Manau;10;Tiangko;Aman
+;Kabupaten Merangin;16;Sungai Manau;11;Perentak;Waspada
+;Kabupaten Merangin;17;Tabir;1;Beluran Panjang;Aman
+;Kabupaten Merangin;17;Tabir;2;Dusun Baru;Aman
+;Kabupaten Merangin;17;Tabir;3;Kampung Baruh;Aman
+;Kabupaten Merangin;17;Tabir;4;Kandang;Aman
+;Kabupaten Merangin;17;Tabir;5;Koto Rayo;Aman
+;Kabupaten Merangin;17;Tabir;6;Lubuk Napal;Aman
+;Kabupaten Merangin;17;Tabir;7;Mampun;Waspada
+;Kabupaten Merangin;17;Tabir;8;Pasar Baru Rantau;Aman
+;Kabupaten Merangin;17;Tabir;9;Pasara Rantau Panjang;Aman
+;Kabupaten Merangin;17;Tabir;10;Seling;Aman
+;Kabupaten Merangin;17;Tabir;11;Tanjung Ilir;Aman
+;Kabupaten Merangin;18;Tabir Barat;1;Air Liki;Aman
+;Kabupaten Merangin;18;Tabir Barat;2;Air Liki Baru;Aman
+;Kabupaten Merangin;18;Tabir Barat;3;Baru Kibul;Aman
+;Kabupaten Merangin;18;Tabir Barat;4;Batang Kibul;Aman
+;Kabupaten Merangin;18;Tabir Barat;5;Muara Kibul;Aman
+;Kabupaten Merangin;18;Tabir Barat;6;Muara Langeh;Aman
+;Kabupaten Merangin;18;Tabir Barat;7;Ngaol;Aman
+;Kabupaten Merangin;18;Tabir Barat;8;Ngaol Ilir;Aman
+;Kabupaten Merangin;18;Tabir Barat;9;Pulau Lebar;Aman
+;Kabupaten Merangin;18;Tabir Barat;10;Pulau Tebakar;Aman
+;Kabupaten Merangin;18;Tabir Barat;11;Sungai Tabir;Aman
+;Kabupaten Merangin;18;Tabir Barat;12;Tanjung Beringin;Aman
+;Kabupaten Merangin;18;Tabir Barat;13;Tanjung Putus;Aman
+;Kabupaten Merangin;18;Tabir Barat;14;Telentam;Aman
+;Kabupaten Merangin;19;Tabir Ilir;1;Air Batu;Aman
+;Kabupaten Merangin;19;Tabir Ilir;2;Kota Raja;Aman
+;Kabupaten Merangin;19;Tabir Ilir;3;Mekar Limau Manis;Aman
+;Kabupaten Merangin;19;Tabir Ilir;4;Rantau Limau Manis;Aman
+;Kabupaten Merangin;19;Tabir Ilir;5;Rejo Sari;Aman
+;Kabupaten Merangin;19;Tabir Ilir;6;Tunggul Bulin;Aman
+;Kabupaten Merangin;19;Tabir Ilir;7;Ulak Makam;Aman
+;Kabupaten Merangin;20;Tabir Lintas;1;Kota Baru;Aman
+;Kabupaten Merangin;20;Tabir Lintas;2;Mesango;Aman
+;Kabupaten Merangin;20;Tabir Lintas;3;Sido Harjo;Aman
+;Kabupaten Merangin;20;Tabir Lintas;4;Sido Lego;Aman
+;Kabupaten Merangin;20;Tabir Lintas;5;Tambang Baru;Aman
+;Kabupaten Merangin;21;Tabir Selatan;1;Bungo Antoi;Aman
+;Kabupaten Merangin;21;Tabir Selatan;2;Bungo Tanjung;Aman
+;Kabupaten Merangin;21;Tabir Selatan;3;Gading Jaya;Aman
+;Kabupaten Merangin;21;Tabir Selatan;4;Mekar Jaya;Aman
+;Kabupaten Merangin;21;Tabir Selatan;5;Muara Delang;Aman
+;Kabupaten Merangin;21;Tabir Selatan;6;Sinar Gading;Aman
+;Kabupaten Merangin;21;Tabir Selatan;7;Rawa Jaya;Aman
+;Kabupaten Merangin;21;Tabir Selatan;8;Sungai Sahut;Aman
+;Kabupaten Merangin;22;Tabir Timur;1;Bukit Subur;Aman
+;Kabupaten Merangin;22;Tabir Timur;2;Sri Sembilan;Aman
+;Kabupaten Merangin;22;Tabir Timur;3;Sungai Bulian;Aman
+;Kabupaten Merangin;22;Tabir Timur;4;Sungai Limau;Aman
+;Kabupaten Merangin;23;Tabir Ulu;1;Kapuk;Aman
+;Kabupaten Merangin;23;Tabir Ulu;2;Medan Baru;Aman
+;Kabupaten Merangin;23;Tabir Ulu;3;Muara Jernih;Aman
+;Kabupaten Merangin;23;Tabir Ulu;4;Muara Sekutek;Aman
+;Kabupaten Merangin;23;Tabir Ulu;5;Pulau Aro;Aman
+;Kabupaten Merangin;23;Tabir Ulu;6;Ngaro;Aman
+;Kabupaten Merangin;24;Tiang Pumpung;1;Rantau Limas Kapas;Aman
+;Kabupaten Merangin;24;Tiang Pumpung;2;Baru Bukit Punjung;Aman
+;Kabupaten Merangin;24;Tiang Pumpung;3;Baru Sungai Sakai;Aman
+;Kabupaten Merangin;24;Tiang Pumpung;4;Beringin Sanggul;Aman
+;Kabupaten Merangin;24;Tiang Pumpung;5;Sekancing;Aman
+;Kabupaten Merangin;24;Tiang Pumpung;6;Sekancing Ilir;Aman
+10;Kabupaten Kerinci;1;Air Hangat;1;Air Tenang;Aman
+;Kabupaten Kerinci;1;Air Hangat;2;Balai;Aman
+;Kabupaten Kerinci;1;Air Hangat;3;Baru Semurup;Aman
+;Kabupaten Kerinci;1;Air Hangat;4;Koto di Air;Aman
+;Kabupaten Kerinci;1;Air Hangat;5;Koto Duo;Aman
+;Kabupaten Kerinci;1;Air Hangat;6;Koto Majidin;Aman
+;Kabupaten Kerinci;1;Air Hangat;7;Koto Majidin Hilir;Aman
+;Kabupaten Kerinci;1;Air Hangat;8;Koto Majidin Mudik;Aman
+;Kabupaten Kerinci;1;Air Hangat;9;Muara Semerah;Aman
+;Kabupaten Kerinci;1;Air Hangat;10;Muara Semerah Mudik;Aman
+;Kabupaten Kerinci;1;Air Hangat;11;Pasar Semurup;Aman
+;Kabupaten Kerinci;1;Air Hangat;12;Pendung Hilir;Aman
+;Kabupaten Kerinci;1;Air Hangat;13;Pendung Mudik;Aman
+;Kabupaten Kerinci;1;Air Hangat;14;Pendung Tengah;Aman
+;Kabupaten Kerinci;1;Air Hangat;15;Sawahan Jaya;Aman
+;Kabupaten Kerinci;1;Air Hangat;16;Sawahan Koto Majidin;Aman
+;Kabupaten Kerinci;2;Air Hangat Baru;1;Air Bersih;Aman
+;Kabupaten Kerinci;2;Air Hangat Baru;2;Air Panas;Aman
+;Kabupaten Kerinci;2;Air Hangat Baru;3;Koto Baru Semurup;Aman
+;Kabupaten Kerinci;2;Air Hangat Baru;4;Hamparan Pugu;Aman
+;Kabupaten Kerinci;2;Air Hangat Baru;5;Kecil;Aman
+;Kabupaten Kerinci;2;Air Hangat Baru;6;Koto Cayo;Aman
+;Kabupaten Kerinci;2;Air Hangat Baru;7;Koto Datuk;Aman
+;Kabupaten Kerinci;2;Air Hangat Baru;8;Koto Duo;Aman
+;Kabupaten Kerinci;2;Air Hangat Baru;9;Koto Mebai;Aman
+;Kabupaten Kerinci;2;Air Hangat Baru;10;Koto Mudik;Aman
+;Kabupaten Kerinci;2;Air Hangat Baru;11;Koto Tengah;Aman
+;Kabupaten Kerinci;2;Air Hangat Baru;12;Pugu;Aman
+;Kabupaten Kerinci;3;Air Hangat Timur;1;Air Hangat;Aman
+;Kabupaten Kerinci;3;Air Hangat Timur;2;Air Panas;Aman
+;Kabupaten Kerinci;3;Air Hangat Timur;3;Buru Air Hangat;Aman
+;Kabupaten Kerinci;3;Air Hangat Timur;4;Sungai Tutung;Aman
+;Kabupaten Kerinci;3;Air Hangat Timur;5;Sungai Abu;Aman
+;Kabupaten Kerinci;3;Air Hangat Timur;6;Sungai Deras;Aman
+;Kabupaten Kerinci;3;Air Hangat Timur;7;Sungai Medang;Aman
+;Kabupaten Kerinci;3;Air Hangat Timur;8;Kemantan Agung;Aman
+;Kabupaten Kerinci;3;Air Hangat Timur;9;Kemantan Hilir;Aman
+;Kabupaten Kerinci;3;Air Hangat Timur;10;Kemantan Kebalai;Aman
+;Kabupaten Kerinci;3;Air Hangat Timur;11;Kemantan Mudik;Aman
+;Kabupaten Kerinci;3;Air Hangat Timur;12;Kemantan Raya;Aman
+;Kabupaten Kerinci;3;Air Hangat Timur;13;Kemantan Tinggi;Aman
+;Kabupaten Kerinci;3;Air Hangat Timur;14;Kemantan Darat;Aman
+;Kabupaten Kerinci;3;Air Hangat Timur;15;Koto Tebat;Aman
+;Kabupaten Kerinci;3;Air Hangat Timur;16;Pondok Sungai Abu;Aman
+;Kabupaten Kerinci;3;Air Hangat Timur;17;Pungut Hilir;Aman
+;Kabupaten Kerinci;3;Air Hangat Timur;18;Pungut Mudik;Aman
+;Kabupaten Kerinci;3;Air Hangat Timur;19;Pungut Tengah;Aman
+;Kabupaten Kerinci;3;Air Hangat Timur;20;Simp.Empat Sungai Tutung;Aman
+;Kabupaten Kerinci;3;Air Hangat Timur;21;Sungai Medang;Aman
+;Kabupaten Kerinci;4;Batang Merangin;1;Pulau Sangkar;Aman
+;Kabupaten Kerinci;4;Batang Merangin;2;Batang Merangin;Aman
+;Kabupaten Kerinci;4;Batang Merangin;3;Lubuk Paku;Aman
+;Kabupaten Kerinci;4;Batang Merangin;4;Muara Hemat;Aman
+;Kabupaten Kerinci;4;Batang Merangin;5;Pasar Tamaia;Aman
+;Kabupaten Kerinci;4;Batang Merangin;6;Pematang Lingkung;Aman
+;Kabupaten Kerinci;4;Batang Merangin;7;Seberang Meranginr;Aman
+;Kabupaten Kerinci;4;Batang Merangin;8;Tamaia;Aman
+;Kabupaten Kerinci;4;Batang Merangin;9;Teruntung;Aman
+;Kabupaten Kerinci;5;Bukit Kerman;1;Bintang Marak;Aman
+;Kabupaten Kerinci;5;Bukit Kerman;2;Karang Pandan;Aman
+;Kabupaten Kerinci;5;Bukit Kerman;3;Lolo Gedang;Aman
+;Kabupaten Kerinci;5;Bukit Kerman;4;Lolo Kecil;Aman
+;Kabupaten Kerinci;5;Bukit Kerman;5;Lolo Hilir;Aman
+;Kabupaten Kerinci;5;Bukit Kerman;6;Muak;Aman
+;Kabupaten Kerinci;5;Bukit Kerman;7;Muaro Lolo;Aman
+;Kabupaten Kerinci;5;Bukit Kerman;8;Pasar Kerman;Aman
+;Kabupaten Kerinci;5;Bukit Kerman;9;Pengasi Baru;Aman
+;Kabupaten Kerinci;5;Bukit Kerman;10;Pengasi Lama;Aman
+;Kabupaten Kerinci;5;Bukit Kerman;11;Pondok;Aman
+;Kabupaten Kerinci;5;Bukit Kerman;12;Pulau Pandan;Aman
+;Kabupaten Kerinci;5;Bukit Kerman;13;Pulau Sangkar;Aman
+;Kabupaten Kerinci;5;Bukit Kerman;14;Talang Kemuning;Aman
+;Kabupaten Kerinci;5;Bukit Kerman;15;Tanjung Syam;Aman
+;Kabupaten Kerinci;6;Danau Kerinci;1;Agung Koto Iman;Aman
+;Kabupaten Kerinci;6;Danau Kerinci;2;Cupak;Aman
+;Kabupaten Kerinci;6;Danau Kerinci;3;Dusun Baru Tanjung Tanah;Aman
+;Kabupaten Kerinci;6;Danau Kerinci;4;Koto Baru;Aman
+;Kabupaten Kerinci;6;Danau Kerinci;5;Koto Iman;Aman
+;Kabupaten Kerinci;6;Danau Kerinci;6;Koto Petai;Aman
+;Kabupaten Kerinci;6;Danau Kerinci;7;Koto Salak;Aman
+;Kabupaten Kerinci;6;Danau Kerinci;8;Koto Tengah;Aman
+;Kabupaten Kerinci;6;Danau Kerinci;9;Koto Tuo Ujung Pasir;Aman
+;Kabupaten Kerinci;6;Danau Kerinci;10;Pasar Sore Seleman;Aman
+;Kabupaten Kerinci;6;Danau Kerinci;11;Pendung Talang Genting;Aman
+;Kabupaten Kerinci;6;Danau Kerinci;12;Sanggaran Agung;Siaga
+;Kabupaten Kerinci;6;Danau Kerinci;13;Seleman;Aman
+;Kabupaten Kerinci;6;Danau Kerinci;14;Simpang Empat;Aman
+;Kabupaten Kerinci;6;Danau Kerinci;15;Talang Kemulun;Aman
+;Kabupaten Kerinci;6;Danau Kerinci;16;Tanjung Harapan;Aman
+;Kabupaten Kerinci;6;Danau Kerinci;17;Tanjung Tanah;Aman
+;Kabupaten Kerinci;6;Danau Kerinci;18;Tebing Tinggi;Aman
+;Kabupaten Kerinci;6;Danau Kerinci;19;Ujung Pasir;Aman
+;Kabupaten Kerinci;7;Depati Tujuh;1;Baru Kubang;Aman
+;Kabupaten Kerinci;7;Depati Tujuh;2;Belui;Aman
+;Kabupaten Kerinci;7;Depati Tujuh;3;Belui Tinggi;Aman
+;Kabupaten Kerinci;7;Depati Tujuh;4;Kayu Aho Mangkak;Aman
+;Kabupaten Kerinci;7;Depati Tujuh;5;Koto Lanang;Aman
+;Kabupaten Kerinci;7;Depati Tujuh;6;Koto Panjang;Aman
+;Kabupaten Kerinci;7;Depati Tujuh;7;Koto Payang;Siaga
+;Kabupaten Kerinci;7;Depati Tujuh;8;Koto Simpai Kubang;Aman
+;Kabupaten Kerinci;7;Depati Tujuh;9;Koto Tuo;Aman
+;Kabupaten Kerinci;7;Depati Tujuh;10;Kubang Agung;Aman
+;Kabupaten Kerinci;7;Depati Tujuh;11;Kubang Gedang;Aman
+;Kabupaten Kerinci;7;Depati Tujuh;12;Ladeh;Aman
+;Kabupaten Kerinci;7;Depati Tujuh;13;Lubuk Suli;Aman
+;Kabupaten Kerinci;7;Depati Tujuh;14;Pahlawan Belui;Aman
+;Kabupaten Kerinci;7;Depati Tujuh;15;Sekungkung;Aman
+;Kabupaten Kerinci;7;Depati Tujuh;16;Semumu;Aman
+;Kabupaten Kerinci;7;Depati Tujuh;17;Simpang Belui;Aman
+;Kabupaten Kerinci;7;Depati Tujuh;18;Tambak Tinggi;Aman
+;Kabupaten Kerinci;7;Depati Tujuh;19;Tebat Ijuk Dili;Aman
+;Kabupaten Kerinci;7;Depati Tujuh;20;Tebat Ijuk;Aman
+;Kabupaten Kerinci;8;Gunung Kerinci;1;Air Betung;Aman
+;Kabupaten Kerinci;8;Gunung Kerinci;2;Sungai Betung Mudik;Aman
+;Kabupaten Kerinci;8;Gunung Kerinci;3;Danau Tinggi;Aman
+;Kabupaten Kerinci;8;Gunung Kerinci;4;Simpang Tutup;Aman
+;Kabupaten Kerinci;8;Gunung Kerinci;5;Siulak Deras;Aman
+;Kabupaten Kerinci;8;Gunung Kerinci;6;Siulak Deras Mudik;Aman
+;Kabupaten Kerinci;8;Gunung Kerinci;7;Siulak Tenang;Aman
+;Kabupaten Kerinci;8;Gunung Kerinci;8;Suko Pangkat;Aman
+;Kabupaten Kerinci;8;Gunung Kerinci;9;Sungai Batu Gantih Hilir;Aman
+;Kabupaten Kerinci;8;Gunung Kerinci;10;Sungai Batu Gantih;Aman
+;Kabupaten Kerinci;8;Gunung Kerinci;11;Sungai Betung Hilir;Aman
+;Kabupaten Kerinci;8;Gunung Kerinci;12;Sungai Betung Mudik;Aman
+;Kabupaten Kerinci;8;Gunung Kerinci;13;Sungai Gelampeh;Aman
+;Kabupaten Kerinci;8;Gunung Kerinci;14;Tanjung Genting;Aman
+;Kabupaten Kerinci;8;Gunung Kerinci;15;Tanjung Genting Mudik;Aman
+;Kabupaten Kerinci;8;Gunung Kerinci;16;Ujung Ladang;Aman
+;Kabupaten Kerinci;9;Gunung Raya;1;Air Mumu;Aman
+;Kabupaten Kerinci;9;Gunung Raya;2;Dusun Baru Lempur;Aman
+;Kabupaten Kerinci;9;Gunung Raya;3;Kebun Baru;Aman
+;Kabupaten Kerinci;9;Gunung Raya;4;Kebun Lima;Aman
+;Kabupaten Kerinci;9;Gunung Raya;5;Lempur Hilir;Aman
+;Kabupaten Kerinci;9;Gunung Raya;6;Lempur Mudik;Aman
+;Kabupaten Kerinci;9;Gunung Raya;7;Lempur Tengah;Aman
+;Kabupaten Kerinci;9;Gunung Raya;8;Majunto Lempur;Aman
+;Kabupaten Kerinci;9;Gunung Raya;9;Masgo;Aman
+;Kabupaten Kerinci;9;Gunung Raya;10;Perikan Tengah;Aman
+;Kabupaten Kerinci;9;Gunung Raya;11;Selampaung;Aman
+;Kabupaten Kerinci;9;Gunung Raya;12;Sungai Hangat;Aman
+;Kabupaten Kerinci;10;Gunung Tujuh;1;Bengkolan Duo;Aman
+;Kabupaten Kerinci;10;Gunung Tujuh;2;Bumbun Duri;Aman
+;Kabupaten Kerinci;10;Gunung Tujuh;3;Jernih Jaya;Aman
+;Kabupaten Kerinci;10;Gunung Tujuh;4;Lubuk Pauh;Aman
+;Kabupaten Kerinci;10;Gunung Tujuh;5;Pauh Tinggi;Aman
+;Kabupaten Kerinci;10;Gunung Tujuh;6;Pelompek;Aman
+;Kabupaten Kerinci;10;Gunung Tujuh;7;Pelompek Pasar Baru;Aman
+;Kabupaten Kerinci;10;Gunung Tujuh;8;Pesisir Bukit;Aman
+;Kabupaten Kerinci;10;Gunung Tujuh;9;Sungai Jernih;Aman
+;Kabupaten Kerinci;10;Gunung Tujuh;10;Sungai Rumpun;Aman
+;Kabupaten Kerinci;10;Gunung Tujuh;11;Sungai Sikai;Aman
+;Kabupaten Kerinci;10;Gunung Tujuh;12;Tangkil;Aman
+;Kabupaten Kerinci;10;Gunung Tujuh;13;Telun Berasap;Aman
+;Kabupaten Kerinci;11;Kayu Aro;1;Batang Sangir;Aman
+;Kabupaten Kerinci;11;Kayu Aro;2;Bedeng Baru;Aman
+;Kabupaten Kerinci;11;Kayu Aro;3;Bendung Air Timur;Aman
+;Kabupaten Kerinci;11;Kayu Aro;4;Kersik Tuo;Aman
+;Kabupaten Kerinci;11;Kayu Aro;5;Koto Baru;Aman
+;Kabupaten Kerinci;11;Kayu Aro;6;Koto Panjang;Aman
+;Kabupaten Kerinci;11;Kayu Aro;7;Koto Periang;Aman
+;Kabupaten Kerinci;11;Kayu Aro;8;Koto Tengah;Aman
+;Kabupaten Kerinci;11;Kayu Aro;9;Koto Tuo;Aman
+;Kabupaten Kerinci;11;Kayu Aro;10;Lindung Jaya;Aman
+;Kabupaten Kerinci;11;Kayu Aro;11;Mekar Jaya;Aman
+;Kabupaten Kerinci;11;Kayu Aro;12;Mekar Sari;Aman
+;Kabupaten Kerinci;11;Kayu Aro;13;Pasar Sungai Tanduk;Aman
+;Kabupaten Kerinci;11;Kayu Aro;14;Renah Kasak;Aman
+;Kabupaten Kerinci;11;Kayu Aro;15;Sangir;Aman
+;Kabupaten Kerinci;11;Kayu Aro;16;Sangir Tengah;Aman
+;Kabupaten Kerinci;11;Kayu Aro;17;Sungai Bendung Air;Aman
+;Kabupaten Kerinci;11;Kayu Aro;18;Sungai Dalam;Aman
+;Kabupaten Kerinci;11;Kayu Aro;19;Sungai Sampun;Aman
+;Kabupaten Kerinci;11;Kayu Aro;20;Sungai Tanduk;Aman
+;Kabupaten Kerinci;11;Kayu Aro;21;Tanjung Bungo;Aman
+;Kabupaten Kerinci;11;Kayu Aro;22;Kayu AroSiaga
+;Kabupaten Kerinci;12;Kayu Aro Barat;1;Batu Hampar;Aman
+;Kabupaten Kerinci;12;Kayu Aro Barat;2;Bedeng Delapan;Aman
+;Kabupaten Kerinci;12;Kayu Aro Barat;3;Bedeng Dua;Aman
+;Kabupaten Kerinci;12;Kayu Aro Barat;4;Bento;Aman
+;Kabupaten Kerinci;12;Kayu Aro Barat;5;Ensatu;Aman
+;Kabupaten Kerinci;12;Kayu Aro Barat;6;Giri Mulyo;Aman
+;Kabupaten Kerinci;12;Kayu Aro Barat;7;Gunung Labu;Aman
+;Kabupaten Kerinci;12;Kayu Aro Barat;8;Kampung Baru;Aman
+;Kabupaten Kerinci;12;Kayu Aro Barat;9;Pasar Minggu;Aman
+;Kabupaten Kerinci;12;Kayu Aro Barat;10;Patok Empat;Aman
+;Kabupaten Kerinci;12;Kayu Aro Barat;11;Suko Duo;Aman
+;Kabupaten Kerinci;12;Kayu Aro Barat;12;Sungai Asam;Aman
+;Kabupaten Kerinci;12;Kayu Aro Barat;13;Sungai Jambu;Aman
+;Kabupaten Kerinci;12;Kayu Aro Barat;14;Sungai Kering;Aman
+;Kabupaten Kerinci;12;Kayu Aro Barat;15;Sungai Lintang;Aman
+;Kabupaten Kerinci;12;Kayu Aro Barat;16;Sungai Renah;Aman
+;Kabupaten Kerinci;12;Kayu Aro Barat;17;Kebun Baru;Aman
+;Kabupaten Kerinci;13;ling Danau;1;Benik;Aman
+;Kabupaten Kerinci;13;ling Danau;2;Bukit Pulai;Aman
+;Kabupaten Kerinci;13;ling Danau;3;Dusun Baru Pulau Tengah;Aman
+;Kabupaten Kerinci;13;ling Danau;4;Jembatan Merah;Aman
+;Kabupaten Kerinci;13;ling Danau;5;Jujun;Aman
+;Kabupaten Kerinci;13;ling Danau;6;ru;Aman
+;Kabupaten Kerinci;13;ling Danau;7;Koto Agung;Aman
+;Kabupaten Kerinci;13;ling Danau;8;Koto Baru;Aman
+;Kabupaten Kerinci;13;ling Danau;9;Koto Baru Semerap;Aman
+;Kabupaten Kerinci;13;ling Danau;10;Koto Dian Pulau Tengah;Aman
+;Kabupaten Kerinci;13;ling Danau;11;Koto Patah;Aman
+;Kabupaten Kerinci;13;ling Danau;12;Koto Tengah;Aman
+;Kabupaten Kerinci;13;ling Danau;13;Koto Tuo Pulau Tengah;Aman
+;Kabupaten Kerinci;13;ling Danau;14;Lempur Danau;Aman
+;Kabupaten Kerinci;13;ling Danau;15;Limok Manaih;Aman
+;Kabupaten Kerinci;13;ling Danau;16;Pancuran Bangko;Aman
+;Kabupaten Kerinci;13;ling Danau;17;Pancuran Tiga;Aman
+;Kabupaten Kerinci;13;ling Danau;18;Pasar Jujun;Aman
+;Kabupaten Kerinci;13;ling Danau;19;Pasar Semarap;Aman
+;Kabupaten Kerinci;13;ling Danau;20;Permai Baru;Aman
+;Kabupaten Kerinci;13;ling Danau;21;Pidung;Aman
+;Kabupaten Kerinci;13;ling Danau;22;Pondok Siguang;Aman
+;Kabupaten Kerinci;13;ling Danau;23;Pulau Tengah;Aman
+;Kabupaten Kerinci;13;ling Danau;24;Punai Merindu;Aman
+;Kabupaten Kerinci;13;ling Danau;25;Semerap;Aman
+;Kabupaten Kerinci;13;ling Danau;26;Serumpun Pauh;Aman
+;Kabupaten Kerinci;13;ling Danau;27;Sumur Jauh;Aman
+;Kabupaten Kerinci;13;ling Danau;28;Talang Lindung;Aman
+;Kabupaten Kerinci;13;ling Danau;29;Tanjung Batu;Aman
+;Kabupaten Kerinci;13;ling Danau;30;Tanjung Pauh Hilir;Aman
+;Kabupaten Kerinci;13;ling Danau;31;Tanjung Pauh Mudik;Aman
+;Kabupaten Kerinci;13;ling Danau;32;Telago;Aman
+;Kabupaten Kerinci;14;Sitinjau Laut;1;Ambai Atas;Aman
+;Kabupaten Kerinci;14;Sitinjau Laut;2;Ambai Bawah;Aman
+;Kabupaten Kerinci;14;Sitinjau Laut;3;Angkasa Pura;Aman
+;Kabupaten Kerinci;14;Sitinjau Laut;4;Baru Semerah;Aman
+;Kabupaten Kerinci;14;Sitinjau Laut;5;Betung Kuning;Aman
+;Kabupaten Kerinci;14;Sitinjau Laut;6;Bunga Tanjung;Aman
+;Kabupaten Kerinci;14;Sitinjau Laut;7;Hiang Karya;Aman
+;Kabupaten Kerinci;14;Sitinjau Laut;8;Hiang Lestari;Aman
+;Kabupaten Kerinci;14;Sitinjau Laut;9;Hiang Sakti;Aman
+;Kabupaten Kerinci;14;Sitinjau Laut;10;Hiang Tinggi;Aman
+;Kabupaten Kerinci;14;Sitinjau Laut;11;Kayu Aro Ambai;Aman
+;Kabupaten Kerinci;14;Sitinjau Laut;12;Koto Baru Hiang;Aman
+;Kabupaten Kerinci;14;Sitinjau Laut;13;Koto Sekilan Ambai;Aman
+;Kabupaten Kerinci;14;Sitinjau Laut;14;Penawar Tinggi;Aman
+;Kabupaten Kerinci;14;Sitinjau Laut;15;Pendung Hilir;Aman
+;Kabupaten Kerinci;14;Sitinjau Laut;16;Pendung Tengah;Aman
+;Kabupaten Kerinci;14;Sitinjau Laut;17;Pondok Beringin;Aman
+;Kabupaten Kerinci;14;Sitinjau Laut;18;Sebukar;Aman
+;Kabupaten Kerinci;14;Sitinjau Laut;19;Semerah;Aman
+;Kabupaten Kerinci;14;Sitinjau Laut;20;Tanjung Mudo;Aman
+;Kabupaten Kerinci;15;Siulak;1;Air Terjun;Aman
+;Kabupaten Kerinci;15;Siulak;2;Sungai Pegeh;Aman
+;Kabupaten Kerinci;15;Siulak;3;Bendar Sedap;Aman
+;Kabupaten Kerinci;15;Siulak;4;Demong Sakti;Aman
+;Kabupaten Kerinci;15;Siulak;5;Dusun Baru;Aman
+;Kabupaten Kerinci;15;Siulak;6;Dusun Dalam;Aman
+;Kabupaten Kerinci;15;Siulak;7;Koto Aro;Aman
+;Kabupaten Kerinci;15;Siulak;8;Koto Beringin;Aman
+;Kabupaten Kerinci;15;Siulak;9;Koto Kapeh;Aman
+;Kabupaten Kerinci;15;Siulak;10;Koto Lebuh Tinggi;Aman
+;Kabupaten Kerinci;15;Siulak;11;Koto Rendah;Aman
+;Kabupaten Kerinci;15;Siulak;12;Koto Tengah;Aman
+;Kabupaten Kerinci;15;Siulak;13;Lubuk Ngodang;Aman
+;Kabupaten Kerinci;15;Siulak;14;Padang Jantung;Aman
+;Kabupaten Kerinci;15;Siulak;15;Pasar Senen;Aman
+;Kabupaten Kerinci;15;Siulak;16;Pasar Siulak Gedang;Aman
+;Kabupaten Kerinci;15;Siulak;17;Pelak Gedang;Aman
+;Kabupaten Kerinci;15;Siulak;18;Plak Naneh;Aman
+;Kabupaten Kerinci;15;Siulak;19;Siulak Gedang;Aman
+;Kabupaten Kerinci;15;Siulak;20;Siulak Kecil Hilir;Aman
+;Kabupaten Kerinci;15;Siulak;21;Siulak Kecil Mudik;Aman
+;Kabupaten Kerinci;15;Siulak;22;Siulak Panjang;Aman
+;Kabupaten Kerinci;15;Siulak;23;Sungai Lebuh;Aman
+;Kabupaten Kerinci;15;Siulak;24;Sungai Pegeh;Aman
+;Kabupaten Kerinci;15;Siulak;25;Telago Biru;Aman
+;Kabupaten Kerinci;15;Siulak;26;Tutung Bungkuk;Aman
+;Kabupaten Kerinci;15;Siulak;27;Sei Ulak;Waspada
+;Kabupaten Kerinci;16;Siulak Mukai;1;Koto Lua;Aman
+;Kabupaten Kerinci;16;Siulak Mukai;2;Lubuk Tabun;Aman
+;Kabupaten Kerinci;16;Siulak Mukai;3;Mukai Hilir;Aman
+;Kabupaten Kerinci;16;Siulak Mukai;4;Mukai Mudik;Aman
+;Kabupaten Kerinci;16;Siulak Mukai;5;Mukai Pintu;Aman
+;Kabupaten Kerinci;16;Siulak Mukai;6;Mukai Seberang;Aman
+;Kabupaten Kerinci;16;Siulak Mukai;7;Mukai Tengah;Aman
+;Kabupaten Kerinci;16;Siulak Mukai;8;Mukai Tinggi;Aman
+;Kabupaten Kerinci;16;Siulak Mukai;9;Pasir Jaya;Aman
+;Kabupaten Kerinci;16;Siulak Mukai;10;Senimpik;Aman
+;Kabupaten Kerinci;16;Siulak Mukai;11;Sungai Kuning;Aman
+;Kabupaten Kerinci;16;Siulak Mukai;12;Sungai Langkap;Aman
+;Kabupaten Kerinci;16;Siulak Mukai;13;Talang Tinggi;Aman
+;Kabupaten Kerinci;16;Siulak Mukai;14;Tebing Tinggi;Aman
+11;Kota Sungai Penuh;1;Hamparan Rawang;1;Cempaka;Aman
+;Kota Sungai Penuh;1;Hamparan Rawang;2;Dusun Dilir;Aman
+;Kota Sungai Penuh;1;Hamparan Rawang;3;Kampung Dalam;Aman
+;Kota Sungai Penuh;1;Hamparan Rawang;4;Kampung Dilir;Aman
+;Kota Sungai Penuh;1;Hamparan Rawang;5;Koto Beringin;Aman
+;Kota Sungai Penuh;1;Hamparan Rawang;6;Koto Dian;Aman
+;Kota Sungai Penuh;1;Hamparan Rawang;7;Koto Teluk;Aman
+;Kota Sungai Penuh;1;Hamparan Rawang;8;Larik Kemahan;Aman
+;Kota Sungai Penuh;1;Hamparan Rawang;9;Maliki Air;Aman
+;Kota Sungai Penuh;1;Hamparan Rawang;10;Paling Serumpun;Aman
+;Kota Sungai Penuh;1;Hamparan Rawang;11;Simp.Tiga Rawang;Aman
+;Kota Sungai Penuh;1;Hamparan Rawang;12;Tanjung;Aman
+;Kota Sungai Penuh;1;Hamparan Rawang;13;Tanjung Muda;Aman
+;Kota Sungai Penuh;2;Koto Baru;1;Dujung Sakti;Aman
+;Kota Sungai Penuh;2;Koto Baru;2;Kampung Tengah;Aman
+;Kota Sungai Penuh;2;Koto Baru;3;Koto Baru;Aman
+;Kota Sungai Penuh;2;Koto Baru;4;Koto Limau Manis;Aman
+;Kota Sungai Penuh;2;Koto Baru;5;Permain Indah;Aman
+;Kota Sungai Penuh;2;Koto Baru;6;Srimenanti;Aman
+;Kota Sungai Penuh;3;Kumun Debai;1;Air Teluk;Aman
+;Kota Sungai Penuh;3;Kumun Debai;2;Debai;Aman
+;Kota Sungai Penuh;3;Kumun Debai;3;Kumun Hilir;Aman
+;Kota Sungai Penuh;3;Kumun Debai;4;Kumun Mudik;Aman
+;Kota Sungai Penuh;3;Kumun Debai;5;Muara Jaya;Aman
+;Kota Sungai Penuh;3;Kumun Debai;6;Pinggirr Air;Aman
+;Kota Sungai Penuh;3;Kumun Debai;7;Renah Kayu Embun;Aman
+;Kota Sungai Penuh;3;Kumun Debai;8;Sandaran Galeh;Aman
+;Kota Sungai Penuh;3;Kumun Debai;9;Ulu Air;Aman
+;Kota Sungai Penuh;4;Pesisir Bukit;1;Koto Bento;Aman
+;Kota Sungai Penuh;4;Pesisir Bukit;2;Koto Keras;Aman
+;Kota Sungai Penuh;4;Pesisir Bukit;3;Koto Lolo;Aman
+;Kota Sungai Penuh;4;Pesisir Bukit;4;Koto Renah;Aman
+;Kota Sungai Penuh;4;Pesisir Bukit;5;Koto Tengah;Aman
+;Kota Sungai Penuh;4;Pesisir Bukit;6;Koto Duo;Aman
+;Kota Sungai Penuh;4;Pesisir Bukit;7;Seberang;Aman
+;Kota Sungai Penuh;4;Pesisir Bukit;8;Sumur Gedang;Aman
+;Kota Sungai Penuh;4;Pesisir Bukit;9;Sungai Liuk;Aman
+;Kota Sungai Penuh;5;Pondok Tinggi;1;Aur Duri;Aman
+;Kota Sungai Penuh;5;Pondok Tinggi;2;Karya Bakti;Aman
+;Kota Sungai Penuh;5;Pondok Tinggi;3;Koto Lembu;Aman
+;Kota Sungai Penuh;5;Pondok Tinggi;4;Lawang Agung;Aman
+;Kota Sungai Penuh;5;Pondok Tinggi;5;Permanti;Aman
+;Kota Sungai Penuh;5;Pondok Tinggi;6;Pondok Agung;Aman
+;Kota Sungai Penuh;5;Pondok Tinggi;7;Sungai Jernih;Aman
+;Kota Sungai Penuh;5;Pondok Tinggi;8;Pondok Tinggi;Siaga
+;Kota Sungai Penuh;6;Sungai Bungkal;1;Tinggi;Aman
+;Kota Sungai Penuh;6;Sungai Bungkal;2;Pelayang Rayang;Aman
+;Kota Sungai Penuh;6;Sungai Bungkal;3;Sumur Anyir;Aman
+;Kota Sungai Penuh;6;Sungai Bungkal;4;Sungai Ning;Aman
+;Kota Sungai Penuh;6;Sungai Bungkal;5;Talang Lindung;Aman
+;Kota Sungai Penuh;6;Sungai Bungkal;6;Dusun Baru;Aman
+;Kota Sungai Penuh;7;Sungai Penuh;1;Sungai Penuh;Aman
+;Kota Sungai Penuh;7;Sungai Penuh;2;Pasar Sungai Penuh;Aman
+;Kota Sungai Penuh;7;Sungai Penuh;3;Pasar Baru;Aman
+;Kota Sungai Penuh;7;Sungai Penuh;4;Amar Sakti; PenuhAman
+;Kota Sungai Penuh;7;Sungai Penuh;5;Gedang;Siaga
+;Kota Sungai Penuh;8;Tanah Kampung;1;Baru Debai;Aman
+;Kota Sungai Penuh;8;Tanah Kampung;2;Koto Tanah Kampung;Aman
+;Kota Sungai Penuh;8;Tanah Kampung;3;Koto Padang;Aman
+;Kota Sungai Penuh;8;Tanah Kampung;4;Koto Panap;Aman
+;Kota Sungai Penuh;8;Tanah Kampung;5;Koto Pudung;Aman
+;Kota Sungai Penuh;8;Tanah Kampung;6;Koto Tengah;Aman
+;Kota Sungai Penuh;8;Tanah Kampung;7;Koto Tuo;Aman
+;Kota Sungai Penuh;8;Tanah Kampung;8;Koto Dumo;Aman
+;Kota Sungai Penuh;8;Tanah Kampung;9;Mekar Jaya;Aman
+;Kota Sungai Penuh;8;Tanah Kampung;10;Pandung Hiang;Aman
+;Kota Sungai Penuh;8;Tanah Kampung;11;Sembilan;Aman
+;Kota Sungai Penuh;8;Tanah Kampung;12;Tanjung Bunga;Aman
+;Kota Sungai Penuh;8;Tanah Kampung;13;Tanjung Karang;Aman

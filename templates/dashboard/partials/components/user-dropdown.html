@@ -1,0 +1,70 @@
+{% load static %}
+<ul class="navbar-nav flex-row align-items-center ms-auto">
+    <!-- User Dropdown Menu -->
+    <li class="nav-item navbar-dropdown dropdown-user dropdown user-info-dropdown">
+        <a class="nav-link dropdown-toggle hide-arrow" href="javascript:void(0);" data-bs-toggle="dropdown">
+            <div class="row">
+                <div class="col pe-0">
+                    <div class="avatar avatar-online" id="dropdown__user_avatar">
+                        <img src="{{ user.profile.get_avatar }}" alt=""
+                            class="rounded-circle object-fit-cover" />
+                    </div>
+                </div>
+                <div class="col pe-0">
+                    <!-- User name-->
+                    <span class="fw-medium d-block" id="dropdown__user_name">
+                        {% if user.first_name or user.last_name %}
+                            {{ user.first_name|default:'' }} {{ user.last_name|default:'' }}
+                        {% else %}
+                            {% if user.is_superuser %}
+                            Super Admin
+                            {% elif user.is_staff %}
+                            Admin
+                            {% endif %}
+                        {% endif %}
+                    </span>
+
+                    <!-- User role -->
+                    <span class="fw-regular text-secondary d-block text-capitalize" id="dropdown__user_role">
+                        {% if user.profile.satker and not user.is_superuser %}
+                            {{ user.profile.satker.nama_satker }}
+                        {% elif not user.is_superuser %}
+                            BNNP ---
+                        {% else %}
+                            superadmin
+                        {% endif %}
+                    </span>
+                </div>
+                <div class="col d-flex align-items-center">
+                    <i class="fas fa-chevron-down"></i>
+                </div>
+            </div>
+        </a>
+        <ul class="dropdown-menu dropdown-menu-end">
+            {% if user.is_active %}
+            <li>
+                <a class="dropdown-item" href="{% url 'dashboard:profil_saya' %}">
+                    <i class="ti ti-user-check me-2 ti-sm"></i>
+                    <span class="align-middle">Profil Saya</span>
+                </a>
+            </li>
+            <li>
+                <a class="dropdown-item" href="{% url 'dashboard:keamanan' %}">
+                    <i class="ti ti-lock me-2 ti-sm"></i>
+                    <span class="align-middle">Keamanan</span>
+                </a>
+            </li>
+            <li>
+                <div class="dropdown-divider"></div>
+            </li>
+            {% endif %}
+            <li>
+                <a class="dropdown-item" href="javascript:;" data-bs-toggle="modal" data-bs-target="#logoutModal">
+                    <i class="ti ti-logout me-2 ti-sm"></i>
+                    <span class="align-middle">Keluar</span>
+                </a>
+            </li>
+        </ul>
+    </li>
+    <!-- / User -->
+</ul>

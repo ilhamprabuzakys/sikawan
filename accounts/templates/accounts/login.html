@@ -1,0 +1,281 @@
+{% extends "home/base_home.html" %}
+{% load static %}
+
+{% block title %} Masuk {% endblock title %}
+
+{% block content %}
+
+<section class="form-signin w-50 m-auto" data-aos="fade-up">
+
+    <div id="login__header">
+        <img class="mb-4" src="{% static '/assets/images/icon.png' %}" alt="" width="72">
+        <h1 class="h3 mb-3 fw-normal">Silahkan masuk</h1>
+
+        <p class="mb-3">
+            Masuk ke aplikasi kawan untuk memonitoring data <b>Kawasan Rawan</b> diseluruh Indonesia! Anda dapat login menggunakan <b>akun BNN</b> mu!</p></b>
+    </div>
+
+    <div id="errorAlert" class="alert alert-danger fade show d-none" role="alert">
+        <span>
+            <strong>Terjadi Kesalahan!</strong> <br>Tolong perbaiki inputan anda.
+        </span>
+
+        <ul class="mt-3 error-list" id="errorList">
+        </ul>
+    </div>
+
+
+    <form id="login__form" onsubmit="handleSubmit(event)">
+
+        {% comment %} {% csrf_token %} {% endcomment %}
+        {% comment %} {{ form.as_p }} {% endcomment %}
+
+        <div class="form-floating mb-3">
+            <input type="text" class="form-control" id="username" placeholder="Masukan username webmail bnn mu"
+                name="username" required>
+            <label for="username">Username</label>
+        </div>
+        <div class="form-floating mb-3">
+            <input type="password" class="form-control" id="password" placeholder="*****" name="password"
+                type="password" required>
+            <label for="password">Password</label>
+        </div>
+
+        <div class="form-check d-flex justify-content-between my-3">
+            
+            <span class="info__lihat_password">
+                <input class="form-check-input" type="checkbox" id="lihat_password" onclick="togglePasswordVisibility()">
+                <label class="form-check-label" for="lihat_password">
+                    Lihat password
+                </label>
+            </span>
+
+            <span class="info__lupa_password" onclick="handleForgotPassword()">
+                <a href="javascript:void(0)" class="text-decoration-none">Lupa password?</a>
+            </span>
+        </div>
+        <button class="btn btn-success w-100 py-2" type="submit">
+            <i class="fas fa-sign-in-alt me-2"></i>Masuk</button>
+    </form>
+</section>
+{% endblock content %}
+
+{% block scripts %}
+{% if form.errors %}
+<script>
+    (async () => {
+        await sleep(400);
+
+        Swal.fire({
+            title: 'Terjadi Kesalahan',
+            icon: 'error',
+            html: `Kredensials yang anda masukan <b>tidak tepat</b>,
+            <br>atau akun yang anda masukan <b>tidak ditemukan</b><br>
+            silahkan periksa kembali <b>inputan</b> anda.`,
+            confirmButtonText: 'Tutup',
+            timer: 3000,
+        });
+    }) ();
+</script>
+{% endif %}
+<script>
+    const form = document.querySelector('#login__form');
+    const errorAlert = document.querySelector('#errorAlert');
+    const errorList = document.querySelector('#errorList');
+
+    const toggleErrorAlert = (show) => {
+        errorAlert.classList.toggle('d-none', !show);
+    };
+
+    const displayErrors = () => {
+        errorList.innerHTML = '';
+        errors.forEach(error => {
+            const errorItem = document.createElement('li');
+            errorItem.textContent = error;
+            errorList.appendChild(errorItem);
+        });
+    };
+
+    const handleSubmit = async (e) => {
+        e.preventDefault();
+
+        errors = [];
+
+        const username = form.querySelector('#username').value.trim();
+        const password = form.querySelector('#password').value.trim();
+
+        // Validasi input
+        if (!username) {
+            errors.push('Username : tidak boleh kosong.');
+        }
+        if (!password) {
+            errors.push('Password : tidak boleh kosong.');
+        }
+
+        // Tampilkan error jika ada
+        toggleErrorAlert(errors.length > 0);
+        if (errors.length > 0) {
+            console.log('Validation status : ', 'Error');
+            displayErrors();
+            return false;
+        }
+
+        const data = new URLSearchParams({ username, password });
+        try {
+
+            showSwalLoading();
+
+            const response = await axios.post('/accounts/login/', data, {
+                headers: {
+                    'Content-Type': 'application/x-www-form-urlencoded',
+                    'X-CSRFToken': getCSRFToken()
+                },
+            });
+
+            /*
+                const response = await fetch(this.apiURL, {
+                    method: "POST",
+                    headers: {
+                        "Content-Type": "application/x-www-form-urlencoded",
+                        "X-CSRFToken": getXCSRFToken(),
+                    },
+                    body: new URLSearchParams({
+                        username: trimmedUsername,
+                        password: trimmedPassword,
+                    }),
+                });
+            */
+            
+            const response_origin_url = new URL(response.request.responseURL);
+            const response_url = response_origin_url.pathname;
+
+            const success_login = response_url != '/accounts/login/'
+
+            if (!response.status == 200) {
+                throw new Error('Authentication failed, please try again.');
+            }
+
+            if (!success_login) {
+                throw new Error('Authentication failed, please check your credentials.');
+            }
+
+            showSwalSuccess('Berhasil!', 'Anda telah berhasil login, akan segera dialihkan!', 900);
+
+            const nextUrl = new URLSearchParams(window.location.search).get('next');
+            const redirectUrl = nextUrl || '/dashboard/';
+
+            await sleep(1000);
+
+            console.log('Redirect ke URL : ', redirectUrl)
+
+            window.location.href = redirectUrl;
+
+        } catch (error) {
+            console.error('Terjadi kesalahan :', error);
+
+            showSwalError('Terjadi Kesalahan', `Kredensials yang anda masukan <b>salah</b> atau <b>tidak ditemukan</b>, silahkan periksa kembali <b>inputan</b> anda.`);
+
+        } finally {
+            // form.reset();
+            form.querySelector('#password').value = '';
+        }
+    };
+
+    // Stuff
+    const togglePasswordVisibility = () => {
+        const passwordInput = form.querySelector('#password');
+        const checkbox = form.querySelector('#lihat_password');
+
+        if (checkbox.checked) {
+            passwordInput.type = 'text';
+        } else {
+            passwordInput.type = 'password';
+        }
+    };
+
+    const handleForgotPassword = async () => {
+        const confirmation = await Swal.fire({
+            title: "Lupa password anda?",
+            html: `Pilih jenis <b>user</b> anda terlebih dahulu!`,
+            icon: "info",
+            confirmButtonText: "Saya adalah Admin.",
+            denyButtonText: "Saya adalah Super Admin",
+            denyButtonColor: 'green',
+            showDenyButton: true,
+            showCancelButton: false,
+            cancelButtonText: 'Batalkan',
+            showCloseButton: true,
+        });
+
+        if (confirmation.isDenied) {
+            window.open("https://puslitdatin.bnn.go.id/kontak/#fws_65ab64f055da2");
+        }
+
+        if (!confirmation.isConfirmed) {
+            return;
+        }
+
+        const { value : email, isConfirmed : gotoNextStep } = await Swal.fire({
+            title: "Masukan email yang anda",
+            html: `Jika email yang anda masukan <b>ditemukan</b>, kami akan mengirimkan permohonan <b>reset password</b> ke Super Admin untuk akun yang bersangkutan.`,
+            input: "email",
+            validationMessage: 'Format alamat email tidak valid! wajib menggunakan @',
+            inputPlaceholder: "______@_______",
+            inputAttributes: {
+                autocapitalize: "off",
+                required: true,
+            },
+            showCancelButton: true,
+            cancelButtonText: 'Batalkan',
+            confirmButtonText: "Kirim",
+        });
+
+        if (!gotoNextStep) {
+            return;
+        }
+
+        console.log('Email : ', email);
+            
+        showSwalLoading();
+
+        await sleep(1000);
+
+        try {
+            const response = await axios.post('/accounts/api/request-reset-password/', {email});
+
+            console.log('Response : ', response);
+
+            showSwalSuccess('Berhasil!', `Data akun dengan email <b>${email}</b> <br>telah berhasil <b>ditemukan</b>, <br>Permohonan <b>Reset Password</b> telah dikirimkan ke <br>Super Admin untuk <b>ditindak lanjuti</b>` , 0);
+        } catch (error) {
+            console.error('Terjadi kesalahan :', error)
+
+            showSwalError('Terjadi Kesalahan!', `Akun dengan email <b>${email}</b> <b>tidak ditemukan </b>` , 0);
+        }
+    };
+</script>
+{% endblock scripts %}
+
+{% block head %}
+<style>
+    .form-signin {
+        max-width: 1000px;
+        padding: 1rem;
+    }
+
+    .form-signin .form-floating:focus-within {
+        z-index: 2;
+    }
+
+    .form-signin input[type="email"] {
+        margin-bottom: -1px;
+        border-bottom-right-radius: 0;
+        border-bottom-left-radius: 0;
+    }
+
+    .form-signin input[type="password"] {
+        margin-bottom: 10px;
+        border-top-left-radius: 0;
+        border-top-right-radius: 0;
+    }
+</style>
+{% endblock head %}

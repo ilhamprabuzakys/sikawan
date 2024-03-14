@@ -1,0 +1,185 @@
+{% extends 'dashboard/base_dashboard.html' %}
+{% load static %}
+{% block title %} Tabel Sebaran Kawasan Rawan {% endblock %}
+
+{% block modal_tambahan %}
+{% include "masters/tabel_sebaran/modals/filter_modal.html" %}
+{% endblock modal_tambahan %}
+
+{% block content %}
+
+<div class="mb-3">
+    <div class="row justify-content-between">
+        <div class="col-6 d-flex align-items-center">
+            <div>
+                <h3 class="heading d-block mb-2">Data Sebaran Kawasan Rawan <b>{{ tahun }}</b></h3>
+                <span class="mb-0">
+                    <a href="{% url 'dashboard:index' %}" class="text-muted fw-light">Beranda / </a>
+                    <span class="ms-1 text-muted">Kawasan Rawan /</span>
+                    <span class="ms-1 fw-medium">Data Sebaran</span>
+                </span>
+            </div>
+        </div>
+        <div class="col-6 d-flex justify-content-end align-items-end">
+            <div class="w-lg-25 w-sm-50 me-2">
+                <label for="statistik_pelaporan_kawasan" class="form-label">Data Kawasan Rawan</label>
+                <span class="form-control"><span id="statistik_pelaporan_kawasan">0</span>/<span
+                        id="statistik_total_desa">{{ jumlah_desa }}</span></span>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<section id="__data">
+
+    {% include "masters/tabel_sebaran/partials/blok_jumlah_status_kerawanan.html" %}
+
+    <div class="card mt-3">
+        <div class="card-header row justify-content-between pb-0">
+            <div class="col-lg-8 d-flex align-items-center">
+                <div class="ps-3 pt-2">
+                    <h3 class="text-start">Data Sebaran Kawasan Rawan Indonesia <b>{{ tahun }}</b></h3>
+                    <h6 class="text-start">Anda sedang melihat <b>keseluruhan</b> data Kawasan Rawan di Indonesia
+                        beserta <b>status kerawanannya</b><br>
+                    </h6>
+                </div>
+            </div>
+            <!-- Range filter -->
+            <div class="col-lg-4 d-flex justify-content-lg-end justify-content-sm-end gap-3 my-sm-3 my-lg-0">
+                <div>
+                    <div class="btn-group dropstart" data-bs-toggle="tooltip" data-bs-placement="top"
+                        data-bs-custom-class="tooltip-dark" data-bs-original-title="Klik disini untuk memfilter data.">
+                        <button type="button" class="btn btn-label-success rounded-pill dropdown-toggle hide-arrow"
+                            data-bs-toggle="dropdown" aria-expanded="false" data-bs-offset="10,20"
+                            data-bs-auto-close="outside"><i class="fas fa-filter me-2"></i>Filter</button>
+                        <ul class="dropdown-menu w-px-500">
+                            <li>
+                                <h5 class="dropdown-header text-uppercase">Filter Data</h5>
+                            </li>
+                            <li>
+                                <hr class="dropdown-divider">
+                            </li>
+                            <div class="pt-0 pb-3 px-3" id="filter_form">
+                                <div class="mb-2">
+                                    <label for="filter__tahun" class="form-label">Tahun</label>
+                                    <select id="filter__tahun" class="form-select" required>
+                                        <option disabled value="">-- Pilih Tahun --</option>
+                                        {% for item in list_year %}
+                                        <option value="{{ item }}" {% if item == tahun %} selected {% endif %}>
+                                            {{ item }}
+                                        </option>
+                                        {% endfor %}
+                                    </select>
+                                </div>
+
+                                <div class="mb-2">
+                                    <label for="filter__tipe" class="form-label">Tipe Filter</label>
+                                    <select id="filter__tipe" class="form-select" required>
+                                        <option disabled selected value="">-- Pilih Tipe --</option>
+                                        <option value="total">Total</option>
+                                        <option value="bahaya">Bahaya</option>
+                                        <option value="waspada">Waspada</option>
+                                        <option value="siaga">Siaga</option>
+                                        <option value="aman">Aman</option>
+                                    </select>
+                                </div>
+
+                                <div class="mb-2">
+                                    <label for="filter__awal" class="form-label">Awal / Minimum Jumlah</label>
+                                    <input type="number" class="form-control" id="filter__awal">
+                                </div>
+
+                                <div class="mb-2">
+                                    <label for="filter__akhir" class="form-label">Akhir / Maksimum Jumlah</label>
+                                    <input type="number" class="form-control" id="filter__akhir">
+                                </div>
+                            </div>
+                            <li>
+                                <hr class="dropdown-divider">
+                            </li>
+                            <div class="d-flex justify-content-end px-3 py-2">
+                                <button type="button" class="btn btn-label-secondary fw-semibold me-2 px-6"
+                                    id="resetFilter" onclick="handleResetFilter()"><i
+                                        class="fas fa-xmark me-2"></i>Reset</button>
+
+                                <button type="button" class="btn btn-primary fw-semibold px-6"
+                                    onclick="handleApplyFilter()" id="applyFilter"><i class="fas fa-save me-2"></i>
+                                    Terapkan</button>
+                            </div>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="card-body">
+            <hr class="mx-n4" />
+
+            <!-- <div id="info_section">
+                <div class="row align-items-center justify-content-between">
+                    <div class="col-lg-10">
+
+                        <div id="info_indonesia" class="">
+                            <div class="d-inline">
+                                <span class="text-muted">Data Kawasan Rawan {{ tahun }} se-Indonesia :</span>
+
+                                <span class="mx-2">
+                                    <span class="text-muted">Total Bahaya : </span>
+                                    <span id="info_bahaya" class="text-primary">{{ jumlah_bahaya }}</span>
+                                </span>
+
+                                <span class="me-2">
+                                    <span class="text-muted">Total Waspada : </span>
+                                    <span id="info_waspada" class="text-primary">{{ jumlah_waspada}}</span>
+                                </span>
+                                
+                                <span class="me-2">
+                                    <span class="text-muted">Total Siaga : </span>
+                                    <span id="info_siaga" class="text-primary">{{ jumlah_siaga }}</span>
+                                </span>
+                                
+                                <span class="me-2">
+                                    <span class="text-muted">Total Aman : </span>
+                                    <span id="info_aman" class="text-primary">{{ jumlah_aman }}</span>
+                                </span>
+                                
+                                <span class="me-2">
+                                    <span class="text-muted">Total Desa : </span>
+                                    <span id="info_desa" class="text-primary">{{ jumlah_desa }}</span>
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+
+                    {% comment %} <div class="col-lg-2">
+                        <div class="action-button">
+                            <div class="d-flex justify-content-end mb-3 gap-2">
+                                <button class="btn btn-primary" data-bs-toggle="modal"
+                                    data-bs-target="#filterModal">
+                                    <i class="far fa-clock me-2"></i>Filter</button>
+                            </div>
+                        </div>
+                    </div> {% endcomment %}
+                </div>
+            </div> -->
+
+            <div id="container__table" class="table-responsive">
+                {% include 'masters/tabel_sebaran/tables/table.html' %}
+            </div>
+        </div>
+    </div>
+</section>
+{% endblock %}
+
+{% block vue %}{% endblock vue %}
+
+{% block js_tambahan %}
+<script>
+    var tahunSaatIni = '{{ tahun }}';
+</script>
+<script src="{% static 'masters/tabel_sebaran/js/fetch_statistik_sebaran.js' %}"></script>
+<script src="{% static 'masters/tabel_sebaran/js/dt_filters.js' %}"></script>
+<script src="{% static 'masters/tabel_sebaran/js/dt.js' %}"></script>
+{% endblock %}

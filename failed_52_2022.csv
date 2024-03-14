@@ -1,0 +1,675 @@
+;KOTA MATARAM;;ampenan;7;Kebun Sari (Kebunsari);SIAGA
+;KOTA MATARAM;;ampenan;10;Taman Sari (Tamansari);SIAGA
+;KOTA MATARAM;2;selaparang;11;Dasan Agung;BAHAYA
+;KOTA MATARAM;;selaparang;12;Dasan Agung Baru;WASPADA
+;KOTA MATARAM;;selaparang;13;Gomong;WASPADA
+;KOTA MATARAM;;selaparang;14;Karang Baru;SIAGA
+;KOTA MATARAM;;selaparang;15;Mataram Barat;SIAGA
+;KOTA MATARAM;;selaparang;16;Monjok;SIAGA
+;KOTA MATARAM;;selaparang;17;Monjok Barat;SIAGA
+;KOTA MATARAM;;selaparang;18;Monjok Timur;SIAGA
+;KOTA MATARAM;;selaparang;19;Rembiga;SIAGA
+;KOTA MATARAM;3;sekarbela;20;Jempong Baru (Jempang Baru);SIAGA
+;KOTA MATARAM;;cakranegara;50;Sayang Sayang;SIAGA
+2;KAB. LOMBOK BARAT;1;gerung;51;Babussalam;SIAGA
+;KAB. LOMBOK BARAT;;gerung;52;Banyu Urip;SIAGA
+;KAB. LOMBOK BARAT;;gerung;53;Beleke;SIAGA
+;KAB. LOMBOK BARAT;;gerung;54;Dasan Geres;SIAGA
+;KAB. LOMBOK BARAT;;gerung;55;Dasan Tapen;WASPADA
+;KAB. LOMBOK BARAT;;gerung;56;Gapuk;AMAN
+;KAB. LOMBOK BARAT;;gerung;57;Gerung Selatan;SIAGA
+;KAB. LOMBOK BARAT;;gerung;58;Gerung Utara;SIAGA
+;KAB. LOMBOK BARAT;;gerung;59;Giri Tembesi;AMAN
+;KAB. LOMBOK BARAT;;gerung;60;Kebon Ayu (Kebunayu);AMAN
+;KAB. LOMBOK BARAT;;gerung;61;Mesanggok;AMAN
+;KAB. LOMBOK BARAT;;gerung;62;Suka Makmur (Sukamakmur);SIAGA
+;KAB. LOMBOK BARAT;;gerung;63;Taman Ayu;WASPADA
+;KAB. LOMBOK BARAT;;gerung;64;Tempos;AMAN
+;KAB. LOMBOK BARAT;1;batu layar;65;Batu Layar Barat;SIAGA
+;KAB. LOMBOK BARAT;;batu layar;66;Batulayar (Batu Layar);BAHAYA
+;KAB. LOMBOK BARAT;;batu layar;67;Bengkaung;AMAN
+;KAB. LOMBOK BARAT;;batu layar;68;Lembah Sari;AMAN
+;KAB. LOMBOK BARAT;;batu layar;69;Meninting;AMAN
+;KAB. LOMBOK BARAT;;batu layar;70;Pusuk Lestari;AMAN
+;KAB. LOMBOK BARAT;;batu layar;71;Sandik;SIAGA
+;KAB. LOMBOK BARAT;;batu layar;72;Senggigi;WASPADA
+;KAB. LOMBOK BARAT;;batu layar;73;Senteluk;SIAGA
+;KAB. LOMBOK BARAT;3;kediri;74;Banyumulek;SIAGA
+;KAB. LOMBOK BARAT;;kediri;75;Dasan Baru;SIAGA
+;KAB. LOMBOK BARAT;;kediri;76;Gelogor;SIAGA
+;KAB. LOMBOK BARAT;;kediri;77;Jagaraga Indah;SIAGA
+;KAB. LOMBOK BARAT;;kediri;78;Kediri;SIAGA
+;KAB. LOMBOK BARAT;;kediri;79;Kediri Selatan;SIAGA
+;KAB. LOMBOK BARAT;;kediri;80;Lelede;SIAGA
+;KAB. LOMBOK BARAT;;kediri;81;Montong Are;SIAGA
+;KAB. LOMBOK BARAT;;kediri;82;Ombe Baru;SIAGA
+;KAB. LOMBOK BARAT;;kediri;83;Rumak;SIAGA
+;KAB. LOMBOK BARAT;4;gunung sari;84;Bukittinggi;AMAN
+;KAB. LOMBOK BARAT;;gunung sari;85;Dopang;SIAGA
+;KAB. LOMBOK BARAT;;gunung sari;86;Gelangsar;SIAGA
+;KAB. LOMBOK BARAT;;gunung sari;87;Guntur Macan;SIAGA
+;KAB. LOMBOK BARAT;;gunung sari;88;Gunungsari (Gunung Sari);SIAGA
+;KAB. LOMBOK BARAT;;gunung sari;89;Jatisela;SIAGA
+;KAB. LOMBOK BARAT;;gunung sari;90;Jeringo (Jeringgo);SIAGA
+;KAB. LOMBOK BARAT;;gunung sari;91;Kekait;SIAGA
+;KAB. LOMBOK BARAT;;gunung sari;92;Kekeri;SIAGA
+;KAB. LOMBOK BARAT;;gunung sari;93;Mekar Sari (Mekarsari);SIAGA
+;KAB. LOMBOK BARAT;;gunung sari;94;Midang;SIAGA
+;KAB. LOMBOK BARAT;;gunung sari;95;Nambalan (Mambalan);SIAGA
+;KAB. LOMBOK BARAT;;gunung sari;96;Penimbung;SIAGA
+;KAB. LOMBOK BARAT;;gunung sari;97;Ranjok;SIAGA
+;KAB. LOMBOK BARAT;;gunung sari;98;Sesele (Sesela);WASPADA
+;KAB. LOMBOK BARAT;;gunung sari;99;Taman Sari;SIAGA
+;KAB. LOMBOK BARAT;5;lingsar;100;Batu Kumbang (Batu Kumbung);SIAGA
+;KAB. LOMBOK BARAT;;lingsar;101;Batu Mekar;SIAGA
+;KAB. LOMBOK BARAT;;lingsar;102;Bug-Bug;SIAGA
+;KAB. LOMBOK BARAT;;lingsar;103;Dasan Geria;SIAGA
+;KAB. LOMBOK BARAT;;lingsar;104;Duman;SIAGA
+;KAB. LOMBOK BARAT;;lingsar;105;Gegelang;AMAN
+;KAB. LOMBOK BARAT;;lingsar;106;Gegerung;AMAN
+;KAB. LOMBOK BARAT;;lingsar;107;Giri Madia;AMAN
+;KAB. LOMBOK BARAT;;lingsar;108;Gontoran;AMAN
+;KAB. LOMBOK BARAT;;lingsar;109;Karang Bayan;AMAN
+;KAB. LOMBOK BARAT;;lingsar;110;Langko;AMAN
+;KAB. LOMBOK BARAT;;lingsar;111;Lingsar;SIAGA
+;KAB. LOMBOK BARAT;;lingsar;112;Peteluan Indah;AMAN
+;KAB. LOMBOK BARAT;;lingsar;113;Saribaye;AMAN
+;KAB. LOMBOK BARAT;;lingsar;114;Sigerongan;SIAGA
+;KAB. LOMBOK BARAT;6;lembar;115;Eyat Mayang;SIAGA
+;KAB. LOMBOK BARAT;;lembar;116;Jembatan Gantung;SIAGA
+;KAB. LOMBOK BARAT;;lembar;117;Jembatan Kembar;WASPADA
+;KAB. LOMBOK BARAT;;lembar;118;Jembatan Kembar Timur;SIAGA
+;KAB. LOMBOK BARAT;;lembar;119;Labuan Tereng;SIAGA
+;KAB. LOMBOK BARAT;;lembar;120;Lembar;SIAGA
+;KAB. LOMBOK BARAT;;lembar;121;Lembar Selatan;SIAGA
+;KAB. LOMBOK BARAT;;lembar;122;Mareje;SIAGA
+;KAB. LOMBOK BARAT;;lembar;123;Mareje Timur;SIAGA
+;KAB. LOMBOK BARAT;;lembar;124;Sekotong Timur;SIAGA
+;KAB. LOMBOK BARAT;7;labuapi;125;Bagik Polak;SIAGA
+;KAB. LOMBOK BARAT;;labuapi;126;Bagik Polak Barat;SIAGA
+;KAB. LOMBOK BARAT;;labuapi;127;Bajur;SIAGA
+;KAB. LOMBOK BARAT;;labuapi;128;Bengkel;WASPADA
+;KAB. LOMBOK BARAT;;labuapi;129;Karang Bongkot;SIAGA
+;KAB. LOMBOK BARAT;;labuapi;130;Kuranji;SIAGA
+;KAB. LOMBOK BARAT;;labuapi;131;Kuranji Dalang;AMAN
+;KAB. LOMBOK BARAT;;labuapi;132;Labuapi;SIAGA
+;KAB. LOMBOK BARAT;;labuapi;133;Merembu;SIAGA
+;KAB. LOMBOK BARAT;;labuapi;134;Perampuan;SIAGA
+;KAB. LOMBOK BARAT;;labuapi;135;Telagawaru;SIAGA
+;KAB. LOMBOK BARAT;;labuapi;136;Terong Tawah;SIAGA
+;KAB. LOMBOK BARAT;8;kuripan;137;Giri Sasak;AMAN
+;KAB. LOMBOK BARAT;;kuripan;138;Jagaraga;AMAN
+;KAB. LOMBOK BARAT;;kuripan;139;Kuripan;SIAGA
+;KAB. LOMBOK BARAT;;kuripan;140;Kuripan Selatan;SIAGA
+;KAB. LOMBOK BARAT;;kuripan;141;Kuripan Timur;SIAGA
+;KAB. LOMBOK BARAT;;kuripan;142;Kuripan Utara;SIAGA
+;KAB. LOMBOK BARAT;9;sekotong;143;Batu Putih;SIAGA
+;KAB. LOMBOK BARAT;;sekotong;144;Buwun Mas;SIAGA
+;KAB. LOMBOK BARAT;;sekotong;145;Cendi Manik;SIAGA
+;KAB. LOMBOK BARAT;;sekotong;146;Gili Gede Indah;SIAGA
+;KAB. LOMBOK BARAT;;sekotong;147;Kedaro;SIAGA
+;KAB. LOMBOK BARAT;;sekotong;148;Pelangan;SIAGA
+;KAB. LOMBOK BARAT;;sekotong;149;Sekotong Barat;WASPADA
+;KAB. LOMBOK BARAT;;sekotong;150;Sekotong Tengah;WASPADA
+;KAB. LOMBOK BARAT;;sekotong;151;Taman Baru;SIAGA
+;KAB. LOMBOK BARAT;10;narmada;152;Badrain;AMAN
+;KAB. LOMBOK BARAT;;narmada;153;Batu Kuta;AMAN
+;KAB. LOMBOK BARAT;;narmada;154;Buwun Sejati;AMAN
+;KAB. LOMBOK BARAT;;narmada;155;Dasan Tereng;SIAGA
+;KAB. LOMBOK BARAT;;narmada;156;Golong;WASPADA
+;KAB. LOMBOK BARAT;;narmada;157;Grimax Indah (Gerimak Indah);SIAGA
+;KAB. LOMBOK BARAT;;narmada;158;Kramat Jaya (Krama Jaya);SIAGA
+;KAB. LOMBOK BARAT;;narmada;159;Lebah Sempage (Lebah Sempaga);SIAGA
+;KAB. LOMBOK BARAT;;narmada;160;Lembuak;SIAGA
+;KAB. LOMBOK BARAT;;narmada;161;Mekarsari;SIAGA
+;KAB. LOMBOK BARAT;;narmada;162;Narmada;WASPADA
+;KAB. LOMBOK BARAT;;narmada;163;Nyur Lembang;SIAGA
+;KAB. LOMBOK BARAT;;narmada;164;Pakuan;SIAGA
+;KAB. LOMBOK BARAT;;narmada;165;Peresak;SIAGA
+;KAB. LOMBOK BARAT;;narmada;166;Peru (Keru);SIAGA
+;KAB. LOMBOK BARAT;;narmada;167;Sedau;AMAN
+;KAB. LOMBOK BARAT;;narmada;168;Selat;AMAN
+;KAB. LOMBOK BARAT;;narmada;169;Sembung;AMAN
+;KAB. LOMBOK BARAT;;narmada;170;Sesaot;AMAN
+;KAB. LOMBOK BARAT;;narmada;171;Suranadi;SIAGA
+;KAB. LOMBOK BARAT;;narmada;172;Tanah/Tanak Beak;SIAGA
+3;KAB. LOMBOK TIMUR;1;wanasaba;173;Bandok;AMAN
+;KAB. LOMBOK TIMUR;;wanasaba;174;Bebidas;AMAN
+;KAB. LOMBOK TIMUR;;wanasaba;175;Beriri Jarak;AMAN
+;KAB. LOMBOK TIMUR;;wanasaba;176;Jineng;AMAN
+;KAB. LOMBOK TIMUR;;wanasaba;177;Karang Baru;AMAN
+;KAB. LOMBOK TIMUR;;wanasaba;178;Karang Baru Timur;AMAN
+;KAB. LOMBOK TIMUR;;wanasaba;179;Mamben Baru;AMAN
+;KAB. LOMBOK TIMUR;;wanasaba;180;Mamben Daya;AMAN
+;KAB. LOMBOK TIMUR;;wanasaba;181;Mamben Lauk/Lauq;AMAN
+;KAB. LOMBOK TIMUR;;wanasaba;182;Otak Rarangan;AMAN
+;KAB. LOMBOK TIMUR;;wanasaba;183;Tembeng Putik;AMAN
+;KAB. LOMBOK TIMUR;;wanasaba;184;Wanasaba;SIAGA
+;KAB. LOMBOK TIMUR;;wanasaba;185;Wanasaba Daya;AMAN
+;KAB. LOMBOK TIMUR;;wanasaba;186;Wanasaba Lauk;AMAN
+;KAB. LOMBOK TIMUR;2;terara;187;Embung Kandong;AMAN
+;KAB. LOMBOK TIMUR;;terara;188;Embung Raja;AMAN
+;KAB. LOMBOK TIMUR;;terara;189;Jenggik;SIAGA
+;KAB. LOMBOK TIMUR;;terara;190;Kalianyar;AMAN
+;KAB. LOMBOK TIMUR;;terara;191;Lando;AMAN
+;KAB. LOMBOK TIMUR;;terara;192;Leming;AMAN
+;KAB. LOMBOK TIMUR;;terara;193;Pandan Duri;AMAN
+;KAB. LOMBOK TIMUR;;terara;194;Rarang;SIAGA
+;KAB. LOMBOK TIMUR;;terara;195;Rarang Batas;SIAGA
+;KAB. LOMBOK TIMUR;;terara;196;Rarang Selatan;SIAGA
+;KAB. LOMBOK TIMUR;;terara;197;Rarang Tengah;SIAGA
+;KAB. LOMBOK TIMUR;;terara;198;Santong;SIAGA
+;KAB. LOMBOK TIMUR;;terara;199;Selagik;SIAGA
+;KAB. LOMBOK TIMUR;;terara;200;Sukadana;SIAGA
+;KAB. LOMBOK TIMUR;;terara;201;Suradadi;SIAGA
+;KAB. LOMBOK TIMUR;;terara;202;Terara;SIAGA
+;KAB. LOMBOK TIMUR;3;suralaga;203;Anjani;SIAGA
+;KAB. LOMBOK TIMUR;;suralaga;204;Bagik Payung;AMAN
+;KAB. LOMBOK TIMUR;;suralaga;205;Bagik Payung Selatan;AMAN
+;KAB. LOMBOK TIMUR;;suralaga;206;Bagik Payung Timur;AMAN
+;KAB. LOMBOK TIMUR;;suralaga;207;Bintang Rinjani;AMAN
+;KAB. LOMBOK TIMUR;;suralaga;208;Dames Damai;AMAN
+;KAB. LOMBOK TIMUR;;suralaga;209;Dasan Borok;AMAN
+;KAB. LOMBOK TIMUR;;suralaga;210;Gapuk;SIAGA
+;KAB. LOMBOK TIMUR;;suralaga;211;Gerung Permai;AMAN
+;KAB. LOMBOK TIMUR;;suralaga;212;Kerongkong;AMAN
+;KAB. LOMBOK TIMUR;;suralaga;213;Paok Lombok;AMAN
+;KAB. LOMBOK TIMUR;;suralaga;214;Suralaga;AMAN
+;KAB. LOMBOK TIMUR;;suralaga;215;Tebaban;AMAN
+;KAB. LOMBOK TIMUR;;suralaga;216;Tumbuh Mulia;AMAN
+;KAB. LOMBOK TIMUR;;suralaga;217;Waringin;AMAN
+;KAB. LOMBOK TIMUR;4;sukamulia;218;Dasan Lekong;WASPADA
+;KAB. LOMBOK TIMUR;;sukamulia;219;Jantuk;SIAGA
+;KAB. LOMBOK TIMUR;;sukamulia;220;Nyiur Tebel;SIAGA
+;KAB. LOMBOK TIMUR;;sukamulia;221;Padamara;SIAGA
+;KAB. LOMBOK TIMUR;;sukamulia;222;Paok Pampang;SIAGA
+;KAB. LOMBOK TIMUR;;sukamulia;223;Setanggor;SIAGA
+;KAB. LOMBOK TIMUR;;sukamulia;224;Setanggor Selatan;SIAGA
+;KAB. LOMBOK TIMUR;;sukamulia;225;Sukamulia;SIAGA
+;KAB. LOMBOK TIMUR;;sukamulia;226;Sukamulia Timur;SIAGA
+;KAB. LOMBOK TIMUR;5;suela(suwela);227;Ketangga;AMAN
+;KAB. LOMBOK TIMUR;;suela(suwela);228;Mekar Sari;AMAN
+;KAB. LOMBOK TIMUR;;suela(suwela);229;Perigi;AMAN
+;KAB. LOMBOK TIMUR;;suela(suwela);230;Puncak Jeringo;AMAN
+;KAB. LOMBOK TIMUR;;suela(suwela);231;Sapit;AMAN
+;KAB. LOMBOK TIMUR;;suela(suwela);232;Selaparang;AMAN
+;KAB. LOMBOK TIMUR;;suela(suwela);233;Suela (Suwela);SIAGA
+;KAB. LOMBOK TIMUR;;suela(suwela);234;Suntalangu;AMAN
+;KAB. LOMBOK TIMUR;6;sikur;235;Darmasari;WASPADA
+;KAB. LOMBOK TIMUR;;sikur;236;Gelora;SIAGA
+;KAB. LOMBOK TIMUR;;sikur;237;Jeruk Manis;SIAGA
+;KAB. LOMBOK TIMUR;;sikur;238;Kembang Kuning;SIAGA
+;KAB. LOMBOK TIMUR;;sikur;239;Kota Raja (Kotaraja);AMAN
+;KAB. LOMBOK TIMUR;;sikur;240;Loyok;AMAN
+;KAB. LOMBOK TIMUR;;sikur;241;Montong Baan (Montongbaan);AMAN
+;KAB. LOMBOK TIMUR;;sikur;242;Montong Baan Selatan;AMAN
+;KAB. LOMBOK TIMUR;;sikur;243;Semaya;SIAGA
+;KAB. LOMBOK TIMUR;;sikur;244;Sikur;SIAGA
+;KAB. LOMBOK TIMUR;;sikur;245;Sikur Barat;SIAGA
+;KAB. LOMBOK TIMUR;;sikur;246;Sikur Selatan;SIAGA
+;KAB. LOMBOK TIMUR;;sikur;247;Tete Batu (Tetebatu);SIAGA
+;KAB. LOMBOK TIMUR;;sikur;248;Tetebatu Selatan;SIAGA
+;KAB. LOMBOK TIMUR;7;sembalun;249;Bilok Petung;AMAN
+;KAB. LOMBOK TIMUR;;sembalun;250;Sajang;AMAN
+;KAB. LOMBOK TIMUR;;sembalun;251;Sembalun;SIAGA
+;KAB. LOMBOK TIMUR;;sembalun;252;Sembalun Bumbung;AMAN
+;KAB. LOMBOK TIMUR;;sembalun;253;Sembalun Lawang;AMAN
+;KAB. LOMBOK TIMUR;;sembalun;254;Sembalun Timba Gading;AMAN
+;KAB. LOMBOK TIMUR;8;selong;255;Danggen Timur;SIAGA
+;KAB. LOMBOK TIMUR;;selong;256;Denggen;SIAGA
+;KAB. LOMBOK TIMUR;;selong;257;Kelaju Jorong (Jorong);WASPADA
+;KAB. LOMBOK TIMUR;;selong;258;Kelayu Selatan;WASPADA
+;KAB. LOMBOK TIMUR;;selong;259;Kelayu Utara;WASPADA
+;KAB. LOMBOK TIMUR;;selong;260;Kembang Sari;SIAGA
+;KAB. LOMBOK TIMUR;;selong;261;Majidi;SIAGA
+;KAB. LOMBOK TIMUR;;selong;262;Pancor;SIAGA
+;KAB. LOMBOK TIMUR;;selong;263;Rakam;SIAGA
+;KAB. LOMBOK TIMUR;;selong;264;Sandu Baya (Sandubaya);SIAGA
+;KAB. LOMBOK TIMUR;;selong;265;Sekarteja;SIAGA
+;KAB. LOMBOK TIMUR;;selong;266;Selong (Selong Kota);WASPADA
+;KAB. LOMBOK TIMUR;9;sambalia;267;Bagik Manis;AMAN
+;KAB. LOMBOK TIMUR;;sambalia;268;Belanting;AMAN
+;KAB. LOMBOK TIMUR;;sambalia;269;Dadap;AMAN
+;KAB. LOMBOK TIMUR;;sambalia;270;Darakunci;AMAN
+;KAB. LOMBOK TIMUR;;sambalia;271;Labuhan Pandan;AMAN
+;KAB. LOMBOK TIMUR;;sambalia;272;Madayin;AMAN
+;KAB. LOMBOK TIMUR;;sambalia;273;Obel Obel;AMAN
+;KAB. LOMBOK TIMUR;;sambalia;274;Padak Guar;AMAN
+;KAB. LOMBOK TIMUR;;sambalia;275;Sambalia (Sambelia);SIAGA
+;KAB. LOMBOK TIMUR;;sambalia;276;Senanggalih;AMAN
+;KAB. LOMBOK TIMUR;;sambalia;277;Sugian;AMAN
+;KAB. LOMBOK TIMUR;10;sakra timur;278;Gelanggang;SIAGA
+;KAB. LOMBOK TIMUR;;sakra timur;279;Gereneng;SIAGA
+;KAB. LOMBOK TIMUR;;sakra timur;280;Gereneng Timur;SIAGA
+;KAB. LOMBOK TIMUR;;sakra timur;281;Lenting;AMAN
+;KAB. LOMBOK TIMUR;;sakra timur;282;Lepak;AMAN
+;KAB. LOMBOK TIMUR;;sakra timur;283;Lepak Timur;AMAN
+;KAB. LOMBOK TIMUR;;sakra timur;284;Menceh;AMAN
+;KAB. LOMBOK TIMUR;;sakra timur;285;Montong Tangi (Montongtangi);AMAN
+;KAB. LOMBOK TIMUR;;sakra timur;286;Surabaya;SIAGA
+;KAB. LOMBOK TIMUR;;sakra timur;287;Surabaya Utara;SIAGA
+;KAB. LOMBOK TIMUR;11;sakra barat;288;Borok Toyang;AMAN
+;KAB. LOMBOK TIMUR;;sakra barat;289;Boyemare;AMAN
+;KAB. LOMBOK TIMUR;;sakra barat;290;Bungtiang;AMAN
+;KAB. LOMBOK TIMUR;;sakra barat;291;Gadungmas;AMAN
+;KAB. LOMBOK TIMUR;;sakra barat;292;Gerisak Semanggeleng (Gerisak Semanggelen);AMAN
+;KAB. LOMBOK TIMUR;;sakra barat;293;Gunung Rajak;AMAN
+;KAB. LOMBOK TIMUR;;sakra barat;294;Jerogunung;AMAN
+;KAB. LOMBOK TIMUR;;sakra barat;295;Kembang Are Sampai;SIAGA
+;KAB. LOMBOK TIMUR;;sakra barat;296;Mengkuru;SIAGA
+;KAB. LOMBOK TIMUR;;sakra barat;297;Montong Beter;SIAGA
+;KAB. LOMBOK TIMUR;;sakra barat;298;Pejaring;SIAGA
+;KAB. LOMBOK TIMUR;;sakra barat;299;Pematung;SIAGA
+;KAB. LOMBOK TIMUR;;sakra barat;300;Pengkelak Mas (Pengkelakmas);SIAGA
+;KAB. LOMBOK TIMUR;;sakra barat;301;Rensing;SIAGA
+;KAB. LOMBOK TIMUR;;sakra barat;302;Rensing Bat;AMAN
+;KAB. LOMBOK TIMUR;;sakra barat;303;Rensing Raya;AMAN
+;KAB. LOMBOK TIMUR;;sakra barat;304;Sukarara;SIAGA
+;KAB. LOMBOK TIMUR;;sakra barat;305;Tanak Kaken;AMAN
+;KAB. LOMBOK TIMUR;12;sakra;306;Kabar;AMAN
+;KAB. LOMBOK TIMUR;;sakra;307;Keselet;AMAN
+;KAB. LOMBOK TIMUR;;sakra;308;Kuang Baru;AMAN
+;KAB. LOMBOK TIMUR;;sakra;309;Moyot;AMAN
+;KAB. LOMBOK TIMUR;;sakra;310;Peresak;SIAGA
+;KAB. LOMBOK TIMUR;;sakra;311;Rumbuk;SIAGA
+;KAB. LOMBOK TIMUR;;sakra;312;Rumbuk Timur;SIAGA
+;KAB. LOMBOK TIMUR;;sakra;313;Sakra;SIAGA
+;KAB. LOMBOK TIMUR;;sakra;314;Sakra Selatan;SIAGA
+;KAB. LOMBOK TIMUR;;sakra;315;Songak;SIAGA
+;KAB. LOMBOK TIMUR;;sakra;316;Suwangi (Suangi);SIAGA
+;KAB. LOMBOK TIMUR;;sakra;317;Suwangi Timur;SIAGA
+;KAB. LOMBOK TIMUR;13;Pringgasela;318;Aik Dewa;AMAN
+;KAB. LOMBOK TIMUR;;Pringgasela;319;Jurit;AMAN
+;KAB. LOMBOK TIMUR;;Pringgasela;320;Jurit Baru;AMAN
+;KAB. LOMBOK TIMUR;;Pringgasela;321;Pengadangan;SIAGA
+;KAB. LOMBOK TIMUR;;Pringgasela;322;Pengadangan Barat;AMAN
+;KAB. LOMBOK TIMUR;;Pringgasela;323;Pringgasela;BAHAYA
+;KAB. LOMBOK TIMUR;;Pringgasela;324;Pringgasela Selatan;SIAGA
+;KAB. LOMBOK TIMUR;;Pringgasela;325;Pringgasela Timur;SIAGA
+;KAB. LOMBOK TIMUR;;Pringgasela;326;Rempung;SIAGA
+;KAB. LOMBOK TIMUR;;Pringgasela;327;Timbanuh;AMAN
+;KAB. LOMBOK TIMUR;14;Pringgabaya;328;Anggaraksa;AMAN
+;KAB. LOMBOK TIMUR;;Pringgabaya;329;Apit Aik (Apitaik);AMAN
+;KAB. LOMBOK TIMUR;;Pringgabaya;330;Bagik Papan;AMAN
+;KAB. LOMBOK TIMUR;;Pringgabaya;331;Batuyang;AMAN
+;KAB. LOMBOK TIMUR;;Pringgabaya;332;Gunung Malang;AMAN
+;KAB. LOMBOK TIMUR;;Pringgabaya;333;Kerumut;AMAN
+;KAB. LOMBOK TIMUR;;Pringgabaya;334;Labuhan Lombok;SIAGA
+;KAB. LOMBOK TIMUR;;Pringgabaya;335;Pohgading;SIAGA
+;KAB. LOMBOK TIMUR;;Pringgabaya;336;Pohgading Timur;SIAGA
+;KAB. LOMBOK TIMUR;;Pringgabaya;337;Pringgabaya;AMAN
+;KAB. LOMBOK TIMUR;;Pringgabaya;338;Pringgabaya Utara;AMAN
+;KAB. LOMBOK TIMUR;;Pringgabaya;339;Seruni Mumbul;AMAN
+;KAB. LOMBOK TIMUR;;Pringgabaya;340;Tanak Gadang;AMAN
+;KAB. LOMBOK TIMUR;;Pringgabaya;341;Teko;AMAN
+;KAB. LOMBOK TIMUR;;Pringgabaya;342;Telaga Waru;SIAGA
+;KAB. LOMBOK TIMUR;15;Montong Gading;343;Jenggik Utara;SIAGA
+;KAB. LOMBOK TIMUR;;Montong Gading;344;Kilang;AMAN
+;KAB. LOMBOK TIMUR;;Montong Gading;345;Lendang Belo;SIAGA
+;KAB. LOMBOK TIMUR;;Montong Gading;346;Montong Betok;SIAGA
+;KAB. LOMBOK TIMUR;;Montong Gading;347;Perian;SIAGA
+;KAB. LOMBOK TIMUR;;Montong Gading;348;Pesanggrahan;SIAGA
+;KAB. LOMBOK TIMUR;;Montong Gading;349;Pringga Jurang;SIAGA
+;KAB. LOMBOK TIMUR;;Montong Gading;350;Pringgajurang Utara;SIAGA
+;KAB. LOMBOK TIMUR;16;Masbagik;351;Danger;SIAGA
+;KAB. LOMBOK TIMUR;;Masbagik;352;Kesik;SIAGA
+;KAB. LOMBOK TIMUR;;Masbagik;353;Kumbang;AMAN
+;KAB. LOMBOK TIMUR;;Masbagik;354;Lendang Nangka;SIAGA
+;KAB. LOMBOK TIMUR;;Masbagik;355;Lendang Nangka Utara;SIAGA
+;KAB. LOMBOK TIMUR;;Masbagik;356;Masbagik Selatan;SIAGA
+;KAB. LOMBOK TIMUR;;Masbagik;357;Masbagik Timur;SIAGA
+;KAB. LOMBOK TIMUR;;Masbagik;358;Masbagik Utara;SIAGA
+;KAB. LOMBOK TIMUR;;Masbagik;359;Masbagik Utara Baru;SIAGA
+;KAB. LOMBOK TIMUR;;Masbagik;360;Paokmotong (Paok Motong);SIAGA
+;KAB. LOMBOK TIMUR;17;Labuhan Haji;361;Banjarsari;AMAN
+;KAB. LOMBOK TIMUR;;Labuhan Haji;362;Geres;AMAN
+;KAB. LOMBOK TIMUR;;Labuhan Haji;363;Ijobalit;AMAN
+;KAB. LOMBOK TIMUR;;Labuhan Haji;364;Kertasari;SIAGA
+;KAB. LOMBOK TIMUR;;Labuhan Haji;365;Korleko;SIAGA
+;KAB. LOMBOK TIMUR;;Labuhan Haji;366;Korleko Selatan;SIAGA
+;KAB. LOMBOK TIMUR;;Labuhan Haji;367;Labuhan Haji;WASPADA
+;KAB. LOMBOK TIMUR;;Labuhan Haji;368;Peneda Gandor (Penedagandor);SIAGA
+;KAB. LOMBOK TIMUR;;Labuhan Haji;369;Suryawangi (Surya Wangi);SIAGA
+;KAB. LOMBOK TIMUR;;Labuhan Haji;370;Tanjung;WASPADA
+;KAB. LOMBOK TIMUR;;Labuhan Haji;371;Teros;SIAGA
+;KAB. LOMBOK TIMUR;;Labuhan Haji;372;Tirtanadi;SIAGA
+;KAB. LOMBOK TIMUR;18;Keruak;373;Batu Putik;SIAGA
+;KAB. LOMBOK TIMUR;;Keruak;374;Dane Rase;AMAN
+;KAB. LOMBOK TIMUR;;Keruak;375;Keruak;AMAN
+;KAB. LOMBOK TIMUR;;Keruak;376;Ketangga Jeraeng;AMAN
+;KAB. LOMBOK TIMUR;;Keruak;377;Ketapang Raya;AMAN
+;KAB. LOMBOK TIMUR;;Keruak;378;Mendana Raya;AMAN
+;KAB. LOMBOK TIMUR;;Keruak;379;Montong Belae;AMAN
+;KAB. LOMBOK TIMUR;;Keruak;380;Pijot;SIAGA
+;KAB. LOMBOK TIMUR;;Keruak;381;Pijot Utara;SIAGA
+;KAB. LOMBOK TIMUR;;Keruak;382;Pulau Maringkik;AMAN
+;KAB. LOMBOK TIMUR;;Keruak;383;Selebung Ketangga;AMAN
+;KAB. LOMBOK TIMUR;;Keruak;384;Senyiur;AMAN
+;KAB. LOMBOK TIMUR;;Keruak;385;Sepit;AMAN
+;KAB. LOMBOK TIMUR;;Keruak;386;Setungkep Lingsar;AMAN
+;KAB. LOMBOK TIMUR;;Keruak;387;Tanjung Luar;SIAGA
+;KAB. LOMBOK TIMUR;19;Jerowaru;388;Batu Nampar (Batunampar);AMAN
+;KAB. LOMBOK TIMUR;;Jerowaru;389;Batunampar Selatan;AMAN
+;KAB. LOMBOK TIMUR;;Jerowaru;390;Ekas Buana;AMAN
+;KAB. LOMBOK TIMUR;;Jerowaru;391;Jerowaru;SIAGA
+;KAB. LOMBOK TIMUR;;Jerowaru;392;Kwang Rundun;SIAGA
+;KAB. LOMBOK TIMUR;;Jerowaru;393;Pandan Wangi;AMAN
+;KAB. LOMBOK TIMUR;;Jerowaru;394;Pare Mas;AMAN
+;KAB. LOMBOK TIMUR;;Jerowaru;395;Pemongkong;SIAGA
+;KAB. LOMBOK TIMUR;;Jerowaru;396;Pene;AMAN
+;KAB. LOMBOK TIMUR;;Jerowaru;397;Sekaroh;AMAN
+;KAB. LOMBOK TIMUR;;Jerowaru;398;Sepapan;AMAN
+;KAB. LOMBOK TIMUR;;Jerowaru;399;Seriwe;AMAN
+;KAB. LOMBOK TIMUR;;Jerowaru;400;Sukadamai;SIAGA
+;KAB. LOMBOK TIMUR;;Jerowaru;401;Sukaraja;SIAGA
+;KAB. LOMBOK TIMUR;;Jerowaru;402;Wakan;AMAN
+;KAB. LOMBOK TIMUR;20;Aikmel;403;Aik Prapa;AMAN
+;KAB. LOMBOK TIMUR;;Aikmel;404;Aikmel;SIAGA
+;KAB. LOMBOK TIMUR;;Aikmel;405;Aikmel Barat;SIAGA
+;KAB. LOMBOK TIMUR;;Aikmel;406;Aikmel Timur;SIAGA
+;KAB. LOMBOK TIMUR;;Aikmel;407;Aikmel Utara;SIAGA
+;KAB. LOMBOK TIMUR;;Aikmel;408;Bagik Nyaka Santri;SIAGA
+;KAB. LOMBOK TIMUR;;Aikmel;409;Kalijaga;AMAN
+;KAB. LOMBOK TIMUR;;Aikmel;410;Kalijaga Baru;AMAN
+;KAB. LOMBOK TIMUR;;Aikmel;411;Kalijaga Selatan;AMAN
+;KAB. LOMBOK TIMUR;;Aikmel;412;Kalijaga Tengah;AMAN
+;KAB. LOMBOK TIMUR;;Aikmel;413;Kalijaga Timur;AMAN
+;KAB. LOMBOK TIMUR;;Aikmel;414;Kembang Kerang;AMAN
+;KAB. LOMBOK TIMUR;;Aikmel;415;Kembang Kerang Daya;AMAN
+;KAB. LOMBOK TIMUR;;Aikmel;416;Keroya;AMAN
+;KAB. LOMBOK TIMUR;;Aikmel;417;Lenek;SIAGA
+;KAB. LOMBOK TIMUR;;Aikmel;418;Lenek Baru;AMAN
+;KAB. LOMBOK TIMUR;;Aikmel;419;Lenek Daya;AMAN
+;KAB. LOMBOK TIMUR;;Aikmel;420;Lenek Duren;AMAN
+;KAB. LOMBOK TIMUR;;Aikmel;421;Lenek Kali Bambang;AMAN
+;KAB. LOMBOK TIMUR;;Aikmel;422;Lenek Lauk (Lenek Lauq);SIAGA
+;KAB. LOMBOK TIMUR;;Aikmel;423;Lenek Pasiraman (Lenek Pesiraman);SIAGA
+;KAB. LOMBOK TIMUR;;Aikmel;424;Lenek Ramban Biak;SIAGA
+;KAB. LOMBOK TIMUR;;Aikmel;425;Sukarema;SIAGA
+;KAB. LOMBOK TIMUR;;Aikmel;426;Toya;AMAN
+4;KAB. LOMBOK TENGAH;1;Pujut;427;Bangket Parak;SIAGA
+;KAB. LOMBOK TENGAH;;Pujut;428;Gapura;SIAGA
+;KAB. LOMBOK TENGAH;;Pujut;429;Kawo;SIAGA
+;KAB. LOMBOK TENGAH;;Pujut;430;Ketara;WASPADA
+;KAB. LOMBOK TENGAH;;Pujut;431;Kuta;WASPADA
+;KAB. LOMBOK TENGAH;;Pujut;432;Mertak;SIAGA
+;KAB. LOMBOK TENGAH;;Pujut;433;Pengembur;SIAGA
+;KAB. LOMBOK TENGAH;;Pujut;434;Pengengat;SIAGA
+;KAB. LOMBOK TENGAH;;Pujut;435;Prabu;SIAGA
+;KAB. LOMBOK TENGAH;;Pujut;436;Rembitan;SIAGA
+;KAB. LOMBOK TENGAH;;Pujut;437;Segala Anyar;SIAGA
+;KAB. LOMBOK TENGAH;;Pujut;438;Sengkol;SIAGA
+;KAB. LOMBOK TENGAH;;Pujut;439;Sukadana;SIAGA
+;KAB. LOMBOK TENGAH;;Pujut;440;Tanak Awu;SIAGA
+;KAB. LOMBOK TENGAH;;Pujut;441;Teruwai;SIAGA
+;KAB. LOMBOK TENGAH;;Pujut;442;Tumpak;SIAGA
+;KAB. LOMBOK TENGAH;2;Pringgarata;443;Arjangka;SIAGA
+;KAB. LOMBOK TENGAH;;Pringgarata;444;Bagu;SIAGA
+;KAB. LOMBOK TENGAH;;Pringgarata;445;Bilebante;AMAN
+;KAB. LOMBOK TENGAH;;Pringgarata;446;Menemeng;AMAN
+;KAB. LOMBOK TENGAH;;Pringgarata;447;Murbaya;AMAN
+;KAB. LOMBOK TENGAH;;Pringgarata;448;Pemepek;AMAN
+;KAB. LOMBOK TENGAH;;Pringgarata;449;Pringarata;AMAN
+;KAB. LOMBOK TENGAH;;Pringgarata;450;Sepakek;AMAN
+;KAB. LOMBOK TENGAH;;Pringgarata;451;Sintung;AMAN
+;KAB. LOMBOK TENGAH;;Pringgarata;452;Sisik;AMAN
+;KAB. LOMBOK TENGAH;;Pringgarata;453;Taman Indah;SIAGA
+;KAB. LOMBOK TENGAH;3;Praya Timur;454;Beleka;BAHAYA
+;KAB. LOMBOK TENGAH;;Praya Timur;455;Bilelando;WASPADA
+;KAB. LOMBOK TENGAH;;Praya Timur;456;Ganti;SIAGA
+;KAB. LOMBOK TENGAH;;Praya Timur;457;Kidang;SIAGA
+;KAB. LOMBOK TENGAH;;Praya Timur;458;Landah;SIAGA
+;KAB. LOMBOK TENGAH;;Praya Timur;459;Marong;SIAGA
+;KAB. LOMBOK TENGAH;;Praya Timur;460;Mujur;WASPADA
+;KAB. LOMBOK TENGAH;;Praya Timur;461;Semoyang;AMAN
+;KAB. LOMBOK TENGAH;;Praya Timur;462;Sengkerang;AMAN
+;KAB. LOMBOK TENGAH;;Praya Timur;463;Sukaraja;SIAGA
+;KAB. LOMBOK TENGAH;4;Praya Tengah;464;Batunyala;SIAGA
+;KAB. LOMBOK TENGAH;;Praya Tengah;465;Beraim;AMAN
+;KAB. LOMBOK TENGAH;;Praya Tengah;466;Dakung;AMAN
+;KAB. LOMBOK TENGAH;;Praya Tengah;467;Gerantung;AMAN
+;KAB. LOMBOK TENGAH;;Praya Tengah;468;Jontlak;SIAGA
+;KAB. LOMBOK TENGAH;;Praya Tengah;469;Jurang Jaler;AMAN
+;KAB. LOMBOK TENGAH;;Praya Tengah;470;Kelebuh;AMAN
+;KAB. LOMBOK TENGAH;;Praya Tengah;471;Lajut;AMAN
+;KAB. LOMBOK TENGAH;;Praya Tengah;472;Pejanggik;AMAN
+;KAB. LOMBOK TENGAH;;Praya Tengah;473;Pengadang;AMAN
+;KAB. LOMBOK TENGAH;;Praya Tengah;474;Prai Meke;AMAN
+;KAB. LOMBOK TENGAH;;Praya Tengah;475;Sasake;AMAN
+;KAB. LOMBOK TENGAH;5;Praya Barat Daya;476;Batu Jangkih;SIAGA
+;KAB. LOMBOK TENGAH;;Praya Barat Daya;477;Darek;AMAN
+;KAB. LOMBOK TENGAH;;Praya Barat Daya;478;Kabul;AMAN
+;KAB. LOMBOK TENGAH;;Praya Barat Daya;479;Montong Ajan;AMAN
+;KAB. LOMBOK TENGAH;;Praya Barat Daya;480;Montong Sapah;AMAN
+;KAB. LOMBOK TENGAH;;Praya Barat Daya;481;Pandan Indah;SIAGA
+;KAB. LOMBOK TENGAH;;Praya Barat Daya;482;Pelambik;AMAN
+;KAB. LOMBOK TENGAH;;Praya Barat Daya;483;Ranggagata;AMAN
+;KAB. LOMBOK TENGAH;;Praya Barat Daya;484;Serage;AMAN
+;KAB. LOMBOK TENGAH;;Praya Barat Daya;485;Teduh;AMAN
+;KAB. LOMBOK TENGAH;;Praya Barat Daya;486;Ungga;SIAGA
+;KAB. LOMBOK TENGAH;6;Praya Barat;487;Banyu Urip;SIAGA
+;KAB. LOMBOK TENGAH;;Praya Barat;488;Batujai;SIAGA
+;KAB. LOMBOK TENGAH;;Praya Barat;489;Bonder;SIAGA
+;KAB. LOMBOK TENGAH;;Praya Barat;490;Kateng;SIAGA
+;KAB. LOMBOK TENGAH;;Praya Barat;491;Mangkung;AMAN
+;KAB. LOMBOK TENGAH;;Praya Barat;492;Mekar Sari;AMAN
+;KAB. LOMBOK TENGAH;;Praya Barat;493;Penujak;SIAGA
+;KAB. LOMBOK TENGAH;;Praya Barat;494;Selong Blanak;AMAN
+;KAB. LOMBOK TENGAH;;Praya Barat;495;Setanggor;AMAN
+;KAB. LOMBOK TENGAH;;Praya Barat;496;Tanak Rarang;AMAN
+;KAB. LOMBOK TENGAH;7;Praya;497;Aik Mual;SIAGA
+;KAB. LOMBOK TENGAH;;Praya;498;Bunut Baok;SIAGA
+;KAB. LOMBOK TENGAH;;Praya;499;Gerunung;SIAGA
+;KAB. LOMBOK TENGAH;;Praya;500;Gonjak;SIAGA
+;KAB. LOMBOK TENGAH;;Praya;501;Jago;SIAGA
+;KAB. LOMBOK TENGAH;;Praya;502;Leneng;WASPADA
+;KAB. LOMBOK TENGAH;;Praya;503;Mekar Damai;SIAGA
+;KAB. LOMBOK TENGAH;;Praya;504;Mertak Tombok;AMAN
+;KAB. LOMBOK TENGAH;;Praya;505;Montong Terep;SIAGA
+;KAB. LOMBOK TENGAH;;Praya;506;Panji Sari;SIAGA
+;KAB. LOMBOK TENGAH;;Praya;507;Perapen;WASPADA
+;KAB. LOMBOK TENGAH;;Praya;508;Praya;SIAGA
+;KAB. LOMBOK TENGAH;;Praya;509;Renteng;WASPADA
+;KAB. LOMBOK TENGAH;;Praya;510;Semayan;SIAGA
+;KAB. LOMBOK TENGAH;;Praya;511;Tiwugalih;SIAGA
+;KAB. LOMBOK TENGAH;8;Kopang;512;Aik Bual;AMAN
+;KAB. LOMBOK TENGAH;;Kopang;513;Bebuak;AMAN
+;KAB. LOMBOK TENGAH;;Kopang;514;Darmaji;AMAN
+;KAB. LOMBOK TENGAH;;Kopang;515;Dasan Baru;SIAGA
+;KAB. LOMBOK TENGAH;;Kopang;516;Kopang Rembiga;SIAGA
+;KAB. LOMBOK TENGAH;;Kopang;517;Lendang Are;SIAGA
+;KAB. LOMBOK TENGAH;;Kopang;518;Monggas;AMAN
+;KAB. LOMBOK TENGAH;;Kopang;519;Montong Gamang;AMAN
+;KAB. LOMBOK TENGAH;;Kopang;520;Muncan;AMAN
+;KAB. LOMBOK TENGAH;;Kopang;521;Semparu;SIAGA
+;KAB. LOMBOK TENGAH;;Kopang;522;Wajageseng;AMAN
+;KAB. LOMBOK TENGAH;9;Jonggat;523;Barejulat;AMAN
+;KAB. LOMBOK TENGAH;;Jonggat;524;Batu Tulis (Batutulis);SIAGA
+;KAB. LOMBOK TENGAH;;Jonggat;525;Bonjeruk;SIAGA
+;KAB. LOMBOK TENGAH;;Jonggat;526;Bunkate;AMAN
+;KAB. LOMBOK TENGAH;;Jonggat;527;Gemel;AMAN
+;KAB. LOMBOK TENGAH;;Jonggat;528;Jelantik;AMAN
+;KAB. LOMBOK TENGAH;;Jonggat;529;Labulia;SIAGA
+;KAB. LOMBOK TENGAH;;Jonggat;530;Nyerot;AMAN
+;KAB. LOMBOK TENGAH;;Jonggat;531;Pengenjek;AMAN
+;KAB. LOMBOK TENGAH;;Jonggat;532;Perina;SIAGA
+;KAB. LOMBOK TENGAH;;Jonggat;533;Puyung;SIAGA
+;KAB. LOMBOK TENGAH;;Jonggat;534;Sukarara;SIAGA
+;KAB. LOMBOK TENGAH;;Jonggat;535;Ubung;SIAGA
+;KAB. LOMBOK TENGAH;10;Janapria;536;Bakan;AMAN
+;KAB. LOMBOK TENGAH;;Janapria;537;Durian;AMAN
+;KAB. LOMBOK TENGAH;;Janapria;538;Janapria;SIAGA
+;KAB. LOMBOK TENGAH;;Janapria;539;Jango;AMAN
+;KAB. LOMBOK TENGAH;;Janapria;540;Kerembong;AMAN
+;KAB. LOMBOK TENGAH;;Janapria;541;Langko;AMAN
+;KAB. LOMBOK TENGAH;;Janapria;542;Lekor;AMAN
+;KAB. LOMBOK TENGAH;;Janapria;543;Loang Maka;AMAN
+;KAB. LOMBOK TENGAH;;Janapria;544;Pendem;AMAN
+;KAB. LOMBOK TENGAH;;Janapria;545;Saba;AMAN
+;KAB. LOMBOK TENGAH;;Janapria;546;Selebung Rembiga;SIAGA
+;KAB. LOMBOK TENGAH;;Janapria;547;Setuta;SIAGA
+;KAB. LOMBOK TENGAH;11;Batukliang Utara;548;Aik Berik;SIAGA
+;KAB. LOMBOK TENGAH;;Batukliang Utara;549;Aik Bukak (Bukaq);AMAN
+;KAB. LOMBOK TENGAH;;Batukliang Utara;550;Karang Sidemen;SIAGA
+;KAB. LOMBOK TENGAH;;Batukliang Utara;551;Lantan;AMAN
+;KAB. LOMBOK TENGAH;;Batukliang Utara;552;Mas-Mas;SIAGA
+;KAB. LOMBOK TENGAH;;Batukliang Utara;553;Setiling;SIAGA
+;KAB. LOMBOK TENGAH;;Batukliang Utara;554;Tanak Beak;SIAGA
+;KAB. LOMBOK TENGAH;;Batukliang Utara;555;Teratak;SIAGA
+;KAB. LOMBOK TENGAH;12;Batukliang;556;Aik Darek;SIAGA
+;KAB. LOMBOK TENGAH;;Batukliang;557;Barabali;SIAGA
+;KAB. LOMBOK TENGAH;;Batukliang;558;Beber;AMAN
+;KAB. LOMBOK TENGAH;;Batukliang;559;Bujak;AMAN
+;KAB. LOMBOK TENGAH;;Batukliang;560;Mantang;SIAGA
+;KAB. LOMBOK TENGAH;;Batukliang;561;Mekar Bersatu;AMAN
+;KAB. LOMBOK TENGAH;;Batukliang;562;Pagutan;SIAGA
+;KAB. LOMBOK TENGAH;;Batukliang;563;Peresak;SIAGA
+;KAB. LOMBOK TENGAH;;Batukliang;564;Selebung;SIAGA
+;KAB. LOMBOK TENGAH;;Batukliang;565;Tampak Siring;SIAGA
+5;KAB. LOMBOK UTARA;1;tanjung;566;Jenggala;SIAGA
+;KAB. LOMBOK UTARA;;tanjung;567;Medana;WASPADA
+;KAB. LOMBOK UTARA;;tanjung;568;Sigar Penjalin (Pinjalin);AMAN
+;KAB. LOMBOK UTARA;;tanjung;569;Sokong;AMAN
+;KAB. LOMBOK UTARA;;tanjung;570;Tanjung;WASPADA
+;KAB. LOMBOK UTARA;;tanjung;571;Tegal Maja;AMAN
+;KAB. LOMBOK UTARA;;tanjung;572;Teniga;AMAN
+;KAB. LOMBOK UTARA;2;pemenang;573;Gili Indah;BAHAYA
+;KAB. LOMBOK UTARA;;pemenang;574;Malaka;SIAGA
+;KAB. LOMBOK UTARA;;pemenang;575;Pemenang Barat;SIAGA
+;KAB. LOMBOK UTARA;;pemenang;576;Pemenang Timur;SIAGA
+;KAB. LOMBOK UTARA;3;kayangan;577;Dangiang;AMAN
+;KAB. LOMBOK UTARA;;kayangan;578;Gumantar;AMAN
+;KAB. LOMBOK UTARA;;kayangan;579;Kayangan;AMAN
+;KAB. LOMBOK UTARA;;kayangan;580;Pendua;AMAN
+;KAB. LOMBOK UTARA;;kayangan;581;Salut;AMAN
+;KAB. LOMBOK UTARA;;kayangan;582;Santong;SIAGA
+;KAB. LOMBOK UTARA;;kayangan;583;Selengen;AMAN
+;KAB. LOMBOK UTARA;;kayangan;584;Sesait;AMAN
+;KAB. LOMBOK UTARA;4;gangga;585;Bentek;AMAN
+;KAB. LOMBOK UTARA;;gangga;586;Genggelang;SIAGA
+;KAB. LOMBOK UTARA;;gangga;587;Gondang;SIAGA
+;KAB. LOMBOK UTARA;;gangga;588;Rempek;SIAGA
+;KAB. LOMBOK UTARA;;gangga;589;Sambik Bangkol;AMAN
+;KAB. LOMBOK UTARA;5;bayan;590;Akat Akar (Akar Akar);AMAN
+;KAB. LOMBOK UTARA;;bayan;591;Anyar;AMAN
+;KAB. LOMBOK UTARA;;bayan;592;Bayan;SIAGA
+;KAB. LOMBOK UTARA;;bayan;593;Karang Bajo;AMAN
+;KAB. LOMBOK UTARA;;bayan;594;Loloan;AMAN
+;KAB. LOMBOK UTARA;;bayan;595;Mumbul Sari;AMAN
+;KAB. LOMBOK UTARA;;bayan;596;Sambik Elen;AMAN
+;KAB. LOMBOK UTARA;;bayan;597;Senaru;SIAGA
+;KAB. LOMBOK UTARA;;bayan;598;Sukadana;SIAGA
+6;KAB. SUMBAWA BARAT;1;Taliwang;599;Arab Kenangan;SIAGA
+;KAB. SUMBAWA BARAT;;Taliwang;600;Banjar;SIAGA
+;KAB. SUMBAWA BARAT;;Taliwang;601;Batu Putih;SIAGA
+;KAB. SUMBAWA BARAT;;Taliwang;602;Bugis;SIAGA
+;KAB. SUMBAWA BARAT;;Taliwang;603;Dalam;WASPADA
+;KAB. SUMBAWA BARAT;;Taliwang;604;Kuang;AMAN
+;KAB. SUMBAWA BARAT;;Taliwang;605;Labuhan Kertasari (Labuan Kertasari);AMAN
+;KAB. SUMBAWA BARAT;;Taliwang;606;Labuhan Lalar (Labuan Lalar);AMAN
+;KAB. SUMBAWA BARAT;;Taliwang;607;Lalang Liang (Lalar Liang);AMAN
+;KAB. SUMBAWA BARAT;;Taliwang;608;Menala;WASPADA
+;KAB. SUMBAWA BARAT;;Taliwang;609;Sampir;WASPADA
+;KAB. SUMBAWA BARAT;;Taliwang;610;Seloto;AMAN
+;KAB. SUMBAWA BARAT;;Taliwang;611;Sermong;AMAN
+;KAB. SUMBAWA BARAT;;Taliwang;612;Tamekan;AMAN
+;KAB. SUMBAWA BARAT;;Taliwang;613;Telaga Bertong;WASPADA
+;KAB. SUMBAWA BARAT;2;Sekongkang;614;Ai Kangkung;AMAN
+;KAB. SUMBAWA BARAT;;Sekongkang;615;Kemuning;AMAN
+;KAB. SUMBAWA BARAT;;Sekongkang;616;Sekongkang Atas;SIAGA
+;KAB. SUMBAWA BARAT;;Sekongkang;617;Sekongkang Bawah;SIAGA
+;KAB. SUMBAWA BARAT;;Sekongkang;618;Talonang Baru (Talonang);SIAGA
+;KAB. SUMBAWA BARAT;;Sekongkang;619;Tatar;AMAN
+;KAB. SUMBAWA BARAT;;Sekongkang;620;UPT Tongo II SP.2;AMAN
+;KAB. SUMBAWA BARAT;;Sekongkang;621;Tongo;AMAN
+;KAB. SUMBAWA BARAT;3;Sateluk (Seteluk);622;Air Suning;AMAN
+;KAB. SUMBAWA BARAT;;Sateluk (Seteluk);623;Desaloka;AMAN
+;KAB. SUMBAWA BARAT;;Sateluk (Seteluk);624;Kelanir;AMAN
+;KAB. SUMBAWA BARAT;;Sateluk (Seteluk);625;Lamusung;AMAN
+;KAB. SUMBAWA BARAT;;Sateluk (Seteluk);626;Meraran;AMAN
+;KAB. SUMBAWA BARAT;;Sateluk (Seteluk);627;Rempe;AMAN
+;KAB. SUMBAWA BARAT;;Sateluk (Seteluk);628;Seran;AMAN
+;KAB. SUMBAWA BARAT;;Sateluk (Seteluk);629;Seteluk Atas;SIAGA
+;KAB. SUMBAWA BARAT;;Sateluk (Seteluk);630;Seteluk Tengah;SIAGA
+;KAB. SUMBAWA BARAT;;Sateluk (Seteluk);631;Tapir;SIAGA
+;KAB. SUMBAWA BARAT;4;Poto Tano;632;Kiantar;SIAGA
+;KAB. SUMBAWA BARAT;;Poto Tano;633;Kokarlian;SIAGA
+;KAB. SUMBAWA BARAT;;Poto Tano;634;Mantar;AMAN
+;KAB. SUMBAWA BARAT;;Poto Tano;635;Poto Tano;SIAGA
+;KAB. SUMBAWA BARAT;;Poto Tano;636;Senayan;SIAGA
+;KAB. SUMBAWA BARAT;;Poto Tano;637;Tebo;SIAGA
+;KAB. SUMBAWA BARAT;;Poto Tano;638;Tuananga;SIAGA
+;KAB. SUMBAWA BARAT;;Poto Tano;639;UPT Tambak Sari (Tambak Sari);AMAN
+;KAB. SUMBAWA BARAT;5;Maluk;640;Benete;AMAN
+;KAB. SUMBAWA BARAT;;Maluk;641;Bukit Damai;AMAN
+;KAB. SUMBAWA BARAT;;Maluk;642;Maluk;SIAGA
+;KAB. SUMBAWA BARAT;;Maluk;643;Mantun;AMAN
+;KAB. SUMBAWA BARAT;;Maluk;644;Pasir Putih;AMAN
+;KAB. SUMBAWA BARAT;6;Jereweh;645;Belo;SIAGA
+;KAB. SUMBAWA BARAT;;Jereweh;646;Beru;AMAN
+;KAB. SUMBAWA BARAT;;Jereweh;647;Dasan Anyar;SIAGA
+;KAB. SUMBAWA BARAT;;Jereweh;648;Goa;SIAGA
+;KAB. SUMBAWA BARAT;7;Brang Rea;649;Bangkat Monteh (Bangkat Monte);AMAN
+;KAB. SUMBAWA BARAT;;Brang Rea;650;Desa Beru;AMAN
+;KAB. SUMBAWA BARAT;;Brang Rea;651;Lamuntet;SIAGA
+;KAB. SUMBAWA BARAT;;Brang Rea;652;Moteng;AMAN
+;KAB. SUMBAWA BARAT;;Brang Rea;653;Rarak Ronges;AMAN
+;KAB. SUMBAWA BARAT;;Brang Rea;654;Sapugara Bree;AMAN
+;KAB. SUMBAWA BARAT;;Brang Rea;655;Seminar Salit;SIAGA
+;KAB. SUMBAWA BARAT;;Brang Rea;656;Tepas;SIAGA
+;KAB. SUMBAWA BARAT;;Brang Rea;657;Tepas Sepakat;SIAGA
+;KAB. SUMBAWA BARAT;8;Brang Ene;658;Kalimantong;AMAN
+;KAB. SUMBAWA BARAT;;Brang Ene;659;Lampok;SIAGA
+;KAB. SUMBAWA BARAT;;Brang Ene;660;Manemeng;AMAN
+;KAB. SUMBAWA BARAT;;Brang Ene;661;Mataiyang;SIAGA
+;KAB. SUMBAWA BARAT;;Brang Ene;662;Mujahiddin;AMAN
+;KAB. SUMBAWA BARAT;;Brang Ene;663;Mura;SIAGA
+;KABUPATEN SUMBAWA;;Utan;666;Labuhan Bajo (Labuan Bajo);SIAGA
+;KABUPATEN SUMBAWA;;Utan;670;Sebedo (Sabedo);AMAN
+;KABUPATEN SUMBAWA;2;Unter Iwes (Unterwiris);673;Boak;AMAN
+;KABUPATEN SUMBAWA;;Unter Iwes (Unterwiris);674;Jorok;SIAGA
+;KABUPATEN SUMBAWA;;Unter Iwes (Unterwiris);675;Kerato;AMAN
+;KABUPATEN SUMBAWA;;Unter Iwes (Unterwiris);676;Kerekeh;AMAN
+;KABUPATEN SUMBAWA;;Unter Iwes (Unterwiris);677;Nijang;SIAGA
+;KABUPATEN SUMBAWA;;Unter Iwes (Unterwiris);678;Pelat;AMAN
+;KABUPATEN SUMBAWA;;Unter Iwes (Unterwiris);679;Pungka;SIAGA
+;KABUPATEN SUMBAWA;;Unter Iwes (Unterwiris);680;Uma Beringin;AMAN
+;KABUPATEN SUMBAWA;;Plampang;709;Selanteh (Selante);SIAGA
+;KABUPATEN SUMBAWA;;Plampang;713;UPT Perode SP III (Sp III Prode / Perode);AMAN
+;KABUPATEN SUMBAWA;;Plampang;714;UPT. Perode SP I (Sp I Prode / Perode);AMAN
+;KABUPATEN SUMBAWA;;Plampang;715;UPT. Perode SP II (Sp II Prode / Perode);AMAN
+;KABUPATEN SUMBAWA;10;Moyo Hulu;727;Batu Bulan (Batubulan);SIAGA
+;KABUPATEN SUMBAWA;;Moyo Hulu;728;Batu Tering (Batutering);SIAGA
+;KABUPATEN SUMBAWA;;Moyo Hulu;729;Brang Rea (Berang Rea);SIAGA
+;KABUPATEN SUMBAWA;;Moyo Hulu;739;UPT. Brang Lamar;AMAN
+;KABUPATEN SUMBAWA;;Maronge;752;Pamasar (Pemasar);AMAN
+;KABUPATEN SUMBAWA;;Lopok;765;Mamak (Mama);AMAN
+;KABUPATEN SUMBAWA;16;Lape (Lape Lopok);772;Dete;AMAN
+;KABUPATEN SUMBAWA;;Lape (Lape Lopok);773;Hijrah;AMAN
+;KABUPATEN SUMBAWA;;Lape (Lape Lopok);774;Labuhan Kuris (Labuan Kuris);AMAN
+;KABUPATEN SUMBAWA;;Lape (Lape Lopok);775;Lape;SIAGA
+;KABUPATEN SUMBAWA;;Labuhan Badas;783;Labuhan Aji (Labuan Aji);SIAGA
+;KABUPATEN SUMBAWA;;Labuhan Badas;785;Labuhan Sumbawa (Labuan Sumbawa);SIAGA
+;KABUPATEN SUMBAWA;;Empang;795;Empang Bawa (Empang Bawah);SIAGA
+;KABUPATEN SUMBAWA;22;Batu Lanteh (Batulanteh);808;Bao Desa;SIAGA
+;KABUPATEN SUMBAWA;;Batu Lanteh (Batulanteh);809;Batu Dulang (Batudulang);AMAN
+;KABUPATEN SUMBAWA;;Batu Lanteh (Batulanteh);810;Batu Rotok (Baturotok);AMAN
+;KABUPATEN SUMBAWA;;Batu Lanteh (Batulanteh);811;Kelungkung;SIAGA
+;KABUPATEN SUMBAWA;;Batu Lanteh (Batulanteh);812;Tangkam Pulit (Tangkampulit / Tangkan Pulit);AMAN
+;KABUPATEN SUMBAWA;;Batu Lanteh (Batulanteh);813;Tepal;AMAN
+;KABUPATEN SUMBAWA;;Alas Barat;816;Labuhan Mapin (Labuan Mapin);AMAN
+;KABUPATEN SUMBAWA;;Alas Barat;818;Mapin Beru (Mapin Baru);AMAN
+;KABUPATEN SUMBAWA;;Alas;824;Juran Alas (Juranalas);WASPADA
+;KABUPATEN SUMBAWA;;Alas;828;Marente (Marenteh);SIAGA
+;KABUPATEN DOMPU;5;Kilo;874;Karama (Kramat 2 / Keramat);AMAN
+;KABUPATEN BIMA;;Tambora;955;UPT Tambora;AMAN
+;KABUPATEN BIMA;;Parado;991;Parado Rato (Paradorato);WASPADA
+;KABUPATEN BIMA;;Parado;992;Parado Wane (Paradowane);AMAN
+;KABUPATEN BIMA;;Monta;1009;Sakuru (Sekuru);SIAGA
+;KABUPATEN BIMA;;Madapangga;1022;Madawau (Mandawau);AMAN
+;KABUPATEN BIMA;12;Langgudu;1030;Doro Oo (Doro O'o);SIAGA
+;KABUPATEN BIMA;;Lambu;1049;Lanta Barat (Lauta Barat);SIAGA
+;KOTA BIMA;2;Mpunda;1109;Sambi Nae;SIAGA
+;KOTA BIMA;;Raba;1124;Rabangodu Timur;SIAGA
+;KOTA BIMA;;Raba;1125;Rasbangodu Barat;SIAGA
+;KOTA BIMA;;Rasanae Timur;1138;Oi foo;AMAN

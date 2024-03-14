@@ -1,0 +1,484 @@
+;Ambon;;Nusaniwe;20;Urimessing;Aman;Aman
+;Ambon;;Nusaniwe;26;Urimessing;Aman;Aman
+;Ambon;4;Baguala;32;Latta;Aman;Aman
+;Ambon;;Baguala;33;Nania;Aman;Aman
+;Ambon;;Baguala;34;Negeri Lama;Aman;Aman
+;Ambon;;Baguala;35;Waiheru;Aman;Aman
+;Ambon;;Baguala;36;Lateri;Aman;Aman
+;Ambon;;Baguala;37;Halong;Aman;Aman
+;Ambon;;Baguala;38;Passo;Aman;Aman
+;Ambon;;Leitimur Selatan;42;Hutumury;Aman;Aman
+;MALUKU TENGAH;;Teon Nila Serua;64;issu;Aman;Aman
+;MALUKU TENGAH;;Teon Nila Serua;68;Lesluru;Aman;Aman
+;MALUKU TENGAH;;Teon Nila Serua;69;Messa;Aman;Aman
+;MALUKU TENGAH;;Teon Nila Serua;71;Sifluru;Aman;Aman
+;MALUKU TENGAH;;Seram Utara;83;Kanikeh;Aman;Aman
+;MALUKU TENGAH;;Banda;100;Kampung Baru;Aman;Aman
+;MALUKU TENGAH;;Banda;102;Merdeka;Aman;Aman
+;MALUKU TENGAH;;Banda;104;Pulau Hatta;Aman;Aman
+;MALUKU TENGAH;;Tehoru;118;Mosso;Aman;Aman
+;MALUKU TENGAH;;Tehoru;119;Lava;Aman;Aman
+;MALUKU TENGAH;;Saparua;129;Sirisori Amalatu;Aman;Aman
+;MALUKU TENGAH;;Saparua;130;Sirisori Amapatti;Aman;Aman
+;MALUKU TENGAH;;Saparua;137;Pia;Aman;Aman
+;MALUKU TENGAH;;Pulau Haruku;143;Kariuw;Aman;Aman
+;MALUKU TENGAH;;Salahutu;151;Tengah-Tengah;Aman;Aman
+;MALUKU TENGAH;;Leihitu;157;Hitu Lama;Aman;Aman
+;MALUKU TENGAH;;Leihitu;158;Hitu Mesing;Aman;Aman
+;MALUKU TENGAH;;Leihitu;161;Morela;Aman;Aman
+;Seram Bagian Barat;12;Seram Barat;178;Kaibobo;Aman;Aman
+;Seram Bagian Barat;;Seram Barat;179;Eti;Aman;Aman
+;Seram Bagian Barat;;Seram Barat;180;Lumoli;Aman;Aman
+;Seram Bagian Barat;;Seram Barat;181;Morekau;Aman;Aman
+;Seram Bagian Barat;;Seram Barat;182;Neniari;Aman;Aman
+;Seram Bagian Barat;;Seram Barat;183;Piru;Aman;Aman
+;Seram Bagian Barat;;Seram Barat;184;Kawa;Aman;Aman
+;MALUKU TENGAH;14;Leihitu Barat;189;alang;Aman;Aman
+;MALUKU TENGAH;;Telutih;197;laha kaba;Aman;Aman
+;MALUKU TENGAH;;Seram Utara Timur Seti;215;wanosari;Aman;Aman
+;MALUKU TENGAH;17;Seram Utara Timur Kobi;216;kalawira;Aman;Aman
+;MALUKU TENGAH;;Seram Utara Timur Kobi;217;kayu besi;Aman;Aman
+;MALUKU TENGAH;;Seram Utara Timur Kobi;218;kinaselon;Aman;Aman
+;MALUKU TENGAH;;Seram Utara Timur Kobi;219;kolongan;Aman;Aman
+;MALUKU TENGAH;;Seram Utara Timur Kobi;220;kolongan 1;Aman;Aman
+;MALUKU TENGAH;;Seram Utara Timur Kobi;221;kombi;Aman;Aman
+;MALUKU TENGAH;;Seram Utara Timur Kobi;222;lalumpe;Aman;Aman
+;MALUKU TENGAH;;Seram Utara Timur Kobi;223;makalisung;Aman;Aman
+;MALUKU TENGAH;;Seram Utara Timur Kobi;224;ranowangko II;Aman;Aman
+;MALUKU TENGAH;;Seram Utara Timur Kobi;225;rerer;Aman;Aman
+;MALUKU TENGAH;;Seram Utara Timur Kobi;226;rerer I;Aman;Aman
+;MALUKU TENGAH;;Seram Utara Timur Kobi;227;sawangan;Aman;Aman
+;MALUKU TENGAH;;Seram Utara Timur Kobi;228;tulap;Aman;Aman
+;MALUKU TENGAH;;Saparua Timur;235;siri sori islam;Aman;Aman
+;MALUKU TENGAH;;Saparua Timur;236;siri sori amalatu;Aman;Aman
+;MALUKU TENGAH;;Saparua Timur;238;Ullath;Aman;Aman
+;Seram Bagian Barat;;Huamual Belakang;245;Sole;Aman;Aman
+;Seram Bagian Barat;;Huamual Belakang;248;Buano Utara;Aman;Aman
+;Seram Bagian Barat;;Huamual Belakang;250;Allang Asaude;Aman;Aman
+;Seram Bagian Barat;;Kairatu Barat;261;Nuruwe;Aman;Aman
+;Seram Bagian Barat;5;Inamosol;264;Honitetu;Aman;Aman
+;Seram Bagian Barat;;Amalatu;270;Latuhalat;Aman;Aman
+;Seram Bagian Barat;;Elpaputih;282;Watui;Aman;Aman
+;Seram Bagian Barat;8;Kepulauan Manipa;283;Buano HatuPutih;Aman;Aman
+;Seram Bagian Barat;;Kepulauan Manipa;284;Kelang Asaude;Aman;Aman
+;Seram Bagian Barat;;Kepulauan Manipa;286;Masawoy;Aman;Aman
+;Seram Bagian Barat;;Taniwel Timur;296;Musihuwey;Aman;Aman
+;Seram Bagian Barat;;Taniwel;299;Lohiasapalewa;Aman;Aman
+;Seram Bagian Barat;;Taniwel;308;Lisabata;Aman;Aman
+;Seram Bagian Barat;;Taniwel;316;Pasinalo;Aman;Aman
+;Seram Bagian Timur;;Bula;339;Englas;Aman;Aman
+;Seram Bagian Timur;;Bula Barat;348;Banggoi;Aman;Aman
+;Seram Bagian Timur;;Gorom Timur;373;Miran;Aman;Aman
+;Seram Bagian Timur;;Seram Timur;420;Guli-Guli;Aman;Aman
+;Seram Bagian Timur;;Seram Timur;424;Kiltay;Aman;Aman
+;Seram Bagian Timur;;Seram Timur;428;Kwawor Kecil Mata Ata;Aman;Aman
+;Seram Bagian Timur;;Seram Timur;429;Kwawor Kecil Mata Wawa;Aman;Aman
+;Seram Bagian Timur;;Tutuk Tolu;470;Walang Tenga;Aman;Aman
+;Seram Bagian Timur;;Teor;473;Kampung Baru;Aman;Aman
+;Seram Bagian Timur;;Teor;477;Ker Ker;Aman;Aman
+;Seram Bagian Timur;;Kilmury;486;Kamar;Aman;Aman
+;Seram Bagian Timur;;Siritaun Wida Timur;506;Kian laut;Aman;Aman
+;Seram Bagian Timur;;Siritaun Wida Timur;507;Kuwaos;Aman;Aman
+;Seram Bagian Timur;;Siritaun Wida Timur;508;Lian tasik;Aman;Aman
+;Seram Bagian Timur;;Teluk waru;515;Kampung Baru;Aman;Aman
+5;MALUKU TENGGARA;1;Kei Kecil;523;Dudunwahan;Aman;Aman
+;MALUKU TENGGARA;;Kei Kecil;524;Faan;Aman;Aman
+;MALUKU TENGGARA;;Kei Kecil;525;Ibra;Aman;Aman
+;MALUKU TENGGARA;;Kei Kecil;526;Kelanit;Aman;Aman
+;MALUKU TENGGARA;;Kei Kecil;527;Kolser;Aman;Aman
+;MALUKU TENGGARA;;Kei Kecil;528;Langgur;Aman;Aman
+;MALUKU TENGGARA;;Kei Kecil;529;Letman;Aman;Aman
+;MALUKU TENGGARA;;Kei Kecil;530;Loon;Aman;Aman
+;MALUKU TENGGARA;;Kei Kecil;531;Ngabub;Aman;Aman
+;MALUKU TENGGARA;;Kei Kecil;532;Ohoider atas;Aman;Aman
+;MALUKU TENGGARA;;Kei Kecil;533;ohoider tawun;Aman;Aman
+;MALUKU TENGGARA;;Kei Kecil;534;ohoijang watdeck;Aman;Aman
+;MALUKU TENGGARA;;Kei Kecil;535;sathean;Aman;Aman
+;MALUKU TENGGARA;;Kei Kecil;536;sidneiohoi;Aman;Aman
+;MALUKU TENGGARA;;Kei Kecil;537;wearlilir;Aman;Aman
+;MALUKU TENGGARA;;Kei Besar;541;El Laran;Aman;Aman
+;MALUKU TENGGARA;;Kei Besar;544;Pagamas;Aman;Aman
+;MALUKU TENGGARA;;Kei Besar;547;Lerohoilim;Aman;Aman
+;MALUKU TENGGARA;;Kei Besar;556;Ohoilem;Aman;Aman
+;MALUKU TENGGARA;;Kei Besar;559;Ohoililir;Aman;Aman
+;MALUKU TENGGARA;;Kei Besar;560;Tamada;Aman;Aman
+;MALUKU TENGGARA;;Kei Besar;562;Debut;Aman;Aman
+;MALUKU TENGGARA;3;Kei Besar Selatan;565;Kilwat;Aman;Aman
+;MALUKU TENGGARA;;Kei Besar Selatan;566;Larat;Aman;Aman
+;MALUKU TENGGARA;;Kei Besar Selatan;567;Nerong;Aman;Aman
+;MALUKU TENGGARA;;Kei Besar Selatan;568;Ohoirenang;Aman;Aman
+;MALUKU TENGGARA;;Kei Besar Selatan;569;Sather;Aman;Aman
+;MALUKU TENGGARA;;Kei Besar Selatan;570;Soindat Tamangil;Aman;Aman
+;MALUKU TENGGARA;;Kei Besar Selatan;571;Nuhuten tamangil;Aman;Aman
+;MALUKU TENGGARA;;Kei Besar Selatan;572;Nuhuyanat;Aman;Aman
+;MALUKU TENGGARA;;Kei Besar Selatan;573;Tutrean;Aman;Aman
+;MALUKU TENGGARA;;Kei Besar Selatan;574;Weduar;Aman;Aman
+;MALUKU TENGGARA;4;Kei Besar Utara Timur;575;Kilwair;Aman;Aman
+;MALUKU TENGGARA;;Kei Besar Utara Timur;576;Hollat;Aman;Aman
+;MALUKU TENGGARA;;Kei Besar Utara Timur;577;ohoifau;Aman;Aman
+;MALUKU TENGGARA;;Kei Besar Utara Timur;578;watlaar;Aman;Aman
+;MALUKU TENGGARA;;Kei Besar Utara Timur;579;banda Eli;Aman;Aman
+;MALUKU TENGGARA;;Kei Besar Utara Timur;580;Renfaan;Aman;Aman
+;MALUKU TENGGARA;;Kei Besar Utara Timur;581;Langgiar;Aman;Aman
+;MALUKU TENGGARA;;Kei Besar Utara Timur;582;Haarohoimel;Aman;Aman
+;MALUKU TENGGARA;;Kei Besar Utara Timur;583;ohoiraut;Aman;Aman
+;MALUKU TENGGARA;5;Kei Kecil Timur;584;Ohoiseb;Aman;Aman
+;MALUKU TENGGARA;;Kei Kecil Timur;585;Danar ternate;Aman;Aman
+;MALUKU TENGGARA;;Kei Kecil Timur;586;Numefar;Aman;Aman
+;MALUKU TENGGARA;;Kei Kecil Timur;587;Nursoin;Aman;Aman
+;MALUKU TENGGARA;;Kei Kecil Timur;588;Elaar lamagorang;Aman;Aman
+;MALUKU TENGGARA;;Kei Kecil Timur;589;Elaar Let;Aman;Aman
+;MALUKU TENGGARA;;Kei Kecil Timur;590;Mastur;Aman;Aman
+;MALUKU TENGGARA;;Kei Kecil Timur;591;Ohoinol;Aman;Aman
+;MALUKU TENGGARA;;Kei Kecil Timur;592;Wain abean;Aman;Aman
+;MALUKU TENGGARA;;Kei Kecil Timur;593;Raat;Aman;Aman
+;MALUKU TENGGARA;;Kei Kecil Timur;594;Rumaat;Aman;Aman
+;MALUKU TENGGARA;;Kei Kecil Timur;595;Rewav;Aman;Aman
+;MALUKU TENGGARA;6;Kei Kecil Barat;596;Ohoidertutu;Aman;Aman
+;MALUKU TENGGARA;;Kei Kecil Barat;597;Madwaer;Aman;Aman
+;MALUKU TENGGARA;;Kei Kecil Barat;598;Somlaeng;Aman;Aman
+;MALUKU TENGGARA;;Kei Kecil Barat;599;Ohoireng;Aman;Aman
+;MALUKU TENGGARA;;Kei Kecil Barat;600;Ohoira;Aman;Aman
+;MALUKU TENGGARA;;Kei Kecil Barat;601;ur pulau;Aman;Aman
+;MALUKU TENGGARA;;Kei Kecil Barat;602;tanimbar kei;Aman;Aman
+;MALUKU TENGGARA;;Kei Kecil Barat;603;warbal;Aman;Aman
+;MALUKU TENGGARA;;Manyeuw;609;ohoililir;Aman;Aman
+;MALUKU TENGGARA;;Manyeuw;610;Ohoilk;Aman;Aman
+;MALUKU TENGGARA;;Manyeuw;611;rumahdian;Aman;Aman
+;MALUKU TENGGARA;;Hoat Sorbay;617;Letwuan;Aman;Aman
+;MALUKU TENGGARA;;Hoat Sorbay;620;ohoibadar;Aman;Aman
+;MALUKU TENGGARA;9;Kei Besar Utara Barat;626;at ngurwul;Aman;Aman
+;MALUKU TENGGARA;;Kei Besar Utara Barat;627;at Ohoiwaf;Aman;Aman
+;MALUKU TENGGARA;;Kei Besar Utara Barat;628;at wear aur;Aman;Aman
+;MALUKU TENGGARA;;Kei Besar Utara Barat;629;dangarat;Aman;Aman
+;MALUKU TENGGARA;;Kei Besar Utara Barat;630;fa;Aman;Aman
+;MALUKU TENGGARA;;Kei Besar Utara Barat;631;hangur;Aman;Aman
+;MALUKU TENGGARA;;Kei Besar Utara Barat;632;hoor islam;Aman;Aman
+;MALUKU TENGGARA;;Kei Besar Utara Barat;633;hoor kristen;Aman;Aman
+;MALUKU TENGGARA;;Kei Besar Utara Barat;634;laar;Aman;Aman
+;MALUKU TENGGARA;;Kei Besar Utara Barat;635;munessoy;Aman;Aman
+;MALUKU TENGGARA;;Kei Besar Utara Barat;636;mun khaar;Aman;Aman
+;MALUKU TENGGARA;;Kei Besar Utara Barat;637;mun ngurdit wain;Aman;Aman
+;MALUKU TENGGARA;;Kei Besar Utara Barat;638;mun werfan;Aman;Aman
+;MALUKU TENGGARA;;Kei Besar Utara Barat;639;ngurwalet;Aman;Aman
+;MALUKU TENGGARA;;Kei Besar Utara Barat;640;ohoi tuf;Aman;Aman
+;MALUKU TENGGARA;;Kei Besar Utara Barat;641;uwat;Aman;Aman
+;MALUKU TENGGARA;;Kei Besar Utara Barat;642;uwatreyaan;Aman;Aman
+;MALUKU TENGGARA;;Kei Besar Utara Barat;643;uwatwear;Aman;Aman
+;MALUKU TENGGARA;10;Kei Besar Selatan Barat;644;feer;Aman;Aman
+;MALUKU TENGGARA;;Kei Besar Selatan Barat;645;hoat;Aman;Aman
+;MALUKU TENGGARA;;Kei Besar Selatan Barat;646;hoko;Aman;Aman
+;MALUKU TENGGARA;;Kei Besar Selatan Barat;647;ngafan;Aman;Aman
+;MALUKU TENGGARA;;Kei Besar Selatan Barat;648;ngan;Aman;Aman
+;MALUKU TENGGARA;;Kei Besar Selatan Barat;649;ngurko;Aman;Aman
+;MALUKU TENGGARA;;Kei Besar Selatan Barat;650;ohoilean;Aman;Aman
+;MALUKU TENGGARA;;Kei Besar Selatan Barat;651;rahangiar;Aman;Aman
+;MALUKU TENGGARA;;Kei Besar Selatan Barat;652;rerean;Aman;Aman
+;MALUKU TENGGARA;;Kei Besar Selatan Barat;653;uat;Aman;Aman
+;MALUKU TENGGARA;;Kei Besar Selatan Barat;654;wafol;Aman;Aman
+;MALUKU TENGGARA;;Kei Besar Selatan Barat;655;watkidat;Aman;Aman
+;MALUKU TENGGARA;;Kei Besar Selatan Barat;656;weduar feer;Aman;Aman
+;MALUKU TENGGARA;11;Kei Besar Timur Selatan;657;Danar Ohoiseb;Aman;Aman
+;MALUKU TENGGARA;;Kei Besar Timur Selatan;658;Danar Ternate;Aman;Aman
+;MALUKU TENGGARA;;Kei Besar Timur Selatan;659;Danar lumefar;Aman;Aman
+;MALUKU TENGGARA;;Kei Besar Timur Selatan;660;Elaar Nursoin;Aman;Aman
+;MALUKU TENGGARA;;Kei Besar Timur Selatan;661;Elaar lamagorang;Aman;Aman
+;MALUKU TENGGARA;;Kei Besar Timur Selatan;662;Elaar Let;Aman;Aman
+;MALUKU TENGGARA;;Kei Besar Timur Selatan;663;Sare;Aman;Aman
+;MALUKU TENGGARA;;Kei Besar Timur Selatan;664;Maar;Aman;Aman
+;MALUKU TENGGARA;;Kei Besar Timur Selatan;665;uf;Aman;Aman
+;MALUKU TENGGARA;;Kei Besar Timur Selatan;666;Ngurwul;Aman;Aman
+;MALUKU TENGGARA;;Kei Besar Timur Selatan;667;Garara;Aman;Aman
+6;TUAL;1;Pulau Dullah Utara;668;Dullah;Aman;Aman
+;TUAL;;Pulau Dullah Utara;669;Dullah Laut;Aman;Aman
+;TUAL;;Pulau Dullah Utara;670;Fiditan;Aman;Aman
+;TUAL;;Pulau Dullah Utara;671;Labetawi;Aman;Aman
+;TUAL;;Pulau Dullah Utara;672;Ngadi;Aman;Aman
+;TUAL;;Pulau Dullah Utara;673;Ohoitahit;Aman;Aman
+;TUAL;;Pulau Dullah Utara;674;Ohoitel;Aman;Aman
+;TUAL;;Pulau Dullah Utara;675;Tual Komplex Kiom;Waspada;Siaga
+;TUAL;;Pulau Dullah Utara;676;Tamedan;Aman;Aman
+;TUAL;2;Pulau Dullah Selatan;677;Ketsoblak;Aman;Aman
+;TUAL;;Pulau Dullah Selatan;678;Lodar Ell;Aman;Aman
+;TUAL;;Pulau Dullah Selatan;679;Masrum;Aman;Aman
+;TUAL;;Pulau Dullah Selatan;680;Taar;Aman;Aman
+;TUAL;;Pulau Dullah Selatan;681;Tual;Aman;Aman
+;TUAL;;Tayando Tam;684;Tayando Ohoiel;Aman;Aman
+;TUAL;;Pulau-pulau Kur;690;_;Aman;Aman
+;TUAL;;Pulau-pulau Kur;691;_;Aman;Aman
+;TUAL;;Kur Selatan;694;Niela;Aman;Aman
+;TUAL;;Kur Selatan;695;Rumoin;Aman;Aman
+;TUAL;;Kur Selatan;696;Tiflen;Aman;Aman
+7;KEPULAUAN ARU;1;Pulau-Pulau Aru;699;Galai;Aman;Aman
+;KEPULAUAN ARU;;Pulau-Pulau Aru;700;Dubu;Aman;Aman
+;KEPULAUAN ARU;;Pulau-Pulau Aru;701;Siwa Lima;Aman;Aman
+;KEPULAUAN ARU;;Pulau-Pulau Aru;702;Durjela;Aman;Aman
+;KEPULAUAN ARU;;Pulau-Pulau Aru;703;Gorar;Aman;Aman
+;KEPULAUAN ARU;;Pulau-Pulau Aru;704;Jabulenga;Aman;Aman
+;KEPULAUAN ARU;;Pulau-Pulau Aru;705;Karangguli;Aman;Aman
+;KEPULAUAN ARU;;Pulau-Pulau Aru;706;Kobraur;Aman;Aman
+;KEPULAUAN ARU;;Pulau-Pulau Aru;707;Lau-lau;Aman;Aman
+;KEPULAUAN ARU;;Pulau-Pulau Aru;708;Nafar;Aman;Aman
+;KEPULAUAN ARU;;Pulau-Pulau Aru;709;Samang;Aman;Aman
+;KEPULAUAN ARU;;Pulau-Pulau Aru;710;Tunguwatu;Aman;Aman
+;KEPULAUAN ARU;;Pulau-Pulau Aru;711;Ujir;Aman;Aman
+;KEPULAUAN ARU;;Pulau-Pulau Aru;712;Wangel;Aman;Aman
+;KEPULAUAN ARU;;Pulau-Pulau Aru;713;Wokam;Aman;Aman
+;KEPULAUAN ARU;2;Aru Selatan;714;Doka Barat;Aman;Aman
+;KEPULAUAN ARU;;Aru Selatan;715;Doka Timur;Aman;Aman
+;KEPULAUAN ARU;;Aru Selatan;716;Fatural;Aman;Aman
+;KEPULAUAN ARU;;Aru Selatan;717;Feruni;Aman;Aman
+;KEPULAUAN ARU;;Aru Selatan;718;Gaimar;Aman;Aman
+;KEPULAUAN ARU;;Aru Selatan;719;Jelia;Aman;Aman
+;KEPULAUAN ARU;;Aru Selatan;720;Jerol;Aman;Aman
+;KEPULAUAN ARU;;Aru Selatan;721;Kabalukin;Aman;Aman
+;KEPULAUAN ARU;;Aru Selatan;722;Kalar-kalar;Aman;Aman
+;KEPULAUAN ARU;;Aru Selatan;723;Laininir;Aman;Aman
+;KEPULAUAN ARU;;Aru Selatan;724;Lor-Lor;Aman;Aman
+;KEPULAUAN ARU;;Aru Selatan;725;Marfenfen;Aman;Aman
+;KEPULAUAN ARU;;Aru Selatan;726;Ngaibor;Aman;Aman
+;KEPULAUAN ARU;;Aru Selatan;727;Ngaiguli;Aman;Aman
+;KEPULAUAN ARU;;Aru Selatan;728;Popjetur;Aman;Aman
+;KEPULAUAN ARU;3;Aru Tengah;729;Algadang;Aman;Aman
+;KEPULAUAN ARU;;Aru Tengah;730;Benjina;Aman;Aman
+;KEPULAUAN ARU;;Aru Tengah;731;Fatlabata;Aman;Aman
+;KEPULAUAN ARU;;Aru Tengah;732;Gardakau;Aman;Aman
+;KEPULAUAN ARU;;Aru Tengah;733;Gulili;Aman;Aman
+;KEPULAUAN ARU;;Aru Tengah;734;Irloy;Aman;Aman
+;KEPULAUAN ARU;;Aru Tengah;735;Jirlay;Aman;Aman
+;KEPULAUAN ARU;;Aru Tengah;736;Kobadangar;Aman;Aman
+;KEPULAUAN ARU;;Aru Tengah;737;Kobasel Fara;Aman;Aman
+;KEPULAUAN ARU;;Aru Tengah;738;Kobasel Timur;Aman;Aman
+;KEPULAUAN ARU;;Aru Tengah;739;Kwarbola;Aman;Aman
+;KEPULAUAN ARU;;Aru Tengah;740;Lorang;Aman;Aman
+;KEPULAUAN ARU;;Aru Tengah;741;Maijuring;Aman;Aman
+;KEPULAUAN ARU;;Aru Tengah;742;Manjau;Aman;Aman
+;KEPULAUAN ARU;;Aru Tengah;743;Maririmar;Aman;Aman
+;KEPULAUAN ARU;;Aru Tengah;744;Murai;Aman;Aman
+;KEPULAUAN ARU;;Aru Tengah;745;Namara;Aman;Aman
+;KEPULAUAN ARU;;Aru Tengah;746;Papakula;Aman;Aman
+;KEPULAUAN ARU;;Aru Tengah;747;Selibata-Bata;Aman;Aman
+;KEPULAUAN ARU;;Aru Tengah;748;Selilau;Aman;Aman
+;KEPULAUAN ARU;4;Aru Utara;749;Foket;Aman;Aman
+;KEPULAUAN ARU;;Aru Utara;750;Jerwatu;Aman;Aman
+;KEPULAUAN ARU;;Aru Utara;751;Kabufin;Aman;Aman
+;KEPULAUAN ARU;;Aru Utara;752;Kaibolafin;Aman;Aman
+;KEPULAUAN ARU;;Aru Utara;753;Kolamar;Aman;Aman
+;KEPULAUAN ARU;;Aru Utara;754;Marlasi;Aman;Aman
+;KEPULAUAN ARU;;Aru Utara;755;Mesidang;Aman;Aman
+;KEPULAUAN ARU;;Aru Utara;756;Selmona;Aman;Aman
+;KEPULAUAN ARU;;Aru Utara;757;Tasinwaha;Aman;Aman
+;KEPULAUAN ARU;;Aru Utara;758;Wangangula-Ngula;Aman;Aman
+;KEPULAUAN ARU;;Aru Utara;759;Wahayum;Aman;Aman
+;KEPULAUAN ARU;;Aru Utara;760;Warialau;Aman;Aman
+;KEPULAUAN ARU;5;Aru Utara Timur Batuley;761;Batuley;Aman;Aman
+;KEPULAUAN ARU;;Aru Utara Timur Batuley;762;Benjuring;Aman;Aman
+;KEPULAUAN ARU;;Aru Utara Timur Batuley;763;Jursiang;Aman;Aman
+;KEPULAUAN ARU;;Aru Utara Timur Batuley;764;kabalsiang;Aman;Aman
+;KEPULAUAN ARU;;Aru Utara Timur Batuley;765;Kobamar;Aman;Aman
+;KEPULAUAN ARU;;Aru Utara Timur Batuley;766;Kompane;Aman;Aman
+;KEPULAUAN ARU;;Aru Utara Timur Batuley;767;Kumul;Aman;Aman
+;KEPULAUAN ARU;;Aru Utara Timur Batuley;768;Sewer;Aman;Aman
+;KEPULAUAN ARU;;Aru Utara Timur Batuley;769;Waria;Aman;Aman
+;KEPULAUAN ARU;6;Sir-Sir;770;Bardevan;Aman;Aman
+;KEPULAUAN ARU;;Sir-Sir;771;Goda-Goda;Aman;Aman
+;KEPULAUAN ARU;;Sir-Sir;772;Gomsey;Aman;Aman
+;KEPULAUAN ARU;;Sir-Sir;773;Kolaha;Aman;Aman
+;KEPULAUAN ARU;;Sir-Sir;774;Langhalau;Aman;Aman
+;KEPULAUAN ARU;;Sir-Sir;775;Leiting;Aman;Aman
+;KEPULAUAN ARU;;Sir-Sir;776;Mohongsel;Aman;Aman
+;KEPULAUAN ARU;;Sir-Sir;777;Wafan;Aman;Aman
+;KEPULAUAN ARU;;Sir-Sir;778;Waiful;Aman;Aman
+;KEPULAUAN ARU;7;Aru Tengah Timur;779;Balatan;Aman;Aman
+;KEPULAUAN ARU;;Aru Tengah Timur;780;Basada;Aman;Aman
+;KEPULAUAN ARU;;Aru Tengah Timur;781;Dosinamalu;Aman;Aman
+;KEPULAUAN ARU;;Aru Tengah Timur;782;Kaiwabar;Aman;Aman
+;KEPULAUAN ARU;;Aru Tengah Timur;783;Karawai;Aman;Aman
+;KEPULAUAN ARU;;Aru Tengah Timur;784;Kobror;Aman;Aman
+;KEPULAUAN ARU;;Aru Tengah Timur;785;Koijabi;Aman;Aman
+;KEPULAUAN ARU;;Aru Tengah Timur;786;Lola;Aman;Aman
+;KEPULAUAN ARU;;Aru Tengah Timur;787;Mariri;Aman;Aman
+;KEPULAUAN ARU;;Aru Tengah Timur;788;Ponom;Aman;Aman
+;KEPULAUAN ARU;;Aru Tengah Timur;789;Wailay;Aman;Aman
+;KEPULAUAN ARU;;Aru Tengah Timur;790;Marjukur;Aman;Aman
+;KEPULAUAN ARU;;Aru Tengah Timur;791;Warloi;Aman;Aman
+;KEPULAUAN ARU;8;Aru Tengah Selatan;792;Apara;Aman;Aman
+;KEPULAUAN ARU;;Aru Tengah Selatan;793;Bemun;Aman;Aman
+;KEPULAUAN ARU;;Aru Tengah Selatan;794;Gomo-Gomo;Aman;Aman
+;KEPULAUAN ARU;;Aru Tengah Selatan;795;Jambu Air;Aman;Aman
+;KEPULAUAN ARU;;Aru Tengah Selatan;796;Longgar;Aman;Aman
+;KEPULAUAN ARU;;Aru Tengah Selatan;797;Mesiang;Aman;Aman
+;KEPULAUAN ARU;;Aru Tengah Selatan;798;Warabal;Aman;Aman
+;KEPULAUAN ARU;9;Aru Selatan Utara;799;Erersin;Aman;Aman
+;KEPULAUAN ARU;;Aru Selatan Utara;800;Hokmar;Aman;Aman
+;KEPULAUAN ARU;;Aru Selatan Utara;801;Juring;Aman;Aman
+;KEPULAUAN ARU;;Aru Selatan Utara;802;Lutur;Aman;Aman
+;KEPULAUAN ARU;;Aru Selatan Utara;803;Maekor;Aman;Aman
+;KEPULAUAN ARU;;Aru Selatan Utara;804;Rebi;Aman;Aman
+;KEPULAUAN ARU;;Aru Selatan Utara;805;Tabarfane;Aman;Aman
+8;BURU;1;Namlea;806;Batu Boy;Aman;Aman
+;BURU;;Namlea;807;Jamilu;Aman;Aman
+;BURU;;Namlea;808;Karang Jaya;Aman;Aman
+;BURU;;Namlea;809;Lala;Aman;Aman
+;BURU;;Namlea;810;Namlea;Aman;Aman
+;BURU;;Namlea;811;Sanleko;Aman;Aman
+;BURU;;Namlea;812;Siahoni;Aman;Aman
+;BURU;2;Air Buaya;813;Air Buaya;Aman;Aman
+;BURU;;Air Buaya;814;Awilinan;Aman;Aman
+;BURU;;Air Buaya;815;Bara;Aman;Aman
+;BURU;;Air Buaya;816;Batlale;Aman;Aman
+;BURU;;Air Buaya;817;Kampung Baru;Aman;Aman
+;BURU;;Air Buaya;818;Selwadu;Aman;Aman
+;BURU;;Air Buaya;819;Tanjung Karang;Aman;Aman
+;BURU;;Air Buaya;820;Waimangit;Aman;Aman
+;BURU;;Air Buaya;821;Waipure;Aman;Aman
+;BURU;;Air Buaya;822;Wasbaka;Aman;Aman
+;BURU;3;Waeapo;823;Savana Jaya;Aman;Aman
+;BURU;;Waeapo;824;Gogrea;Aman;Aman
+;BURU;;Waeapo;825;Waetele;Aman;Aman
+;BURU;;Waeapo;826;Waekerta;Aman;Aman
+;BURU;;Waeapo;827;Waekasar;Aman;Aman
+;BURU;;Waeapo;828;Waenetat;Aman;Aman
+;BURU;;Waeapo;829;Wanareja;Aman;Aman
+;BURU;4;Waplau;830;Hatawano;Aman;Aman
+;BURU;;Waplau;831;Lamahang;Aman;Aman
+;BURU;;Waplau;832;Namsina;Aman;Aman
+;BURU;;Waplau;833;Samalagi;Aman;Aman
+;BURU;;Waplau;834;Skikilale;Aman;Aman
+;BURU;;Waplau;835;Waepotih;Aman;Aman
+;BURU;;Waplau;836;Waeura;Aman;Aman
+;BURU;;Waplau;837;Wailihang;Aman;Aman
+;BURU;;Waplau;838;Waplau;Aman;Aman
+;BURU;;Waplau;839;Waprea;Aman;Aman
+;BURU;5;Batabual;840;Ilath;Aman;Aman
+;BURU;;Batabual;841;Batu Jungku;Aman;Aman
+;BURU;;Batabual;842;Pela;Aman;Aman
+;BURU;;Batabual;843;Waemorat;Aman;Aman
+;BURU;;Batabual;844;Seith;Aman;Aman
+;BURU;6;Lolong Guba;845;Grandeng;Aman;Aman
+;BURU;;Lolong Guba;846;Kubalahin;Aman;Aman
+;BURU;;Lolong Guba;847;Lele;Aman;Aman
+;BURU;;Lolong Guba;848;Nafrua;Aman;Aman
+;BURU;;Lolong Guba;849;Ohilahin;Aman;Aman
+;BURU;;Lolong Guba;850;Tifu;Aman;Aman
+;BURU;;Lolong Guba;851;Wabloy;Aman;Aman
+;BURU;;Lolong Guba;852;Waegeren;Aman;Aman
+;BURU;;Lolong Guba;853;Wanakarta;Aman;Aman
+;BURU;;Lolong Guba;854;Wapsalit;Aman;Aman
+;BURU;7;Waelata;855;Basalale;Aman;Aman
+;BURU;;Waelata;856;Dava;Aman;Aman
+;BURU;;Waelata;857;Deboway;Aman;Aman
+;BURU;8;Fena Leisela;858;Balbalu;Aman;Aman
+;BURU;;Fena Leisela;859;Lemanpoli;Aman;Aman
+;BURU;;Fena Leisela;860;Raheriat;Aman;Aman
+;BURU;;Fena Leisela;861;Waedanga;Aman;Aman
+;BURU;;Fena Leisela;862;Waekose;Aman;Aman
+;BURU;;Fena Leisela;863;Waelana-lana;Aman;Aman
+;BURU;;Fena Leisela;864;Waemite;Aman;Aman
+;BURU;;Fena Leisela;865;Waereman;Aman;Aman
+;BURU;;Fena Leisela;866;Wainibe;Aman;Aman
+;BURU;;Fena Leisela;867;Wamana Baru;Aman;Aman
+;BURU;;Fena Leisela;868;Wamlana;Aman;Aman
+;BURU;;Fena Leisela;869;Wasi;Aman;Aman
+;BURU;;Fena Leisela;870;Waspait;Aman;Aman
+;BURU;9;Teluk Kaiely;871;Kaiely;Aman;Aman
+;BURU;;Teluk Kaiely;872;Kaki Air;Aman;Aman
+;BURU;;Teluk Kaiely;873;Masarete;Aman;Aman
+;BURU;;Teluk Kaiely;874;Waelapia;Aman;Aman
+;BURU;10;Lilialy;875;Jikumarasa;Aman;Aman
+;BURU;;Lilialy;876;Sawa;Aman;Aman
+;BURU;;Lilialy;877;Ubung;Aman;Aman
+;BURU;;Lilialy;878;Waeperang;Aman;Aman
+;BURU;;Lilialy;879;Waimiting;Aman;Aman
+;BURU SELATAN;;Kepala Madan;930;Kepala madan;Aman;Aman
+;BURU SELATAN;5;Leksula;931;Ewiri;Aman;Aman
+;BURU SELATAN;;fena fafan;952;Nasarua;Aman;Aman
+10;KEPULAUAN TANIMBAR;1;Tanimbar Selatan;960;Ilngei;Aman;Aman
+;KEPULAUAN TANIMBAR;;Tanimbar Selatan;961;Kabiarat;Aman;Aman
+;KEPULAUAN TANIMBAR;;Tanimbar Selatan;962;Latdalam;Aman;Aman
+;KEPULAUAN TANIMBAR;;Tanimbar Selatan;963;Lauran;Aman;Aman
+;KEPULAUAN TANIMBAR;;Tanimbar Selatan;964;Lermatang;Aman;Aman
+;KEPULAUAN TANIMBAR;;Tanimbar Selatan;965;Olilit Raya;Aman;Aman
+;KEPULAUAN TANIMBAR;;Tanimbar Selatan;966;Saumlaki;Aman;Aman
+;KEPULAUAN TANIMBAR;;Tanimbar Selatan;967;Sifnana;Aman;Aman
+;KEPULAUAN TANIMBAR;;Tanimbar Selatan;968;Wowonda;Aman;Aman
+;KEPULAUAN TANIMBAR;2;Selaru;969;Adaut;Aman;Aman
+;KEPULAUAN TANIMBAR;;Selaru;970;Namtabung;Aman;Aman
+;KEPULAUAN TANIMBAR;;Selaru;971;Kandar;Aman;Aman
+;KEPULAUAN TANIMBAR;;Selaru;972;Lingat;Aman;Aman
+;KEPULAUAN TANIMBAR;;Selaru;973;Werain;Aman;Aman
+;KEPULAUAN TANIMBAR;;Selaru;974;Fursui;Aman;Aman
+;KEPULAUAN TANIMBAR;3;Wertamrian;975;Amdasa;Aman;Aman
+;KEPULAUAN TANIMBAR;;Wertamrian;976;Arui Bab;Aman;Aman
+;KEPULAUAN TANIMBAR;;Wertamrian;977;Arui Das;Aman;Aman
+;KEPULAUAN TANIMBAR;;Wertamrian;978;Atubul Raya;Aman;Aman
+;KEPULAUAN TANIMBAR;;Wertamrian;979;Lorulung;Aman;Aman
+;KEPULAUAN TANIMBAR;;Wertamrian;980;Sangliat Dol;Aman;Aman
+;KEPULAUAN TANIMBAR;;Wertamrian;981;Sangliat Krawain;Aman;Aman
+;KEPULAUAN TANIMBAR;;Wertamrian;982;Tumbur;Aman;Aman
+;KEPULAUAN TANIMBAR;4;Wermakatian;983;Batu Putih;Aman;Aman
+;KEPULAUAN TANIMBAR;;Wermakatian;984;Kamatubun;Aman;Aman
+;KEPULAUAN TANIMBAR;;Wermakatian;985;Makatiang;Aman;Aman
+;KEPULAUAN TANIMBAR;;Wermakatian;986;Rumasalut;Aman;Aman
+;KEPULAUAN TANIMBAR;;Wermakatian;987;Themin;Aman;Aman
+;KEPULAUAN TANIMBAR;;Wermakatian;988;Welutu;Aman;Aman
+;KEPULAUAN TANIMBAR;;Wermakatian;989;Weratan;Aman;Aman
+;KEPULAUAN TANIMBAR;;Wermakatian;990;Wermatang;Aman;Aman
+;KEPULAUAN TANIMBAR;5;Tanimbar Utara;991;Kelaan;Aman;Aman
+;KEPULAUAN TANIMBAR;;Tanimbar Utara;992;Kaliober;Aman;Aman
+;KEPULAUAN TANIMBAR;;Tanimbar Utara;993;Lamdesar Barat;Aman;Aman
+;KEPULAUAN TANIMBAR;;Tanimbar Utara;994;Lamdesar Timur;Aman;Aman
+;KEPULAUAN TANIMBAR;;Tanimbar Utara;995;Lelingluan;Aman;Aman
+;KEPULAUAN TANIMBAR;;Tanimbar Utara;996;Ridool;Aman;Aman
+;KEPULAUAN TANIMBAR;;Tanimbar Utara;997;Ritabel;Aman;Aman
+;KEPULAUAN TANIMBAR;;Tanimbar Utara;998;Watidal;Aman;Aman
+;KEPULAUAN TANIMBAR;6;Yaru;999;Adodo Fordata;Aman;Aman
+;KEPULAUAN TANIMBAR;;Yaru;1000;Awear;Aman;Aman
+;KEPULAUAN TANIMBAR;;Yaru;1001;Romean;Aman;Aman
+;KEPULAUAN TANIMBAR;;Yaru;1002;Rumngeur;Aman;Aman
+;KEPULAUAN TANIMBAR;;Yaru;1003;Sofyanin;Aman;Aman
+;KEPULAUAN TANIMBAR;;Yaru;1004;Walerang;Aman;Aman
+;KEPULAUAN TANIMBAR;7;Wuarlabobar;1005;Abat;Aman;Aman
+;KEPULAUAN TANIMBAR;;Wuarlabobar;1006;Adomolo;Aman;Aman
+;KEPULAUAN TANIMBAR;;Wuarlabobar;1007;Awear Rumngeur;Aman;Aman
+;KEPULAUAN TANIMBAR;;Wuarlabobar;1008;Karatat;Aman;Aman
+;KEPULAUAN TANIMBAR;;Wuarlabobar;1009;Kilon;Aman;Aman
+;KEPULAUAN TANIMBAR;;Wuarlabobar;1010;Labobar;Aman;Aman
+;KEPULAUAN TANIMBAR;;Wuarlabobar;1011;Nurkat;Aman;Aman
+;KEPULAUAN TANIMBAR;;Wuarlabobar;1012;Tutunametal;Aman;Aman
+;KEPULAUAN TANIMBAR;;Wuarlabobar;1013;Wadankou;Aman;Aman
+;KEPULAUAN TANIMBAR;;Wuarlabobar;1014;Watmasa;Aman;Aman
+;KEPULAUAN TANIMBAR;;Wuarlabobar;1015;Wulmasa;Aman;Aman
+;KEPULAUAN TANIMBAR;;Wuarlabobar;1016;Wunlah;Aman;Aman
+;KEPULAUAN TANIMBAR;8;Kormomolin;1017;Alusi Batjas;Aman;Aman
+;KEPULAUAN TANIMBAR;;Kormomolin;1018;Alusi Bukyalin;Aman;Aman
+;KEPULAUAN TANIMBAR;;Kormomolin;1019;Alusi kelaan;Aman;Aman
+;KEPULAUAN TANIMBAR;;Kormomolin;1020;Alusi Krawain;Aman;Aman
+;KEPULAUAN TANIMBAR;;Kormomolin;1021;Alusi Tamrian;Aman;Aman
+;KEPULAUAN TANIMBAR;;Kormomolin;1022;Kilmasa;Aman;Aman
+;KEPULAUAN TANIMBAR;;Kormomolin;1023;Lorwembun;Aman;Aman
+;KEPULAUAN TANIMBAR;;Kormomolin;1024;Lumasebu;Aman;Aman
+;KEPULAUAN TANIMBAR;;Kormomolin;1025;Meyano Raya;Aman;Aman
+;KEPULAUAN TANIMBAR;9;Nirunmas;1026;Arma;Aman;Aman
+;KEPULAUAN TANIMBAR;;Nirunmas;1027;Manglusi;Aman;Aman
+;KEPULAUAN TANIMBAR;;Nirunmas;1028;Tutukembong;Aman;Aman
+;KEPULAUAN TANIMBAR;;Nirunmas;1029;Watmuri;Aman;Aman
+;KEPULAUAN TANIMBAR;;Nirunmas;1030;Waturu;Aman;Aman
+;KEPULAUAN TANIMBAR;10;Molu Maru;1031;Adodo Molu;Aman;Aman
+;KEPULAUAN TANIMBAR;;Molu Maru;1032;Nurkat;Aman;Aman
+;KEPULAUAN TANIMBAR;;Molu Maru;1033;Tutunametal;Aman;Aman
+;KEPULAUAN TANIMBAR;;Molu Maru;1034;Wadankou;Aman;Aman
+;KEPULAUAN TANIMBAR;;Molu Maru;1035;Wulmasa;Aman;Aman
+;MALUKU BARAT DAYA;;Pulau-Pulau Babar;1066;Sinarusi;Aman;Aman
+;MALUKU BARAT DAYA;;Wetar;1083;Tolemar;Aman;Aman
+;MALUKU BARAT DAYA;;Wetar;1085;Hiai;Aman;Aman
+;MALUKU BARAT DAYA;;Pulau Masela;1112;Uilbutung;Aman;Aman
+;MALUKU BARAT DAYA;;Dawelor Dawera;1120;Wairatan;Aman;Aman
+;MALUKU BARAT DAYA;;Dawelor Dawera;1121;Watuwey;Aman;Aman
+;MALUKU BARAT DAYA;;Pulau Wetang;1125;Pota Besar Pota Kecil;Aman;Aman
+;MALUKU BARAT DAYA;;Pulau Wetang;1126;Rumalewang Besar;Aman;Aman
+;MALUKU BARAT DAYA;;Pulau Wetang;1127;Rumalewang Kecil;Aman;Aman
+;MALUKU BARAT DAYA;;Pulau Wetang;1128;Upupun;Aman;Aman
+;MALUKU BARAT DAYA;;Pulau Lakor;1132;Lolotwara;Aman;Aman
+;MALUKU BARAT DAYA;;Pulau Lakor;1133;Letode;Aman;Aman
+;MALUKU BARAT DAYA;;Wetar Timur;1149;Kahilim;Aman;Aman

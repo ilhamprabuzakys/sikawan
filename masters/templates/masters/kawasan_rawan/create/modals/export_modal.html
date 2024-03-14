@@ -1,0 +1,66 @@
+<div class="modal fade" id="exportDataModal" tabindex="-1" role="dialog">
+	<div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+		<div class="modal-content">
+			<div class="modal-header">
+				<h5 class="modal-title">
+					Export Data <b>Kawasan Rawan</b> dari
+					{% if user.profile.role == 'bnnp' %}
+					<b>{{ user.profile.satker.provinsi.nama_provinsi }}</b>
+					{% elif user.profile.role == 'bnnk' %}
+					<b>{{ user.profile.satker.kabupaten.nama_kabupaten }}</b>
+					{% endif %}
+				</h5>
+				<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+			</div>
+			<form id="exportDataForm" onsubmit="handleExportData(event)">
+				<div class="modal-body">
+					<div class="row mb-3">
+						<label class="col-sm-3 col-form-label required" for="export__tahun">Tahun</label>
+						<div class="col-sm-9">
+							<select id="export__tahun" class="select2 form-select no-search" required>
+								<option selected disabled value="">--Pilih tahun--</option>
+								{% for item in list_year %}
+								{% if item != tahun_saat_ini %}
+                                <option value="{{ item }}">{{ item }}</option>
+                                {% endif %}
+								{% endfor %}
+							</select>
+						</div>
+					</div>
+
+					<div class="row mb-3">
+						<label class="col-sm-3 col-form-label required" for="export__tipe_file">Tipe File</label>
+						<div class="col-sm-9">
+							<select id="export__tipe_file" class="form-select select2 no-search" required>
+								<option selected disabled value="">-- Pilih Tipe --</option>
+								<option value="xlsx">Excel</option>
+								<option value="csv">CSV</option>
+							</select>
+						</div>
+					</div>
+					
+					{% comment %} <div class="row mb-3">
+						<label class="col-sm-3 col-form-label required" for="export__tipe_file">Tipe File</label>
+						<div class="col-sm-9">
+							<div class="form-check form-check-inline mt-3">
+								<input class="form-check-input" type="radio" name="export__tipe_file" id="export__tipe_file_xlsx" value="xlsx" />
+								<label class="form-check-label" for="export__tipe_file_xlsx">CSV</label>
+							  </div>
+							  <div class="form-check form-check-inline">
+								<input class="form-check-input" type="radio" name="export__tipe_file" id="export__tipe_file_csv" value="csv" />
+								<label class="form-check-label" for="export__tipe_file_csv">XLSX</label>
+							  </div>
+						</div>
+					</div> {% endcomment %}
+
+				</div>
+				<div class="modal-footer">
+					<button type="button" class="btn btn-label-secondary" data-bs-dismiss="modal">
+						<i class="fas fa-xmark me-2"></i> Batalkan
+					</button>
+					<button type="submit" class="btn btn-success"><i class="fas fa-save me-2"></i>Export Data</button>
+				</div>
+			</form>
+		</div>
+	</div>
+</div>

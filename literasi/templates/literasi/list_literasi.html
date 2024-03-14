@@ -1,0 +1,49 @@
+{% extends 'dashboard/base_dashboard.html' %}
+{% load static %}
+{% block title %} Daftar Literasi {% endblock %}
+
+{% block modal_tambahan %}
+    {% include "literasi/modals/detail_literasi_modal.html" %}
+    {% include "literasi/modals/create_literasi_modal.html" %}
+    {% include "literasi/modals/edit_literasi_modal.html" %}
+{% endblock modal_tambahan %}
+
+{% block content %}
+<div class="breadcrumb">
+    <div class="row">
+        <h3 class="heading mb-2">Daftar Literasi</h3>
+        <span class="mb-0">
+            <a href="{% url 'dashboard:index' %}" class="text-muted fw-light">Beranda / </a>
+            <span class="ms-1 fw-medium">Daftar Literasi</span>
+        </span>
+    </div>
+</div>
+
+<section id="__data">
+    <div class="card">
+        <div class="card-body">
+            <div id="headline" class="mb-3">
+                <h3 class="text-center">Pengelolaan Data Literasi</h3>
+                <hr>
+            </div>
+
+            <div class="action-button">
+                <div class="d-flex justify-content-end mb-3 gap-2">
+                    <button class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#createModal">
+                        <i class="fas fa-plus me-2"></i>Tambah Data
+                    </button>
+                </div>
+            </div>
+
+            <div class="table-responsive">
+                {% include 'literasi/tables/table.html' %}
+            </div>
+        </div>
+    </div>
+</section>
+{% endblock %}
+
+{% block js_tambahan %}
+    <script src="{% static 'literasi/js/actions.js' %}"></script>
+    <script src="{% static 'literasi/js/dt.js' %}"></script>
+{% endblock %}

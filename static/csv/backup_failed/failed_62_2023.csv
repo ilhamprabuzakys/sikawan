@@ -1,0 +1,199 @@
+﻿1;PalangkaRaya;1;Bukit Batu;1;Banturung;Aman;Siaga
+;PalangkaRaya;;Bukit Batu;2;Habaring Hurung;Aman;Aman
+;PalangkaRaya;;Bukit Batu;3;Kanarakan;Aman;Aman
+;PalangkaRaya;;Bukit Batu;4;Marang;Aman;Siaga
+;PalangkaRaya;;Bukit Batu;5;Sei Gohong;Aman;Aman
+;PalangkaRaya;;Bukit Batu;6;Tangkiling;Aman;Siaga
+;PalangkaRaya;2;Jekan Raya;7;Tumbang Tahai;Aman;siaga
+;PalangkaRaya;;Jekan Raya;8;Bukit Tunggal;Siaga;Siaga
+;PalangkaRaya;;Jekan Raya;9;Menteng;Siaga;Siaga
+;PalangkaRaya;;Jekan Raya;10;Palangka;Siaga;Waspada
+;PalangkaRaya;;Jekan Raya;11;Petuk Katimpun;Siaga;waspada
+;PalangkaRaya;3;Pahandut;12;Langkai;Siaga;Siaga
+;PalangkaRaya;;Pahandut;13;Pahandut;Siaga;Siaga
+;PalangkaRaya;;Pahandut;14;Pahandut Seberang;Siaga;Siaga
+;PalangkaRaya;;Pahandut;15;Panarung;Siaga;Siaga
+;PalangkaRaya;;Pahandut;16;Tanjung Pinang;Aman;Aman
+;PalangkaRaya;;Pahandut;17;Tumbang Rungan;Bahaya;waspada
+;PalangkaRaya;4;Rakumpit;18;Bukit Sua;Aman;Aman
+;PalangkaRaya;;Rakumpit;19;Gaung Baru;Aman;Aman
+;PalangkaRaya;;Rakumpit;20;Mungku Baru;Aman;Aman
+;PalangkaRaya;;Rakumpit;21;Pager;Waspada;Waspada
+;PalangkaRaya;;Rakumpit;22;Panjehang;Aman;Aman
+;PalangkaRaya;;Rakumpit;23;Petuk Barunai;Aman;Aman
+;PalangkaRaya;;Rakumpit;24;Petuk Bukit;Aman;Aman
+;PalangkaRaya;5;Sabangau;25;Bereng Bengkel;Aman;Aman
+;PalangkaRaya;;Sabangau;26;Danau Tundai;Aman;Aman
+;PalangkaRaya;;Sabangau;27;Kalampangan;Waspada;Waspada
+;PalangkaRaya;;Sabangau;28;Kameloh Baru;Aman;Aman
+;PalangkaRaya;;Sabangau;29;Kereng Bangkirai;Siaga;Siaga
+;PalangkaRaya;;Sabangau;30;Sabaru;Siaga;Siaga
+;Katingan;;Kamipang;13;Baun Bango;Aman;Aman
+;Katingan;;Katingan Hilir;26;Talangkah;Aman;Aman
+;Katingan;4;Katingan Hulu;29;Tumbang Sanamang 1;Aman;Aman
+;Katingan;;Katingan Hulu;33;Kuluk Sapangi;Aman;Aman
+;Katingan;;Katingan Hulu;34;Penda Tanggaring Baru;Aman;Aman
+;Katingan;;Katingan Hulu;35;Penda Tanggaring Lama;Aman;Aman
+;Katingan;;Katingan Hulu;37;Rangan Kawit;Aman;Aman
+;Katingan;;Katingan Hulu;40;Sei Nanjan;Aman;Aman
+;Katingan;;Katingan Hulu;41;Teluk Tampang;Aman;Aman
+;Katingan;;Katingan Hulu;44;Tumbang Kabayan;Aman;Aman
+;Katingan;;Katingan Hulu;47;Tumbang Mahop;Aman;Aman
+;Katingan;;Katingan Hulu;51;Tumbang Salaman;Aman;Aman
+;Katingan;;Mendawai;58;Kampung Melayu;Aman;Aman
+;Katingan;;Katingan Kuala;61;bangun jaya;Aman;Aman
+;Katingan;;Katingan Tengah;84;Tumbang Samba;Bahaya;Bahaya
+;Katingan;;Marikit;91;Tumbang Bemban;Aman;Aman
+;Katingan;;Marikit;98;Tumbang Malawan;Aman;Aman
+;Katingan;;Marikit;100;Rangan Tangko;Aman;Aman
+;Katingan;;Marikit;101;Tumbang Taei;Aman;Aman
+;Katingan;;Mendawai;107;Tewang Kampung;Aman;Aman
+;Katingan;;Petak Malai;112;Nusa Kutau;Aman;Aman
+;Katingan;;Petak Malai;116;Tumbang Tangoi;Aman;Aman
+;Katingan;;Pulau Malan;119;Geragu;Aman;Aman
+;Katingan;;Pulau Malan;123;Tewang Darayu;Aman;Aman
+;Katingan;;Sanaman Mantikei;138;Tumbang Kawei;Aman;Aman
+;Katingan;;Sanaman Mantikei;139;Tumbang taranei;Aman;Aman
+;Katingan;;Sanaman Mantikei;142;Tumbang Mangara;Aman;Aman
+;Katingan;;Sanaman Mantikei;143;Tumbang Manggo;Aman;Aman
+;Katingan;;Tasik Payawan;152;Tumbang Panggo;Aman;Aman
+;Katingan;;Tewang Sangalang;155;Hapalam;Aman;Aman
+;Katingan;;Tewang Sangalang;158;Tewang Baringin;Aman;Aman
+;Kotawaringin Timur;;Antang Kalang;4;Kuluk Telawang;Aman;Aman
+;Kotawaringin Timur;;Bukit Santuai;30;Tumbang Panyahuan;Aman;Siaga
+;Kotawaringin Timur;;Cempaga Hulu;53;Sungai Ubar Mandiiri;Aman;Aman
+;Kotawaringin Timur;;Mentawa Baru Ketapang;73;Bangkuang Makmur;Aman;Aman
+;Kotawaringin Timur;;Mentawa Baru Ketapang;78;Bapanggang Raya;Aman;Aman
+;Kotawaringin Timur;;Mentawa Baru Ketapang;79;Bapeang;Aman;Aman
+;Kotawaringin Timur;;Mentawa Baru Ketapang;80;Bengkuang Makmur;Aman;Aman
+;Kotawaringin Timur;;Mentawa Baru Ketapang;81;Eka Bahurui;Aman;Aman
+;Kotawaringin Timur;;Mentawa Baru Ketapang;82;Pelangsian;Aman;Aman
+;Kotawaringin Timur;;Mentaya Hilir Selatan;83;Sebamban;Aman;Aman
+;Kotawaringin Timur;;Mentawa Baru Ketapang;87;Telaga Baru;Aman;aman
+;Kotawaringin Timur;;Mentaya Hilir Utara;89;Bagendang Hilir;Aman;Aman
+;Kotawaringin Timur;;Mentaya Hulu;105;Satiung;Aman;Aman
+;Kotawaringin Timur;;Parenggean;112;Bajarau;Aman;Siaga
+;Kotawaringin Timur;;Parenggean;115;Beringin Tunggal Jaya;Aman;Aman
+;Kotawaringin Timur;;Telaga Antang;151;Luwuk Kowan;Aman;Aman
+;Kotawaringin Timur;;Telaga Antang;156;Tri buana;Aman;Aman
+;Kotawaringin Timur;;Tualan Hulu;179;Jati waringin;Aman;Aman
+;Kotawaringin Timur;;Tualan Hulu;187;Tualan Hulu;Aman;Aman
+;Kotawaringin Timur;;Tualan Hulu;188;Kejayan;Aman;Aman
+;Seruyan;;Seruyan Hilir timur;42;Halimaung Jaya;Aman;Aman
+;Seruyan;;Seruyan Tengah;75;Bukit Tahinting;Aman;Aman
+;Seruyan;;Seruyan Tengah;77;Bukit Panyuhu;Aman;Aman
+;Kotawaringin Barat;;Arut Utara;26;Pandau;Aman;Aman
+;Kotawaringin Barat;;Kotawaringin Lama;45;Suka jaya;Aman;Aman
+;Kotawaringin Barat;;Kumai;58;Sabuai Timur;Aman;Aman
+;Kotawaringin Barat;;Pangkalan Banteng;72;Kebun Agung;Aman;Aman
+;Lamandau;;Bulik;2;Arga Mulya;Aman;Aman
+;Lamandau;;Bulik;3;Beruta;Aman;Aman
+;Lamandau;3;Menthobi Raya;23;Batu Ampar;Aman;Aman
+;Lamandau;;Menthobi Raya;24;Bukit Harum;Aman;Aman
+;Lamandau;;Menthobi Raya;25;Bukit Makmur;Aman;Aman
+;Lamandau;;Menthobi Raya;26;Bukit Raya;Waspada;Waspada
+;Lamandau;;Menthobi Raya;27;Lubuk Hiju;Aman;Aman
+;Lamandau;;Menthobi Raya;28;Melata;Aman;Aman
+;Lamandau;;Menthobi Raya;29;Modang Mas;Aman;Aman
+;Lamandau;;Menthobi Raya;30;Mukti Manunggal;Aman;Aman
+;Lamandau;;Menthobi Raya;31;Nanuah;Aman;Aman
+;Lamandau;;Menthobi Raya;32;Sumber Jaya;Aman;Aman
+;Lamandau;;Menthobi Raya;33;Topalan;Aman;Aman
+;Lamandau;6;Belantikan Raya;57;Belibi;Aman;Aman
+;Lamandau;;Belantikan Raya;60;Bintang Mangalih;Aman;Aman
+;Lamandau;;Delang;75;Penyombaan;Aman;Aman
+;Lamandau;;Delang;79;Sepoyu;Aman;Aman
+;Lamandau;;Batang Kawa;83;Jamuat;Aman;Aman
+;Sukamara;;Permata Kecubung;24;SembiKuan;Aman;Aman
+;Sukamara;;Sukamara;27;Kartamulia;Aman;Aman
+8;Pulang Pisau;1;Jabiren;1;Garung;Aman;Aman
+;Pulang Pisau;;Jabiren;2;Henda;Aman;Aman
+;Pulang Pisau;;Jabiren;3;Jabiren;Bahaya;Bahaya
+;Pulang Pisau;;Jabiren;4;Pilang;Aman;Aman
+;Pulang Pisau;;Jabiren;5;SakaKajang;Aman;Aman
+;Pulang Pisau;;Jabiren;6;Simpur;Aman;Aman
+;Pulang Pisau;;Jabiren;7;Tanjung Taruna;Aman;Aman
+;Pulang Pisau;;Jabiren;8;Tumbang Nusa;Aman;Aman
+;Pulang Pisau;;Kahayan Kuala;35;Papuyu II Sei. Barunai;Aman;Aman
+;Pulang Pisau;;Kahayan Kuala;36;Papuyu I Sei. Pasanan;Aman;Aman
+;Pulang Pisau;;Kahayan Kuala;37;Papuyu III Sei. Pudak;Aman;Aman
+;Pulang Pisau;;Kahayan Kuala;38;Sei. Rungun;Aman;Aman
+;Pulang Pisau;;Kahayan Tengah;52;Tanjung Sangalang;Aman;Aman
+;Pulang Pisau;;Maliku;77;Maliku Mulia;Aman;Aman
+;Kapuas;;Basarang;6;Bungai Jaya;Aman;Aman
+;Kapuas;;Basarang;14;Tarung Manuah;Aman;Aman
+;Kapuas;;Kapuas Barat;48;Penda Katapi;Aman;Aman
+;Kapuas;;Kapuas Hulu;72;Sei Hanyo;Bahaya;Bahaya
+;Kapuas;;Pulau Petak;199;Saka Lagon;Aman;Aman
+;Kapuas;;Tamban Catur;214;BandarRaya;Aman;Aman
+;Kapuas;;Tamban Catur;215;SidoMulyo;Aman;Aman
+;Gunung Mas;2;Kahayan Hulu Utara;9;Batu Tangkui;Aman;Aman
+;Gunung Mas;;Kurun;34;Kurun;Aman;Bahaya
+;Gunung Mas;;Manuhing;38;Bereng Balawan;Aman;Aman
+;Gunung Mas;;Manuhing;41;Guhung;Siaga;Siaga
+;Gunung Mas;;Miri Manasa;61;Harowo;Aman;Aman
+;Gunung Mas;;Sepang;106;Pamatang Limau;Siaga;Siaga
+;Barito Selatan;;Dusun Selatan;10;Buntok Kota;Bahaya;Bahaya
+;Barito Selatan;;Dusun Hilir;11;Hilir Sper;Aman;Aman
+;Barito Selatan;;Dusun Selatan;12;Jelapat;Aman;Aman
+;Barito Selatan;;Dusun Utara;13;Pendang;Aman;Aman
+;Barito Selatan;;Jenamas;14;Rantau Kujang;Aman;Aman
+;Barito Selatan;;Karau Kuala;15;Bangkuang;Aman;Aman
+;Barito Selatan;3;Dusun Selatan;37;Telang Andrau;Aman;Aman
+;Barito Selatan;;Dusun Selatan;38;Teluk Mampun;Aman;Aman
+;Barito Selatan;;Dusun Selatan;39;Teluk Telaga;Aman;Aman
+;Barito Selatan;;Dusun Selatan;40;Tetei Lanan;Aman;Aman
+;Barito Selatan;;Dusun Utara;58;Talekoi;Aman;Aman
+;Barito Selatan;4;Gn. Bintang Awai;59;Baruang;Aman;Aman
+;Barito Selatan;;Gn. Bintang Awai;60;Bintang Ara;Aman;Aman
+;Barito Selatan;;Gn. Bintang Awai;61;Bipak Kali;Aman;Aman
+;Barito Selatan;;Gn. Bintang Awai;62;Gagutur;Aman;Aman
+;Barito Selatan;;Gn. Bintang Awai;63;Kayumban;Aman;Aman
+;Barito Selatan;;Gn. Bintang Awai;64;Malungai Raya;Aman;Aman
+;Barito Selatan;;Gn. Bintang Awai;65;Marga Jaya;Aman;Aman
+;Barito Selatan;;Gn. Bintang Awai;66;Muara Singan;Aman;Aman
+;Barito Selatan;;Gn. Bintang Awai;67;Muka Haji;Aman;Aman
+;Barito Selatan;;Gn. Bintang Awai;68;Ngurit;Aman;Aman
+;Barito Selatan;;Gn. Bintang Awai;69;Palo Rejo;Aman;Aman
+;Barito Selatan;;Gn. Bintang Awai;70;Patas I;Aman;Aman
+;Barito Selatan;;Gn. Bintang Awai;71;Patas II;Aman;Aman
+;Barito Selatan;;Gn. Bintang Awai;72;Ruhing Raya;Aman;Aman
+;Barito Selatan;;Gn. Bintang Awai;73;Sarimbuah;Aman;Aman
+;Barito Selatan;;Gn. Bintang Awai;74;Sire;Aman;Aman
+;Barito Selatan;;Gn. Bintang Awai;75;Sungai Paken;Aman;Aman
+;Barito Selatan;;Gn. Bintang Awai;76;Tabak Kanilan;Aman;Aman
+;Barito Selatan;;Gn. Bintang Awai;77;Ugang Sayu;Aman;Aman
+;Barito Selatan;;Gn. Bintang Awai;78;Wayun;Aman;Aman
+;Barito Selatan;;Gn. Bintang Awai;79;Wungkur Baru;Aman;Aman
+;Barito Timur;2;Banua Lima;12;Bagok;Aman;Aman
+;Barito Timur;;Banua Lima;13;Bamban;Aman;Aman
+;Barito Timur;;Banua Lima;14;Banyu Landas;Aman;Aman
+;Barito Timur;;Banua Lima;15;Gudang Seng;Aman;Aman
+;Barito Timur;;Banua Lima;16;Kandris;Aman;Aman
+;Barito Timur;;Banua Lima;17;Tewah Pupuh;Aman;Aman
+;Barito Timur;;Banua Lima;18;Taniran;Aman;Aman
+;Barito Timur;3;Dusun Tengah;19;Ampah II;Aman;Aman
+;Barito Timur;;Paju Epat;53;Kali napu;Aman;Aman
+;Barito Timur;8;Patangkep Tutui;72;Ampari Bura;Aman;Aman
+;Barito Timur;;Pematang Karau;89;Muru duyung;Aman;Aman
+;Barito Timur;;Pematang Karau;92;Sumber rejo;Aman;Aman
+;Barito Utara;;Gunung Timang;12;Sangkorang;Aman;Aman
+;Barito Utara;;Gunung Purei;25;Payang;Aman;Aman
+;Barito Utara;;Teweh Tengah;88;Sei Rahayu I;Aman;Aman
+;Barito Utara;;Teweh Tengah;89;Sei Rahayu II;Aman;Siaga
+;Barito Utara;9;Teweh Timur;92;Benangin I;Aman;Aman
+;Barito Utara;;Teweh Timur;93;Benangin II;Aman;Aman
+;Barito Utara;;Teweh Timur;94;Benangin III;Aman;Aman
+;Barito Utara;;Teweh Timur;95;Benangin V;Aman;Aman
+;Barito Utara;;Teweh Timur;103;Sei Liju;Aman;Aman
+;Murung Raya;;Barito Tuhup Raya;4;Dirung Sararong;Aman;Aman
+;Murung Raya;;Laung Tuhup;17;Dirung Derarung;Aman;Aman
+;Murung Raya;;Murung;46;Muara Ja'an;Aman;Aman
+;Murung Raya;;Murung;49;Panu'ut;Aman;Aman
+;Murung Raya;;Murung;52;Puruk Cahu;Siaga;Siaga
+;Murung Raya;;Sumber Barito;74;Kalapeh Baru;Aman;Aman
+;Murung Raya;;Sumber Barito;75;Laas Baru;Aman;Aman
+;Murung Raya;;Sumber Barito;76;Olong Liko;Aman;Aman
+;Murung Raya;;Sungai Babuat;86;Tumbang Saan;Aman;Aman
+;Murung Raya;;Tanah Siang;101;Olung Balo;Aman;Aman
+;Murung Raya;;Tanah Siang;111;Tino talih;Aman;Aman

@@ -1,0 +1,263 @@
+{% extends 'dashboard/base_dashboard.html' %}
+{% load static %}
+{% block title %} Data Provinsi Tahun {% endblock %}
+
+{% block modal_tambahan %}
+{% include "masters/provinsi/modals/filter_tahun_modal.html" %}
+{% endblock modal_tambahan %}
+
+{% block content %}
+<div class="breadcrumb">
+    <div class="row">
+        <h3 class="heading mb-2">Data Provinsi</h3>
+        <span class="mb-0">
+            <span class="text-muted fw-light">Masters / </span>
+            <span class="text-muted fw-light">Data / </span>
+            <span class="ms-1 fw-medium">Provinsi</span>
+        </span>
+    </div>
+</div>
+
+<section id="__data">
+    <div class="card">
+        <div class="card-body">
+            <div id="headline" class="mb-3">
+                <h3 class="text-center">Data Provinsi Tahun <b>[[ tahun ]]</b> </h3>
+                <h6 class="text-center">Anda sedang melihat data provinsi beserta <b>status kerawanannya</b> pada
+                    <b>tahun [[ tahun ]]</b><br>untuk mengganti tahun silahkan klik tombol <b>Pilih Tahun</b> untuk
+                    memfilter data yang diinginkan.</h6>
+                <hr />
+            </div>
+
+            <div id="info_section">
+                <div class="row align-items-center justify-content-between">
+                    <div class="col-lg-10">
+                        <div id="info__flag" class="">
+                            <div class="d-inline">
+
+                                <span class="me-2">
+                                    <span class="text-muted">Total Provinsi : </span>
+                                    <a href="javascript:;" class="text-primary">{{ list_provinsi|length }}</a>
+                                </span>
+
+                                <span class="me-2">
+                                    <span class="text-muted">Total Kawasan : </span>
+                                    <a href="javascript:;" class="text-primary">89030</a>
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-2">
+                        <div class="action-button">
+                            <div class="d-flex justify-content-end mb-3 gap-2">
+                                <button class="btn btn-primary" data-bs-toggle="modal"
+                                    data-bs-target="#filterTahunModal">
+                                    <i class="far fa-clock me-2"></i>Pilih Tahun</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div id="container__table" class="table-responsive">
+                {% include 'masters/provinsi/tables/table.html' %}
+            </div>
+        </div>
+    </div>
+</section>
+{% endblock %}
+
+{% block js_tambahan %}
+<!-- Vue -->
+<script>
+    const {
+        createApp,
+        ref
+    } = Vue;
+
+    createApp({
+        delimiters: ['[[', ']]'],
+        data() {
+            return {
+                filter: [],
+                url_params: null,
+                tahun: '{{ tahun }}',
+            }
+        },
+        mounted() {
+            this.url_params = new URLSearchParams(window.location.search);
+            this.checkUrlFilter();
+
+            this.tahun = this.filter.tahun !== undefined ? this.filter.tahun : this.tahun;
+            this.filter.tahun = this.filter.tahun == undefined ? this.tahun : this.filter.tahun;
+
+            console.log(`Data filter ...`, this.filter);
+            console.log(`Menampilkan data provinsi tahun ${this.tahun} ...`);
+        },
+        methods: {
+            handleFilterTahun() {
+                this.setValueFromFilter();
+                this.setUrlParams()
+
+                this.hideModal();
+            },
+            // Url handler
+            checkUrlFilter() {
+                const paramsToCheck = ['tahun'];
+
+                paramsToCheck.forEach(param => {
+                    if (this.url_params.has(param)) {
+                        this.filter[param] = this.url_params.get(param);
+                    } else {
+                        if (param != 'tahun') {
+                            this.filter[param] = ''
+                        }
+                    }
+                });
+            },
+            setValueFromFilter() {
+                console.log('Data filter : ', this.filter);
+                this.tahun = this.filter.tahun !== undefined ? this.filter.tahun : this.tahun;
+            },
+            setUrlParams() {
+                this.url_params.set('tahun', this.tahun);
+
+                this.updateUrl();
+            },
+            updateUrl() {
+                const newUrl = `${window.location.pathname}?${this.url_params.toString()}`;
+                window.history.replaceState({}, '', newUrl);
+            },
+            async sleep(duration) {
+                return new Promise(resolve => setTimeout(resolve, duration));
+            },
+            getRandomInt(max) {
+                return Math.floor(Math.random() * max);
+            },
+            hideModal() {
+                $('.modal').modal('hide');
+            }
+        }
+    }).mount('#app');
+</script>
+
+<!-- Datatable -->
+<script>
+    const columns = [
+        {
+            data: null,
+        },
+        {
+            data: 'nama_provinsi',
+            render: function (data, type, row) {
+                return `<span>${data}</span>`
+            }
+        },
+        // Total kawasan
+        {
+            data: null,
+            render: function (data, type, row) {
+                return `<span>${getRandomInt(50, 300)}</span><span class="ms-2 text-muted">desa</span>`
+            }
+        },
+        // Kawasan - Bahaya
+        {
+            data: null,
+            render: function (data, type, row) {
+                return `<span class="text-danger">${getRandomInt(50, 300)}</span><span class="ms-2 text-muted">desa</span>`
+            }
+        },
+        {
+            data: null,
+            render: function (data, type, row) {
+                return `<span class="text-danger">${getRandomInt(50, 300)}</span><span class="ms-2 text-muted">desa</span>`
+            }
+        },
+        {
+            data: null,
+            render: function (data, type, row) {
+                return `<span class="text-danger">${getRandomInt(50, 300)}</span><span class="ms-2 text-muted">desa</span>`
+            }
+        },
+        // Kawasan - Waspada
+        {
+            data: null,
+            render: function (data, type, row) {
+                return `<span class="text-warning">${getRandomInt(50, 300)}</span><span class="ms-2 text-muted">desa</span>`
+            }
+        },
+        {
+            data: null,
+            render: function (data, type, row) {
+                return `<span class="text-warning">${getRandomInt(50, 300)}</span><span class="ms-2 text-muted">desa</span>`
+            }
+        },
+        {
+            data: null,
+            render: function (data, type, row) {
+                return `<span class="text-warning">${getRandomInt(50, 300)}</span><span class="ms-2 text-muted">desa</span>`
+            }
+        },
+        // Kawasan - Siaga
+        {
+            data: null,
+            render: function (data, type, row) {
+                return `<span class="text-primary">${getRandomInt(50, 300)}</span><span class="ms-2 text-muted">desa</span>`
+            }
+        },
+        {
+            data: null,
+            render: function (data, type, row) {
+                return `<span class="text-primary">${getRandomInt(50, 300)}</span><span class="ms-2 text-muted">desa</span>`
+            }
+        },
+        {
+            data: null,
+            render: function (data, type, row) {
+                return `<span class="text-primary">${getRandomInt(50, 300)}</span><span class="ms-2 text-muted">desa</span>`
+            }
+        },
+        // Kawasan - Aman
+        {
+            data: null,
+            render: function (data, type, row) {
+                return `<span class="text-success">${getRandomInt(50, 300)}</span><span class="ms-2 text-muted">desa</span>`
+            }
+        },
+        {
+            data: null,
+            render: function (data, type, row) {
+                return `<span class="text-success">${getRandomInt(50, 300)}</span><span class="ms-2 text-muted">desa</span>`
+            }
+        },
+        {
+            data: null,
+            render: function (data, type, row) {
+                return `<span class="text-success">${getRandomInt(50, 300)}</span><span class="ms-2 text-muted">desa</span>`
+            }
+        },
+    ];
+
+    let table = $('#__table').DataTable({
+        language: dt_lang_config(),
+        serverSide: true,
+        responsive: true,
+        pageLength: 10,
+        ajax: {
+            url: `/dashboard/masters/api/v1/provinces/?format=datatables`,
+            dataSrc: 'data'
+        },
+        ordering: true,
+        columns: columns,
+        createdRow: function (row, data, dataIndex) {
+            $(row).attr('data-id', data.id);
+            $(row).attr('data-row-index', dataIndex);
+        },
+        initComplete: function (settings, json) {
+            console.log('Hasil fetch data : ', json);
+        },
+        columnDefs: [dt_row_pagination()]
+    });
+</script>
+{% endblock %}

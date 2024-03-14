@@ -1,0 +1,1104 @@
+﻿1;BANDAR LAMPUNG;1;Kedaton;1;Kedaton;Siaga;Siaga
+;BANDAR LAMPUNG;;Kedaton;2;Penengahan;Waspada;Waspada
+;BANDAR LAMPUNG;;Kedaton;3;Penengahan Raya;Siaga;Siaga
+;BANDAR LAMPUNG;;Kedaton;4;Sidodadi;Siaga;Siaga
+;BANDAR LAMPUNG;;Kedaton;5;Sukamenanti;Siaga;Siaga
+;BANDAR LAMPUNG;;Kedaton;6;Sukamenanti Baru;Siaga;Siaga
+;BANDAR LAMPUNG;;Kedaton;7;Surabaya;Siaga;Siaga
+;BANDAR LAMPUNG;2;Kemiling;8;Beringin Jaya;Siaga;Siaga
+;BANDAR LAMPUNG;;Kemiling;9;Beringin Raya;Siaga;Waspada
+;BANDAR LAMPUNG;;Kemiling;10;Kedaung;Siaga;Siaga
+;BANDAR LAMPUNG;;Kemiling;11;Kemiling Permai;Siaga;Siaga
+;BANDAR LAMPUNG;;Kemiling;12;Kemiling Raya;Waspada;Waspada
+;BANDAR LAMPUNG;;Kemiling;13;Pinang Jaya;Siaga;Siaga
+;BANDAR LAMPUNG;;Kemiling;14;Sumber Agung;Siaga;Siaga
+;BANDAR LAMPUNG;;Kemiling;15;Sumber Rejo;Siaga;Siaga
+;BANDAR LAMPUNG;;Kemiling;16;Sumber Rejo Sejahtera;Siaga;Siaga
+;BANDAR LAMPUNG;3;Bumi Waras;17;Bumi Raya;Siaga;Siaga
+;BANDAR LAMPUNG;;Bumi Waras;18;Bumi Waras;Siaga;Siaga
+;BANDAR LAMPUNG;;Bumi Waras;19;Garuntang;Siaga;Siaga
+;BANDAR LAMPUNG;;Bumi Waras;20;Kangkung;Siaga;Siaga
+;BANDAR LAMPUNG;;Bumi Waras;21;Sukaraja;Siaga;Siaga
+;BANDAR LAMPUNG;4;Enggal;22;Enggal;Waspada;Waspada
+;BANDAR LAMPUNG;;Enggal;23;Gunung Sari;Waspada;Siaga
+;BANDAR LAMPUNG;;Enggal;24;Pahoman;Waspada;Waspada
+;BANDAR LAMPUNG;;Enggal;25;Pelita;Siaga;Siaga
+;BANDAR LAMPUNG;;Enggal;26;Rawa Laut;Siaga;Siaga
+;BANDAR LAMPUNG;;Enggal;27;Tanjung Karang;Siaga;Siaga
+;BANDAR LAMPUNG;5;Kedamaian;28;Bumi Kedamaian;Siaga;Siaga
+;BANDAR LAMPUNG;;Kedamaian;29;Kalibalau Kencana;Siaga;Siaga
+;BANDAR LAMPUNG;;Kedamaian;30;Kedamaian;Siaga;Siaga
+;BANDAR LAMPUNG;;Kedamaian;31;Tanjung Agung Raya;Siaga;Siaga
+;BANDAR LAMPUNG;;Kedamaian;32;Tanjung Baru;Siaga;Siaga
+;BANDAR LAMPUNG;;Kedamaian;33;Tanjung Gading;Siaga;Siaga
+;BANDAR LAMPUNG;;Kedamaian;34;Tanjung Raya;Siaga;Siaga
+;BANDAR LAMPUNG;6;Labuhan Ratu;35;Kampung Baru;Waspada;Waspada
+;BANDAR LAMPUNG;;Labuhan Ratu;36;Kampung Baru Raya;Waspada;Waspada
+;BANDAR LAMPUNG;;Labuhan Ratu;37;Kota Sepang;Siaga;Siaga
+;BANDAR LAMPUNG;;Labuhan Ratu;38;Labuhan Ratu;Siaga;Siaga
+;BANDAR LAMPUNG;;Labuhan Ratu;39;Labuhan Ratu Raya;Siaga;Siaga
+;BANDAR LAMPUNG;;Labuhan Ratu;40;Sepang Jaya;Siaga;Siaga
+;BANDAR LAMPUNG;7;Langkapura;41;Bilabong Jaya;Siaga;Siaga
+;BANDAR LAMPUNG;;Langkapura;42;Gunung Agung;Siaga;Siaga
+;BANDAR LAMPUNG;;Langkapura;43;Gunung Terang;Siaga;Siaga
+;BANDAR LAMPUNG;;Langkapura;44;Langkapura;Siaga;Siaga
+;BANDAR LAMPUNG;;Langkapura;45;Langkapura Baru;Siaga;Siaga
+;BANDAR LAMPUNG;8;Panjang;46;Karang Maritim;Siaga;Siaga
+;BANDAR LAMPUNG;;Panjang;47;Ketapang;Siaga;Siaga
+;BANDAR LAMPUNG;;Panjang;48;Panjang Selatan;Siaga;Siaga
+;BANDAR LAMPUNG;;Panjang;49;Panjang Utara;Waspada;Waspada
+;BANDAR LAMPUNG;;Panjang;50;Pidada;Siaga;Siaga
+;BANDAR LAMPUNG;;Panjang;51;Srengsem;Siaga;Siaga
+;BANDAR LAMPUNG;;Panjang;52;Way Lunik;Siaga;Siaga
+;BANDAR LAMPUNG;9;Rajabasa;53;Gedong Meneng;Siaga;Siaga
+;BANDAR LAMPUNG;;Rajabasa;54;Gedong Meneng Baru;Siaga;Siaga
+;BANDAR LAMPUNG;;Rajabasa;55;Rajabasa;Waspada;Waspada
+;BANDAR LAMPUNG;;Rajabasa;56;Rajabasa Jaya;Siaga;Siaga
+;BANDAR LAMPUNG;;Rajabasa;57;Rajabasa Nunyai;Siaga;Siaga
+;BANDAR LAMPUNG;;Rajabasa;58;Rajabasa Pemuka;Siaga;Siaga
+;BANDAR LAMPUNG;;Rajabasa;59;Rajabasa Raya;Siaga;Siaga
+;BANDAR LAMPUNG;10;Sukabumi;60;Campang Jaya;Siaga;Siaga
+;BANDAR LAMPUNG;;Sukabumi;61;Campang Raya;Siaga;Siaga
+;BANDAR LAMPUNG;;Sukabumi;62;Nusantara Permai;Siaga;Siaga
+;BANDAR LAMPUNG;;Sukabumi;63;Sukabumi;Siaga;Siaga
+;BANDAR LAMPUNG;;Sukabumi;64;Sukabumi Indah;Siaga;Siaga
+;BANDAR LAMPUNG;;Sukabumi;65;Way Gubak;Siaga;Siaga
+;BANDAR LAMPUNG;;Sukabumi;66;Way Laga;Siaga;Siaga
+;BANDAR LAMPUNG;11;Sukarame;67;Korpri Jaya;Siaga;Siaga
+;BANDAR LAMPUNG;;Sukarame;68;Korpri Raya;Siaga;Siaga
+;BANDAR LAMPUNG;;Sukarame;69;Sukarame;Siaga;Siaga
+;BANDAR LAMPUNG;;Sukarame;70;Sukarame Baru;Siaga;Siaga
+;BANDAR LAMPUNG;;Sukarame;71;Way Dadi;Siaga;Siaga
+;BANDAR LAMPUNG;;Sukarame;72;Way Dadi Baru;Siaga;Siaga
+;BANDAR LAMPUNG;12;Tanjung Senang;73;Labuhan Dalam;Siaga;Siaga
+;BANDAR LAMPUNG;;Tanjung Senang;74;Pematang Wangi;Siaga;Siaga
+;BANDAR LAMPUNG;;Tanjung Senang;75;Perumnas Way Kandis;Siaga;Siaga
+;BANDAR LAMPUNG;;Tanjung Senang;76;Tanjung Senang;Siaga;Siaga
+;BANDAR LAMPUNG;;Tanjung Senang;77;Way Kandis;Siaga;Siaga
+;BANDAR LAMPUNG;13;Tanjung Karang Barat;78;Gedong Air;Siaga;Siaga
+;BANDAR LAMPUNG;;Tanjung Karang Barat;79;Kelapa Tiga Permai;Siaga;Siaga
+;BANDAR LAMPUNG;;Tanjung Karang Barat;80;Segala Mider;Siaga;Siaga
+;BANDAR LAMPUNG;;Tanjung Karang Barat;81;Sukadanaham;Siaga;Siaga
+;BANDAR LAMPUNG;;Tanjung Karang Barat;82;Sukajawa;Siaga;Siaga
+;BANDAR LAMPUNG;;Tanjung Karang Barat;83;Sukajawa Baru;Waspada;Waspada
+;BANDAR LAMPUNG;;Tanjung Karang Barat;84;Susunan Baru;Siaga;Siaga
+;BANDAR LAMPUNG;14;Tanjung Karang Pusat;85;Durian Payung;Siaga;Siaga
+;BANDAR LAMPUNG;;Tanjung Karang Pusat;86;Gotong Royong;Siaga;Siaga
+;BANDAR LAMPUNG;;Tanjung Karang Pusat;87;Kaliawi;Siaga;Siaga
+;BANDAR LAMPUNG;;Tanjung Karang Pusat;88;Kaliawi Persada;Siaga;Siaga
+;BANDAR LAMPUNG;;Tanjung Karang Pusat;89;Kelapa Tiga;Siaga;Siaga
+;BANDAR LAMPUNG;;Tanjung Karang Pusat;90;Palapa;Siaga;Siaga
+;BANDAR LAMPUNG;;Tanjung Karang Pusat;91;Pasir Gintung;Bahaya;Bahaya
+;BANDAR LAMPUNG;15;Tanjung Karang Timur;92;Kebon Jeruk;Siaga;Siaga
+;BANDAR LAMPUNG;;Tanjung Karang Timur;93;Kota Baru;Siaga;Siaga
+;BANDAR LAMPUNG;;Tanjung Karang Timur;94;Sawah Brebes;Siaga;Siaga
+;BANDAR LAMPUNG;;Tanjung Karang Timur;95;Sawah Lama;Siaga;Siaga
+;BANDAR LAMPUNG;;Tanjung Karang Timur;96;Tanjung Agung;Siaga;Siaga
+;BANDAR LAMPUNG;16;Teluk Betung Barat;97;Bakung;Siaga;Siaga
+;BANDAR LAMPUNG;;Teluk Betung Barat;98;Batu Putuk;Siaga;Siaga
+;BANDAR LAMPUNG;;Teluk Betung Barat;99;Kuripan;Siaga;Siaga
+;BANDAR LAMPUNG;;Teluk Betung Barat;100;Negeri Olok Gading;Bahaya;Bahaya
+;BANDAR LAMPUNG;;Teluk Betung Barat;101;Sukarame II;Siaga;Siaga
+;BANDAR LAMPUNG;17;Teluk Betung Selatan;102;Gedong Pakuan;Siaga;Siaga
+;BANDAR LAMPUNG;;Teluk Betung Selatan;103;Gunung Mas;Siaga;Siaga
+;BANDAR LAMPUNG;;Teluk Betung Selatan;104;Pesawahan;Siaga;Siaga
+;BANDAR LAMPUNG;;Teluk Betung Selatan;105;Sumur Putri;Siaga;Siaga
+;BANDAR LAMPUNG;;Teluk Betung Selatan;106;Talang;Siaga;Siaga
+;BANDAR LAMPUNG;;Teluk Betung Selatan;107;Teluk Betung;Waspada;Waspada
+;BANDAR LAMPUNG;18;Teluk Betung Timur;108;Keteguhan;Bahaya;Waspada
+;BANDAR LAMPUNG;;Teluk Betung Timur;109;Kota Karang;Siaga;Siaga
+;BANDAR LAMPUNG;;Teluk Betung Timur;110;Kota Karang Raya;Siaga;Siaga
+;BANDAR LAMPUNG;;Teluk Betung Timur;111;Perwata;Siaga;Siaga
+;BANDAR LAMPUNG;;Teluk Betung Timur;112;Sukamaju;Siaga;Siaga
+;BANDAR LAMPUNG;;Teluk Betung Timur;113;Way Tataan;Siaga;Siaga
+;BANDAR LAMPUNG;19;Teluk Betung Utara;114;Gulak Galik;Waspada;Waspada
+;BANDAR LAMPUNG;;Teluk Betung Utara;115;Kupang Kota;Siaga;Siaga
+;BANDAR LAMPUNG;;Teluk Betung Utara;116;Kupang Raya;Siaga;Siaga
+;BANDAR LAMPUNG;;Teluk Betung Utara;117;Kupang Teba;Siaga;Siaga
+;BANDAR LAMPUNG;;Teluk Betung Utara;118;Pengajaran;Siaga;Siaga
+;BANDAR LAMPUNG;;Teluk Betung Utara;119;Sumur Batu;Siaga;Siaga
+;BANDAR LAMPUNG;20;Way Halim;120;Gunung Sulah;Siaga;Siaga
+;BANDAR LAMPUNG;;Way Halim;121;Jagabaya I;Siaga;Siaga
+;BANDAR LAMPUNG;;Way Halim;122;Jagabaya II;Siaga;Siaga
+;BANDAR LAMPUNG;;Way Halim;123;Jagabaya III;Siaga;Siaga
+;BANDAR LAMPUNG;;Way Halim;124;Perumnas Way Halim;Waspada;Waspada
+;BANDAR LAMPUNG;;Way Halim;125;Way Halim Permai;Siaga;Siaga
+1;METRO;1;Metro Pusat;1;Imopuro;Siaga;Siaga
+;METRO;;Metro Pusat;2;Metro;Siaga;Siaga
+;METRO;;Metro Pusat;3;Yosomulyo;Siaga;Siaga
+;METRO;;Metro Pusat;4;Hadimulyo Barat;Waspada;Waspada
+;METRO;;Metro Pusat;5;Hadimulyo Timur;Siaga;Siaga
+;METRO;2;Metro Timur;6;Iringmulyo;Waspada;Waspada
+;METRO;;Metro Timur;7;Yosorejo;Siaga;Siaga
+;METRO;;Metro Timur;8;Yosodadi;Siaga;Siaga
+;METRO;;Metro Timur;9;Tejoagung;Siaga;Siaga
+;METRO;;Metro Timur;10;Tejosari;Siaga;Siaga
+;METRO;3;Metro Barat;11;Mulyojati;Siaga;Siaga
+;METRO;;Metro Barat;12;Mulyosari;Siaga;Siaga
+;METRO;;Metro Barat;13;Ganjaragung;Siaga;Siaga
+;METRO;;Metro Barat;14;Ganjarasri;Siaga;Siaga
+;METRO;4;Metro Utara;15;Banjarsari;Siaga;Siaga
+;METRO;;Metro Utara;16;Karangrejo;Siaga;Siaga
+;METRO;;Metro Utara;17;Purwosari;Siaga;Siaga
+;METRO;;Metro Utara;18;Purwoasri;Siaga;Siaga
+;METRO;5;Metro Selatan;19;Rejomulyo;Siaga;Siaga
+;METRO;;Metro Selatan;20;Margorejo;Siaga;Siaga
+;METRO;;Metro Selatan;21;Margodadi;Siaga;Siaga
+;METRO;;Metro Selatan;22;Sumbersari;Siaga;Siaga
+1;LAMPUNG SELATAN;1;Bakauheni;1;Bakauheni;Siaga;Siaga
+;LAMPUNG SELATAN;;Bakauheni;2;Hatta;Siaga;Waspada
+;LAMPUNG SELATAN;;Bakauheni;3;Kelawi;Siaga;Siaga
+;LAMPUNG SELATAN;;Bakauheni;4;Semanak;Aman;Aman
+;LAMPUNG SELATAN;;Bakauheni;5;Totoharjo;Aman;Siaga
+;LAMPUNG SELATAN;2;Candipuro;1;Banyumas;Aman;Aman
+;LAMPUNG SELATAN;;Candipuro;2;Batuliman Indah;Aman;Siaga
+;LAMPUNG SELATAN;;Candipuro;3;Beringin Kencana;Siaga;Siaga
+;LAMPUNG SELATAN;;Candipuro;4;Bumi Jaya;Aman;Siaga
+;LAMPUNG SELATAN;;Candipuro;5;Cintamulya;Aman;Siaga
+;LAMPUNG SELATAN;;Candipuro;6;Karya Mulya Sari;Aman;Aman
+;LAMPUNG SELATAN;;Candipuro;7;Rantau Minyak;Aman;Aman
+;LAMPUNG SELATAN;;Candipuro;8;Rawa Selapan;Aman;Siaga
+;LAMPUNG SELATAN;;Candipuro;9;Sidoasri;Aman;Siaga
+;LAMPUNG SELATAN;;Candipuro;10;Sinar Palembang;Aman;Siaga
+;LAMPUNG SELATAN;;Candipuro;11;Sinar Pasemah;Aman;Aman
+;LAMPUNG SELATAN;;Candipuro;12;Titiwangi;Waspada;Waspada
+;LAMPUNG SELATAN;;Candipuro;13;Trimomukti;Aman;Siaga
+;LAMPUNG SELATAN;;Candipuro;14;Way Gelam;Aman;Siaga
+;LAMPUNG SELATAN;3;Jati Agung;1;Banjar Agung;Aman;Aman
+;LAMPUNG SELATAN;;Jati Agung;2;Fajar Baru;Siaga;Siaga
+;LAMPUNG SELATAN;;Jati Agung;3;Gedung Agung;Aman;Aman
+;LAMPUNG SELATAN;;Jati Agung;4;Gedung Harapan;Aman;Aman
+;LAMPUNG SELATAN;;Jati Agung;5;Jatimulyo;Waspada;Waspada
+;LAMPUNG SELATAN;;Jati Agung;6;Karang Anyar;Siaga;Siaga
+;LAMPUNG SELATAN;;Jati Agung;7;Karang Rejo;Aman;Aman
+;LAMPUNG SELATAN;;Jati Agung;8;Karang Sari;Aman;Aman
+;LAMPUNG SELATAN;;Jati Agung;9;Marga Kaya;Aman;Siaga
+;LAMPUNG SELATAN;;Jati Agung;10;Marga Agung;Aman;Siaga
+;LAMPUNG SELATAN;;Jati Agung;11;Margo Dadi;Aman;Aman
+;LAMPUNG SELATAN;;Jati Agung;12;Margo Lestari;Aman;Siaga
+;LAMPUNG SELATAN;;Jati Agung;13;Margo Rejo;Aman;Aman
+;LAMPUNG SELATAN;;Jati Agung;14;Margomulyo;Aman;Aman
+;LAMPUNG SELATAN;;Jati Agung;15;Purwotani;Aman;Aman
+;LAMPUNG SELATAN;;Jati Agung;16;Rejomulyo;Aman;Siaga
+;LAMPUNG SELATAN;;Jati Agung;17;Sidoasri;Aman;Aman
+;LAMPUNG SELATAN;;Jati Agung;18;Sidoharjo;Aman;Siaga
+;LAMPUNG SELATAN;;Jati Agung;19;Sinar Rejeki;Aman;Aman
+;LAMPUNG SELATAN;;Jati Agung;20;Sumber Jaya;Aman;Siaga
+;LAMPUNG SELATAN;;Jati Agung;21;Way Huwi;Siaga;Siaga
+;LAMPUNG SELATAN;4;Kalianda;1;Agom;Aman;Aman
+;LAMPUNG SELATAN;;Kalianda;2;Babulang;Aman;Siaga
+;LAMPUNG SELATAN;;Kalianda;3;Buah Berak;Aman;Siaga
+;LAMPUNG SELATAN;;Kalianda;4;Bulok;Aman;Aman
+;LAMPUNG SELATAN;;Kalianda;5;Canggu;Siaga;Siaga
+;LAMPUNG SELATAN;;Kalianda;6;Gunung Terang;Aman;Siaga
+;LAMPUNG SELATAN;;Kalianda;7;Hara Banjar Manis;Siaga;Siaga
+;LAMPUNG SELATAN;;Kalianda;8;Jondong;Aman;Siaga
+;LAMPUNG SELATAN;;Kalianda;9;Kecapi;Siaga;Waspada
+;LAMPUNG SELATAN;;Kalianda;10;Kedaton;Waspada;Siaga
+;LAMPUNG SELATAN;;Kalianda;11;Kesugihan;Aman;Siaga
+;LAMPUNG SELATAN;;Kalianda;12;Maja;Aman;Siaga
+;LAMPUNG SELATAN;;Kalianda;13;Marga Catur;Aman;Aman
+;LAMPUNG SELATAN;;Kalianda;14;Merak Belantung;Siaga;Siaga
+;LAMPUNG SELATAN;;Kalianda;15;Munjuk Sempurna;Aman;Aman
+;LAMPUNG SELATAN;;Kalianda;16;Negeri Pandan;Aman;Siaga
+;LAMPUNG SELATAN;;Kalianda;17;Palembapang;Aman;Siaga
+;LAMPUNG SELATAN;;Kalianda;18;Pauh Tanjung Iman;Aman;Aman
+;LAMPUNG SELATAN;;Kalianda;19;Pematang;Aman;Siaga
+;LAMPUNG SELATAN;;Kalianda;20;Suka Tani;Aman;Aman
+;LAMPUNG SELATAN;;Kalianda;21;Sukaratu;Siaga;Siaga
+;LAMPUNG SELATAN;;Kalianda;22;Sumurkumbang;Aman;Aman
+;LAMPUNG SELATAN;;Kalianda;23;Tajimalela;Siaga;Siaga
+;LAMPUNG SELATAN;;Kalianda;24;Taman Agung;Aman;Aman
+;LAMPUNG SELATAN;;Kalianda;25;Tengkujuh;Aman;Aman
+;LAMPUNG SELATAN;;Kalianda;26;Bumi Agung ;Siaga;Siaga
+;LAMPUNG SELATAN;;Kalianda;27;Kalianda ;Siaga;Siaga
+;LAMPUNG SELATAN;;Kalianda;28;Way Urang ;Siaga;Siaga
+;LAMPUNG SELATAN;;Kalianda;29;Way Lubuk;Aman;Siaga
+;LAMPUNG SELATAN;5;Katibung;1;Babatan;Siaga;Siaga
+;LAMPUNG SELATAN;;Katibung;2;Karya Tunggal;Aman;Aman
+;LAMPUNG SELATAN;;Katibung;3;Neglasari;Aman;Aman
+;LAMPUNG SELATAN;;Katibung;4;Pardasuka;Aman;Siaga
+;LAMPUNG SELATAN;;Katibung;5;Rangai Tri Tunggal
+;LAMPUNG SELATAN;;Katibung;6;Sidomekar;Aman;Aman
+;LAMPUNG SELATAN;;Katibung;7;Sukajaya;Aman;Siaga
+;LAMPUNG SELATAN;;Katibung;8;Tanjungagung;Siaga;Siaga
+;LAMPUNG SELATAN;;Katibung;9;Tanjungan;Aman;Siaga
+;LAMPUNG SELATAN;;Katibung;10;Tanjungratu;Siaga;Siaga
+;LAMPUNG SELATAN;;Katibung;11;Tarahan;Aman;Siaga
+;LAMPUNG SELATAN;;Katibung;12;Trans Tanjungan;Aman;Aman
+;LAMPUNG SELATAN;6;Ketapang;1;Bangun Rejo;Siaga;Siaga
+;LAMPUNG SELATAN;;Ketapang;2;Berundung;Aman;Siaga
+;LAMPUNG SELATAN;;Ketapang;3;Karang Sari;Aman;Siaga
+;LAMPUNG SELATAN;;Ketapang;4;Kemukus;Aman;Siaga
+;LAMPUNG SELATAN;;Ketapang;5;Ketapang;Aman;Siaga
+;LAMPUNG SELATAN;;Ketapang;6;Legundi;Aman;Siaga
+;LAMPUNG SELATAN;;Ketapang;7;Lembung Nala;Aman;Aman
+;LAMPUNG SELATAN;;Ketapang;8;Pematang Pasir;Siaga;Siaga
+;LAMPUNG SELATAN;;Ketapang;9;Ruguk;Aman;Siaga
+;LAMPUNG SELATAN;;Ketapang;10;Sidoasih;Aman;Aman
+;LAMPUNG SELATAN;;Ketapang;11;Sidoluhur;Aman;Siaga
+;LAMPUNG SELATAN;;Ketapang;12;Sri Pendowo;Siaga;Siaga
+;LAMPUNG SELATAN;;Ketapang;13;Sumber Nadi;Aman;Siaga
+;LAMPUNG SELATAN;;Ketapang;14;Sumur;Siaga;Siaga
+;LAMPUNG SELATAN;;Ketapang;15;Taman Sari;Aman;Aman
+;LAMPUNG SELATAN;;Ketapang;16;Tri Darma Yoga;Aman;Siaga
+;LAMPUNG SELATAN;;Ketapang;17;Wai Sidomukti;Aman;Aman
+;LAMPUNG SELATAN;7;Merbau Mataram;1;Baru Ranji;Aman;Siaga
+;LAMPUNG SELATAN;;Merbau Mataram;2;Batuagung;Aman;Aman
+;LAMPUNG SELATAN;;Merbau Mataram;3;Karang Jaya;Aman;Aman
+;LAMPUNG SELATAN;;Merbau Mataram;4;Karang Raja;Aman;Siaga
+;LAMPUNG SELATAN;;Merbau Mataram;5;Lebungsari;Aman;Aman
+;LAMPUNG SELATAN;;Merbau Mataram;6;Mekar Jaya;Aman;Aman
+;LAMPUNG SELATAN;;Merbau Mataram;7;Merbau Mataram;Aman;Siaga
+;LAMPUNG SELATAN;;Merbau Mataram;8;Panca Tunggal;Aman;Aman
+;LAMPUNG SELATAN;;Merbau Mataram;9;Pujirahayu;Aman;Aman
+;LAMPUNG SELATAN;;Merbau Mataram;10;Sinar Karya;Aman;Aman
+;LAMPUNG SELATAN;;Merbau Mataram;11;Suban;Siaga;Siaga
+;LAMPUNG SELATAN;;Merbau Mataram;12;Talang Jawa;Siaga;Siaga
+;LAMPUNG SELATAN;;Merbau Mataram;13;Tanjung Baru;Aman;Aman
+;LAMPUNG SELATAN;;Merbau Mataram;14;Tanjung Harapan;Aman;Aman
+;LAMPUNG SELATAN;;Merbau Mataram;15;Triharjo;Aman;Aman
+;LAMPUNG SELATAN;8;Natar;1;Bandar Rejo;Aman;Aman
+;LAMPUNG SELATAN;;Natar;2;Banjarnegeri;Aman;Aman
+;LAMPUNG SELATAN;;Natar;3;Beranti Raya;Siaga;Siaga
+;LAMPUNG SELATAN;;Natar;4;Bumisari;Aman;Siaga
+;LAMPUNG SELATAN;;Natar;5;Candi Mas;Siaga;Siaga
+;LAMPUNG SELATAN;;Natar;6;Haduyang;Aman;Siaga
+;LAMPUNG SELATAN;;Natar;7;Kalisari;Aman;Aman
+;LAMPUNG SELATAN;;Natar;8;Hajimena;Siaga;Siaga
+;LAMPUNG SELATAN;;Natar;9;Krawang Sari;Aman;Siaga
+;LAMPUNG SELATAN;;Natar;10;Mandah;Aman;Aman
+;LAMPUNG SELATAN;;Natar;11;Merak Batin;Siaga;Siaga
+;LAMPUNG SELATAN;;Natar;12;Muara Putih;Aman;Siaga
+;LAMPUNG SELATAN;;Natar;13;Natar;Aman;Siaga
+;LAMPUNG SELATAN;;Natar;14;Negara Ratu;Aman;Siaga
+;LAMPUNG SELATAN;;Natar;15;Pancasila;Aman;Aman
+;LAMPUNG SELATAN;;Natar;16;Pemanggilan;waspada;Waspada
+;LAMPUNG SELATAN;;Natar;17;Purwosari;Aman;Aman
+;LAMPUNG SELATAN;;Natar;18;Rejosari;Aman;Siaga
+;LAMPUNG SELATAN;;Natar;19;Rulung Helok;Aman;Siaga
+;LAMPUNG SELATAN;;Natar;20;Rulung Mulya;Aman;Siaga
+;LAMPUNG SELATAN;;Natar;21;Rulung Raya;Aman;Siaga
+;LAMPUNG SELATAN;;Natar;22;Rulung Sari;Aman;Siaga
+;LAMPUNG SELATAN;;Natar;23;Sidosari;Aman;Aman
+;LAMPUNG SELATAN;;Natar;24;Sukadamai;Siaga;Siaga
+;LAMPUNG SELATAN;;Natar;25;Tanjungsari;Aman;Siaga
+;LAMPUNG SELATAN;;Natar;26;Wai Sari;Aman;Aman
+;LAMPUNG SELATAN;9;Palas;1;Bali Agung;Aman;Siaga
+;LAMPUNG SELATAN;;Palas;2;Bandan Hurip;Aman;Siaga
+;LAMPUNG SELATAN;;Palas;3;Bangunan;Siaga;Siaga
+;LAMPUNG SELATAN;;Palas;4;Bumi Asih;Aman;Aman
+;LAMPUNG SELATAN;;Palas;5;Bumi Asri;Aman;Aman
+;LAMPUNG SELATAN;;Palas;6;Bumi Daya;Siaga;Siaga
+;LAMPUNG SELATAN;;Palas;7;Bumi Restu;Aman;Siaga
+;LAMPUNG SELATAN;;Palas;8;Kalirejo;Aman;Aman
+;LAMPUNG SELATAN;;Palas;9;Mekar Mulya;Aman;Aman
+;LAMPUNG SELATAN;;Palas;10;Palas Aji;Siaga;Siaga
+;LAMPUNG SELATAN;;Palas;11;Palas Jaya;Aman;Siaga
+;LAMPUNG SELATAN;;Palas;12;Palas Pasemah;Siaga;Siaga
+;LAMPUNG SELATAN;;Palas;13;Pematang Baru;Aman;Aman
+;LAMPUNG SELATAN;;Palas;14;Pulau Jaya;Aman;Siaga
+;LAMPUNG SELATAN;;Palas;15;Pulau Tengah;Aman;Aman
+;LAMPUNG SELATAN;;Palas;16;Rejo Mulyo;Aman;Aman
+;LAMPUNG SELATAN;;Palas;17;Suka Mulya;Aman;Siaga
+;LAMPUNG SELATAN;;Palas;18;Sukabakti;Aman;Aman
+;LAMPUNG SELATAN;;Palas;19;Sukaraja;Siaga;Siaga
+;LAMPUNG SELATAN;;Palas;20;Tanjung Jaya;Aman;Aman
+;LAMPUNG SELATAN;;Palas;21;Tanjung Sari;Aman;Aman
+;LAMPUNG SELATAN;10;Penengahan;1;Banjarmasin;Aman;Siaga
+;LAMPUNG SELATAN;;Penengahan;2;Belambangan;Siaga;Siaga
+;LAMPUNG SELATAN;;Penengahan;3;Gandri;Aman;Aman
+;LAMPUNG SELATAN;;Penengahan;4;Gayam;Siaga;Siaga
+;LAMPUNG SELATAN;;Penengahan;5;Gedungharta;Aman;Siaga
+;LAMPUNG SELATAN;;Penengahan;6;Kampungbaru;Aman;Siaga
+;LAMPUNG SELATAN;;Penengahan;7;Kekiling;Aman;Siaga
+;LAMPUNG SELATAN;;Penengahan;8;Kelau;Aman;Siaga
+;LAMPUNG SELATAN;;Penengahan;9;Klaten;Aman;Aman
+;LAMPUNG SELATAN;;Penengahan;10;Kuripan;Aman;Siaga
+;LAMPUNG SELATAN;;Penengahan;11;Padan;Aman;Siaga
+;LAMPUNG SELATAN;;Penengahan;12;Panengahan;Aman;Siaga
+;LAMPUNG SELATAN;;Penengahan;13;Pasuruan;Siaga;Siaga
+;LAMPUNG SELATAN;;Penengahan;14;Pisang;Aman;Siaga
+;LAMPUNG SELATAN;;Penengahan;15;Rawi;Aman;Siaga
+;LAMPUNG SELATAN;;Penengahan;16;Ruang Tengah;Aman;Siaga
+;LAMPUNG SELATAN;;Penengahan;17;Sukabaru;Aman;Siaga
+;LAMPUNG SELATAN;;Penengahan;18;Sukajaya;Aman;Aman
+;LAMPUNG SELATAN;;Penengahan;19;Taman Baru;Aman;Siaga
+;LAMPUNG SELATAN;;Penengahan;20;Tanjung Heran;Aman;Siaga
+;LAMPUNG SELATAN;;Penengahan;21;Tetaan;Waspada;Waspada
+;LAMPUNG SELATAN;;Penengahan;22;Way Kalam;Aman;Aman
+;LAMPUNG SELATAN;11;Rajabasa;1;Banding;Aman;Siaga
+;LAMPUNG SELATAN;;Rajabasa;2;Batu Balak;Aman;Aman
+;LAMPUNG SELATAN;;Rajabasa;3;Betung;Aman;Siaga
+;LAMPUNG SELATAN;;Rajabasa;4;Canggung;Aman;Siaga
+;LAMPUNG SELATAN;;Rajabasa;5;Canti;Siaga;Siaga
+;LAMPUNG SELATAN;;Rajabasa;6;Cugung;Aman;Aman
+;LAMPUNG SELATAN;;Rajabasa;7;Hargo Pancoran;Aman;Aman
+;LAMPUNG SELATAN;;Rajabasa;8;Kerinjing;Aman;Aman
+;LAMPUNG SELATAN;;Rajabasa;9;Kota Guring;Aman;Siaga
+;LAMPUNG SELATAN;;Rajabasa;10;Kunjir;Siaga;Siaga
+;LAMPUNG SELATAN;;Rajabasa;11;Rajabasa;Aman;Siaga
+;LAMPUNG SELATAN;;Rajabasa;12;Sukaraja;Siaga;Siaga
+;LAMPUNG SELATAN;;Rajabasa;13;Tanjung Gading;Aman;Aman
+;LAMPUNG SELATAN;;Rajabasa;14;Tejang Pulau Sebesi;Aman;Aman
+;LAMPUNG SELATAN;;Rajabasa;15;Waymuli;Siaga;Siaga
+;LAMPUNG SELATAN;;Rajabasa;16;Waymuli Timur;Siaga;Siaga
+;LAMPUNG SELATAN;12;Sidomulyo;1;Bandar Dalam;Aman;Siaga
+;LAMPUNG SELATAN;;Sidomulyo;2;Budi Daya;Aman;Siaga
+;LAMPUNG SELATAN;;Sidomulyo;3;Campang Tiga;Aman;Siaga
+;LAMPUNG SELATAN;;Sidomulyo;4;Kota Dalam;Aman;Siaga
+;LAMPUNG SELATAN;;Sidomulyo;5;Seloretno;Siaga;Siaga
+;LAMPUNG SELATAN;;Sidomulyo;6;Sidodadi;Siaga;Siaga
+;LAMPUNG SELATAN;;Sidomulyo;7;Sidomulyo;Siaga;Siaga
+;LAMPUNG SELATAN;;Sidomulyo;8;Sidorejo;Siaga;Waspada
+;LAMPUNG SELATAN;;Sidomulyo;9;Sidowaluyo;Aman;Siaga
+;LAMPUNG SELATAN;;Sidomulyo;10;Siring Jaha;Aman;Aman
+;LAMPUNG SELATAN;;Sidomulyo;11;Suak;Aman;Siaga
+;LAMPUNG SELATAN;;Sidomulyo;12;Sukabanjar;Aman;Aman
+;LAMPUNG SELATAN;;Sidomulyo;13;Sukamaju;Aman;Siaga
+;LAMPUNG SELATAN;;Sidomulyo;14;Sukamarga;Aman;Siaga
+;LAMPUNG SELATAN;;Sidomulyo;15;Talang Baru;Aman;Siaga
+;LAMPUNG SELATAN;;Sidomulyo;16;Banjarsuri;Aman;Aman
+;LAMPUNG SELATAN;13;Sragi;1;Bakti Rasa;Siaga;Siaga
+;LAMPUNG SELATAN;;Sragi;2;Bandar Agung;Aman;Siaga
+;LAMPUNG SELATAN;;Sragi;3;Kedaung;Aman;Aman
+;LAMPUNG SELATAN;;Sragi;4;Kuala Sekampung;Siaga;Siaga
+;LAMPUNG SELATAN;;Sragi;5;Mandalasari;Aman;Aman
+;LAMPUNG SELATAN;;Sragi;6;Margajasa;Aman;Aman
+;LAMPUNG SELATAN;;Sragi;7;Margasari;Aman;Aman
+;LAMPUNG SELATAN;;Sragi;8;Sukapura;Siaga;Siaga
+;LAMPUNG SELATAN;;Sragi;9;Sumber Agung;Aman;Aman
+;LAMPUNG SELATAN;;Sragi;10;Sumber Sari;Aman;Aman
+;LAMPUNG SELATAN;14;Tanjung Bintang;1;Budi Lestari;Aman;Aman
+;LAMPUNG SELATAN;;Tanjung Bintang;2;Galih Lunik;Aman;Siaga
+;LAMPUNG SELATAN;;Tanjung Bintang;3;Jati Indah;Siaga;Siaga
+;LAMPUNG SELATAN;;Tanjung Bintang;4;Jatibaru;Siaga;Siaga
+;LAMPUNG SELATAN;;Tanjung Bintang;5;Kali Asin;Aman;Siaga
+;LAMPUNG SELATAN;;Tanjung Bintang;6;Lematang;Aman;Siaga
+;LAMPUNG SELATAN;;Tanjung Bintang;7;Purwodadi Simpang;Aman;Siaga
+;LAMPUNG SELATAN;;Tanjung Bintang;8;Rejomulyo;Aman;Aman
+;LAMPUNG SELATAN;;Tanjung Bintang;9;Sabah Balau;Siaga;Siaga
+;LAMPUNG SELATAN;;Tanjung Bintang;10;Serdang;Waspada;Siaga
+;LAMPUNG SELATAN;;Tanjung Bintang;11;Sinar Ogan;Aman;Siaga
+;LAMPUNG SELATAN;;Tanjung Bintang;12;Sindang Sari;Aman;Aman
+;LAMPUNG SELATAN;;Tanjung Bintang;13;Sri Katon;Aman;Aman
+;LAMPUNG SELATAN;;Tanjung Bintang;14;Sukanegara;Siaga;Waspada
+;LAMPUNG SELATAN;;Tanjung Bintang;15;Trimulyo;Aman;Aman
+;LAMPUNG SELATAN;;Tanjung Bintang;16;Way Galih;Aman;Siaga
+;LAMPUNG SELATAN;15;Kec; Tanjung Sari;1;Bangunsari;Aman;Aman
+;LAMPUNG SELATAN;;Kec; Tanjung Sari;2;Kertosari;Siaga;Siaga
+;LAMPUNG SELATAN;;Kec; Tanjung Sari;3;Malang Sari;Aman;Aman
+;LAMPUNG SELATAN;;Kec; Tanjung Sari;4;Mulyo Sari;Aman;Aman
+;LAMPUNG SELATAN;;Kec; Tanjung Sari;5;Purwodadi Dalam;Aman;Siaga
+;LAMPUNG SELATAN;;Kec; Tanjung Sari;6;Sidomukti;Aman;Aman
+;LAMPUNG SELATAN;;Kec; Tanjung Sari;7;Wawasan;Aman;Siaga
+;LAMPUNG SELATAN;;Kec; Tanjung Sari;8;Wonodadi;Aman;Aman
+;LAMPUNG SELATAN;16;Way Panji;1;Bali Nuraga;Aman;Siaga
+;LAMPUNG SELATAN;;Way Panji;2;Sido Harjo;waspada;Siaga
+;LAMPUNG SELATAN;;Way Panji;3;Sido Makmur;Aman;Aman
+;LAMPUNG SELATAN;;Way Panji;4;Sido Reno;Aman;Siaga
+;LAMPUNG SELATAN;17;Way Sulan;1;Banjarsari;Aman;Aman
+;LAMPUNG SELATAN;;Way Sulan;2;Karang Pucung;Siaga;Siaga
+;LAMPUNG SELATAN;;Way Sulan;3;Mekarsari;Aman;Aman
+;LAMPUNG SELATAN;;Way Sulan;4;Pemulihan;Aman;Aman
+;LAMPUNG SELATAN;;Way Sulan;5;Purwodadi;Aman;Aman
+;LAMPUNG SELATAN;;Way Sulan;6;Sukamaju;Aman;Aman
+;LAMPUNG SELATAN;;Way Sulan;7;Sumber Agung;Aman;Aman
+;LAMPUNG SELATAN;;Way Sulan;8;Talang Way Sulan;Aman;Siaga
+;LAMPUNG TIMUR;2;BATANGHARI;1;Adi Warno;Aman;Aman
+;LAMPUNG TIMUR;;BATANGHARI;2;Bale Kencono;Aman;Aman
+;LAMPUNG TIMUR;;BATANGHARI;3;Bale Rejo;Aman;Aman
+;LAMPUNG TIMUR;;BATANGHARI;5;Banjar Rejo;Waspada;Waspada
+;LAMPUNG TIMUR;;BATANGHARI;6;Batang Harjo;Waspada;Waspada
+;LAMPUNG TIMUR;;BATANGHARI;10;Nampi Rejo;Waspada;Siaga
+;LAMPUNG TIMUR;;BATANGHARI;16;Sumber Rejo;Waspada;Waspada
+;LAMPUNG TIMUR;;BATANGHARI;17;Telogo Rejo;Waspada;Waspada
+;LAMPUNG TIMUR;;BATANGHARI NUBAN;6;Kedaton 1;Waspada;Waspada
+;LAMPUNG TIMUR;;BATANGHARI NUBAN;12;Trisno Mulyo;Waspada;Waspada
+;LAMPUNG TIMUR;;WAY JEPARA;13;Sriwangi;Bahaya;Bahaya
+;LAMPUNG TIMUR;;WAY JEPARA;15;Sumber Rejo;Aman;Aman
+;LAMPUNG TIMUR;;JABUNG;5;Beteng Sari;Bahaya;Bahaya
+;LAMPUNG TIMUR;;LABUHAN MARINGGAI;6;Marga Sari;Waspada;Waspada
+;LAMPUNG TIMUR;;MARGA TIGA;2;Gedung Wani Timur;Bahaya;Bahaya
+;LAMPUNG TIMUR;;MARGA TIGA;13;Tri Sinar;Siaga;Siaga
+;LAMPUNG TIMUR;;METRO KIBANG;5;Margo Toto;Waspada;Waspada
+;LAMPUNG TIMUR;17;PEKALONGAN;1;Adi Rejo;Bahaya;Bahaya
+;LAMPUNG TIMUR;;PEKALONGAN;5;Gondang Rejo;Bahaya;Bahaya
+;LAMPUNG TIMUR;;PEKALONGAN;7;Kali Bening;Bahaya;Bahaya
+;LAMPUNG TIMUR;;PEKALONGAN;11;Tulus Rejo;Waspada;Waspada
+;LAMPUNG TIMUR;;RAMAN UTARA;11;Rukti Sediyo;Aman;Aman
+;LAMPUNG TIMUR;20;SEKAMPUNG;1;Giri Karto;Siaga;Siaga
+;LAMPUNG TIMUR;;SEKAMPUNG;3;Hargo Mulyo;Siaga;Siaga
+;LAMPUNG TIMUR;;SEKAMPUNG;15;Sumbersari;Bahaya;Bahaya
+;LAMPUNG TIMUR;;SEKAMPUNG;17;Wono Karto;Waspada;Waspada
+;LAMPUNG TIMUR;;SEKAMPUNG UDIK;12;Purwo Kencono;Waspada;Waspada
+;LAMPUNG TIMUR;;SUKADANA;15;Sukadana Pasar;Bahaya;Bahaya
+;LAMPUNG TIMUR;;SUKADANA;20;Terbanggi Marga;Waspada;Waspada
+;LAMPUNG TIMUR;;WAWAY KARYA;7;Sido Rahayu;Siaga;Aman
+;LAMPUNG TIMUR;;WAWAY KARYA;9;Sumber Rejo;Siaga;Siaga
+;LAMPUNG TIMUR;;WAY BUNGUR;4;Tanjung Kencono;Siaga;Siaga
+1;MESUJI;1;Mesuji;1;Mulyasari;Bahaya;Siaga;Relawan
+;MESUJI;;Mesuji;3;Sidomulyo;Bahaya;Siaga;Relawan
+;MESUJI;;Mesuji;8;Tirtalaga;Bahaya;Bahaya
+;MESUJI;;Mesuji Timur;20;Wonosari;Aman;Aman
+;TULANG BAWANG;;Rawa Pitu;4;Duta Yoso Mulyo;Waspada;Waspada
+;TULANG BAWANG;;Gedung Aji;2;Penawar Aji;Bahaya;Bahaya
+;TULANG BAWANG;;Penawar Aji;7;Wonorejo;Siaga;Siaga
+;TULANG BAWANG;;Rawa Jitu Timur;2;Bumi Depasena Utama;Bahaya;Bahaya
+;TULANG BAWANG;;Rawa Jitu Timur;3;Bumi Depasena Agung;Waspada;Waspada
+;TULANG BAWANG;;Rawa Jitu Timur;4;Bumi Depasena Jaya;Bahaya;Bahaya
+;TULANG BAWANG;;Rawa Jitu Timur;5;Bumi Depasena Mulya;Waspada;Waspada
+;TULANG BAWANG;;Rawa Jitu Timur;6;Bumi Depasena Makmur;Siaga;Siaga
+;TULANG BAWANG;;Rawa Jitu Timur;7;Bumi Depasena Sejahtera;Waspada;Waspada
+;TULANG BAWANG;;Rawa Jitu Timur;8;Bumi Depasena Abadi;Aman;Aman
+;TULANG BAWANG;;Rawa Jitu Selatan;5;Meda Sari;Siaga;Siaga
+;TULANG BAWANG;7;Penawar Tama;1;Boga Tama;Waspada;Waspada
+;TULANG BAWANG;;Penawar Tama;3;Wira Tama;Bahaya;Bahaya
+;TULANG BAWANG;;Penawar Tama;7;Sido Harjo;Siaga;Siaga
+;TULANG BAWANG;;Penawar Tama;10;Tri Karya;Aman;Aman
+;TULANG BAWANG;;Penawar Tama;12;Sido Mulyo;Siaga;Siaga
+;TULANG BAWANG;;Penawar Tama;13;Sido Makmur;Bahaya;Bahaya
+;TULANG BAWANG;;Penawar Tama;14;Dwi Mulyo;Aman;Aman
+;TULANG BAWANG;8;Gedung Aji Baru;1;Makarti Tama;Bahaya;Bahaya
+;TULANG BAWANG;;Gedung Aji Baru;3;Sido Mukti;Waspada;Waspada
+;TULANG BAWANG;;Gedung Aji Baru;9;Sido Mekar;Waspada;Waspada
+;TULANG BAWANG;;Menggala Timur;4;Cempaka Dalam;Bahaya;Bahaya
+;TULANG BAWANG;;Banjar Baru;3;Panca Mulya;Aman;Aman
+;TULANG BAWANG;;Banjar Agung;11;Tri Darma Wirajaya;Siaga;Siaga
+;TULANG BAWANG;;Banjar Margo;9;Suka Maju;Siaga;Siaga
+;TULANG BAWANG;;Banjar Margo;10;Catur Karya Buana Jaya;Bahaya;Bahaya
+;TULANG BAWANG;;Banjar Margo;12;Agung Dalam;Bahaya;Bahaya
+;TULANG BAWANG;;Dente Teladas;6;Mahobang;Bahaya;Waspada
+;TULANG BAWANG;;Dente Teladas;10;Brantasena Adi Warna;Bahaya;Bahaya
+;TULANG BAWANG;;Dente Teladas;11;Brantasena Mandiri;Waspada;Waspada
+1;PESAWARAN;1;Gedong Tataan;1;Begelen;Siaga;Siaga
+;PESAWARAN;;Gedong Tataan;3;Bogonegoro;Aman;Aman
+;PESAWARAN;;Gedong Tataan;5;Gedong tataan;Siaga;Siaga
+;PESAWARAN;;Gedong Tataan;13;Sukabanjar;Siaga;Siaga
+;PESAWARAN;;Gedong Tataan;14;Sukabakti;Aman;Aman
+;PESAWARAN;;Kedondong;9;Sukamaju;Aman;Aman
+;PESAWARAN;;Kedondong;12;Way Kepaayang;Siaga;Siaga
+;PESAWARAN;3;Margah Punduh;1;Kampung Baru;Siaga;Siaga
+;PESAWARAN;;Margah Punduh;2;Kekatang;Aman;Aman
+;PESAWARAN;;Margah Punduh;3;Kunyaian;Aman;Aman
+;PESAWARAN;;Margah Punduh;4;Maja;Siaga;Siaga
+;PESAWARAN;;Margah Punduh;5;Pekon Ampai;Siaga;Siaga
+;PESAWARAN;;Margah Punduh;6;Penyandingan;Siaga;Siaga
+;PESAWARAN;;Margah Punduh;7;Pulau Pahawang;Siaga;Siaga
+;PESAWARAN;;Margah Punduh;8;Sukajaya Punduh;Siaga;Siaga
+;PESAWARAN;;Margah Punduh;9;Tajur;Aman;Aman
+;PESAWARAN;;Margah Punduh;10;Umbul Limus;Aman;Aman
+;PESAWARAN;;Negeri Katon;2;Halanagan Ratu;Siaga;Siaga
+;PESAWARAN;;Negeri Katon;4;Kalirejo;Aman;Aman
+;PESAWARAN;;Negeri Katon;5;Kalangrejo;Aman;Aman
+;PESAWARAN;;Negeri Katon;14;Roworejo;Aman;Aman
+;PESAWARAN;;Negeri Katon;19;Trisnomaju;Aman;Aman
+;PESAWARAN;;Padang Cermin;9;Tambanagan;Aman;Aman
+;PESAWARAN;;Punduh Pidada;8;Rubasa;Aman;Aman
+;PESAWARAN;;Punduh Pidada;10;Sukamaju;Aman;Aman
+;PESAWARAN;;Tegineneng;4;Geming;Aman;Aman
+;PESAWARAN;;Tegineneng;9;Margomulyo;Siaga;Siaga
+;PESAWARAN;;Tegineneng;10;Margorejo;Aman;Aman
+;PESAWARAN;;Tegineneng;11;Negera Ratu Wates;Siaga;Siaga
+;PESAWARAN;;Tegineneng;14;Sinar Jati;Siaga;Siaga
+;PESAWARAN;;Way Lima;2;Batu Raja;Aman;Aman
+;PESAWARAN;;Way Lima;4;Gedung Dalom;Siaga;Siaga
+;PESAWARAN;;Way Lima;6;Kuta Dalom;Siaga;Siaga
+;PESAWARAN;;Way Khilau;8;Sukajaya;Siaga;Siaga
+;PESAWARAN;;Way Ratai;2;Bunut Sebrang;Aman;Aman
+;Tanggamus;;Air Naningan;7;Sido Mulyo;Siaga;Siaga
+;Tanggamus;3;Bulok;1;Banjarmasin;Waspada;Siaga
+;Tanggamus;;Cukuh Balak;6;Kejatian Lom;Siaga;Siaga
+;Tanggamus;;Cukuh Balak;8;Kutakhang;Siaga;Siaga
+;Tanggamus;;Gisting;57;Kutadalom;Siaga;Waspada
+;Tanggamus;7;Kelumbayan;73;Kiluan Negeri;Siaga;Siaga
+;Tanggamus;;Kelumbayan;74;Napal;Siaga;Siaga
+;Tanggamus;;Kelumbayan;75;Negeri Kelumbayan;Siaga;Siaga
+;Tanggamus;;Kelumbayan;76;Paku;Siaga;Siaga
+;Tanggamus;;Kelumbayan;77;Pekon Susuk;Siaga;Siaga
+;Tanggamus;;Kelumbayan;78;Pekon Unggak;Siaga;Siaga
+;Tanggamus;;Kelumbayan;79;Penyandingan;Waspada;Siaga
+;Tanggamus;;Kelumbayan;80;Umbar;Siaga;Siaga
+;Tanggamus;;Kota Agung;89;Penanggungan;Siaga;Siaga
+;Tanggamus;;Kota Agung;94;Baros;Siaga;Siaga
+;Tanggamus;;Kota Agung;95;Kuripan;Siaga;Siaga
+;Tanggamus;;Kota Agung;96;Pasar Madang;Bahaya;Waspada
+;Tanggamus;9;Kota Agung Barat;97;Banjarmasin;Siaga;Siaga
+;Tanggamus;;Kota Agung Barat;103;Kasugihan;Siaga;Siaga
+;Tanggamus;;Kota Agung Barat;107;Pajajaran;Siaga;Siaga
+;Tanggamus;;Kota Agung Barat;111;Teba Bunuk;Siaga;Siaga
+;Tanggamus;10;Kota Agung Timur;113;Batu Keramat;Siaga;Siaga
+;Tanggamus;;Kota Agung Timur;116;Karta;Siaga;Siaga
+;Tanggamus;;Pulau Panggung;179;Gunung Agung;Aman;Aman
+;Tanggamus;;Pulau Panggung;186;Sinar Mancat;Siaga;Siaga
+;Tanggamus;;Pulau Panggung;195;Tanjun Rejo;Siaga;Siaga
+;Tanggamus;16;Sumberejo;220;Argomulyo;Siaga;Aman
+;Tanggamus;;Sumberejo;221;Argopeni;Siaga;Siaga
+;Tanggamus;;Sumberejo;222;Dadapan;Siaga;Aman
+;Tanggamus;;Sumberejo;223;Kebumen;Siaga;Siaga
+;Tanggamus;;Sumberejo;224;Margodadi;Siaga;Siaga
+;Tanggamus;;Sumberejo;225;Margoyoso;Siaga;Siaga
+;Tanggamus;;Sumberejo;226;Sidomulyo;Siaga;Siaga
+;Tanggamus;;Sumberejo;227;Sidorejo;Waspada;Siaga
+;Tanggamus;;Sumberejo;228;Simpang Kanan;Siaga;Aman
+;Tanggamus;;Sumberejo;229;simpang Mulyo;Siaga;Siaga
+;Tanggamus;;Sumberejo;230;Sumberejo;Waspada;Siaga
+;Tanggamus;;Sumberejo;231;Tegal Binangun;Siaga;Waspada
+;Tanggamus;;Sumberejo;232;Wonoharjo;Siaga;Siaga
+;Tanggamus;;Talang Padang;245;Sukabumi;Siaga;Siaga
+;Tanggamus;;Ulu Belu;260;Pagaralam Ulu Belu;Siaga;Siaga
+;Tanggamus;;Ulu Belu;266;Sukamaju;Siaga;Siaga
+;Tanggamus;;Wonosobo;273;Dadi Mulyo;Siaga;Siaga
+;Tanggamus;;Wonosobo;274;Dadi Sari;Siaga;Siaga
+;Tanggamus;;Wonosobo;275;Kali rejo;Siaga;Waspada
+;Tanggamus;20;Kelumbayan Barat;297;Lengkukai;Siaga;Siaga
+;Tanggamus;;Kelumbayan Barat;298;Batu Patah;Siaga;Siaga
+;Tanggamus;;Kelumbayan Barat;299;Marga Mulya;Siaga;Aman
+;Tanggamus;;Kelumbayan Barat;300;Merbau;Siaga;Aman
+;Tanggamus;;Kelumbayan Barat;301;Puwosari;Siaga;Siaga
+;Tanggamus;;Kelumbayan Barat;302;Sidoharjo;Siaga;Siaga
+;Pesisir Barat;;Pesisir Tengah;4;Seray;Siaga;Siaga
+;Pesisir Barat;;Pesisir Tengah;6;Sukanegara;Siaga;Siaga
+;Pesisir Barat;;Lemong;12;Suka Mulya;Siaga;Siaga
+;Pesisir Barat;5;Karya Penggawa;1;La’ay;Siaga;Siaga
+;Pesisir Barat;;Karya Penggawa;10;Tebakak Way Sindi;Siaga;Siaga
+;Pesisir Barat;6;Pulau Pisang;1;Pasar Pulau Pisang;Siaga;Siaga
+;Pesisir Barat;;Pulau Pisang;2;Labuhan;Siaga;Siaga
+;Pesisir Barat;;Pulau Pisang;3;Bandar Dalam;Siaga;Siaga
+;Pesisir Barat;;Pulau Pisang;4;Pekon Lok;Siaga;Siaga
+;Pesisir Barat;;Pulau Pisang;5;Sukadana;Siaga;Siaga
+;Pesisir Barat;;Pulau Pisang;6;Sukamarga;Siaga;Siaga
+;Pesisir Barat;;Way Krui;7;Gunung Kemala Timur;Siaga;Siaga
+;Pesisir Barat;;Way Krui;9;Sukabaru;Siaga;Siaga
+;Pesisir Barat;10;Ngaras;1;Parda Suka;Siaga;Siaga
+;Pesisir Barat;;Ngaras;6;Raja Basa;Siaga;Siaga
+;Pesisir Barat;;Ngaras;7;Padang Dalam;Siaga;Siaga
+;Pesisir Barat;11;Bengkunat;1;Pagar Bukit;Bahaya;Bahaya
+;Pesisir Barat;;Bengkunat;2;Tanjung Kemala;Siaga;Siaga
+;Pesisir Barat;;Bengkunat;3;Suka Marga;Siaga;Siaga
+;Pesisir Barat;;Bengkunat;4;Penyandingan;Waspada;Waspada
+;Pesisir Barat;;Bengkunat;5;Kota Jawa;Siaga;Siaga
+;Pesisir Barat;;Bengkunat;6;Bandar Dalam;Siaga;Siaga
+;Pesisir Barat;;Bengkunat;7;Way Haru;Siaga;Siaga
+;Pesisir Barat;;Bengkunat;8;Pemerihan;Siaga;Siaga
+;Pesisir Barat;;Bengkunat;9;Suka Negeri;Siaga;Siaga
+;Pesisir Barat;;Bengkunat;10;Sumberejo;Siaga;Siaga
+;Pesisir Barat;;Bengkunat;11;Tanjung Rejo;Siaga;Siaga
+;Pesisir Barat;;Bengkunat;12;Siring Gading;Siaga;Siaga
+;Pesisir Barat;;Bengkunat;13;Way Tias;Siaga;Siaga
+;Pesisir Barat;;Bengkunat;14;Pagar Bukit Induk;Siaga;Siaga
+; LAMPUNG BARAT;;Air Hitam;3;Ringgis Jaya;Siaga;Siaga
+; LAMPUNG BARAT;;Air Hitam;8;Sukadamai;Siaga;Siaga
+; LAMPUNG BARAT;;Balik Bukit;5;Kubuperahu;Siaga;Siaga
+; LAMPUNG BARAT;;Balik Bukit;6;Padang Cahaya;Waspada;Waspada
+; LAMPUNG BARAT;;Balik Bukit;9;Sadampah Indah;Siaga;Siaga
+; LAMPUNG BARAT;;Balik Bukit;12;Way Emapalau Ulu;Siaga;Siaga
+; LAMPUNG BARAT;;Bandar Negeri Suoh;3;Gunung Ratu;Siaga;Siaga
+; LAMPUNG BARAT;;Batu Ketulis;3;Atar Kuaw;Siaga;Siaga
+; LAMPUNG BARAT;;Batu Ketulis;7;Kubuliku Jaya;Siaga;Siaga
+; LAMPUNG BARAT;;Belalau;6;Pajar Agung;Siaga;Siaga
+; LAMPUNG BARAT;;Gedung Surian;3;Mekarjaya;Siaga;Siaga
+; LAMPUNG BARAT;;Gedung Surian;4;Pura Merdeka;Siaga;Siaga
+; LAMPUNG BARAT;;Gedung Surian;5;Trimulyo;Siaga;Siaga
+; LAMPUNG BARAT;;Lumbok Seminung;8;Suka Banjar Ujung Rembun;Siaga;Siaga
+; LAMPUNG BARAT;;Sukau;10;Teba Piring Raya;Siaga;Siaga
+; LAMPUNG BARAT;;Suoh;3;Rowo Rejo;Siaga;Siaga
+; LAMPUNG BARAT;;Suoh;5;Sukamarga;Siaga;Siaga
+; LAMPUNG BARAT;;Sumber Jaya;5;Suka Pura;Siaga;Siaga
+; LAMPUNG BARAT;15;Way Tenong;1;Pajar Butan;Siaga;Siaga
+; Pringsewu;;Adiluwih;2;Bandung Barat;Aman;Aman
+; Pringsewu;;Adiluwih;7;Sinar Waya;Aman;Aman
+; Pringsewu;;Adiluwih;11;Tritunggal Mulya;Aman;Aman
+; Pringsewu;;Ambarawa;6;Margo Dadi;Aman;Aman
+; Pringsewu;;Ambarawa;8;Tanjunganom;Aman;Aman
+; Pringsewu;;Banyumas;5;Mulyorejo;Siaga;Siaga
+; Pringsewu;;Banyumas;6;Nusawungu;Aman;Aman
+; Pringsewu;;Banyumas;10;Sukamuya;Aman;Aman
+; Pringsewu;;Gading Rejo;2;Bulukarto;Aman;Aman
+; Pringsewu;5;Pagelaran;1;Bumiratu;Siaga;Siaga
+; Pringsewu;;Pagelaran;2;Bumirejo;Aman;Aman
+; Pringsewu;;Pagelaran;3;Candiretno;Aman;Aman
+; Pringsewu;;Pagelaran;5;Gemahripah;Siaga;Siaga
+; Pringsewu;;Pagelaran;6;Gumukmas;Aman;Aman
+; Pringsewu;;Pagelaran;10;Padangrejo;Aman;Aman
+; Pringsewu;;Pagelaran;16;Pujiharjo;Aman;Aman
+; Pringsewu;;Pagelaran;18;Sukaratu;Aman;Aman
+; Pringsewu;;Pagelaran;19;Sukawangi;Aman;Aman
+; Pringsewu;;Pagelaran;20;Sumberejo;Siaga;Siaga
+; Pringsewu;;Pagelaran;21;Tanjung Dalam;Aman;Aman
+; Pringsewu;8;Pringsewu;1;Bumiarum;Aman;Aman
+; Pringsewu;;Pringsewu;2;Bumiayu;Aman;Aman
+; Pringsewu;;Sukoharjo;2;Pandansari;Aman;Aman
+; Pringsewu;;Sukoharjo;3;Pandansari Selatan;Siaga;Siaga
+; Pringsewu;;Sukoharjo;4;Pandansurat;Aman;Aman
+; Pringsewu;;Sukoharjo;6;Panggungrejo Utara;Aman;Aman
+; Pringsewu;;Sukoharjo;13;Sukpharjo III Barat;Siaga;Siaga
+; Pringsewu;;Sukoharjo;16;Waringin Sari Barat;Aman;Aman
+1;TULANG BAWANG BARAT;1;Batu Putih;1;Margo Dadi;Siaga;Siaga
+;TULANG BAWANG BARAT;;Batu Putih;2;Margo Mulya;Siaga;Siaga
+;TULANG BAWANG BARAT;;Batu Putih;3;Margo Sari;Siaga;Siaga
+;TULANG BAWANG BARAT;;Batu Putih;4;Mulyo Sari;Siaga;Siaga
+;TULANG BAWANG BARAT;;Batu Putih;5;Panca Marga;Siaga;Siaga
+;TULANG BAWANG BARAT;;Batu Putih;6;Sakti Jaya;Siaga;Siaga
+;TULANG BAWANG BARAT;;Batu Putih;7;Sido Makmur;Siaga;Siaga
+;TULANG BAWANG BARAT;;Batu Putih;8;Toto Katon;Siaga;Siaga
+;TULANG BAWANG BARAT;;Batu Putih;9;Toto Makmur;Siaga;Siaga
+;TULANG BAWANG BARAT;;Batu Putih;10;Toto Wonodadi;Siaga;Siaga
+;TULANG BAWANG BARAT;2;Gunung Agung;11;Bangun Jaya;Siaga;Siaga
+;TULANG BAWANG BARAT;;Gunung Agung;12;Dwikora Jaya;Siaga;Siaga
+;TULANG BAWANG BARAT;;Gunung Agung;13;Jaya Murni;Siaga;Siaga
+;TULANG BAWANG BARAT;;Gunung Agung;14;Marga Jaya;Siaga;Siaga
+;TULANG BAWANG BARAT;;Gunung Agung;15;Mekar Jaya;Siaga;Siaga
+;TULANG BAWANG BARAT;;Gunung Agung;16;Mulya Jaya;Waspada;Waspada
+;TULANG BAWANG BARAT;;Gunung Agung;17;Mulya Sari;Waspada;Waspada
+;TULANG BAWANG BARAT;;Gunung Agung;18;Suka Jaya;Siaga;Siaga
+;TULANG BAWANG BARAT;;Gunung Agung;19;Sumber Rejeki;Siaga;Siaga
+;TULANG BAWANG BARAT;;Gunung Agung;20;Sumber Jaya;Siaga;Siaga
+;TULANG BAWANG BARAT;;Gunung Agung;21;Tri Tunggal Jaya;Siaga;Siaga
+;TULANG BAWANG BARAT;;Gunung Agung;22;Tunas Jaya;Siaga;Siaga
+;TULANG BAWANG BARAT;;Gunung Agung;23;Wono Rejo;Siaga;Siaga
+;TULANG BAWANG BARAT;3;Gunung Terang;24;Gunung Agung;Siaga;Siaga
+;TULANG BAWANG BARAT;;Gunung Terang;25;Gunung Terang;Waspada;Waspada
+;TULANG BAWANG BARAT;;Gunung Terang;26;Kagungan Jaya;Siaga;Siaga
+;TULANG BAWANG BARAT;;Gunung Terang;27;Mulyo Jadi;Siaga;Siaga
+;TULANG BAWANG BARAT;;Gunung Terang;28;Setia Agung;Siaga;Siaga
+;TULANG BAWANG BARAT;;Gunung Terang;29;Setia Bumi;Siaga;Siaga
+;TULANG BAWANG BARAT;;Gunung Terang;30;Terang Bumi Agung;Waspada;Waspada
+;TULANG BAWANG BARAT;;Gunung Terang;31;Terang Makmur;Siaga;Siaga
+;TULANG BAWANG BARAT;;Gunung Terang;32;Terang Mulya;Siaga;Siaga
+;TULANG BAWANG BARAT;;Gunung Terang;33;Toto Mulyo;Siaga;Siaga
+;TULANG BAWANG BARAT;4;Lambu Kibang;34;Gilang Tunggal Makarta;Siaga;Siaga
+;TULANG BAWANG BARAT;;Lambu Kibang;35;Gunung Sari;Siaga;Siaga
+;TULANG BAWANG BARAT;;Lambu Kibang;36;Kibang Budi Jaya;Siaga;Siaga
+;TULANG BAWANG BARAT;;Lambu Kibang;37;Kibang Mulya Jaya;Siaga;Siaga
+;TULANG BAWANG BARAT;;Lambu Kibang;38;Kibang Tri Jaya;Siaga;Siaga
+;TULANG BAWANG BARAT;;Lambu Kibang;39;Kibang Yekti Jaya;Siaga;Siaga
+;TULANG BAWANG BARAT;;Lambu Kibang;40;Lesung Bhakti Jaya;Siaga;Siaga
+;TULANG BAWANG BARAT;;Lambu Kibang;41;Mekar Sari Jaya;Siaga;Siaga
+;TULANG BAWANG BARAT;;Lambu Kibang;42;Pagar Jaya;Siaga;Siaga
+;TULANG BAWANG BARAT;;Lambu Kibang;43;Sumber Rejo;Siaga;Siaga
+;TULANG BAWANG BARAT;5;Pagar Dewa;44;Bujung Sari Marga;Siaga;Siaga
+;TULANG BAWANG BARAT;;Pagar Dewa;45;Bujung Dewa;Siaga;Siaga
+;TULANG BAWANG BARAT;;Pagar Dewa;46;Cahyou Randu;Siaga;Siaga
+;TULANG BAWANG BARAT;;Pagar Dewa;47;Marga Jaya Indah;Siaga;Siaga
+;TULANG BAWANG BARAT;;Pagar Dewa;48;Pagar Dewa;Siaga;Siaga
+;TULANG BAWANG BARAT;;Pagar Dewa;49;Pagar Dewa Suka Mulya;Siaga;Siaga
+;TULANG BAWANG BARAT;6;Tulang Bawang Tengah;50;Mulyo Asri;Siaga;Siaga
+;TULANG BAWANG BARAT;7;Tulang Bawang Udik;69;Gedung Ratu;Waspada;Waspada
+;TULANG BAWANG BARAT;;Tulang Bawang Udik;70;Gunung Katun Malai;Siaga;Siaga
+;TULANG BAWANG BARAT;;Tulang Bawang Udik;71;Gunung Katun Tanjungan;Siaga;Siaga
+;TULANG BAWANG BARAT;;Tulang Bawang Udik;72;Kagungan Ratu;Siaga;Siaga
+;TULANG BAWANG BARAT;;Tulang Bawang Udik;73;Karta;Siaga;Siaga
+;TULANG BAWANG BARAT;;Tulang Bawang Udik;74;Karta Raharja;Siaga;Siaga
+;TULANG BAWANG BARAT;;Tulang Bawang Udik;75;Kartasari;Siaga;Siaga
+;TULANG BAWANG BARAT;;Tulang Bawang Udik;76;Marga Kencana;Siaga;Siaga
+;TULANG BAWANG BARAT;;Tulang Bawang Udik;77;Way Sido;Siaga;Siaga
+;TULANG BAWANG BARAT;8;Tumijajar;78;Sumber Rejo;Siaga;Siaga
+;TULANG BAWANG BARAT;;Tumijajar;79;Daya Asri;Siaga;Siaga
+;TULANG BAWANG BARAT;;Tumijajar;80;Daya Murni;Bahaya;Bahaya
+;TULANG BAWANG BARAT;;Tumijajar;81;Daya Sakti;Siaga;Siaga
+;TULANG BAWANG BARAT;;Tumijajar;82;Gunung Menanti;Siaga;Siaga
+;TULANG BAWANG BARAT;;Tumijajar;83;Gunung Timbul;Siaga;Siaga
+;TULANG BAWANG BARAT;;Tumijajar;84;Makarti;Siaga;Siaga
+;TULANG BAWANG BARAT;;Tumijajar;85;Margo Dadi;Siaga;Siaga
+;TULANG BAWANG BARAT;;Tumijajar;86;Margo Mulyo;Siaga;Siaga
+;TULANG BAWANG BARAT;;Tumijajar;87;Murni Jaya;Siaga;Siaga
+;TULANG BAWANG BARAT;9;Way Kenanga;88;Agung Jaya;Siaga;Siaga
+;TULANG BAWANG BARAT;;Way Kenanga;89;Balam Asri;Siaga;Siaga
+;TULANG BAWANG BARAT;;Way Kenanga;90;Balam Jaya;Siaga;Siaga
+;TULANG BAWANG BARAT;;Way Kenanga;91;Indraloka I;Siaga;Siaga
+;TULANG BAWANG BARAT;;Way Kenanga;92;Indraloka II;Siaga;Siaga
+;TULANG BAWANG BARAT;;Way Kenanga;93;Indraloka Jaya;Siaga;Siaga
+;TULANG BAWANG BARAT;;Way Kenanga;94;Indraloka Mukti;Siaga;Siaga
+;TULANG BAWANG BARAT;;Way Kenanga;95;Mercu Buana;Siaga;Siaga
+;TULANG BAWANG BARAT;;Way Kenanga;96;Pagar Buana;Siaga;Siaga
+1;LAMPUNG TENGAH;1;Anak Ratu Aji;1;Bandar Putih Tua;Siaga;Siaga
+;LAMPUNG TENGAH;;Anak Ratu Aji;2;Gedung Ratu;Siaga;Siaga
+;LAMPUNG TENGAH;;Anak Ratu Aji;3;Gedung Sari;Siaga;Siaga
+;LAMPUNG TENGAH;;Anak Ratu Aji;4;Karang Jawa;Siaga;Siaga
+;LAMPUNG TENGAH;;Anak Ratu Aji;5;Sri Mulyo;Siaga;Siaga
+;LAMPUNG TENGAH;;Anak Ratu Aji;6;Sukajaya;Siaga;Siaga
+;LAMPUNG TENGAH;2;Anak Tuha ;7;Bumi Aji;Waspada;Waspada
+;LAMPUNG TENGAH;;Anak Tuha ;8;Bumi Jaya;Siaga;Siaga
+;LAMPUNG TENGAH;;Anak Tuha ;9;Gunung Agung;Siaga;Siaga
+;LAMPUNG TENGAH;;Anak Tuha ;10;Haji Pemanggilan;Waspada;Waspada
+;LAMPUNG TENGAH;;Anak Tuha ;11;Jaya Sakti;Siaga;Siaga
+;LAMPUNG TENGAH;;Anak Tuha ;12;Mulyo Haji;Siaga;Siaga
+;LAMPUNG TENGAH;;Anak Tuha ;13;Negara Aji Baru;Siaga;Siaga
+;LAMPUNG TENGAH;;Anak Tuha ;14;Negara Aji Tua;Siaga;Siaga
+;LAMPUNG TENGAH;;Anak Tuha ;15;Negara Bumi Ilir;Siaga;Siaga
+;LAMPUNG TENGAH;;Anak Tuha ;16;Negara Bumi Udik;Siaga;Siaga
+;LAMPUNG TENGAH;;Anak Tuha ;17;Sri Katon;Siaga;Siaga
+;LAMPUNG TENGAH;;Anak Tuha ;18;Tanjung Harapan;Siaga;Siaga
+;LAMPUNG TENGAH;3;Bandar Mataram;19;Jati Datar Mataram;Siaga;Siaga
+;LAMPUNG TENGAH;;Bandar Mataram;20;Mataram Jaya;Siaga;Siaga
+;LAMPUNG TENGAH;;Bandar Mataram;21;Mataram Udik;Siaga;Siaga
+;LAMPUNG TENGAH;;Bandar Mataram;22;Sendang Agung Mataram;Siaga;Siaga
+;LAMPUNG TENGAH;;Bandar Mataram;23;Sriwijaya Mataram;Siaga;Siaga
+;LAMPUNG TENGAH;;Bandar Mataram;24;Terbanggi Ilir;Siaga;Siaga
+;LAMPUNG TENGAH;;Bandar Mataram;25;Terbanggi Mulya;Siaga;Siaga
+;LAMPUNG TENGAH;;Bandar Mataram;26;Uman Agung Mataram;Siaga;Siaga
+;LAMPUNG TENGAH;;Bandar Mataram;27;Sumber Rejeki Mataram;Siaga;Siaga
+;LAMPUNG TENGAH;4;Bandar Surabaya;28;Beringin Jaya;Siaga;Siaga
+;LAMPUNG TENGAH;;Bandar Surabaya;29;Cabang;Siaga;Siaga
+;LAMPUNG TENGAH;;Bandar Surabaya;30;Cempaka Putih;Siaga;Siaga
+;LAMPUNG TENGAH;;Bandar Surabaya;31;Gaya Baru V;Siaga;Siaga
+;LAMPUNG TENGAH;;Bandar Surabaya;32;Rajawali;Siaga;Siaga
+;LAMPUNG TENGAH;;Bandar Surabaya;33;Sidodadi;Siaga;Siaga
+;LAMPUNG TENGAH;;Bandar Surabaya;34;Subang Jaya;Siaga;Siaga
+;LAMPUNG TENGAH;;Bandar Surabaya;35;Sumber Agung;Siaga;Siaga
+;LAMPUNG TENGAH;;Bandar Surabaya;36;Surabaya Ilir;Siaga;Siaga
+;LAMPUNG TENGAH;;Bandar Surabaya;37;Surabaya Baru;Siaga;Siaga
+;LAMPUNG TENGAH;5;Bangunrejo;38;Bangunrejo;Siaga;Siaga
+;LAMPUNG TENGAH;;Bangunrejo;39;Cimarias;Siaga;Siaga
+;LAMPUNG TENGAH;;Bangunrejo;40;Mekar Jaya;Siaga;Siaga
+;LAMPUNG TENGAH;;Bangunrejo;41;Purwodadi;Siaga;Siaga
+;LAMPUNG TENGAH;;Bangunrejo;42;Sidodadi;Siaga;Siaga
+;LAMPUNG TENGAH;;Bangunrejo;43;Sidoluhur;Siaga;Siaga
+;LAMPUNG TENGAH;;Bangunrejo;44;Sidomulyo;Siaga;Siaga
+;LAMPUNG TENGAH;;Bangunrejo;45;Sidorejo;Siaga;Siaga
+;LAMPUNG TENGAH;;Bangunrejo;46;Sinar Luas;Siaga;Siaga
+;LAMPUNG TENGAH;;Bangunrejo;47;Sinar Seputih;Siaga;Siaga
+;LAMPUNG TENGAH;;Bangunrejo;48;Sri Pendowo;Siaga;Siaga
+;LAMPUNG TENGAH;;Bangunrejo;49;Suka Negeri;Siaga;Siaga
+;LAMPUNG TENGAH;;Bangunrejo;50;Sukanegara;Siaga;Siaga
+;LAMPUNG TENGAH;;Bangunrejo;51;Sukawaringin;Siaga;Siaga
+;LAMPUNG TENGAH;;Bangunrejo;52;Tanjungjaya;Siaga;Siaga
+;LAMPUNG TENGAH;;Bangunrejo;53;Tanjung Pandan;Siaga;Siaga
+;LAMPUNG TENGAH;;Bangunrejo;54;Timbulrejo;Siaga;Siaga
+;LAMPUNG TENGAH;6;Bekri;55;Kedatuan;Siaga;Siaga
+;LAMPUNG TENGAH;;Bekri;56;Binjai Agung;Siaga;Siaga
+;LAMPUNG TENGAH;;Bekri;57;Rengas;Siaga;Siaga
+;LAMPUNG TENGAH;;Bekri;58;Kesumadadi;Siaga;Siaga
+;LAMPUNG TENGAH;;Bekri;59;Goras Jaya;Siaga;Siaga
+;LAMPUNG TENGAH;;Bekri;60;Sinar Banten;Siaga;Siaga
+;LAMPUNG TENGAH;;Bekri;61;Kesuma Jaya;Siaga;Siaga
+;LAMPUNG TENGAH;;Bekri;62;Bangun Sari;Siaga;Siaga
+;LAMPUNG TENGAH;7;Bumi Nabung;63;Bumi Nabung Baru;Siaga;Siaga
+;LAMPUNG TENGAH;;Bumi Nabung;64;Bumi Nabung Ilir;Siaga;Siaga
+;LAMPUNG TENGAH;;Bumi Nabung;65;Bumi Nabung Selatan;Siaga;Siaga
+;LAMPUNG TENGAH;;Bumi Nabung;66;Bumi Nabung Timur;Siaga;Siaga
+;LAMPUNG TENGAH;;Bumi Nabung;67;Bumi Nabung Utara;Siaga;Siaga
+;LAMPUNG TENGAH;;Bumi Nabung;68;Sri Kenanga;Siaga;Siaga
+;LAMPUNG TENGAH;;Bumi Nabung;69;Sri Kencono;Siaga;Siaga
+;LAMPUNG TENGAH;8;Bumi Ratu Nuban;70;Bumi Raharjo;Siaga;Siaga
+;LAMPUNG TENGAH;;Bumi Ratu Nuban;71;Bumi Rahayu;Siaga;Siaga
+;LAMPUNG TENGAH;;Bumi Ratu Nuban;72;Bumi Ratu;Siaga;Siaga
+;LAMPUNG TENGAH;;Bumi Ratu Nuban;73;Bulu Sari;Siaga;Siaga
+;LAMPUNG TENGAH;;Bumi Ratu Nuban;74;Sidokerto;Siaga;Siaga
+;LAMPUNG TENGAH;;Bumi Ratu Nuban;75;Sido Waras;Siaga;Siaga
+;LAMPUNG TENGAH;;Bumi Ratu Nuban;76;Suka Jadi;Siaga;Siaga
+;LAMPUNG TENGAH;;Bumi Ratu Nuban;77;Suka Jawa;Siaga;Siaga
+;LAMPUNG TENGAH;;Bumi Ratu Nuban;78;Tulang Kakan;Siaga;Siaga
+;LAMPUNG TENGAH;;Bumi Ratu Nuban;79;Wates;Siaga;Siaga
+;LAMPUNG TENGAH;9;Gunung Sugih;80;Gunung Sugih;Bahaya;Bahaya
+;LAMPUNG TENGAH;;Gunung Sugih;81;Gunung Sugih Raya;Siaga;Siaga
+;LAMPUNG TENGAH;;Gunung Sugih;82;Komering Agung;Siaga;Siaga
+;LAMPUNG TENGAH;;Gunung Sugih;83;Seputih Jaya;Siaga;Siaga
+;LAMPUNG TENGAH;;Gunung Sugih;84;Bangun Rejo;Siaga;Siaga
+;LAMPUNG TENGAH;;Gunung Sugih;85;Buyut Ilir;Bahaya;Bahaya
+;LAMPUNG TENGAH;;Gunung Sugih;86;Buyut Udik;Siaga;Siaga
+;LAMPUNG TENGAH;;Gunung Sugih;87;Buyut Utara;Siaga;Siaga
+;LAMPUNG TENGAH;;Gunung Sugih;88;Fajar Bulan;Siaga;Siaga
+;LAMPUNG TENGAH;;Gunung Sugih;89;Gunung Sari;Siaga;Siaga
+;LAMPUNG TENGAH;;Gunung Sugih;90;Komering Putih;Siaga;Siaga
+;LAMPUNG TENGAH;;Gunung Sugih;91;Putra Buyut;Siaga;Siaga
+;LAMPUNG TENGAH;;Gunung Sugih;92;Terbanggi Agung;Siaga;Siaga
+;LAMPUNG TENGAH;;Gunung Sugih;93;Terbanggi Subing;Siaga;Siaga
+;LAMPUNG TENGAH;;Gunung Sugih;94;Wono Sari;Siaga;Siaga
+;LAMPUNG TENGAH;10;Kalirejo;95;Agung Timur;Siaga;Siaga
+;LAMPUNG TENGAH;;Kalirejo;96;Balai Rejo;Siaga;Siaga
+;LAMPUNG TENGAH;;Kalirejo;97;Kalirejo;Waspada;Waspada
+;LAMPUNG TENGAH;;Kalirejo;98;Kali Dadi;Siaga;Siaga
+;LAMPUNG TENGAH;;Kalirejo;99;Kalisari;Siaga;Siaga
+;LAMPUNG TENGAH;;Kalirejo;100;Kaliwungu;Siaga;Siaga
+;LAMPUNG TENGAH;;Kalirejo;101;Ponco Warno;Siaga;Siaga
+;LAMPUNG TENGAH;;Kalirejo;102;Sinar Rejo;Siaga;Siaga
+;LAMPUNG TENGAH;;Kalirejo;103;Sinar Sari;Siaga;Siaga
+;LAMPUNG TENGAH;;Kalirejo;104;Sri Basuki;Siaga;Siaga
+;LAMPUNG TENGAH;;Kalirejo;105;Sri Dadi;Siaga;Siaga
+;LAMPUNG TENGAH;;Kalirejo;106;Sri Mulyo;Siaga;Siaga
+;LAMPUNG TENGAH;;Kalirejo;107;Sri Purnomo;Siaga;Siaga
+;LAMPUNG TENGAH;;Kalirejo;108;Sri Way Langsep;Siaga;Siaga
+;LAMPUNG TENGAH;;Kalirejo;109;Suko Sari;Siaga;Siaga
+;LAMPUNG TENGAH;;Kalirejo;110;Watu Agung;Siaga;Siaga
+;LAMPUNG TENGAH;;Kalirejo;111;Way Krui;Siaga;Siaga
+;LAMPUNG TENGAH;11;Kotagajah;112;Kota Gajah;Waspada;Siaga
+;LAMPUNG TENGAH;;Kotagajah;113;Kota Gajah Timur;Waspada;Waspada
+;LAMPUNG TENGAH;;Kotagajah;114;Nambah Rejo;Siaga;Siaga
+;LAMPUNG TENGAH;;Kotagajah;115;Purworejo;Siaga;Siaga
+;LAMPUNG TENGAH;;Kotagajah;116;Sapto Mulyo;Siaga;Siaga
+;LAMPUNG TENGAH;;Kotagajah;117;Sritejo Kencono;Siaga;Siaga
+;LAMPUNG TENGAH;;Kotagajah;118;Sumber Rejo;Siaga;Siaga
+;LAMPUNG TENGAH;12;Padang Ratu;119;Bandar Sari;Siaga;Siaga
+;LAMPUNG TENGAH;;Padang Ratu;120;Haduyang Ratu;Siaga;Siaga
+;LAMPUNG TENGAH;;Padang Ratu;121;Karang Sari;Siaga;Siaga
+;LAMPUNG TENGAH;;Padang Ratu;122;Kuripan;Siaga;Siaga
+;LAMPUNG TENGAH;;Padang Ratu;123;Margorejo;Siaga;Siaga
+;LAMPUNG TENGAH;;Padang Ratu;124;Mojokerto;Siaga;Siaga
+;LAMPUNG TENGAH;;Padang Ratu;125;Karang Tanjung;Siaga;Siaga
+;LAMPUNG TENGAH;;Padang Ratu;126;Kota Baru;Siaga;Siaga
+;LAMPUNG TENGAH;;Padang Ratu;127;Padang Ratu;Bahaya;Bahaya
+;LAMPUNG TENGAH;;Padang Ratu;128;Purworejo;Siaga;Siaga
+;LAMPUNG TENGAH;;Padang Ratu;129;Purwosari;Siaga;Siaga
+;LAMPUNG TENGAH;;Padang Ratu;130;Sendang Ayu;Siaga;Siaga
+;LAMPUNG TENGAH;;Padang Ratu;131;Sri Agung;Siaga;Siaga
+;LAMPUNG TENGAH;;Padang Ratu;132;Sumber Sari;Siaga;Siaga
+;LAMPUNG TENGAH;;Padang Ratu;133;Surabaya;Siaga;Siaga
+;LAMPUNG TENGAH;13;Pubian;134;Gunung Haji;Bahaya;Bahaya
+;LAMPUNG TENGAH;;Pubian;135;Gunung Raya;Siaga;Siaga
+;LAMPUNG TENGAH;;Pubian;136;Kota Batu;Siaga;Siaga
+;LAMPUNG TENGAH;;Pubian;137;Negeri Kepayungan;Waspada;Waspada
+;LAMPUNG TENGAH;;Pubian;138;Negeri Ratu;Siaga;Siaga
+;LAMPUNG TENGAH;;Pubian;139;Padang Rejo;Siaga;Siaga
+;LAMPUNG TENGAH;;Pubian;140;Payung Batu;Siaga;Siaga
+;LAMPUNG TENGAH;;Pubian;141;Payung Dadi;Siaga;Siaga
+;LAMPUNG TENGAH;;Pubian;142;Payung Makmur;Siaga;Siaga
+;LAMPUNG TENGAH;;Pubian;143;Payung Mulya;Siaga;Siaga
+;LAMPUNG TENGAH;;Pubian;144;Payung Rejo;Siaga;Siaga
+;LAMPUNG TENGAH;;Pubian;145;Pekandangan;Siaga;Siaga
+;LAMPUNG TENGAH;;Pubian;146;Riau Priangan;Siaga;Siaga
+;LAMPUNG TENGAH;;Pubian;147;Sangun Ratu;Siaga;Siaga
+;LAMPUNG TENGAH;;Pubian;148;Segala Mider;Siaga;Siaga
+;LAMPUNG TENGAH;;Pubian;149;Sinar Negeri;Siaga;Siaga
+;LAMPUNG TENGAH;;Pubian;150;Tanjung Kemala;Siaga;Siaga
+;LAMPUNG TENGAH;;Pubian;151;Tanjung Rejo;Siaga;Siaga
+;LAMPUNG TENGAH;;Pubian;152;Tias Bangun;Siaga;Siaga
+;LAMPUNG TENGAH;;Pubian;153;Tawang Negeri;Siaga;Siaga
+;LAMPUNG TENGAH;14;Punggur;154;Asto Mulyo;Siaga;Siaga
+;LAMPUNG TENGAH;;Punggur;155;Badran Sari;Siaga;Siaga
+;LAMPUNG TENGAH;;Punggur;156;Mojopahit;Siaga;Siaga
+;LAMPUNG TENGAH;;Punggur;157;Ngesti Rahayu;Siaga;Siaga
+;LAMPUNG TENGAH;;Punggur;158;Nunggal Rejo;Siaga;Siaga
+;LAMPUNG TENGAH;;Punggur;159;Sido Mulyo;Siaga;Siaga
+;LAMPUNG TENGAH;;Punggur;160;Sri Sawahan;Siaga;Siaga
+;LAMPUNG TENGAH;;Punggur;161;Tanggul Angin;Siaga;Siaga
+;LAMPUNG TENGAH;;Punggur;162;Toto Katon;Siaga;Siaga
+;LAMPUNG TENGAH;15;Putra Rumbia;163;Bina Karya Baru;Siaga;Siaga
+;LAMPUNG TENGAH;;Putra Rumbia;164;Bina Karya Jaya;Siaga;Siaga
+;LAMPUNG TENGAH;;Putra Rumbia;165;Bina Karya Sakti;Siaga;Siaga
+;LAMPUNG TENGAH;;Putra Rumbia;166;Bina Karya Utama;Siaga;Siaga
+;LAMPUNG TENGAH;;Putra Rumbia;167;Joharan;Siaga;Siaga
+;LAMPUNG TENGAH;;Putra Rumbia;168;Mekar Jaya;Siaga;Siaga
+;LAMPUNG TENGAH;;Putra Rumbia;169;Mranggi Jaya;Siaga;Siaga
+;LAMPUNG TENGAH;;Putra Rumbia;170;Rantau Jaya Baru;Siaga;Siaga
+;LAMPUNG TENGAH;;Putra Rumbia;171;Rantau Jaya Ilir;Siaga;Siaga
+;LAMPUNG TENGAH;;Putra Rumbia;172;Rantau Jaya Makmur;Siaga;Siaga
+;LAMPUNG TENGAH;16;Rumbia;173;Bina Karya Buana;Siaga;Siaga
+;LAMPUNG TENGAH;;Rumbia;174;Bina Karya Mandiri;Siaga;Siaga
+;LAMPUNG TENGAH;;Rumbia;175;Bina Karya Putra;Siaga;Siaga
+;LAMPUNG TENGAH;;Rumbia;176;Rekso Binangun;Siaga;Siaga
+;LAMPUNG TENGAH;;Rumbia;177;Reno Basuki;Siaga;Siaga
+;LAMPUNG TENGAH;;Rumbia;178;Restu Baru;Siaga;Siaga
+;LAMPUNG TENGAH;;Rumbia;179;Restu Buana;Siaga;Siaga
+;LAMPUNG TENGAH;;Rumbia;180;Rukti Basuki;Siaga;Siaga
+;LAMPUNG TENGAH;;Rumbia;181;Teluk Dalem Ilir;Siaga;Siaga
+;LAMPUNG TENGAH;17;Selagai Lingga;182;Gedung Aji;Waspada;Waspada
+;LAMPUNG TENGAH;;Selagai Lingga;183;Gedung Harta;Waspada;Waspada
+;LAMPUNG TENGAH;;Selagai Lingga;184;Gilih Karangjati;Siaga;Siaga
+;LAMPUNG TENGAH;;Selagai Lingga;185;Karang Anyar;Siaga;Siaga
+;LAMPUNG TENGAH;;Selagai Lingga;186;Linggapura;Siaga;Siaga
+;LAMPUNG TENGAH;;Selagai Lingga;187;Marga Jaya;Siaga;Siaga
+;LAMPUNG TENGAH;;Selagai Lingga;188;Mekar Harjo;Siaga;Siaga
+;LAMPUNG TENGAH;;Selagai Lingga;189;Negeri Jaya;Siaga;Siaga
+;LAMPUNG TENGAH;;Selagai Lingga;190;Negeri Agung;Siaga;Siaga
+;LAMPUNG TENGAH;;Selagai Lingga;191;Negeri Katon;Siaga;Siaga
+;LAMPUNG TENGAH;;Selagai Lingga;192;Nyukang Harjo;Siaga;Siaga
+;LAMPUNG TENGAH;;Selagai Lingga;193;Sidoharjo;Siaga;Siaga
+;LAMPUNG TENGAH;;Selagai Lingga;194;Taman Sari;Siaga;Siaga
+;LAMPUNG TENGAH;;Selagai Lingga;195;Tanjung Ratu;Siaga;Siaga
+;LAMPUNG TENGAH;18;Sendang Agung;196;Kutowinangun;Siaga;Siaga
+;LAMPUNG TENGAH;;Sendang Agung;197;Sendang Agung;Siaga;Siaga
+;LAMPUNG TENGAH;;Sendang Agung;198;Sendang Asih;Siaga;Siaga
+;LAMPUNG TENGAH;;Sendang Agung;199;Sendang Asri;Siaga;Siaga
+;LAMPUNG TENGAH;;Sendang Agung;200;Sendang Baru;Siaga;Siaga
+;LAMPUNG TENGAH;;Sendang Agung;201;Sendang Mukti;Siaga;Siaga
+;LAMPUNG TENGAH;;Sendang Agung;202;Sendang Mulyo;Siaga;Siaga
+;LAMPUNG TENGAH;;Sendang Agung;203;Sendang Rejo;Siaga;Siaga
+;LAMPUNG TENGAH;;Sendang Agung;204;Sendang Retno;Siaga;Siaga
+;LAMPUNG TENGAH;19;Seputih Agung;205;Bumi Kencana;Siaga;Siaga
+;LAMPUNG TENGAH;;Seputih Agung;206;Bumi Mas;Siaga;Siaga
+;LAMPUNG TENGAH;;Seputih Agung;207;Dono Arum;Siaga;Siaga
+;LAMPUNG TENGAH;;Seputih Agung;208;Endang Rejo;Siaga;Siaga
+;LAMPUNG TENGAH;;Seputih Agung;209;Fajar Asri;Siaga;Siaga
+;LAMPUNG TENGAH;;Seputih Agung;210;Gayau Sakti;Siaga;Siaga
+;LAMPUNG TENGAH;;Seputih Agung;211;Harapan Rejo;Siaga;Siaga
+;LAMPUNG TENGAH;;Seputih Agung;212;Muji Rahayu;Siaga;Siaga
+;LAMPUNG TENGAH;;Seputih Agung;213;Simpang Agung;Siaga;Siaga
+;LAMPUNG TENGAH;;Seputih Agung;214;Sulusuban;Siaga;Siaga
+;LAMPUNG TENGAH;20;Seputih Banyak;215;Sanggar Buana;Siaga;Siaga
+;LAMPUNG TENGAH;;Seputih Banyak;216;Sakti Buana;Siaga;Siaga
+;LAMPUNG TENGAH;;Seputih Banyak;217;Setia Bakti;Siaga;Siaga
+;LAMPUNG TENGAH;;Seputih Banyak;218;Setia Budi;Siaga;Siaga
+;LAMPUNG TENGAH;;Seputih Banyak;219;Siswo Binangun;Siaga;Siaga
+;LAMPUNG TENGAH;;Seputih Banyak;220;Sri Basuki;Siaga;Siaga
+;LAMPUNG TENGAH;;Seputih Banyak;221;Sri Bhakti;Siaga;Siaga
+;LAMPUNG TENGAH;;Seputih Banyak;222;Sumber Bahagia;Siaga;Siaga
+;LAMPUNG TENGAH;;Seputih Banyak;223;Sumber Baru;Siaga;Siaga
+;LAMPUNG TENGAH;;Seputih Banyak;224;Sumber Fajar;Siaga;Siaga
+;LAMPUNG TENGAH;;Seputih Banyak;225;Swastika Buana;Siaga;Siaga
+;LAMPUNG TENGAH;;Seputih Banyak;226;Tanjung Harapan;Siaga;Siaga
+;LAMPUNG TENGAH;;Seputih Banyak;227;Tanjung Kerajan;Siaga;Siaga
+;LAMPUNG TENGAH;21;Seputih Mataram ;228;Banjar Agung Mataram;Waspada;Waspada
+;LAMPUNG TENGAH;;Seputih Mataram ;229;Bumi Setia Mataram;Siaga;Siaga
+;LAMPUNG TENGAH;;Seputih Mataram ;230;Dharma Agung Mataram;Siaga;Siaga
+;LAMPUNG TENGAH;;Seputih Mataram ;231;Fajar Mataram;Siaga;Siaga
+;LAMPUNG TENGAH;;Seputih Mataram ;232;Qurnia Mataram;Siaga;Siaga
+;LAMPUNG TENGAH;;Seputih Mataram ;233;Rejosari Mataram;Siaga;Siaga
+;LAMPUNG TENGAH;;Seputih Mataram ;234;Subing Karya;Siaga;Siaga
+;LAMPUNG TENGAH;;Seputih Mataram ;235;Sumber Agung Mataram;Siaga;Siaga
+;LAMPUNG TENGAH;;Seputih Mataram ;236;Trimulyo Mataram;Siaga;Siaga
+;LAMPUNG TENGAH;;Seputih Mataram ;237;Utama Jaya Mataram;Siaga;Siaga
+;LAMPUNG TENGAH;;Seputih Mataram ;238;Varia Agung Mataram;Siaga;Siaga
+;LAMPUNG TENGAH;;Seputih Mataram ;239;Wirata Agung Mataram;Siaga;Siaga
+;LAMPUNG TENGAH;22;Seputih Raman;240;Buyut Baru;Siaga;Siaga
+;LAMPUNG TENGAH;;Seputih Raman;241;Rama Dewa;Siaga;Siaga
+;LAMPUNG TENGAH;;Seputih Raman;242;Rama Gunawan;Siaga;Siaga
+;LAMPUNG TENGAH;;Seputih Raman;243;Rama Indra;Siaga;Siaga
+;LAMPUNG TENGAH;;Seputih Raman;244;Rama Klandungan;Siaga;Siaga
+;LAMPUNG TENGAH;;Seputih Raman;245;Rama Oetama;Siaga;Siaga
+;LAMPUNG TENGAH;;Seputih Raman;246;Rama Murti;Siaga;Siaga
+;LAMPUNG TENGAH;;Seputih Raman;247;Rama Nirwana;Siaga;Siaga
+;LAMPUNG TENGAH;;Seputih Raman;248;Rama Yana;Siaga;Siaga
+;LAMPUNG TENGAH;;Seputih Raman;249;Ratna Chaton;Siaga;Siaga
+;LAMPUNG TENGAH;;Seputih Raman;250;Rejo Asri;Siaga;Siaga
+;LAMPUNG TENGAH;;Seputih Raman;251;Rejo Basuki;Siaga;Siaga
+;LAMPUNG TENGAH;;Seputih Raman;252;Rukti Endah;Siaga;Siaga
+;LAMPUNG TENGAH;;Seputih Raman;253;Rukti Harjo;Siaga;Siaga
+;LAMPUNG TENGAH;23;Seputih Surabaya;254;Gaya Baru I;Siaga;Siaga
+;LAMPUNG TENGAH;;Seputih Surabaya;255;Gaya Baru II;Siaga;Siaga
+;LAMPUNG TENGAH;;Seputih Surabaya;256;Gaya Baru III;Siaga;Siaga
+;LAMPUNG TENGAH;;Seputih Surabaya;257;Gaya Baru IV;Siaga;Siaga
+;LAMPUNG TENGAH;;Seputih Surabaya;258;Gaya Baru VI;Siaga;Siaga
+;LAMPUNG TENGAH;;Seputih Surabaya;259;Gaya Baru VII;Siaga;Siaga
+;LAMPUNG TENGAH;;Seputih Surabaya;260;Gaya Baru VIII;Siaga;Siaga
+;LAMPUNG TENGAH;;Seputih Surabaya;261;Kenanga Sari;Siaga;Siaga
+;LAMPUNG TENGAH;;Seputih Surabaya;262;Mataram Ilir;Siaga;Siaga
+;LAMPUNG TENGAH;;Seputih Surabaya;263;Rawa Betik;Siaga;Siaga
+;LAMPUNG TENGAH;;Seputih Surabaya;264;Srikaton;Siaga;Siaga
+;LAMPUNG TENGAH;;Seputih Surabaya;265;Srimulya Jaya;Siaga;Siaga
+;LAMPUNG TENGAH;;Seputih Surabaya;266;Sumber Katon;Siaga;Siaga
+;LAMPUNG TENGAH;24;Terbanggi Besar;267;Bandar Jaya Barat;Siaga;Siaga
+;LAMPUNG TENGAH;;Terbanggi Besar;268;Bandar Jaya Timur;Siaga;Siaga
+;LAMPUNG TENGAH;;Terbanggi Besar;269;Yukum Jaya;Siaga;Siaga
+;LAMPUNG TENGAH;;Terbanggi Besar;270;Adi Jaya;Siaga;Siaga
+;LAMPUNG TENGAH;;Terbanggi Besar;271;Indra Putra Subing;Siaga;Siaga
+;LAMPUNG TENGAH;;Terbanggi Besar;272;Karang Endah;Siaga;Siaga
+;LAMPUNG TENGAH;;Terbanggi Besar;273;Nambah Dadi;Siaga;Siaga
+;LAMPUNG TENGAH;;Terbanggi Besar;274;Ono Harjo;Siaga;Siaga
+;LAMPUNG TENGAH;;Terbanggi Besar;275;Poncowati;Siaga;Siaga
+;LAMPUNG TENGAH;;Terbanggi Besar;276;Terbanggi Besar;Bahaya;Waspada
+;LAMPUNG TENGAH;25;Terusan Nunyai;277;Bandar Agung;Siaga;Siaga
+;LAMPUNG TENGAH;;Terusan Nunyai;278;Bandar Sakti;Siaga;Siaga
+;LAMPUNG TENGAH;;Terusan Nunyai;279;Gunung Agung;Siaga;Siaga
+;LAMPUNG TENGAH;;Terusan Nunyai;280;Gunung Batin Baru;Siaga;Siaga
+;LAMPUNG TENGAH;;Terusan Nunyai;281;Gunung Batin Ilir;Siaga;Siaga
+;LAMPUNG TENGAH;;Terusan Nunyai;282;Gunung Batin Udik;Siaga;Siaga
+;LAMPUNG TENGAH;;Terusan Nunyai;283;Tanjung Anom;Siaga;Siaga
+;LAMPUNG TENGAH;26;Trimurjo;284;Adipuro;Siaga;Siaga
+;LAMPUNG TENGAH;;Trimurjo;285;Simbar Waringin;Siaga;Siaga
+;LAMPUNG TENGAH;;Trimurjo;286;Trimurjo;Siaga;Siaga
+;LAMPUNG TENGAH;;Trimurjo;287;Depok Rejo;Siaga;Siaga
+;LAMPUNG TENGAH;;Trimurjo;288;Leman Benawi;Siaga;Siaga
+;LAMPUNG TENGAH;;Trimurjo;289;Notoharjo;Siaga;Siaga
+;LAMPUNG TENGAH;;Trimurjo;290;Pujoasri;Siaga;Siaga
+;LAMPUNG TENGAH;;Trimurjo;291;Pujo Basuki;Siaga;Siaga
+;LAMPUNG TENGAH;;Trimurjo;292;Pujodadi;Siaga;Siaga
+;LAMPUNG TENGAH;;Trimurjo;293;Pujokerto;Siaga;Siaga
+;LAMPUNG TENGAH;;Trimurjo;294;Purwoadi;Siaga;Siaga
+;LAMPUNG TENGAH;;Trimurjo;295;Purwodadi;Siaga;Siaga
+;LAMPUNG TENGAH;;Trimurjo;296;Tempuran;Siaga;Siaga
+;LAMPUNG TENGAH;;Trimurjo;297;Untoro;Siaga;Siaga
+;LAMPUNG TENGAH;27;Way Pengubuan;298;Banjar Kertahayu;Siaga;Siaga
+;LAMPUNG TENGAH;;Way Pengubuan;299;Banjar Ratu;Siaga;Siaga
+;LAMPUNG TENGAH;;Way Pengubuan;300;Banjar Rejo;Siaga;Siaga
+;LAMPUNG TENGAH;;Way Pengubuan;301;Candi Rejo;Siaga;Siaga
+;LAMPUNG TENGAH;;Way Pengubuan;302;Lempuyang Bandar;Siaga;Siaga
+;LAMPUNG TENGAH;;Way Pengubuan;303;Putra Lempuyang;Siaga;Siaga
+;LAMPUNG TENGAH;;Way Pengubuan;304;Purnama Tunggal;Siaga;Siaga
+;LAMPUNG TENGAH;;Way Pengubuan;305;Tanjung Ratu Ilir;Siaga;Siaga
+;LAMPUNG TENGAH;28;Way Seputih;306;Sangga Buana;Siaga;Siaga
+;LAMPUNG TENGAH;;Way Seputih;307;Sri Bawono;Siaga;Siaga
+;LAMPUNG TENGAH;;Way Seputih;308;Sri Binangun;Siaga;Siaga
+;LAMPUNG TENGAH;;Way Seputih;309;Sri Budaya;Siaga;Siaga
+;LAMPUNG TENGAH;;Way Seputih;310;Sri Busono;Siaga;Siaga
+;LAMPUNG TENGAH;;Way Seputih;311;Suko Binangun;Siaga;Siaga
+; WAY KANAN;2;Umpu Semenguk;1;Negeri Baru;Waspada;Waspada
+; WAY KANAN;;Umpu Semenguk;2;Negeri Batin;Waspada;Waspada
+; WAY KANAN;;Umpu Semenguk;3;Gistang;Waspada;Waspada
+; WAY KANAN;;Umpu Semenguk;4;Rambang Jaya;Siaga;Siaga
+; WAY KANAN;;Umpu Semenguk;5;Negeri Bumi Putera;Waspada;Waspada
+; WAY KANAN;;Umpu Semenguk;6;Panca Negeri;Waspada;Waspada
+; WAY KANAN;;Umpu Semenguk;7;Sidoarjo;Waspada;Waspada
+; WAY KANAN;;Umpu Semenguk;8;Bumi Ratu;Aman;Aman
+; WAY KANAN;;Umpu Semenguk;9;Bratayudha;Siaga;Siaga
+; WAY KANAN;;Umpu Semenguk;10;Sriwijaya;Siaga;Siaga
+; WAY KANAN;;Umpu Semenguk;11;Ojolali;Siaga;Siaga
+; WAY KANAN;;Umpu Semenguk;12;Gedung Batin;Waspada;Waspada
+; WAY KANAN;;Umpu Semenguk;13;Gedung Riang;Siaga;Siaga
+; WAY KANAN;;Kasui;8;Kotaway;Waspada;Waspada
+; WAY KANAN;;Kasui;13;Jayatinggi;Waspada;Waspada
+; WAY KANAN;;Kasui;14;Sukajadi;Siaga;Siaga
+; WAY KANAN;;Kasui;18;Tanjung Kurung Lama;Waspada;Waspada
+; WAY KANAN;;Kasui;19;Bukit Batu;Waspada;Waspada
+; WAY KANAN;;Banjit;2;Bonglai;Waspada;Waspada
+; WAY KANAN;;Banjit;7;Bali Sadar Tengah;Waspada;Waspada
+; WAY KANAN;;Banjit;8;Donomulyo;Siaga;Siaga
+; WAY KANAN;;Banjit;9;Bali Sadhar Utara;Waspada;Waspada
+; WAY KANAN;;Banjit;10;Bali Sadhar Selatan;Waspada;Waspada
+; WAY KANAN;;Banjit;12;Argomulyo;Siaga;Siaga
+; WAY KANAN;5;Baradatu;1;Taman Sari;Waspada;Waspada
+; WAY KANAN;;Baradatu;11;Suko Sari;Siaga;Siaga
+; WAY KANAN;;Bahuga;9;Kuta Dewa;Siaga;Siaga
+; WAY KANAN;;Pakuan Ratu;8;Suka Bumi;Bahaya;Bahaya
+; WAY KANAN;;Pakuan Ratu;12;Bhakti Negara;Bahaya;Bahaya
+; WAY KANAN;;Negeri Agung;6;Sungsang;Waspada;Waspada
+; WAY KANAN;;Negeri Agung;8;Kota Bumi Way Kanan;Waspada;Waspada
+; WAY KANAN;;Negeri Agung;9;Gedong Menang;Bahaya;Bahaya
+; WAY KANAN;;Negeri Agung;12;Kalipapan;Waspada;Waspada
+; WAY KANAN;;Way Tuba;6;Ramsay;Waspada;Waspada
+; WAY KANAN;;Gunung Labuhan;3;Banjar Saki;Bahaya;Bahaya
+; WAY KANAN;;Gunung Labuhan;5;Negri Mulya;Waspada;Waspada
+; WAY KANAN;;Gunung Labuhan;16;Suka Rame;Waspada;Waspada
+; WAY KANAN;;Gunung Labuhan;20;Gunung Pekuon;Waspada;Waspada
+; WAY KANAN;;Negara Batin;4;Sry Mulyo;Waspada;Waspada
+; WAY KANAN;;Negara Batin;5;Sry Menanti;Waspada;Waspada
+; WAY KANAN;;Negara Batin;6;Kerta Jaya;Bahaya;Bahaya
+; WAY KANAN;;Negeri Besar;6;Negara Besar;Bahaya;Bahaya
+; WAY KANAN;;Bumi Agung;9;Tanjung Dalam;Bahaya;Bahaya
+; WAY KANAN;;Bumi Agung;10;Wonoharjo;Waspada;Waspada
+; WAY KANAN;15;Buay Bahuga;1;Bumiharjo;Aman;Aman
+; WAY KANAN;;Buay Bahuga;7;Sukabumi;Bahaya;Bahaya
+; LAMPUNG UTARA;;Abung Selatan;7;Gilih Suka Negeri;Waspada;Waspada
+; LAMPUNG UTARA;;Abung Semuli;6;Sidorahayu;Waspada;Waspada
+; LAMPUNG UTARA;;Abung Semuli;7;Sukamaju;Siaga;Siaga
+; LAMPUNG UTARA;;Abung Surakarta;7;Purbasakti;Waspada;Waspada
+; LAMPUNG UTARA;;Abung Surakarta;9;Tata Karya;Bahaya;Bahaya
+; LAMPUNG UTARA;;Abung Tengah;6;Neglasari;Waspada;Waspada
+; LAMPUNG UTARA;;Abung Timur;9;Rejomulyo;Waspada;Waspada
+; LAMPUNG UTARA;;Bukit Kemuning;8;Bukit Kemuning;Waspada;Waspada
+; LAMPUNG UTARA;;Kotabumi;5;Cempedak;Waspada;Waspada
+; LAMPUNG UTARA;;Kotabumi;6;Kota Gapura;Waspada;Waspada
+; LAMPUNG UTARA;;Kotabumi;7;Kotabumi Ilir;Waspada;Waspada
+; LAMPUNG UTARA;;Kotabumi;8;Kotabumi Pasar;Bahaya;Bahaya
+; LAMPUNG UTARA;;Kotabumi;9;Kotabumi Tengah;Bahaya;Bahaya
+; LAMPUNG UTARA;;Kotabumi;10;Kotabumi Udik;Bahaya;Bahaya
+; LAMPUNG UTARA;;Kotabumi;11;Rejosari;Waspada;Waspada
+; LAMPUNG UTARA;;Kotabumi;12;Sindang Sari;Bahaya;Bahaya
+; LAMPUNG UTARA;;Kotabumi;13;Sribasuki;Waspada;Waspada
+; LAMPUNG UTARA;;Kotabumi Selatan;3;Curup Guruh Kagungan;Waspada;Waspada
+; LAMPUNG UTARA;;Kotabumi Selatan;10;Kelapa Tujuh;Waspada;Waspada
+; LAMPUNG UTARA;;Kotabumi Selatan;11;Kota Alam;Bahaya;Waspada
+; LAMPUNG UTARA;;Kotabumi Selatan;12;Tanjung Aman;Waspada;Waspada
+; LAMPUNG UTARA;;Kotabumi Selatan;13;Tanjung Harapan;Waspada;Waspada
+; LAMPUNG UTARA;;Kotabumi Selatan;14;Tanjung Senang;Waspada;Waspada
+; LAMPUNG UTARA;16;Kotabumi Utara;1;Banjarwangi;Waspada;Waspada
+; LAMPUNG UTARA;;Kotabumi Utara;2;Kalicinta;Bahaya;Bahaya
+; LAMPUNG UTARA;;Kotabumi Utara;4;Madukoro Baru;Waspada;Waspada
+; LAMPUNG UTARA;;Kotabumi Utara;5;Margorejo;Waspada;Waspada
+; LAMPUNG UTARA;;Kotabumi Utara;6;Sawojajar;Waspada;Waspada
+; LAMPUNG UTARA;;Kotabumi Utara;7;Talangjali;Siaga;Siaga
+; LAMPUNG UTARA;;Kotabumi Utara;8;Wonomarto;Waspada;Waspada
+; LAMPUNG UTARA;;Tanjung Raja;7;Sidomulyo;Waspada;Waspada
+; LAMPUNG UTARA;;Tanjung Raja;13;Sukamulya;Bahaya;Bahaya
+; LAMPUNG UTARA;;Tanjung Raja;14;Sukasari;Waspada;Waspada

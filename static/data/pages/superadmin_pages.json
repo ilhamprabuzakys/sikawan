@@ -1,0 +1,39 @@
+{
+    "pages": [
+        {
+            "name": "Beranda",
+            "icon": "fas fa-home",
+            "url": "/dashboard"
+        },
+        {
+            "name": "Kelola Kawasan Rawan 2023",
+            "icon": "fas fa-map-location-dot",
+            "url": "/dashboard/masters/kawasan_rawan/2023/"
+        },
+        {
+            "name": "Kelola Kawasan Rawan 2022",
+            "icon": "fas fa-map-location-dot",
+            "url": "/dashboard/masters/kawasan_rawan/2022/"
+        },
+        {
+            "name": "Kelola Kawasan Rawan 2021",
+            "icon": "fas fa-map-location-dot",
+            "url": "/dashboard/masters/kawasan_rawan/2021/"
+        },
+        {
+            "name": "Tabel Sebaran Kawasan Rawan",
+            "icon": "fas fa-table-list",
+            "url": "/dashboard/masters/tabel_sebaran_kawasan_rawan/"
+        },
+        {
+            "name": "Daftar Literasi",
+            "icon": "fas fa-book-open",
+            "url": "/dashboard/literasi/"
+        },
+        {
+            "name": "Kelola Pengguna",
+            "icon": "fas fa-users",
+            "url": "/dashboard/users/kelola_pengguna/"
+        }
+    ]
+}

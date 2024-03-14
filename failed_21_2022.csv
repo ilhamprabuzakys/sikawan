@@ -1,0 +1,119 @@
+;Kabupaten Bintan;5;Teluk Sebong;20;Sebong Pereh;Waspada
+;Kabupaten Bintan;;Teluk Sebong;21;Ekang Anculai;Siaga
+;Kabupaten Bintan;;Teluk Sebong;22;Sri Bintan;Bahaya
+;Kabupaten Bintan;;Teluk Sebong;23;Pengudang;Bahaya
+;Kabupaten Bintan;;Teluk Sebong;24;Sebong Lagoi;Bahaya
+;Kabupaten Bintan;;Teluk Sebong;25;Berakit;Bahaya
+;Kabupaten Bintan;;Teluk Sebong;26;Kota Baru;Waspada
+;Kabupaten Bintan;;Bintan Pesisir;36;Air Glubi;Aman
+;Kabupaten Bintan;;Bintan Pesisir;38;DesaNumbing;Siaga
+;Kabupaten Bintan;;Tambelan;49;Pulau Mentebug;Aman
+2;Kabupaten Anambas;1;Siantan;52;Tarempa;Waspada
+;Kabupaten Anambas;;Siantan;53;Tarempa Barat;Waspada
+;Kabupaten Anambas;;Siantan;54;Tarempa Selatan;Waspada
+;Kabupaten Anambas;;Siantan;55;Tarempa Timur;Siaga
+;Kabupaten Anambas;;Siantan;56;Pesisir Timur;Siaga
+;Kabupaten Anambas;;Siantan;57;Tarempa Barat Daya;Siaga
+;Kabupaten Anambas;;Siantan;58;Sri Tanjung;Siaga
+;Kabupaten Anambas;2;Siantan Timur;59;Munjan;Aman
+;Kabupaten Anambas;;Siantan Timur;60;Batu Belah;Aman
+;Kabupaten Anambas;;Siantan Timur;61;Nyamuk;Aman
+;Kabupaten Anambas;;Siantan Timur;62;Temburun;Aman
+;Kabupaten Anambas;;Siantan Timur;63;Serat;Aman
+;Kabupaten Anambas;;Siantan Timur;64;Air Putih;Aman
+;Kabupaten Anambas;3;Siantan Tengah;65;Air Asuk;Aman
+;Kabupaten Anambas;;Siantan Tengah;66;Teluk Siantan;Aman
+;Kabupaten Anambas;;Siantan Tengah;67;Air Sena;Aman
+;Kabupaten Anambas;;Siantan Tengah;68;Lidi;Aman
+;Kabupaten Anambas;;Siantan Tengah;69;Liuk;Aman
+;Kabupaten Anambas;;Siantan Tengah;70;Teluk Sunting;Aman
+;Kabupaten Anambas;4;Siantan Selatan;71;Kiabu;Aman
+;Kabupaten Anambas;;Siantan Selatan;72;Telaga;Siaga
+;Kabupaten Anambas;;Siantan Selatan;73;Mengkait;Siaga
+;Kabupaten Anambas;;Siantan Selatan;74;Tiangau;Aman
+;Kabupaten Anambas;;Siantan Selatan;75;Lingai;Aman
+;Kabupaten Anambas;;Siantan Selatan;76;Telaga Kecil;Aman
+;Kabupaten Anambas;;Siantan Selatan;77;Air Bini;Aman
+;Kabupaten Anambas;5;Jemaja Timur;78;Ulu Maras;Aman
+;Kabupaten Anambas;;Jemaja Timur;79;Bukit Padi;Aman
+;Kabupaten Anambas;;Jemaja Timur;80;Kuala Maras;Aman
+;Kabupaten Anambas;;Jemaja Timur;81;Genting Pulur;Aman
+;Kabupaten Anambas;6;Jemaja;82;Letung;Aman
+;Kabupaten Anambas;;Jemaja;83;Air Biru;Aman
+;Kabupaten Anambas;;Jemaja;84;Keramut;Aman
+;Kabupaten Anambas;;Jemaja;85;Rewak;Aman
+;Kabupaten Anambas;;Jemaja;86;Impol;Aman
+;Kabupaten Anambas;;Jemaja;87;Mampok;Aman
+;Kabupaten Anambas;;Jemaja;88;Sunggak;Aman
+;Kabupaten Anambas;;Jemaja;89;Landak;Aman
+;Kabupaten Anambas;;Jemaja;90;Batu Berapit;Aman
+;Kabupaten Anambas;7;Palmatak;91;Ladan;Aman
+;Kabupaten Anambas;;Palmatak;92;Tebang;Aman
+;Kabupaten Anambas;;Palmatak;93;Payalaman;Aman
+;Kabupaten Anambas;;Palmatak;94;Putik;Aman
+;Kabupaten Anambas;;Palmatak;95;Candi;Aman
+;Kabupaten Anambas;;Palmatak;96;Piabung;Aman
+;Kabupaten Anambas;;Palmatak;97;Langir;Aman
+;Kabupaten Anambas;;Palmatak;98;Bayat;Aman
+;Kabupaten Anambas;;Palmatak;99;Mubur;Aman
+;Kabupaten Anambas;;Palmatak;100;Piasan;Aman
+;Kabupaten Anambas;;Palmatak;101;Batu Ampar;Aman
+;Kabupaten Anambas;;Palmatak;102;Teluk Bayur;Aman
+;Kabupaten Anambas;;Palmatak;103;Belibak;Aman
+;Kabupaten Anambas;;Palmatak;104;Matak;Aman
+;Kabupaten Anambas;;Palmatak;105;Paya Maram;Aman
+;Kabupaten Lingga;;Singkep;120;Sungai Lumpur;Siaga
+;Kabupaten Lingga;;Lingga;127;Mapar;Aman
+;Kabupaten Lingga;;Senayang;149;Pasir Panjang;Aman
+;Kabupaten Lingga;;Senayang;150;Rejai;Aman
+;Kabupaten Lingga;;Senayang;151;Temiang;Aman
+;Kabupaten Lingga;;Senayang;152;Pulau Medang;Aman
+;Kabupaten Lingga;;Senayang;153;Mensanak;Aman
+;Kabupaten Lingga;;Senayang;154;Tanjung Kelit;Aman
+;Kabupaten Lingga;;Senayang;155;Pulau Batang;Aman
+;Kabupaten Lingga;;Senayang;156;Benan;Aman
+;Kabupaten Lingga;;Senayang;157;Batu Belubang;Aman
+;Kabupaten Lingga;;Senayang;160;Cempa;Aman
+;Kabupaten Lingga;;Senayang;162;Pulau duyung;Aman
+;Kabupaten Lingga;;Senayang;163;Tajur Biru;Aman
+;Kabupaten Lingga;;Senayang;164;Tanjung lipat;Aman
+;Kabupaten Lingga;;Senayang;165;Pulau bukit;Aman
+;Kabupaten Lingga;6;SingkepPesisir;166;Berindat;Aman
+;Kabupaten Lingga;;SingkepPesisir;167;Sedamai;Aman
+;Kabupaten Lingga;;SingkepPesisir;168;Lanjut;Aman
+;Kabupaten Lingga;;SingkepPesisir;169;Kote;Aman
+;Kabupaten Lingga;;SingkepPesisir;170;Persing;Aman
+;Kabupaten Lingga;;SingkepPesisir;171;Pelakak;Aman
+;Kabupaten Lingga;;Lingga Timur;176;Sei Pinang;Aman
+;Kabupaten Natuna;;Bunguran Barat;197;Pian Tengah;Aman
+;Kabupaten Natuna;;Bunguran Timur Laut;204;Selemam;Aman
+;Kabupaten Natuna;;Bunguran Timur Laut;205;Sebadai Hulu;Aman
+;Kabupaten Natuna;;Serasan;228;Batu Berian;Aman
+;Kabupaten Natuna;;Pulau Tiga Barat;261;Tg. Kumbik Utara;Aman
+;Kota Tanjung pinang;;Tanjung Pinang Barat;270;Kel.Tanjung Pinang Barat;Bahaya
+;Kota Tanjung pinang;;Tanjung Pinang Barat;271;Kel.Kemboja;Siaga
+;Kota Tanjung pinang;3;Bukit bestari;272;Kel.Tanjung Unggat;Bahaya
+;Kota Tanjung pinang;;Bukit bestari;276;Kel.Tanjung Ayun Sakti;Siaga
+;Kota Tanjung pinang;4;Tanjung Pinang Timur;277;Kel.BatuSembilan;Bahaya
+6;Kota Batam;1;Belakang Padang;282;Pulau Terong;Bahaya
+;Kota Batam;;Sagulung;333;Sungkai Langkai;Waspada
+;Kota Batam;;Batu Aji;341;Bukit Tempeyan;Siaga
+;Kabupaten Karimun;;Meral;349;Sungai Raya;Waspada
+;Kabupaten Karimun;4;Belat;360;Sungai Asam;Waspada
+;Kabupaten Karimun;;Ungar;368;Sungai Buluh;Waspada
+;Kabupaten Karimun;7;Kundur Utara;375;Sungai Ungar Utara;Waspada
+;Kabupaten Karimun;;Kundur Utara;376;Tanjung Berlian Kota;Waspada
+;Kabupaten Karimun;;Kundur Utara;379;Tanjung Berlian Barat;Waspada
+;Kabupaten Karimun;8;Kundur;380;Tanjung Batu Barat;Waspada
+;Kabupaten Karimun;;Kundur;381;Tanjung Batu Kota;Waspada
+;Kabupaten Karimun;;Kundur;384;Sungai Ungar;Waspada
+;Kabupaten Karimun;;Moro;392;Pulau Pauh;Waspada
+;Kabupaten Karimun;;Moro;395;Nuir Permai;Bahaya
+;Kabupaten Karimun;;Moro;396;Rawa Jaye;Waspada
+;Kabupaten Karimun;;Moro;398;Tanjung Planduk;Waspada
+;Kabupaten Karimun;12;Karimun;408;Tanjung Balai;Waspada
+;Kabupaten Karimun;;Karimun;409;Tanjung Balai Kota;Bahaya
+;Kabupaten Karimun;;Karimun;411;Selat Mendaun;Waspada
+;Kabupaten Karimun;;Karimun;413;Teluk Air;Waspada
+;Kabupaten Karimun;;Karimun;414;Sungai Lakam Timur;Bahaya
+;Kabupaten Karimun;;Karimun;415;Sungai Lakam Barat;Bahaya

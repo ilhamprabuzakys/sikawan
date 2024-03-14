@@ -1,0 +1,99 @@
+{% extends 'dashboard/base_dashboard.html' %}
+{% load static %}
+{% block title %} Tambah Data Kawasan Rawan {% endblock %}
+
+{% block css_tambahan %}
+<style>
+    .selected_location span:not(#selected_kota_label) {
+        font-weight: bold;
+    }
+
+    .selected_location {
+        margin-left: 0.8rem;
+    }
+</style>
+{% endblock css_tambahan %}
+
+{% block modal_tambahan %}
+{% include "masters/kawasan_rawan/create/modals/import_modal.html" %}
+{% include "masters/kawasan_rawan/create/modals/detail_modal.html" %}
+{% include "masters/kawasan_rawan/create/modals/edit_modal.html" %}
+{% endblock modal_tambahan %}
+
+{% block content %}
+<div class="breadcrumb">
+    <div class="row">
+        <h3 class="heading mb-2">Ambil Data Rekap Kawasan Rawan Untuk - <b>{{ user.profile.satker.get_provinsi_name }}</b></h3>
+        <span class="mb-0">
+            <span class="text-muted fw-light">Masters /</span>
+            <span class="text-muted fw-light">Kawasan Rawan /</span>
+            <span class="ms-1 fw-medium">Ambil Data</span>
+        </span>
+    </div>
+</div>
+
+<section id="__data">
+    <div class="row g-4 mb-4">
+
+        <div class="col-sm-12 col-xl-12">
+            <div class="card">
+                <div class="card-header row justify-content-between">
+                    <div class="col-lg-4 d-flex align-items-center">
+                        <div>
+                            <h5 class="card-title mb-0">Ambil Data Rekap Kawasan Rawan </h5>
+                        </div>
+                    </div>
+                </div>
+                <div class="card-body">
+                    <hr class="mx-n4">
+                    <div class="row">
+                        <div class="col-6 d-flex justify-content-end">
+                            <div style="width: 50%">
+                                <label for="filter__tahun" class="form-label">Tahun</label>
+                                <select id="filter__tahun" class="form-select" required>
+                                    <option disabled value="">-- Pilih Tahun --</option>
+                                    {% for item in list_year %}
+                                    <option value="{{ item }}" {% if item == tahun %} selected {% endif %}>{{ item }}</option>
+                                    {% endfor %}
+                                </select>
+                            </div>
+                        </div>
+                        <div class="col-6 d-flex justify-content-start align-items-end">
+                            <div>
+                                <button class="btn btn-primary"><i class="fas fa-save me-2"></i>Unduh Data</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+{% endblock %}
+
+{% block js_tambahan %}
+{% comment %} <script>
+    var selected_tahun = '{{ tahun }}';
+    var id_provinsi = parseInt('{{ user.profile.satker.provinsi.pk }}');
+    
+    var selected_status = '';
+    var selected_kabupaten = '';
+    var selected_kecamatan = '';
+    var s = '';
+</script>
+
+<!-- Load Data -->
+<script src="{% static 'masters/kawasan_rawan/create/js/load_data.js' %}"></script>
+
+<!-- Action -->
+<script src="{% static 'masters/kawasan_rawan/create/js/form_actions.js' %}"></script>
+
+<!-- Datatable -->
+<script src="{% static 'masters/kawasan_rawan/create/js/dt.js' %}"></script>
+
+<!-- Aksi Datatable -->
+<script src="{% static 'masters/kawasan_rawan/create/js/dt_actions.js' %}"></script>
+
+<!-- Filter Datatable -->
+<script src="{% static 'masters/kawasan_rawan/create/js/dt_filters.js' %}"></script> {% endcomment %}
+{% endblock %}

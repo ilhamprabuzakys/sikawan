@@ -1,0 +1,153 @@
+<div class="modal modal-top fade" id="detailDaftarKawasanModal" tabindex="-1" role="dialog">
+    <div class="modal-dialog modal-dialog-scrollable modal-lg" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">
+                    Detail daftar kawasan dari provinsi <b>Jawa Barat</b> - <b>[[ tahun ]]</b>
+                </h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+
+                <div class="row">
+                    <div class="col-lg-6 mb-3">
+                        <label for="kota" class="form-label">Kabupaten/Kota : </label>
+                        <select class="form-select" id="kota" name="kota" v-model="filter.kota">
+                            <option value="">--Pilih kota--</option>
+                        </select>
+                    </div>
+                    <div class="col-lg-6 mb-3">
+                        <label for="kecamatan" class="form-label">Kecamatan : </label>
+                        <select class="form-select" id="kecamatan" name="kecamatan" v-model="filter.kecamatan">
+                            <option value="">--Pilih Kecamatan--</option>
+                        </select>
+                    </div>
+                    <div class="col-lg-9 mb-3">
+                        <label for="kota" class="form-label">Pencarian : </label>
+                        <input type="text" class="form-control" placeholder="Cari desa/kelurahan disini ..." />
+                    </div>
+                    <div class="col-lg-3 mb-3">
+                        <label for="status" class="form-label">Status Kerawanan : </label>
+                        <select class="form-select" id="status_kerawanan" name="status_kerawanan">
+                            <option value="" disabled>--Pilih status--</option>
+                            <option value="semua" selected>Semua</option>
+                            {% for status_kerawanan in list_status_kerawanan %}
+                            <option value="{{ status_kerawanan.value }}">{{ status_kerawanan.label }}</option>
+                            {% endfor %}
+                        </select>
+                    </div>
+                </div>
+
+                <hr class="mx-n4">
+
+                <div class="result__text mb-3">
+                    <p class="mb-0 text-muted">
+                        <span class="keseluruhan d-block">Ditemukan dengan jumlah kawasan : 390</span>
+
+                        <div class="status__kerawanan">
+                            
+                            {% comment %} <span class="status__label">Status :</span> {% endcomment %}
+
+                            <ul class="text-muted">
+                                <li class="bahaya me-2">
+                                    <span class="label">Bahaya</span><span class="value text-danger"> : 30</span>
+                                </li>
+                                <li class="waspada me-2">
+                                    <span class="label">Waspada</span><span class="value text-warning"> : 90</span>
+                                </li>
+                                <li class="siaga me-2">
+                                    <span class="label">Siaga</span><span class="value text-primary"> : 120</span>
+                                </li>
+                                <li class="aman me-2">
+                                    <span class="label">Aman</span><span class="value text-success"> : 220</span>
+                                </li>
+                            </ul>
+                        </div>
+                    </p>
+                </div>
+
+                {% comment %} <div class="accordion" id="kota">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header">
+                            <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                                data-bs-target="#kotaBogor">
+                                Kota Bogor
+                            </button>
+                        </h2>
+                        <div id="kotaBogor" class="accordion-collapse collapse show" data-bs-parent="#kota">
+                            <div class="accordion-body">
+                                <div class="accordion" id="kecamatanDariKotaBogor">
+                                    <div class="accordion-item">
+                                        <h2 class="accordion-header">
+                                            <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                                                data-bs-target="#kecamatanBojongKerta">
+                                                Kecamatan Bojonng Kerta
+                                            </button>
+                                        </h2>
+                                        <div id="kecamatanBojongKerta" class="accordion-collapse collapse show"
+                                            data-bs-parent="#kecamatanDariKotaBogor">
+                                            <div class="accordion-body">
+                                                <!-- Hover added -->
+                                                <div class="list-group">
+                                                    <a href="javascript:void(0)"
+                                                        class="list-group-item list-group-item-action">Kelurahan Sindang
+                                                        Rasa</a>
+                                                    <a href="javascript:void(0)"
+                                                        class="list-group-item list-group-item-action">Kelurahan Sindang
+                                                        Rasa</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div> {% endcomment %}
+
+                <div class="table-responsive">
+                    <table class="table table-bordered table-hover">
+                        <thead>
+                            <tr class="bg-soft-success">
+                                <th scope="col">Kawasan</th>
+                                <th scope="col">Status</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td scope="row" class="nama_kawasan">Desa Tegalrejo</td>
+                                <td class="text-center">
+                                    <a href="javascript:void(0)" class="badge bg-success text-decoration-none">Aman</a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td scope="row" class="nama_kawasan">Desa Sukajadi</td>
+                                <td class="text-center">
+                                    <a href="javascript:void(0)" class="badge bg-primary text-decoration-none">Siaga</a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td scope="row" class="nama_kawasan">Desa Sukamulya</td>
+                                <td class="text-center">
+                                    <a href="javascript:void(0)"
+                                        class="badge bg-warning text-decoration-none">Waspada</a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td scope="row" class="nama_kawasan">Desa Sukasari</td>
+                                <td class="text-center">
+                                    <a href="javascript:void(0)" class="badge bg-danger text-decoration-none">Bahaya</a>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">
+                    <i class="fas fa-xmark me-2"></i> Tutup
+                </button>
+            </div>
+        </div>
+    </div>
+</div>

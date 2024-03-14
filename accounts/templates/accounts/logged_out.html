@@ -1,0 +1,59 @@
+{% extends "home/base_home.html" %}
+{% load static %}
+
+{% block title %} Sampai jumpa! {% endblock title %}
+
+{% block content %}
+
+<section class="form-signin m-auto" data-aos="fade-up">
+
+    <div id="login__header">
+
+        <div class="d-flex justify-content-between align-items-center mb-4">
+            <img src="{% static 'assets/images/icon.png' %}" alt="" width="90">
+
+            <div class="ms-3">
+                <h3 class="fw-normal text-center">Terimakasih sudah menggunakan aplikasi <b>Kawan</b> - Kawasan Rawan </h3>
+            </div>
+        </div>
+        
+        <div class="featured_image text-center">
+            <img src="{% static 'assets/home/images/auth/logged_out.jpg' %}" alt="Logged out image"
+                style="width: 70%; height: auto">
+        </div>
+
+        <div class="login_again text-center mt-3">
+            <a href="{% url 'accounts:login' %}" class="btn btn-success rounded-full w-75">
+                <i class="fas fa-sign-in me-2"></i> Masuk kembali
+            </a>
+        </div>
+    </div>
+</section>
+{% endblock content %}
+
+{% block footer %}{% endblock footer %}
+
+{% block head %}
+<style>
+    .form-signin {
+        max-width: 1000px;
+        padding: 1rem;
+    }
+
+    .form-signin .form-floating:focus-within {
+        z-index: 2;
+    }
+
+    .form-signin input[type="email"] {
+        margin-bottom: -1px;
+        border-bottom-right-radius: 0;
+        border-bottom-left-radius: 0;
+    }
+
+    .form-signin input[type="password"] {
+        margin-bottom: 10px;
+        border-top-left-radius: 0;
+        border-top-right-radius: 0;
+    }
+</style>
+{% endblock head %}

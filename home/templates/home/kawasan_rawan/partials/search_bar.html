@@ -1,0 +1,34 @@
+<section id="search_bar">
+    <div class="row align-items-center justify-content-between g-3 py-3">
+        <div class="col-lg-10" id="search__input">
+            <div class="input-group">
+                <span class="input-group-text" id="search"><i class="fas fa-magnifying-glass"></i></span>
+                <input type="search" class="form-control" placeholder="Cari lokasi daerah di Indonesia"
+                    v-model="search" @input="onSearchChange">
+
+                <!-- Search results -->
+                <div id="search__results" class="list-group mt-2 position-absolute"
+                    v-if="search && !hideResults" v-cloak>
+                    <a href="javascript:void(0)" class="list-group-item list-group-item-action disabled">Hasil
+                        pencarian</a>
+
+                    <a href="javascript:void(0)" class="list-group-item list-group-item-action disabled"
+                        v-if="searchResults.length == 0">Tidak ada hasil ditemukan</a>
+
+
+                    <!-- Menampilkan hasil pencarian -->
+                    <a v-for="result in searchResults" :key="result.id" href="javascript:void(0)"
+                        class="list-group-item list-group-item-action" @click="focusOnProvince(result)">[[
+                        result.nama_provinsi ]]</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-lg-2">
+            <div class="text-end">
+                <button class="btn btn-success w-100 rounded" type="button" data-bs-toggle="modal"
+                    data-bs-target="#filterLokasiModal"><i class="fas fa-filter me-2"></i>Filter</button>
+            </div>
+        </div>
+    </div>
+</section>

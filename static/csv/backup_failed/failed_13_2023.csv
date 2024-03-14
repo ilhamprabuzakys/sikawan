@@ -1,0 +1,908 @@
+;Padang;2;Koto Tangah;1;Aie Pacah;Waspada;Waspada
+;Padang;;Koto Tangah;9;Lubuk Buaya;Waspada;Waspada
+;Padang;;Koto Tangah;13;Pasie Nan Tigo;Waspada;Waspada
+;Padang;;Lubuk Begalung;3;Cangkeh Nan XX;Siaga;Siaga
+;Padang;;Lubuk Begalung;10;Pagambiran Ampalu Nan XX;Waspada;Waspada
+;Padang;;Lubuk Begalung;12;Parak Laweh Pulau Aia Nan XX;Waspada;Waspada
+;Padang;;Lubuk Begalung;13;Tanjung Saba Pitamen Nan XX;Waspada;Waspada
+;Padang;;Lubuk Begalung;15;Tanjung Aur Nan XX;Siaga;Siaga
+;Padang;;Lubuk Kilangan;3;Baringin;Siaga;Siaga
+;Padang;;Nanggalo;4;Kurao Pagang;Waspada;Waspada
+;Padang;;Padang Barat;3;Flamboyan Baru;Waspada;Waspada
+;Padang;;Padang Barat;5;Kampung Pondok;Waspada;Waspada
+;Padang;;Padang Selatan;5;Bukit Gado-Gado;Siaga;Siaga
+;Padang;;Padang Selatan;6;Mata Air;Waspada;Waspada
+;Padang;;Pauh;4;Koto Lua;Waspada;Waspada
+;Padang;;Pauh;5;Lambung Bukik;Siaga;Siaga
+;Bukittinggi;;Aur Birugo Tigo Baleh;6;Pakan Labuh;Waspada;Waspada
+;Bukittinggi;;Aur Birugo Tigo Baleh;8;Parit Rantang;Waspada;Waspada
+;Bukittinggi;2;Guguak Panjang;1;Aur Tajungkang/tgh. Sawah;Siaga;Siaga
+;Bukittinggi;;Guguak Panjang;2;Benteng Pasar Atas;Waspada;Waspada
+;Bukittinggi;;Guguak Panjang;3;Bukik Apit Puhun;Waspada;Waspada
+;Bukittinggi;;Guguak Panjang;4;Bukik Cangang/Kayu Rmg;Waspada;Waspada
+;Bukittinggi;;Guguak Panjang;5;Kayu Kubu;Siaga;Siaga
+;Bukittinggi;;Guguak Panjang;6;Pakan Kurai;Waspada;Waspada
+;Bukittinggi;;Guguak Panjang;7;Tarok Dipo;Waspada;Waspada
+;Bukittinggi;3;Mandiangin K. Selayan;1;Campago Guguk Bulek;Waspada;Waspada
+;Bukittinggi;;Mandiangin K. Selayan;2;Campago Ipuh;Waspada;Waspada
+;Bukittinggi;;Mandiangin K. Selayan;3;Garegeh;Waspada;Waspada
+;Bukittinggi;;Mandiangin K. Selayan;4;Koto Selayan;Waspada;Waspada
+;Bukittinggi;;Mandiangin K. Selayan;5;Kubu Gulai Bancah;Waspada;Waspada
+;Bukittinggi;;Mandiangin K. Selayan;6;Manggis/Ganting;Waspada;Waspada
+;Bukittinggi;;Mandiangin K. Selayan;7;Puhun Pintu Kabun;Waspada;Waspada
+;Bukittinggi;;Mandiangin K. Selayan;8;Puhun Tembok;Waspada;Waspada
+;Bukittinggi;;Mandiangin K. Selayan;9;Pulai Anak Air;Siaga;Siaga
+3;Padang Panjang;1;Padang Panjang Barat;1;Balai-balai;Waspada;Waspada
+;Pariaman;;Pariaman Tengah;11;Jawi jawi I;Aman;Aman
+;Pariaman;;Pariaman Tengah;12;Jawi jawi II;Aman;Aman
+;Pariaman;;Pariaman Utara;10;Padang Birik Birik;Siaga;Siaga
+5;Payakumbuh;1;Lamposi Tigo Nagori;1;Koto Panjang Dalam;Waspada;Aman
+;Payakumbuh;;Lamposi Tigo Nagori;2;Koto Panjang Padang;Siaga;Siaga
+;Payakumbuh;;Lamposi Tigo Nagori;3;Padang Sikabu;Aman;Aman
+;Payakumbuh;;Lamposi Tigo Nagori;4;Parambahan;Siaga;Siaga
+;Payakumbuh;;Lamposi Tigo Nagori;5;Parit Muko Aie;Waspada;Waspada
+;Payakumbuh;;Lamposi Tigo Nagori;6;Sungai durian;Aman;Aman
+;Payakumbuh;;Payakumbuh Barat;2;Ibuah;Bahaya;Bahaya
+;Payakumbuh;;Payakumbuh Barat;5;Labuah Basilang;Siaga;Siaga
+;Payakumbuh;;Payakumbuh Barat;7;PadangData TanahMati;Siaga;Siaga
+;Payakumbuh;;Payakumbuh Barat;9;PadangTongah Balainanduo;Siaga;Siaga
+;Payakumbuh;;Payakumbuh Barat;11;Parak Batuang;Aman;Aman
+;Payakumbuh;;Payakumbuh Barat;12;Parik Rantang;Bahaya;Bahaya
+;Payakumbuh;;Payakumbuh Selatan;3;KotoTuo Limokampuang;Siaga;Siaga
+;Payakumbuh;;Payakumbuh Timur;7;PayoBasung;Aman;Aman
+;Payakumbuh;;Payakumbuh Utara;6;Ompong Tanah Sirah;Aman;Aman
+;Payakumbuh;;Payakumbuh Utara;8;Tigo Koto Diate;Aman;Aman
+;Payakumbuh;;Payakumbuh Utara;9;Tigo Koto Dibaruah;Waspada;Waspada
+6;Sawahlunto;1;Barangin;1;Balai Batu Sadaran;Bahaya;Aman
+;Sawahlunto;;Barangin;6;Talago Gunuang;Siaga;Siaga
+;Sawahlunto;;Barangin;9;Lubang Panjang;Siaga;Siaga
+;Sawahlunto;2;Lembah Segar;1;Kubang Tangah;Siaga;Siaga
+;Sawahlunto;;Lembah Segar;6;Aia Dingin;Siaga;Siaga
+;Sawahlunto;;Lembah Segar;7;Aur Mulio;Siaga;Siaga
+;Sawahlunto;;Lembah Segar;8;Kubang S. Selatan;Aman;Aman
+;Sawahlunto;;Lembah Segar;9;Kubang Sirakuk Utara;Aman;Aman
+;Sawahlunto;;Silungkang;5;Taratak Boncah;Aman;Aman
+;Sawahlunto;;Talawi;9;Talawi Hilie;Waspada;Siaga
+;Sawahlunto;;Talawi;11;Tumpuk Tangah;Aman;Aman
+8;Solok;1;IX Koto Sungai Lasi;1;Bukik Bais;Aman;Aman
+;Solok;;IX Koto Sungai Lasi;2;Guguak Sarai;Bahaya;Bahaya
+;Solok;;IX Koto Sungai Lasi;3;Indudur;Aman;Aman
+;Solok;;IX Koto Sungai Lasi;4;Koto Laweh;Aman;Aman
+;Solok;;IX Koto Sungai Lasi;5;Pianggu;Aman;Aman
+;Solok;;IX Koto Sungai Lasi;6;Siaro-Aro;Aman;Aman
+;Solok;;IX Koto Sungai Lasi;7;Sungai Durian;Aman;Aman
+;Solok;;IX Koto Sungai Lasi;8;Sungai Jambur;Aman;Aman
+;Solok;;IX Koto Sungai Lasi;9;Taruang-Taruang;Waspada;Waspada
+;Solok;2;X Koto Diatas;1;Bukit Kanduang;Waspada;Waspada
+;Solok;;X Koto Diatas;2;Katialo;Siaga;Siaga
+;Solok;;X Koto Diatas;3;Kuncir;Siaga;Siaga
+;Solok;;X Koto Diatas;4;Labuh Panjang;Siaga;Siaga
+;Solok;;X Koto Diatas;5;Paninjauan;Bahaya;Bahaya
+;Solok;;X Koto Diatas;6;Pasilihan;Siaga;Siaga
+;Solok;;X Koto Diatas;7;Sibarambang;Siaga;Siaga
+;Solok;;X Koto Diatas;8;Sulit Air;Bahaya;Bahaya
+;Solok;;X Koto Diatas;9;Tanjung Balik;Siaga;Siaga
+;Solok;3;X Koto Singkarak;1;Aripan;Bahaya;Bahaya
+;Solok;;X Koto Singkarak;2;Kacang;Bahaya;Bahaya
+;Solok;;X Koto Singkarak;3;Koto Sani;Waspada;Waspada
+;Solok;;X Koto Singkarak;4;Saniangbaka;Bahaya;Waspada
+;Solok;;X Koto Singkarak;5;Singkarak;Waspada;Waspada
+;Solok;;X Koto Singkarak;6;Sumani;Waspada;Waspada
+;Solok;;X Koto Singkarak;7;Tanjung Alai;Siaga;Siaga
+;Solok;;X Koto Singkarak;8;Tikalak;Siaga;Siaga
+;Solok;4;Bukit Sundi;1;Bukit Tandang;Aman;Aman
+;Solok;;Bukit Sundi;2;Dilam;Waspada;Waspada
+;Solok;;Bukit Sundi;3;Kinari;Waspada;Waspada
+;Solok;;Bukit Sundi;4;Muaro Paneh;Bahaya;Bahaya
+;Solok;;Bukit Sundi;5;Parambahan;Waspada;Waspada
+;Solok;5;Danau Kembar;1;Kampung Batu Dalam;Siaga;Siaga
+;Solok;;Danau Kembar;2;Simpang Tj. Nan IV;Bahaya;Bahaya
+;Solok;6;Gunung Talang;1;Aie Batumbuak;Siaga;Siaga
+;Solok;;Gunung Talang;2;Batang Barus;Bahaya;Bahaya
+;Solok;;Gunung Talang;3;Cupak;Bahaya;Bahaya
+;Solok;;Gunung Talang;4;Jawi Jawi;Aman;Aman
+;Solok;;Gunung Talang;5;Koto Gadang Guguak;Waspada;Waspada
+;Solok;;Gunung Talang;6;Koto Gaek Guguk;Bahaya;Bahaya
+;Solok;;Gunung Talang;7;Sungai Janiah;Bahaya;Bahaya
+;Solok;;Gunung Talang;8;Talang;Bahaya;Bahaya
+;Solok;7;Hiliran Gumanti;1;Sariak Alahan Tigo;Aman;Aman
+;Solok;;Hiliran Gumanti;2;Sungai Abu;Siaga;Siaga
+;Solok;;Hiliran Gumanti;3;Talang Babungo;Waspada;Waspada
+;Solok;8;Lembah Gumanti;1;Aie Dingin;Waspada;Waspada
+;Solok;;Lembah Gumanti;2;Alahan Panjang;Bahaya;Bahaya
+;Solok;;Lembah Gumanti;3;Salimpat;Bahaya;Bahaya
+;Solok;;Lembah Gumanti;4;Sungai Nanam;Bahaya;Bahaya
+;Solok;9;Lembang Jaya;1;Batu Bajanjang;Siaga;Siaga
+;Solok;;Lembang Jaya;2;Batu Banyak;Bahaya;Bahaya
+;Solok;;Lembang Jaya;3;Koto Gadang Koto Anau;Bahaya;Bahaya
+;Solok;;Lembang Jaya;4;Koto Laweh;Waspada;Waspada
+;Solok;;Lembang Jaya;5;Limau Lunggo;Bahaya;Bahaya
+;Solok;;Lembang Jaya;6;Selayo Tanang B. Sileh;Bahaya;Bahaya
+;Solok;10;Kubung;1;Gantuang Ciri;Bahaya;Bahaya
+;Solok;;Kubung;2;Gaung;Bahaya;Waspada
+;Solok;;Kubung;3;Koto Baru;Bahaya;Bahaya
+;Solok;;Kubung;4;Koto Hilalang;Bahaya;Bahaya
+;Solok;;Kubung;5;Panyakalan;Bahaya;Bahaya
+;Solok;;Kubung;6;Selayo;Bahaya;Bahaya
+;Solok;;Kubung;7;Saok Laweh;Bahaya;Waspada
+;Solok;;Kubung;8;Tanjung Bingkung;Bahaya;Bahaya
+;Solok;11;Junjung Sirih;1;Muaro Pingai;Waspada;Waspada
+;Solok;;Junjung Sirih;2;Paninggahan;Waspada;Waspada
+;Solok;12;Pantai Cermin;1;Lolo;Siaga;Siaga
+;Solok;;Pantai Cermin;2;Surian;Bahaya;Bahaya
+;Solok;13;Payung Sekaki;1;Aie Luo;Aman;Aman
+;Solok;;Payung Sekaki;2;Sirukam;Bahaya;Bahaya
+;Solok;;Payung Sekaki;3;Supayang;Aman;Aman
+;Solok;14;Tigo Lurah;1;Batu Bajanjang;Siaga;Siaga
+;Solok;;Tigo Lurah;2;Garabak Data;Bahaya;Bahaya
+;Solok;;Tigo Lurah;3;Rangkiang Luluih;Aman;Aman
+;Solok;;Tigo Lurah;4;Simanau;Aman;Aman
+;Solok;;Tigo Lurah;5;Tanjung Balik Sumiso;Aman;Aman
+9;Solok Selatan;1;Koto Parik Gadang Diateh;1;Pakan Rabaa;Waspada;Waspada
+;Solok Selatan;;Koto Parik Gadang Diateh;2;Pakan Rabaa Tengah;Siaga;Siaga
+;Solok Selatan;;Koto Parik Gadang Diateh;3;Pakan Rabaa Timur;Siaga;Siaga
+;Solok Selatan;;Koto Parik Gadang Diateh;4;Pakan Rabaa Utara;Waspada;Waspada
+;Solok Selatan;2;Pauh Duo;1;Alam Pauh Duo;Aman;Aman
+;Solok Selatan;;Pauh Duo;2;Kapau Alam Pauh Duo;Siaga;Siaga
+;Solok Selatan;;Pauh Duo;3;Luak Kapau Alam Pauh Duo;Siaga;Siaga
+;Solok Selatan;;Pauh Duo;4;Pauh Duo Nan Batigo;Aman;Aman
+;Solok Selatan;3;Sangir;14;Lubuk Gadang;Waspada;Waspada
+;Solok Selatan;;Sangir;2;Lubuk Gadang Selatan;Waspada;Waspada
+;Solok Selatan;;Sangir;3;Lubuk Gadang Timur;Aman;Aman
+;Solok Selatan;;Sangir;4;Lubuk Gadang Utara;Aman;Aman
+;Solok Selatan;4;Sangir Balai Janggo;1;Sungai Kunyit;Aman;Aman
+;Solok Selatan;;Sangir Balai Janggo;2;Sungai Kunyit Barat;Aman;Aman
+;Solok Selatan;;Sangir Balai Janggo;3;Talao Sungai Kunyit;Aman;Aman
+;Solok Selatan;;Sangir Balai Janggo;4;Talunan Maju;Aman;Aman
+;Solok Selatan;5;Sangir Batang Hari;1;Abai;Siaga;Siaga
+;Solok Selatan;;Sangir Batang Hari;2;Dusun Tangah;Aman;Aman
+;Solok Selatan;;Sangir Batang Hari;3;Lubuk Ulang Aling;Siaga;Siaga
+;Solok Selatan;;Sangir Batang Hari;4;Lubuk Ulang Aling Selatan;Aman;Aman
+;Solok Selatan;;Sangir Batang Hari;5;Lubuk Ulang Aling Tengah;Aman;Aman
+;Solok Selatan;;Sangir Batang Hari;6;Ranah Pantai Cermin;Aman;Aman
+;Solok Selatan;;Sangir Batang Hari;7;Sitapus;Waspada;Waspada
+;Solok Selatan;6;Sangir Jujuan;1;Bidar Alam;Siaga;Siaga
+;Solok Selatan;;Sangir Jujuan;2;Lubuk Malako;Siaga;Siaga
+;Solok Selatan;;Sangir Jujuan;3;Padang Air Dingin;Aman;Aman
+;Solok Selatan;;Sangir Jujuan;4;Padang Gantiang;Aman;Aman
+;Solok Selatan;;Sangir Jujuan;5;Padang Limau Sundai;Aman;Aman
+;Solok Selatan;7;Sungai Pagu;1;Bomas;Siaga;Siaga
+;Solok Selatan;;Sungai Pagu;2;Koto Baru;Waspada;Waspada
+;Solok Selatan;;Sungai Pagu;3;Pasar Muara Labuh;Waspada;Waspada
+;Solok Selatan;;Sungai Pagu;4;Pasir Talang;Waspada;Waspada
+;Solok Selatan;;Sungai Pagu;5;Pasir Talang Barat;Aman;Aman
+;Solok Selatan;;Sungai Pagu;6;Pasir Talang Selatan;Aman;Aman
+;Solok Selatan;;Sungai Pagu;7;Pasir Talang Timur;Aman;Aman
+;Solok Selatan;;Sungai Pagu;8;Pulakek Koto Baru;Siaga;Siaga
+;Solok Selatan;;Sungai Pagu;9;Sako Pasia Talang;Aman;Aman
+;Solok Selatan;;Sungai Pagu;10;Sako Selatan Pasia Talang;Aman;Aman
+;Solok Selatan;;Sungai Pagu;11;Sako Utara Pasia Talang;Siaga;Siaga
+10;Agam;1;IV Koto;1;Balingka;Siaga;Siaga
+;Agam;;IV Koto;2;Guguk Tabek Sarajo;Siaga;Siaga
+;Agam;;IV Koto;3;Koto Gadang;Aman;Aman
+;Agam;;IV Koto;4;Koto Panjang;Aman;Aman
+;Agam;;IV Koto;5;Koto Tuo;Aman;Aman
+;Agam;;IV Koto;6;Sianok Anam Suku;Waspada;Waspada
+;Agam;;IV Koto;7;Sungai Landia;Waspada;Waspada
+;Agam;2;Ampek Angkek;1;Ampang Gadang;Siaga;Siaga
+;Agam;;Ampek Angkek;2;Balai Gurah;Siaga;Siaga
+;Agam;;Ampek Angkek;3;Batu Taba;Waspada;Waspada
+;Agam;;Ampek Angkek;4;Biaro Gadang;Waspada;Waspada
+;Agam;;Ampek Angkek;5;Lambah;Waspada;Waspada
+;Agam;;Ampek Angkek;6;Panampung;Waspada;Waspada
+;Agam;;Ampek Angkek;7;Pasia;Siaga;Siaga
+;Agam;3;Ampek Nagari;1;Batu Kambing;Siaga;Siaga
+;Agam;;Ampek Nagari;2;Bawan;Siaga;Siaga
+;Agam;;Ampek Nagari;3;Sitalang;Aman;Aman
+;Agam;;Ampek Nagari;4;Sitanang;Aman;Aman
+;Agam;4;Banuhampu;1;Cingkariang;Siaga;Siaga
+;Agam;;Banuhampu;2;Kubang Putiah;Siaga;Siaga
+;Agam;;Banuhampu;3;Ladang Laweh;Waspada;Waspada
+;Agam;;Banuhampu;4;Padang Lua;Waspada;Waspada
+;Agam;;Banuhampu;5;Pakan Sinayan;Waspada;Waspada
+;Agam;;Banuhampu;6;Sungai Tanang;Siaga;Siaga
+;Agam;;Banuhampu;7;Taluak Ampek Suku;Siaga;Siaga
+;Agam;5;Baso;1;Koto Baru;Waspada;Waspada
+;Agam;;Baso;2;Koto Tinggi;Waspada;Waspada
+;Agam;;Baso;3;Padang Tarok;Waspada;Waspada
+;Agam;;Baso;4;Salo;Waspada;Waspada
+;Agam;;Baso;5;Simarasok;Waspada;Waspada
+;Agam;;Baso;6;Tabek Panjang;Waspada;Waspada
+;Agam;6;Candung;13;Bukik Batabuah;Waspada;Waspada
+;Agam;;Candung;;Canduang Koto Laweh;Waspada;Waspada
+;Agam;;Candung;;Lasi;Waspada;Waspada
+;Agam;7;Kamang Magek;1;Kamang Hilia;Siaga;Siaga
+;Agam;;Kamang Magek;2;Kamang Mudiak;Siaga;Siaga
+;Agam;;Kamang Magek;3;Magek;Siaga;Siaga
+;Agam;8;Lubuk Basung;1;Geragahan;Waspada;Waspada
+;Agam;;Lubuk Basung;2;Kampung Pinang;Waspada;Waspada
+;Agam;;Lubuk Basung;3;Kampung Tangah;Waspada;Waspada
+;Agam;;Lubuk Basung;4;Lubuk Basung;Waspada;Waspada
+;Agam;;Lubuk Basung;5;Manggopoh;Waspada;Waspada
+;Agam;9;Malalak;1;Malalak Barat;Aman;Aman
+;Agam;;Malalak;2;Malalak Selatan;Aman;Aman
+;Agam;;Malalak;3;Malalak Timur;Aman;Aman
+;Agam;;Malalak;4;Malalak Utara;Aman;Aman
+;Agam;10;Matur;1;Lawang;Aman;Aman
+;Agam;;Matur;2;Matua Hilia;Siaga;Siaga
+;Agam;;Matur;3;Matua Mudiak;Siaga;Siaga
+;Agam;;Matur;4;Panta Pauh;Aman;Aman
+;Agam;;Matur;5;Parik Panjang;Waspada;Waspada
+;Agam;;Matur;6;Tigo Balai;Waspada;Waspada
+;Agam;11;Palupuh;1;Koto Rantang;Waspada;Waspada
+;Agam;;Palupuh;2;Nan Tujuah;Aman;Aman
+;Agam;;Palupuh;3;Pagadih;Aman;Aman
+;Agam;;Palupuh;4;Pasia Laweh;Waspada;Waspada
+;Agam;12;Palembayan;1;Ampek Koto Palembayan;Waspada;Waspada
+;Agam;;Palembayan;2;Baringin;Waspada;Waspada
+;Agam;;Palembayan;3;Salareh Aia;Siaga;Siaga
+;Agam;;Palembayan;4;Sipinang;Siaga;Siaga
+;Agam;;Palembayan;5;Sungai Pua;Siaga;Siaga
+;Agam;;Palembayan;6;Tigo Koto Silungkang;Waspada;Waspada
+;Agam;13;Sungai Pua;1;Batagak;Siaga;Siaga
+;Agam;;Sungai Pua;2;Batu Palano;Siaga;Siaga
+;Agam;;Sungai Pua;3;Padang Laweh;Waspada;Waspada
+;Agam;;Sungai Pua;4;Sariak;Waspada;Waspada
+;Agam;;Sungai Pua;5;Sungai Pua;Waspada;Waspada
+;Agam;14;Tanjung Mutiara;1;Tiku Selatan;Waspada;Waspada
+;Agam;;Tanjung Mutiara;2;Tiku Utara;Waspada;Waspada
+;Agam;;Tanjung Mutiara;3;Tiku Limo Jorong;Waspada;Waspada
+;Agam;15;Tanjung Raya;1;Bayua;Waspada;Waspada
+;Agam;;Tanjung Raya;2;Duo Koto;Waspada;Waspada
+;Agam;;Tanjung Raya;3;Koto Gadang;Waspada;Waspada
+;Agam;;Tanjung Raya;4;Koto Kaciak;Waspada;Waspada
+;Agam;;Tanjung Raya;5;Koto Malintang;Waspada;Waspada
+;Agam;;Tanjung Raya;6;Maninjau;Waspada;Waspada
+;Agam;;Tanjung Raya;7;Paninjauan;Waspada;Waspada
+;Agam;;Tanjung Raya;8;Sungai Batang;Waspada;Waspada
+;Agam;;Tanjung Raya;9;Tanjung Sani;Waspada;Waspada
+;Agam;16;Tilatang Kamang;1;Gadut;Waspada;Waspada
+;Agam;;Tilatang Kamang;2;Kapau;Waspada;Waspada
+;Agam;;Tilatang Kamang;3;Koto Rantang;Waspada;Waspada
+11;Dharmasraya;1;Asam Jujuhan;1;Alahan Nan Tigo;Aman;Aman
+;Dharmasraya;;Asam Jujuhan;2;Lubuk Besar;Aman;Aman
+;Dharmasraya;;Asam Jujuhan;3;Sinamar;Aman;Aman
+;Dharmasraya;;Asam Jujuhan;4;Sungai Limau;Siaga;Siaga
+;Dharmasraya;;Asam Jujuhan;5;Tanjung Alam;Siaga;Siaga
+;Dharmasraya;2;Koto Baru;1;Ampang Kuranji;Waspada;Waspada
+;Dharmasraya;;Koto Baru;2;Koto Baru;Waspada;Waspada
+;Dharmasraya;;Koto Baru;3;Koto Padang;Siaga;Siaga
+;Dharmasraya;;Koto Baru;4;Sialang Gaung;Siaga;Siaga
+;Dharmasraya;3;Koto Besar;1;Abai Siat;Siaga;Siaga
+;Dharmasraya;;Koto Besar;2;Bonjol;Siaga;Siaga
+;Dharmasraya;;Koto Besar;3;Koto Besar;Siaga;Siaga
+;Dharmasraya;;Koto Besar;4;Koto Gadang;Aman;Aman
+;Dharmasraya;;Koto Besar;5;Koto Laweh;Aman;Aman
+;Dharmasraya;;Koto Besar;6;Koto Ranah;Bahaya;Bahaya
+;Dharmasraya;;Koto Besar;7;Koto Tinggi;Aman;Aman
+;Dharmasraya;4;Koto Salak;1;Ampalu;Siaga;Siaga
+;Dharmasraya;;Koto Salak;2;Koto Salak;Aman;Aman
+;Dharmasraya;;Koto Salak;3;Padukuan;Aman;Aman
+;Dharmasraya;;Koto Salak;4;Pulau Mainan;Siaga;Siaga
+;Dharmasraya;;Koto Salak;5;Simalidu;Aman;Aman
+;Dharmasraya;5;Padang Laweh;1;Batu Rijal;Aman;Aman
+;Dharmasraya;;Padang Laweh;2;Muaro Sopan;Aman;Aman
+;Dharmasraya;;Padang Laweh;3;Padang Laweh;Waspada;Waspada
+;Dharmasraya;;Padang Laweh;4;Sopan Jaya;Siaga;Siaga
+;Dharmasraya;6;Pulau Punjung;1;Empat Koto Pulau Punjung;Aman;Aman
+;Dharmasraya;;Pulau Punjung;2;Gunung Selasih;Waspada;Waspada
+;Dharmasraya;;Pulau Punjung;3;Sikabau;Waspada;Waspada
+;Dharmasraya;;Pulau Punjung;4;Sungai Dareh;Waspada;Waspada
+;Dharmasraya;;Pulau Punjung;5;Sungai Kambut;Siaga;Siaga
+;Dharmasraya;;Pulau Punjung;6;Tebing Tinggi;Waspada;Waspada
+;Dharmasraya;7;Sembilan Koto;1;Banai;Aman;Aman
+;Dharmasraya;;Sembilan Koto;2;Koto Nan Empat Dibawuh;Aman;Aman
+;Dharmasraya;;Sembilan Koto;3;Lubuak Karak;Aman;Aman
+;Dharmasraya;;Sembilan Koto;4;Silago;Aman;Aman
+;Dharmasraya;8;Sitiung;1;Gunung Medan;Bahaya;Bahaya
+;Dharmasraya;;Sitiung;2;Siguntur;Waspada;Waspada
+;Dharmasraya;;Sitiung;3;Sitiung;Bahaya;Bahaya
+;Dharmasraya;;Sitiung;4;Sungai Duo;Bahaya;Bahaya
+;Dharmasraya;9;Sungai Rumbai;1;Kurnia Koto Salak;Siaga;Siaga
+;Dharmasraya;;Sungai Rumbai;2;Kurnia Selatan;Aman;Aman
+;Dharmasraya;;Sungai Rumbai;3;Sungai Rumbai;Waspada;Waspada
+;Dharmasraya;;Sungai Rumbai;4;Sungai Rumbai Timur;Siaga;Siaga
+;Dharmasraya;10;Timpeh;1;Panyubarangan;Siaga;Siaga
+;Dharmasraya;;Timpeh;2;Ranah Palabi;Waspada;Waspada
+;Dharmasraya;;Timpeh;3;Tabek;Waspada;Waspada
+;Dharmasraya;;Timpeh;4;Taratak Tinggi;Waspada;Waspada
+;Dharmasraya;;Timpeh;5;Timpeh;Siaga;Siaga
+;Dharmasraya;11;Tiumang;1;Koto Beringin;Waspada;Waspada
+;Dharmasraya;;Tiumang;2;Sipangkur;Siaga;Siaga
+;Dharmasraya;;Tiumang;3;Sungai Langkok;Aman;Aman
+;Dharmasraya;;Tiumang;4;Tiumang;Aman;Aman
+12;Sijunjung;1;IV Nagari;1;Koto Baru;Aman;Aman
+;Sijunjung;;IV Nagari;2;Koto Tuo;Waspada;Waspada
+;Sijunjung;;IV Nagari;3;Muaro Bodi;Bahaya;Bahaya
+;Sijunjung;;IV Nagari;4;Mundam Sakti;Waspada;Waspada
+;Sijunjung;;IV Nagari;5;Palangki;Bahaya;Bahaya
+;Sijunjung;2;Kamang Baru;1;Aie Amo;Siaga;Siaga
+;Sijunjung;;Kamang Baru;2;Kamang;Siaga;Siaga
+;Sijunjung;;Kamang Baru;3;Kunangan Parik Rantang;Aman;Aman
+;Sijunjung;;Kamang Baru;4;Lubuk Tarantang;Siaga;Siaga
+;Sijunjung;;Kamang Baru;5;Maloro;Aman;Aman
+;Sijunjung;;Kamang Baru;6;Muaro Takung;Siaga;Siaga
+;Sijunjung;;Kamang Baru;7;Padang Tarok;Siaga;Siaga
+;Sijunjung;;Kamang Baru;8;Siaur;Siaga;Siaga
+;Sijunjung;;Kamang Baru;9;Sungai Batuang;Aman;Aman
+;Sijunjung;;Kamang Baru;10;Sungai Lansek;Aman;Aman
+;Sijunjung;;Kamang Baru;11;Tanjung Kaliang;Aman;Aman
+;Sijunjung;3;Koto VII;1;Bukit Bual;Aman;Aman
+;Sijunjung;;Koto VII;2;Guguak;Aman;Aman
+;Sijunjung;;Koto VII;3;Limo Koto;Aman;Aman
+;Sijunjung;;Koto VII;4;Padang Laweh;Aman;Aman
+;Sijunjung;;Koto VII;5;Palaluar;Siaga;Siaga
+;Sijunjung;;Koto VII;6;Tanjung;Aman;Aman
+;Sijunjung;4;Kupitan;1;Batu Manjulur;Siaga;Siaga
+;Sijunjung;;Kupitan;2;Kampung Baru;Siaga;Siaga
+;Sijunjung;;Kupitan;3;Padang Sibusuk;Waspada;Waspada
+;Sijunjung;;Kupitan;4;Pamuatan;Waspada;Waspada
+;Sijunjung;5;Lubuk Tarok;1;Buluah Kasok;Siaga;Siaga
+;Sijunjung;;Lubuk Tarok;2;Kampung Dalam;Siaga;Siaga
+;Sijunjung;;Lubuk Tarok;3;Lalan;Siaga;Siaga
+;Sijunjung;;Lubuk Tarok;4;Latang;Siaga;Siaga
+;Sijunjung;;Lubuk Tarok;5;Lubuk Tarok;Aman;Aman
+;Sijunjung;;Lubuk Tarok;6;Silongo;Aman;Aman
+;Sijunjung;6;Sijunjung;1;Aie Angek;Siaga;Siaga
+;Sijunjung;;Sijunjung;2;Durian Gadang;Siaga;Siaga
+;Sijunjung;;Sijunjung;3;Kandang Baru;Siaga;Siaga
+;Sijunjung;;Sijunjung;4;Muaro;Waspada;Waspada
+;Sijunjung;;Sijunjung;5;Paru;Siaga;Siaga
+;Sijunjung;;Sijunjung;6;Pematang Panjang;Siaga;Siaga
+;Sijunjung;;Sijunjung;7;Sijunjung;Waspada;Waspada
+;Sijunjung;;Sijunjung;8;Silokek;Siaga;Siaga
+;Sijunjung;;Sijunjung;9;Solok Ambah;Waspada;Waspada
+;Sijunjung;7;Sumpur Kudus;1;Kumanis;Siaga;Siaga
+;Sijunjung;;Sumpur Kudus;2;Manganti;Siaga;Siaga
+;Sijunjung;;Sumpur Kudus;3;Silantai;Siaga;Siaga
+;Sijunjung;;Sumpur Kudus;4;Sisawah;Aman;Aman
+;Sijunjung;;Sumpur Kudus;5;Sumpur Kudus;Bahaya;Bahaya
+;Sijunjung;;Sumpur Kudus;6;Sumpur Kudus Selatan;Waspada;Waspada
+;Sijunjung;;Sumpur Kudus;7;Tamparungo;Siaga;Siaga
+;Sijunjung;;Sumpur Kudus;8;Tanjung Bonai Aur;Waspada;Waspada
+;Sijunjung;;Sumpur Kudus;9;Tanjung Bonai Aur Selatan;Aman;Aman
+;Sijunjung;;Sumpur Kudus;10;Tanjung Labuah;Aman;Aman
+;Sijunjung;;Sumpur Kudus;11;Unggan;Waspada;Waspada
+;Sijunjung;8;Tanjung Gadang;1;Langki;Waspada;Waspada
+;Sijunjung;;Tanjung Gadang;2;Pulasan;Waspada;Waspada
+;Sijunjung;;Tanjung Gadang;3;Sibakur;Waspada;Waspada
+;Sijunjung;;Tanjung Gadang;4;Sinyamu;Aman;Aman
+;Sijunjung;;Tanjung Gadang;5;Tanjung Gadang;Aman;Aman
+;Sijunjung;;Tanjung Gadang;6;Tanjung Lolo;Waspada;Waspada
+;Sijunjung;;Tanjung Gadang;7;Taratak Baru;Waspada;Waspada
+;Sijunjung;;Tanjung Gadang;8;Taratak Baru Utara;Waspada;Waspada
+;Sijunjung;;Tanjung Gadang;9;Timbulun;Waspada;Waspada
+13;Pesisir Selatan;1;IV Jurai;1;Ampang Tareh Lumpo;Waspada;Waspada
+;Pesisir Selatan;;IV Jurai;2;Ampuan Lumpo;Waspada;Waspada
+;Pesisir Selatan;;IV Jurai;3;Balai Sinayan Lumpo;Waspada;Waspada
+;Pesisir Selatan;;IV Jurai;4;Batu Kunik Lumpo;Waspada;Waspada
+;Pesisir Selatan;;IV Jurai;5;Bukik Kaciak Lumpon;Waspada;Waspada
+;Pesisir Selatan;;IV Jurai;6;Bunga Pasang Salido;Waspada;Waspada
+;Pesisir Selatan;;IV Jurai;7;Gunung Bungkuak Lumpo;Waspada;Waspada
+;Pesisir Selatan;;IV Jurai;8;Koto Rawang;Waspada;Waspada
+;Pesisir Selatan;;IV Jurai;9;Limau Gadang Lumpo;Waspada;Waspada
+;Pesisir Selatan;;IV Jurai;10;Lumpo;Waspada;Waspada
+;Pesisir Selatan;;IV Jurai;11;Painan;Waspada;Waspada
+;Pesisir Selatan;;IV Jurai;12;Painan Selatan Painan;Waspada;Waspada
+;Pesisir Selatan;;IV Jurai;13;Painan Timur Painan;Waspada;Waspada
+;Pesisir Selatan;;IV Jurai;14;Sago Salido;Bahaya;Bahaya
+;Pesisir Selatan;;IV Jurai;15;Salido;Bahaya;Bahaya
+;Pesisir Selatan;;IV Jurai;16;Salido Sari Bulan;Waspada;Waspada
+;Pesisir Selatan;;IV Jurai;17;Sungai Gayo Lumpo;Waspada;Waspada
+;Pesisir Selatan;;IV Jurai;18;Sungai Sariak Lumpo;Waspada;Waspada
+;Pesisir Selatan;;IV Jurai;19;Tambang;Waspada;Waspada
+;Pesisir Selatan;;IV Jurai;20;Taratak Tangah Lumpo;Waspada;Waspada
+;Pesisir Selatan;2;IV Bayang Utara;1;Koto Ranah;Aman;Aman
+;Pesisir Selatan;;IV Bayang Utara;2;Limau Gadang Pancung Taba;Aman;Aman
+;Pesisir Selatan;;IV Bayang Utara;3;Muaro Aie;Aman;Aman
+;Pesisir Selatan;;IV Bayang Utara;4;Pancuang Taba;Aman;Aman
+;Pesisir Selatan;;IV Bayang Utara;5;Pului-kpuluik;Aman;Aman
+;Pesisir Selatan;;IV Bayang Utara;6;Puluik-Puluik Selatan;Aman;Aman
+;Pesisir Selatan;3;Airpura;1;Damar Lapan Batang Inderapura;Siaga;Siaga
+;Pesisir Selatan;;Airpura;2;Inderapura Timur;Waspada;Waspada
+;Pesisir Selatan;;Airpura;3;Inderapura Utara;Siaga;Siaga
+;Pesisir Selatan;;Airpura;4;Lalang Panjang Inderapura;Waspada;Waspada
+;Pesisir Selatan;;Airpura;5;Lubuk Betung Inderapura;Siaga;Siaga
+;Pesisir Selatan;;Airpura;6;Muara Inderapura;Siaga;Siaga
+;Pesisir Selatan;;Airpura;7;Palokan Inderapura;Siaga;Siaga
+;Pesisir Selatan;;Airpura;8;Pulau Rajo Inderapura;Siaga;Siaga
+;Pesisir Selatan;;Airpura;9;Tanah Bakali Inderapura;Siaga;Siaga
+;Pesisir Selatan;;Airpura;10;Tluk Kualo Inderapura;Siaga;Siaga
+;Pesisir Selatan;4;Basa Ampek Balai Tapan;1;Ampang Tulak Tapan;Waspada;Waspada
+;Pesisir Selatan;;Basa Ampek Balai Tapan;2;Batang Arah Tapan;Waspada;Waspada
+;Pesisir Selatan;;Basa Ampek Balai Tapan;3;Batang Betung Tapan;Waspada;Waspada
+;Pesisir Selatan;;Basa Ampek Balai Tapan;4;Bukit Buai Tapan;Waspada;Waspada
+;Pesisir Selatan;;Basa Ampek Balai Tapan;5;Dusun Baru Tapan;Waspada;Waspada
+;Pesisir Selatan;;Basa Ampek Balai Tapan;6;Koto Anau Tapan;Waspada;Waspada
+;Pesisir Selatan;;Basa Ampek Balai Tapan;7;Pasar Tapan;Waspada;Waspada
+;Pesisir Selatan;;Basa Ampek Balai Tapan;8;Riak Danau Tapan;Waspada;Waspada
+;Pesisir Selatan;;Basa Ampek Balai Tapan;9;Tanjung Pondok Tapan;Waspada;Waspada
+;Pesisir Selatan;;Basa Ampek Balai Tapan;10;Tapan;Waspada;Waspada
+;Pesisir Selatan;5;Batang Kapas;1;IV Koto Hilie;Waspada;Waspada
+;Pesisir Selatan;;Batang Kapas;2;IV Koto Mudiek;Waspada;Waspada
+;Pesisir Selatan;;Batang Kapas;3;Koto nan Duo IV Koto Hilie;Waspada;Waspada
+;Pesisir Selatan;;Batang Kapas;4;Koto Nan Tigo IV Koto Hilie;Waspada;Waspada
+;Pesisir Selatan;;Batang Kapas;5;Sungai Nyalo IV Koto Mudiek;Waspada;Waspada
+;Pesisir Selatan;;Batang Kapas;6;Taluak;Waspada;Waspada
+;Pesisir Selatan;;Batang Kapas;7;Taluk Tigo Sakato;Waspada;Waspada
+;Pesisir Selatan;;Batang Kapas;8;Teratak Tempatih IV Koto Mudiek;Waspada;Waspada
+;Pesisir Selatan;;Batang Kapas;9;Tuik IV Koto Mudiek;Waspada;Waspada
+;Pesisir Selatan;6;Bayang;1;ApiApi Pasar Baru;Waspada;Waspada
+;Pesisir Selatan;;Bayang;2;Asam Kamba Pasar Baru;Waspada;Waspada
+;Pesisir Selatan;;Bayang;3;Aur Begalung Talaok;Waspada;Waspada
+;Pesisir Selatan;;Bayang;4;Gurun Panjang;Waspada;Waspada
+;Pesisir Selatan;;Bayang;5;Gurun Panjang Barat;Waspada;Waspada
+;Pesisir Selatan;;Bayang;6;Gurun Panjang Selatan;Waspada;Waspada
+;Pesisir Selatan;;Bayang;7;Gurun Panjang Utara;Waspada;Waspada
+;Pesisir Selatan;;Bayang;8;Kapeh Panji Jaya Talaok;Waspada;Waspada
+;Pesisir Selatan;;Bayang;9;Kapelgam Koto Berapak;Waspada;Waspada
+;Pesisir Selatan;;Bayang;10;Kapujan Koto Berapak;Waspada;Waspada
+;Pesisir Selatan;;Bayang;11;Koto Baru Koto Berapak;Waspada;Waspada
+;Pesisir Selatan;;Bayang;12;Koto Berapak;Waspada;Waspada
+;Pesisir Selatan;;Bayang;13;Kubang Koto Berapak;Waspada;Waspada
+;Pesisir Selatan;;Bayang;14;Pasar Baru;Waspada;Waspada
+;Pesisir Selatan;;Bayang;15;Sawah Laweh Pasar Baru;Waspada;Waspada
+;Pesisir Selatan;;Bayang;16;Talaok;Waspada;Waspada
+;Pesisir Selatan;;Bayang;17;Tanjung Durian Pasar Baru;Waspada;Waspada
+;Pesisir Selatan;7;Koto XI Tarusan;1;Ampang Pulai;Waspada;Waspada
+;Pesisir Selatan;;Koto XI Tarusan;2;Barung-Barung Balantai;Waspada;Waspada
+;Pesisir Selatan;;Koto XI Tarusan;3;Barung-Barung Balantai Selatan;Waspada;Waspada
+;Pesisir Selatan;;Koto XI Tarusan;4;Barung-Barung Balantai Tengah;Waspada;Waspada
+;Pesisir Selatan;;Koto XI Tarusan;5;Barung-Barung Balantai Timur;Waspada;Waspada
+;Pesisir Selatan;;Koto XI Tarusan;6;Batu Hampa;Waspada;Waspada
+;Pesisir Selatan;;Koto XI Tarusan;7;Batu Hampa Selatan;Waspada;Waspada
+;Pesisir Selatan;;Koto XI Tarusan;8;Cerocok Anau Ampang Pulai;Waspada;Waspada
+;Pesisir Selatan;;Koto XI Tarusan;9;Duku;Waspada;Waspada
+;Pesisir Selatan;;Koto XI Tarusan;10;Duku Utara;Waspada;Waspada
+;Pesisir Selatan;;Koto XI Tarusan;11;Jinang Kampung Pansur Ampang Pulai;Waspada;Waspada
+;Pesisir Selatan;;Koto XI Tarusan;12;Kampung Baru Korong Nan Ampek;Waspada;Waspada
+;Pesisir Selatan;;Koto XI Tarusan;13;Kapuah Utara;Waspada;Waspada
+;Pesisir Selatan;;Koto XI Tarusan;14;Kapuh;Waspada;Waspada
+;Pesisir Selatan;;Koto XI Tarusan;15;Mandeh;Waspada;Waspada
+;Pesisir Selatan;;Koto XI Tarusan;16;Nanggalo;Waspada;Waspada
+;Pesisir Selatan;;Koto XI Tarusan;17;Pulau Karam Ampang Pulai;Waspada;Waspada
+;Pesisir Selatan;;Koto XI Tarusan;18;Setara Nanggalo;Waspada;Waspada
+;Pesisir Selatan;;Koto XI Tarusan;19;Siguntur;Waspada;Waspada
+;Pesisir Selatan;;Koto XI Tarusan;20;Siguntur Tua;Waspada;Waspada
+;Pesisir Selatan;;Koto XI Tarusan;21;Sungai Nyalo Mudiak Aia;Waspada;Waspada
+;Pesisir Selatan;;Koto XI Tarusan;22;Sungai Pinang;Waspada;Waspada
+;Pesisir Selatan;;Koto XI Tarusan;23;Taratak Sungai Lundang;Waspada;Waspada
+;Pesisir Selatan;8;Linggo Sari Baganti;1;Air Haji;Waspada;Waspada
+;Pesisir Selatan;;Linggo Sari Baganti;2;Air Haji Barat;Waspada;Waspada
+;Pesisir Selatan;;Linggo Sari Baganti;3;Air Haji Tengah;Waspada;Waspada
+;Pesisir Selatan;;Linggo Sari Baganti;4;Air Haji Tenggara;Waspada;Waspada
+;Pesisir Selatan;;Linggo Sari Baganti;5;Lagan Hilir Punggusan;Waspada;Waspada
+;Pesisir Selatan;;Linggo Sari Baganti;6;Lagan Mudik Punggasan;Waspada;Waspada
+;Pesisir Selatan;;Linggo Sari Baganti;7;Muara Gadang Air Haji;Waspada;Waspada
+;Pesisir Selatan;;Linggo Sari Baganti;8;Muara Kandis Punggusan;Waspada;Waspada
+;Pesisir Selatan;;Linggo Sari Baganti;9;Padang XI Punggusan;Waspada;Waspada
+;Pesisir Selatan;;Linggo Sari Baganti;10;Pasar Bukit Air Haji;Waspada;Waspada
+;Pesisir Selatan;;Linggo Sari Baganti;11;Pasar Lama Muara Air Haji;Waspada;Waspada
+;Pesisir Selatan;;Linggo Sari Baganti;12;Punggasan;Waspada;Waspada
+;Pesisir Selatan;;Linggo Sari Baganti;13;Punggasan Timur;Waspada;Waspada
+;Pesisir Selatan;;Linggo Sari Baganti;14;Punggasan Utara;Waspada;Waspada
+;Pesisir Selatan;;Linggo Sari Baganti;15;Rantau Simalenang Air Haji;Waspada;Waspada
+;Pesisir Selatan;;Linggo Sari Baganti;16;Sungai Sirah Air Haji;Waspada;Waspada
+;Pesisir Selatan;9;Lengayang;1;Kambang;Waspada;Waspada
+;Pesisir Selatan;;Lengayang;2;Kambang Barat;Waspada;Waspada
+;Pesisir Selatan;;Lengayang;3;Kambang Timur;Waspada;Waspada
+;Pesisir Selatan;;Lengayang;4;Kambang Utara;Waspada;Waspada
+;Pesisir Selatan;;Lengayang;5;Lakitan;Waspada;Waspada
+;Pesisir Selatan;;Lengayang;6;Lakitan Selatan;Waspada;Waspada
+;Pesisir Selatan;;Lengayang;7;Lakitan Tengah;Waspada;Waspada
+;Pesisir Selatan;;Lengayang;8;Lakitan Timur;Waspada;Waspada
+;Pesisir Selatan;;Lengayang;9;Lakitan Utara;Waspada;Waspada
+;Pesisir Selatan;10;Lunang;1;Lunang;Siaga;Siaga
+;Pesisir Selatan;;Lunang;2;Lunang Barat;Siaga;Siaga
+;Pesisir Selatan;;Lunang;3;Lunang Dua;Siaga;Siaga
+;Pesisir Selatan;;Lunang;4;Lunang Satu;Siaga;Siaga
+;Pesisir Selatan;;Lunang;5;Lunang Selatan;Siaga;Siaga
+;Pesisir Selatan;;Lunang;6;Lunang Tengah;Siaga;Siaga
+;Pesisir Selatan;;Lunang;7;Lunang Tiga;Siaga;Siaga
+;Pesisir Selatan;;Lunang;8;Lunang Utara;Siaga;Siaga
+;Pesisir Selatan;;Lunang;9;Pondok Parian Lunang;Siaga;Siaga
+;Pesisir Selatan;;Lunang;10;Sindang Lunang;Siaga;Siaga
+;Pesisir Selatan;11;Pancung Soal;1;Inderapura;Waspada;Waspada
+;Pesisir Selatan;;Pancung Soal;2;Inderapura Barat;Waspada;Waspada
+;Pesisir Selatan;;Pancung Soal;3;Inderapura Selatan;Waspada;Waspada
+;Pesisir Selatan;;Pancung Soal;4;Inderapura Tengah;Waspada;Waspada
+;Pesisir Selatan;;Pancung Soal;5;KudoKudo Inderapura;Waspada;Waspada
+;Pesisir Selatan;;Pancung Soal;6;Muaro Sakai Inderapura;Waspada;Waspada
+;Pesisir Selatan;;Pancung Soal;7;Simpang Lama Inderapura;Waspada;Waspada
+;Pesisir Selatan;;Pancung Soal;8;Tiga Sepakat Ibderapura;Waspada;Waspada
+;Pesisir Selatan;;Pancung Soal;9;Tigo Sungai Inderapura;Waspada;Waspada
+;Pesisir Selatan;;Pancung Soal;10;Tluk Amplu Inderapura;Waspada;Waspada
+;Pesisir Selatan;12;Ranah Ampek Hulu Tapan;1;Binjai Tapan;Siaga;Siaga
+;Pesisir Selatan;;Ranah Ampek Hulu Tapan;2;Kampung Tengah Tapan;Siaga;Siaga
+;Pesisir Selatan;;Ranah Ampek Hulu Tapan;3;Kubu Tapan;Siaga;Siaga
+;Pesisir Selatan;;Ranah Ampek Hulu Tapan;4;Limau Purut Tapan;Siaga;Siaga
+;Pesisir Selatan;;Ranah Ampek Hulu Tapan;5;Simpang Gunung Tapan;Siaga;Siaga
+;Pesisir Selatan;;Ranah Ampek Hulu Tapan;6;Sungai Gambir Sako Tapan;Siaga;Siaga
+;Pesisir Selatan;;Ranah Ampek Hulu Tapan;7;Sungai Pinang Tapan;Siaga;Siaga
+;Pesisir Selatan;;Ranah Ampek Hulu Tapan;8;Talang Balirik Tapan;Siaga;Siaga
+;Pesisir Selatan;;Ranah Ampek Hulu Tapan;9;Talang Koto Pulai Tapan;Siaga;Siaga
+;Pesisir Selatan;;Ranah Ampek Hulu Tapan;10;Tebing Tinggi Tapan;Siaga;Siaga
+;Pesisir Selatan;13;Ranah Pesisir;1;Koto VIII Pelangai;Waspada;Waspada
+;Pesisir Selatan;;Ranah Pesisir;2;Nyiur Melambai Pelangi;Waspada;Waspada
+;Pesisir Selatan;;Ranah Pesisir;3;Pasia Pelangai;Waspada;Waspada
+;Pesisir Selatan;;Ranah Pesisir;4;Pelangai;Waspada;Waspada
+;Pesisir Selatan;;Ranah Pesisir;5;Pelangai Gadang;Waspada;Waspada
+;Pesisir Selatan;;Ranah Pesisir;6;Pelangai Kaciak;Waspada;Waspada
+;Pesisir Selatan;;Ranah Pesisir;7;Sungai Liku Pelangi;Waspada;Waspada
+;Pesisir Selatan;;Ranah Pesisir;8;Sungai Tunu;Waspada;Waspada
+;Pesisir Selatan;;Ranah Pesisir;9;Sungai Tunu Barat;Waspada;Waspada
+;Pesisir Selatan;;Ranah Pesisir;10;Sungai Tunu Utara;Waspada;Waspada
+;Pesisir Selatan;14;Silaut;1;Air Hitam;Siaga;Siaga
+;Pesisir Selatan;;Silaut;2;Durian Seribu;Siaga;Siaga
+;Pesisir Selatan;;Silaut;3;Lubuk Bunta;Siaga;Siaga
+;Pesisir Selatan;;Silaut;4;Pasir Binjai;Siaga;Siaga
+;Pesisir Selatan;;Silaut;5;Sambungo;Siaga;Siaga
+;Pesisir Selatan;;Silaut;6;Silaut;Siaga;Siaga
+;Pesisir Selatan;;Silaut;7;Sungai Pulai;Siaga;Siaga
+;Pesisir Selatan;;Silaut;8;Sungai Sarik;Siaga;Siaga
+;Pesisir Selatan;;Silaut;9;Sungai Sirah;Siaga;Siaga
+;Pesisir Selatan;;Silaut;10;Talang Binjai;Siaga;Siaga
+;Pesisir Selatan;15;Sutera;1;Amping Parak;Waspada;Waspada
+;Pesisir Selatan;;Sutera;2;Amping Parak Timur;Waspada;Waspada
+;Pesisir Selatan;;Sutera;3;Aur Duri Surantih;Waspada;Waspada
+;Pesisir Selatan;;Sutera;4;Ganting Mudiak Selatan Surantih;Waspada;Waspada
+;Pesisir Selatan;;Sutera;5;Ganting Mudiak Utara Surantih;Waspada;Waspada
+;Pesisir Selatan;;Sutera;6;Koto Nan Tigo Selatan Surantik;Waspada;Waspada
+;Pesisir Selatan;;Sutera;7;Koto Nan Tigo Utara Surantih;Waspada;Waspada
+;Pesisir Selatan;;Sutera;8;Koto Taratak;Waspada;Waspada
+;Pesisir Selatan;;Sutera;9;Lansano Taratak;Waspada;Waspada
+;Pesisir Selatan;;Sutera;10;Rawang Gunung Malelo Surantih;Waspada;Waspada
+;Pesisir Selatan;;Sutera;11;Surantih;Waspada;Waspada
+;Pesisir Selatan;;Sutera;12;Taratak;Waspada;Waspada
+14;Kepulauan Mentawai;1;Pagai Selatan;1;Busalat;Aman;Aman
+;Kepulauan Mentawai;;Pagai Selatan;2;Makalo;Aman;Aman
+;Kepulauan Mentawai;;Pagai Selatan;3;Malakopa;Aman;Aman
+;Kepulauan Mentawai;;Pagai Selatan;4;Sinaka;Aman;Aman
+;Kepulauan Mentawai;2;Pagai Utara;1;Betumonga;Aman;Aman
+;Kepulauan Mentawai;;Pagai Utara;2;Saumangannya;Aman;Aman
+;Kepulauan Mentawai;;Pagai Utara;3;Silabu;Aman;Aman
+;Kepulauan Mentawai;3;Siberut Barat;1;Sigapokna;Aman;Aman
+;Kepulauan Mentawai;;Siberut Barat;2;Simalegi;Aman;Aman
+;Kepulauan Mentawai;;Siberut Barat;3;Simatalu;Aman;Aman
+;Kepulauan Mentawai;4;Siberut Barat Daya;1;Katurei;Aman;Aman
+;Kepulauan Mentawai;;Siberut Barat Daya;2;Pasakiat Taileleu;Aman;Aman
+;Kepulauan Mentawai;;Siberut Barat Daya;3;Sagulubbeg;Aman;Aman
+;Kepulauan Mentawai;5;Siberut Selatan;1;Madobag;Siaga;Siaga
+;Kepulauan Mentawai;;Siberut Selatan;2;Maileppet;Siaga;Siaga
+;Kepulauan Mentawai;;Siberut Selatan;3;Matotonan;Siaga;Siaga
+;Kepulauan Mentawai;;Siberut Selatan;4;Muara Siberut;Waspada;Waspada
+;Kepulauan Mentawai;;Siberut Selatan;5;Muntai;Siaga;Siaga
+;Kepulauan Mentawai;6;Siberut Utara;1;Bojakan;Siaga;Siaga
+;Kepulauan Mentawai;;Siberut Utara;2;Malancan;Siaga;Siaga
+;Kepulauan Mentawai;;Siberut Utara;3;Mongan Paula;Siaga;Siaga
+;Kepulauan Mentawai;;Siberut Utara;4;Muara Sikabaluan;Waspada;Waspada
+;Kepulauan Mentawai;;Siberut Utara;5;Sirilogui;Aman;Aman
+;Kepulauan Mentawai;;Siberut Utara;6;Sotboyak;Siaga;Siaga
+;Kepulauan Mentawai;7;Siberut Tengah;1;Cimpungan;Aman;Aman
+;Kepulauan Mentawai;;Siberut Tengah;2;Saibi Samukop;Aman;Aman
+;Kepulauan Mentawai;;Siberut Tengah;3;Saliguma;Aman;Aman
+;Kepulauan Mentawai;8;Sikakap;1;Matobe;Siaga;Siaga
+;Kepulauan Mentawai;;Sikakap;2;Sikakap;Waspada;Waspada
+;Kepulauan Mentawai;;Sikakap;3;Taikako;Waspada;Waspada
+;Kepulauan Mentawai;9;Sipora Selatan;1;Beriulou;Aman;Aman
+;Kepulauan Mentawai;;Sipora Selatan;2;Bosua;Aman;Aman
+;Kepulauan Mentawai;;Sipora Selatan;3;Mara;Siaga;Siaga
+;Kepulauan Mentawai;;Sipora Selatan;4;Matobe;Aman;Aman
+;Kepulauan Mentawai;;Sipora Selatan;5;Nemnemleleu;Siaga;Siaga
+;Kepulauan Mentawai;;Sipora Selatan;6;Saureinu;Siaga;Siaga
+;Kepulauan Mentawai;;Sipora Selatan;7;Sioban;Waspada;Waspada
+;Kepulauan Mentawai;10;Sipora Utara;1;Betumonga;Aman;Aman
+;Kepulauan Mentawai;;Sipora Utara;2;Bukit Pamewa;Aman;Aman
+;Kepulauan Mentawai;;Sipora Utara;3;Goisooinan;Siaga;Siaga
+;Kepulauan Mentawai;;Sipora Utara;4;Sido Makmur;Waspada;Waspada
+;Kepulauan Mentawai;;Sipora Utara;5;Sipora Jaya;Waspada;Waspada
+;Kepulauan Mentawai;;Sipora Utara;6;Tuapejat;Waspada;Waspada
+15;Padang Pariaman;1;2x11 Enam Lingkung;1;Lubuk Pandan;Aman;Aman
+;Padang Pariaman;;2x11 Enam Lingkung;2;Sicincin;Siaga;Siaga
+;Padang Pariaman;;2x11 Enam Lingkung;3;Sungai Asam;Aman;Aman
+;Padang Pariaman;2;Kayu Tanam;1;Anduriang;Aman;Aman
+;Padang Pariaman;;Kayu Tanam;2;Guguak;Aman;Aman
+;Padang Pariaman;;Kayu Tanam;3;Kapalo Hilalang;Siaga;Siaga
+;Padang Pariaman;;Kayu Tanam;4;Kayu Tanam;Siaga;Siaga
+;Padang Pariaman;3;IV Koto Aur Malintang;1;III Koto Aur Malintang;Waspada;Waspada
+;Padang Pariaman;;IV Koto Aur Malintang;2;III Koto Aur Malintang Selatan;Waspada;Waspada
+;Padang Pariaman;;IV Koto Aur Malintang;3;III Koto Aur Malintang Timur;Waspada;Waspada
+;Padang Pariaman;;IV Koto Aur Malintang;4;III Koto Aur Malintang Utara;Waspada;Waspada
+;Padang Pariaman;;IV Koto Aur Malintang;5;Balai Baiak Malai III Koto;Siaga;Siaga
+;Padang Pariaman;4;V Koto Kampung Dalam;1;Campago;Siaga;Siaga
+;Padang Pariaman;;V Koto Kampung Dalam;2;Campago Barat;Siaga;Siaga
+;Padang Pariaman;;V Koto Kampung Dalam;3;Campago Selatan;Siaga;Siaga
+;Padang Pariaman;;V Koto Kampung Dalam;4;Sicukua;Siaga;Siaga
+;Padang Pariaman;;V Koto Kampung Dalam;5;Sicukua Barat;Siaga;Siaga
+;Padang Pariaman;;V Koto Kampung Dalam;6;Sicukua Tengah;Siaga;Siaga
+;Padang Pariaman;;V Koto Kampung Dalam;7;Sicukua Timur;Siaga;Siaga
+;Padang Pariaman;;V Koto Kampung Dalam;8;Sicukua Utara;Siaga;Siaga
+;Padang Pariaman;5;V Koto Timur;1;Gunung Padang Alai;Siaga;Siaga
+;Padang Pariaman;;V Koto Timur;2;Kudu Gantiang;Siaga;Siaga
+;Padang Pariaman;;V Koto Timur;3;Kudu Gantiang Barat;Siaga;Siaga
+;Padang Pariaman;;V Koto Timur;4;Limau Puruik;Siaga;Siaga
+;Padang Pariaman;6;VII Koto Sungai Sarik;1;Ambuang Kapua Sungai Sariak;Siaga;Siaga
+;Padang Pariaman;;VII Koto Sungai Sarik;2;Balah Aie;Siaga;Siaga
+;Padang Pariaman;;VII Koto Sungai Sarik;3;Balah Aie Timur;Siaga;Siaga
+;Padang Pariaman;;VII Koto Sungai Sarik;4;Balah Aie Utara;Siaga;Siaga
+;Padang Pariaman;;VII Koto Sungai Sarik;5;Bisati Sungai Sariak;Siaga;Siaga
+;Padang Pariaman;;VII Koto Sungai Sarik;6;Lareh Nan Panjang;Aman;Aman
+;Padang Pariaman;;VII Koto Sungai Sarik;7;Lareh Nan Panjang Barat;Aman;Aman
+;Padang Pariaman;;VII Koto Sungai Sarik;8;Lareh Nan Panjang Selatan;Aman;Aman
+;Padang Pariaman;;VII Koto Sungai Sarik;9;Lareh Nan Panjang Sungai Sariak;Aman;Aman
+;Padang Pariaman;;VII Koto Sungai Sarik;10;Limpato Sungai Sariak;Siaga;Siaga
+;Padang Pariaman;;VII Koto Sungai Sarik;11;Lurah Ampalu;Siaga;Siaga
+;Padang Pariaman;;VII Koto Sungai Sarik;12;Sungai Sariak;Siaga;Siaga
+;Padang Pariaman;7;Batang Anai;1;Buayan Lubuk Alung;Siaga;Aman
+;Padang Pariaman;;Batang Anai;2;Kasang;Siaga;Siaga
+;Padang Pariaman;;Batang Anai;3;Katapiang;Siaga;Siaga
+;Padang Pariaman;;Batang Anai;4;Sungai Buluah;Siaga;Siaga
+;Padang Pariaman;;Batang Anai;5;Sungai Buluah Barat;Siaga;Siaga
+;Padang Pariaman;;Batang Anai;6;Sungai Buluah Selatan;Siaga;Siaga
+;Padang Pariaman;;Batang Anai;7;Sungai Buluah Timur;Siaga;Siaga
+;Padang Pariaman;;Batang Anai;8;Sungai Buluah Utara;Aman;Aman
+;Padang Pariaman;8;Batang Gasan;1;Gasan Gadang;Siaga;Siaga
+;Padang Pariaman;;Batang Gasan;2;Malai V Suku;Aman;Aman
+;Padang Pariaman;;Batang Gasan;3;Malai V Suku Timur;Aman;Aman
+;Padang Pariaman;9;Enam Lingkung;1;Gadur;Siaga;Siaga
+;Padang Pariaman;;Enam Lingkung;2;Koto Tinggi;Aman;Aman
+;Padang Pariaman;;Enam Lingkung;3;Pakandangan;Siaga;Siaga
+;Padang Pariaman;;Enam Lingkung;4;Parit Malintang;Siaga;Siaga
+;Padang Pariaman;;Enam Lingkung;5;Toboh Ketek;Aman;Aman
+;Padang Pariaman;10;Lubuk Alung;1;Aie Tajun Lubuk Alung;Waspada;Waspada
+;Padang Pariaman;;Lubuk Alung;2;Lubuk Alung;Waspada;Waspada
+;Padang Pariaman;;Lubuk Alung;3;Balah Hilie Lubuk Alung;Siaga;Siaga
+;Padang Pariaman;;Lubuk Alung;4;Pasie Laweh Lubuk Alung;Siaga;Siaga
+;Padang Pariaman;;Lubuk Alung;5;Punggung Kasiak Lubuk Alung;Siaga;Siaga
+;Padang Pariaman;;Lubuk Alung;6;Salibutan Lubuk Alung;Aman;Aman
+;Padang Pariaman;;Lubuk Alung;7;Sikabu Lubuk Alung;Waspada;Waspada
+;Padang Pariaman;;Lubuk Alung;8;Singguliang Lubuk Alung;Siaga;Siaga
+;Padang Pariaman;;Lubuk Alung;9;Sungai Abang Lubuk Alung;Siaga;Siaga
+;Padang Pariaman;11;Nan Sabaris;1;Kapalo Koto;Siaga;Siaga
+;Padang Pariaman;;Nan Sabaris;2;Kurai Taji;Aman;Aman
+;Padang Pariaman;;Nan Sabaris;3;Kurai Taji Timur;Aman;Aman
+;Padang Pariaman;;Nan Sabaris;4;Padang Bintungan;Aman;Aman
+;Padang Pariaman;;Nan Sabaris;5;Padang Kandang Pulau Air Padang;Aman;Aman
+;Padang Pariaman;;Nan Sabaris;6;Pauh Kambar;Siaga;Siaga
+;Padang Pariaman;;Nan Sabaris;7;Sunua;Aman;Aman
+;Padang Pariaman;;Nan Sabaris;8;Sunua Barat;Aman;Aman
+;Padang Pariaman;;Nan Sabaris;9;Sunua Tengah;Aman;Aman
+;Padang Pariaman;12;Padang Sago;1;Batu Kalang;Aman;Aman
+;Padang Pariaman;;Padang Sago;2;Batu Kalang Utara;Aman;Aman
+;Padang Pariaman;;Padang Sago;3;Koto Baru;Siaga;Siaga
+;Padang Pariaman;;Padang Sago;4;Koto Dalam;Siaga;Siaga
+;Padang Pariaman;;Padang Sago;5;Koto Dalam Barat;Siaga;Siaga
+;Padang Pariaman;;Padang Sago;6;Koto Dalam Selatan;Siaga;Siaga
+;Padang Pariaman;13;Patamuan;1;Kampuang Tanjuang Koto Mambang Sungai;Aman;Aman
+;Padang Pariaman;;Patamuan;2;Sungai Durian;Siaga;Siaga
+;Padang Pariaman;;Patamuan;3;Tandikek;Siaga;Siaga
+;Padang Pariaman;;Patamuan;4;Tandikek Barat;Siaga;Siaga
+;Padang Pariaman;;Patamuan;5;Tandikek Selatan;Siaga;Siaga
+;Padang Pariaman;;Patamuan;6;Tandikek Utara;Siaga;Siaga
+;Padang Pariaman;14;Sintuk Toboh Gadang;1;Sintuk;Siaga;Siaga
+;Padang Pariaman;;Sintuk Toboh Gadang;2;Toboh Gadang;Siaga;Siaga
+;Padang Pariaman;;Sintuk Toboh Gadang;3;Toboh Gadang Barat;Siaga;Siaga
+;Padang Pariaman;;Sintuk Toboh Gadang;4;Toboh Gadang Selatan;Siaga;Siaga
+;Padang Pariaman;;Sintuk Toboh Gadang;5;Toboh Gadang Timur;Siaga;Siaga
+;Padang Pariaman;15;Sungai Gerringging;1;Batu Gadang Kuranji Hulu;Waspada;Waspada
+;Padang Pariaman;;Sungai Gerringging;2;Kuranji Hulu;Waspada;Waspada
+;Padang Pariaman;;Sungai Gerringging;3;Malai III Koto;Waspada;Waspada
+;Padang Pariaman;;Sungai Gerringging;4;Sungai Sirah Kuranji Hulu;Waspada;Waspada
+;Padang Pariaman;16;Sungai Limau;1;Guguak Kuranji Hilir;Siaga;Siaga
+;Padang Pariaman;;Sungai Limau;2;Koto Tinggi Kuranji Hilir;Aman;Aman
+;Padang Pariaman;;Sungai Limau;3;Kuranji Hilir;Aman;Aman
+;Padang Pariaman;;Sungai Limau;4;Pilubang;Siaga;Siaga
+;Padang Pariaman;17;Ulakan Tapakis;1;Kampung Gelapuang Ulakan;Siaga;Siaga
+;Padang Pariaman;;Ulakan Tapakis;2;Manggopoh Palak Gadang Ulakan;Aman;Aman
+;Padang Pariaman;;Ulakan Tapakis;3;Padang Toboh Ulakan;Aman;Aman
+;Padang Pariaman;;Ulakan Tapakis;4;Sandi Ulakan;Aman;Aman
+;Padang Pariaman;;Ulakan Tapakis;5;Seulayat Ulakan;Aman;Aman
+;Padang Pariaman;;Ulakan Tapakis;6;Sungai Gimba Ulakan;Siaga;Siaga
+;Padang Pariaman;;Ulakan Tapakis;7;Tapakih;Siaga;Siaga
+;Padang Pariaman;;Ulakan Tapakis;8;Ulakan;Aman;Aman
+16;Pasaman;1;Bonjol;1;Ganggo Hilia;Siaga;Siaga
+;Pasaman;;Bonjol;2;Ganggo Mudiak;Siaga;Siaga
+;Pasaman;;Bonjol;3;Koto Kaciak;Siaga;Siaga
+;Pasaman;;Bonjol;4;Limo Koto;Siaga;Siaga
+;Pasaman;2;Duo Koto;1;Cubadak;Waspada;Waspada
+;Pasaman;;Duo Koto;2;Simpang Tonang;Waspada;Waspada
+;Pasaman;3;Lubuk Sikaping;1;Aia Manggih;Waspada;Waspada
+;Pasaman;;Lubuk Sikaping;2;Durian Tinggi;Waspada;Waspada
+;Pasaman;;Lubuk Sikaping;3;Jambak;Waspada;Waspada
+;Pasaman;;Lubuk Sikaping;4;Pauh;Waspada;Waspada
+;Pasaman;;Lubuk Sikaping;5;Sundata;Waspada;Waspada
+;Pasaman;;Lubuk Sikaping;6;Tanjung Beringin;Waspada;Waspada
+;Pasaman;4;Panti;1;Panti;Waspada;Waspada
+;Pasaman;;Panti;2;Panti Selatan;Waspada;Waspada
+;Pasaman;;Panti;3;Panti Timur;Waspada;Waspada
+;Pasaman;5;Mapat Tunggul;1;Lubuak Gadang;Waspada;Waspada
+;Pasaman;;Mapat Tunggul;2;Muara Tais;Waspada;Waspada
+;Pasaman;;Mapat Tunggul;3;Pintu Padang;Waspada;Waspada
+;Pasaman;6;Mapat Tunggul Selatan;1;Muaro Sungai Lolo;Waspada;Waspada
+;Pasaman;;Mapat Tunggul Selatan;2;Silayang;Waspada;Waspada
+;Pasaman;7;Padang Gelugur;1;Bahagia Padang Gelugua;Siaga;Siaga
+;Pasaman;;Padang Gelugur;2;Padang Gelugur;Siaga;Siaga
+;Pasaman;;Padang Gelugur;3;Sitombol Padang Gelugua;Siaga;Siaga
+;Pasaman;;Padang Gelugur;4;Sontang Cubadak;Siaga;Siaga
+;Pasaman;8;Rao;1;Padang Mantinggi;Waspada;Waspada
+;Pasaman;;Rao;2;Taruang Taruang;Waspada;Waspada
+;Pasaman;9;Rao Selatan;1;Lansek Kadok;Waspada;Waspada
+;Pasaman;;Rao Selatan;2;Lubuak Layang;Waspada;Waspada
+;Pasaman;;Rao Selatan;3;Tanjung Betung;Waspada;Waspada
+;Pasaman;10;Rao Utara;1;Koto Napan;Waspada;Waspada
+;Pasaman;;Rao Utara;2;Koto Rajo;Waspada;Waspada
+;Pasaman;;Rao Utara;3;Languang;Waspada;Waspada
+;Pasaman;11;Simpang Alahan Mati;1;Alahan Mati;Siaga;Siaga
+;Pasaman;;Simpang Alahan Mati;2;Simpang;Siaga;Siaga
+;Pasaman;12;Tigo Nagari;1;Binjai;Siaga;Siaga
+;Pasaman;;Tigo Nagari;2;Ladang Panjang;Siaga;Siaga
+;Pasaman;;Tigo Nagari;3;Malampah;Siaga;Siaga
+17;Pasaman Barat;1;Gunung Tuleh;1;Muaro Kiawai;Waspada;Siaga
+;Pasaman Barat;;Gunung Tuleh;2;Rabi Jonggor;Siaga;Siaga
+;Pasaman Barat;2;Kinali;1;Katiagan;Siaga;Siaga
+;Pasaman Barat;;Kinali;2;Kinali;Siaga;Siaga
+;Pasaman Barat;3;Koto Balingka;1;Parit;Waspada;Waspada
+;Pasaman Barat;4;Lembah Melintang;1;Ujung Gading;Bahaya;Bahaya
+;Pasaman Barat;5;Lunak Nan Duo;1;Kapa;Waspada;Waspada
+;Pasaman Barat;;Lunak Nan Duo;2;Koto Baru;Bahaya;Bahaya
+;Pasaman Barat;6;Pasaman;1;Aia Gadang;Waspada;Waspada
+;Pasaman Barat;;Pasaman;2;Aua Kuniang;Waspada;Waspada
+;Pasaman Barat;;Pasaman;3;Lingkuang Aua;Bahaya;Bahaya
+;Pasaman Barat;7;Ranah Batahan;1;Batahan;Bahaya;Bahaya
+;Pasaman Barat;;Ranah Batahan;2;Baru;Waspada;Waspada
+;Pasaman Barat;8;Sasak Ranah Pasisie;1;Sasak;Waspada;Waspada
+;Pasaman Barat;9;Sungai Aur;1;Sungai Aua;Bahaya;Bahaya
+;Pasaman Barat;10;Sungai Beremas;1;Aia Bangih;Bahaya;Bahaya
+;Pasaman Barat;11;Talamau;1;Kajai;Waspada;Waspada
+;Pasaman Barat;;Talamau;2;Sinuruik;Siaga;Siaga
+;Pasaman Barat;;Talamau;3;Talu;Waspada;Waspada
+18;Lima Puluh Kota;1;Akabiluru;1;Batu Hampar;Waspada;Waspada
+;Lima Puluh Kota;;Akabiluru;2;Durian Gadang;Siaga;Siaga
+;Lima Puluh Kota;;Akabiluru;3;Koto Tangah Batu Ampa;Bahaya;Bahaya
+;Lima Puluh Kota;;Akabiluru;4;Pauh Sangik;Waspada;Waspada
+;Lima Puluh Kota;;Akabiluru;5;Sariak Laweh;Siaga;Siaga
+;Lima Puluh Kota;;Akabiluru;6;Suayan;Aman;Aman
+;Lima Puluh Kota;;Akabiluru;7;Sungai Balantiak;Siaga;Siaga
+;Lima Puluh Kota;2;Bukik Barisan;;Banja Loweh;Aman;Aman
+;Lima Puluh Kota;;Bukik Barisan;2;Buruah Gunuang;Aman;Aman
+;Lima Puluh Kota;;Bukik Barisan;3;Koto Tangah;Waspada;Waspada
+;Lima Puluh Kota;;Bukik Barisan;4;Maek;Waspada;Waspada
+;Lima Puluh Kota;;Bukik Barisan;5;Sungai Naniang;Siaga;Siaga
+;Lima Puluh Kota;3;Guguak;1;Kubang;Siaga;Siaga
+;Lima Puluh Kota;;Guguak;2;Kubang Timur;Siaga;Siaga
+;Lima Puluh Kota;;Guguak;3;Kubang Barat;Siaga;Siaga
+;Lima Puluh Kota;;Guguak;4;Sungai Talang;Siaga;Siaga
+;Lima Puluh Kota;;Guguak;5;VII Koto Talago;Aman;Aman
+;Lima Puluh Kota;4;Gunuang Omeh;1;Koto Tinggi;Bahaya;Bahaya
+;Lima Puluh Kota;;Gunuang Omeh;2;Pandam Gadang;Siaga;Siaga
+;Lima Puluh Kota;;Gunuang Omeh;3;Talang Anau;Siaga;Siaga
+;Lima Puluh Kota;5;Harau;1;Batu Balang;Siaga;Siaga
+;Lima Puluh Kota;;Harau;2;Bukik Limbuku;Aman;Aman
+;Lima Puluh Kota;;Harau;3;Gurun;Siaga;Siaga
+;Lima Puluh Kota;;Harau;4;Harau;Waspada;Waspada
+;Lima Puluh Kota;;Harau;5;Koto Tou;Siaga;Siaga
+;Lima Puluh Kota;;Harau;6;Lubuak Batingkok;Aman;Aman
+;Lima Puluh Kota;;Harau;7;Pilubang;Siaga;Siaga
+;Lima Puluh Kota;;Harau;8;Sarilamak;Waspada;Waspada
+;Lima Puluh Kota;;Harau;9;Solok Bio Bio;Siaga;Siaga
+;Lima Puluh Kota;;Harau;10;Taram;Waspada;Waspada
+;Lima Puluh Kota;;Harau;11;Tarantang;Siaga;Siaga
+;Lima Puluh Kota;6;Kapur IX;1;Durian Tinggi;Bahaya;Bahaya
+;Lima Puluh Kota;;Kapur IX;2;Galugua;Waspada;Waspada
+;Lima Puluh Kota;;Kapur IX;3;Koto Bangun;Aman;Aman
+;Lima Puluh Kota;;Kapur IX;4;Koto Lamo;Siaga;Siaga
+;Lima Puluh Kota;;Kapur IX;5;Lubuak Alai;Waspada;Waspada
+;Lima Puluh Kota;;Kapur IX;6;Muaro Paiti;Siaga;Siaga
+;Lima Puluh Kota;;Kapur IX;7;Sialang;Waspada;Waspada
+;Lima Puluh Kota;7;Lareh Sago Halaban;1;Ampalu;Siaga;Siaga
+;Lima Puluh Kota;;Lareh Sago Halaban;2;Balai Panjang;Siaga;Siaga
+;Lima Puluh Kota;;Lareh Sago Halaban;3;Batu Payuang;Siaga;Siaga
+;Lima Puluh Kota;;Lareh Sago Halaban;4;Bukik Sikumpa;Waspada;Waspada
+;Lima Puluh Kota;;Lareh Sago Halaban;5;Halaban;Siaga;Siaga
+;Lima Puluh Kota;;Lareh Sago Halaban;6;Labuah Gunuang;Siaga;Siaga
+;Lima Puluh Kota;;Lareh Sago Halaban;7;Sitanang;Siaga;Siaga
+;Lima Puluh Kota;;Lareh Sago Halaban;8;Tanjuang Gadang;Aman;Aman
+;Lima Puluh Kota;8;Luak;1;Andaleh;Waspada;Waspada
+;Lima Puluh Kota;;Luak;2;Mungo;Siaga;Siaga
+;Lima Puluh Kota;;Luak;3;Sungai Kamuyang;Siaga;Siaga
+;Lima Puluh Kota;;Luak;4;Tj. Haro Sikabu-kabu Pd. Panjang;Waspada;Waspada
+;Lima Puluh Kota;9;Mungka;1;Jopang Manganti;Siaga;Siaga
+;Lima Puluh Kota;;Mungka;2;Mungka;Waspada;Waspada
+;Lima Puluh Kota;;Mungka;3;Simpang Kapuak;Aman;Aman
+;Lima Puluh Kota;;Mungka;4;Sungai Antuan;Siaga;Siaga
+;Lima Puluh Kota;;Mungka;5;Talang Maur;Siaga;Siaga
+;Lima Puluh Kota;10;Pangkalan Koto Baru;1;Gunuang Malintang;Siaga;Siaga
+;Lima Puluh Kota;;Pangkalan Koto Baru;2;Koto Alam;Waspada;Waspada
+;Lima Puluh Kota;;Pangkalan Koto Baru;3;Manggilang;Siaga;Siaga
+;Lima Puluh Kota;;Pangkalan Koto Baru;4;Pangkalan;Waspada;Waspada
+;Lima Puluh Kota;;Pangkalan Koto Baru;5;Tanjuang Balik;Siaga;Siaga
+;Lima Puluh Kota;;Pangkalan Koto Baru;6;Tanjung Pauh;Siaga;Siaga
+;Lima Puluh Kota;11;Payakumbuh;1;Koto Baru Simalanggang;Waspada;Waspada
+;Lima Puluh Kota;;Payakumbuh;2;Koto Tangah Simalanggang;Siaga;Siaga
+;Lima Puluh Kota;;Payakumbuh;3;Piobang;Waspada;Waspada
+;Lima Puluh Kota;;Payakumbuh;4;Simalanggang;Siaga;Siaga
+;Lima Puluh Kota;;Payakumbuh;5;Sungai Beringin;Siaga;Siaga
+;Lima Puluh Kota;;Payakumbuh;6;Taeh Baruah;Siaga;Siaga
+;Lima Puluh Kota;;Payakumbuh;7;Taeh Bukik;Bahaya;Bahaya
+;Lima Puluh Kota;12;Situjuh Limo Nagari;1;Situjuah Banda Dalam;Waspada;Waspada
+;Lima Puluh Kota;;Situjuh Limo Nagari;2;Situjuah Batua;Waspada;Waspada
+;Lima Puluh Kota;;Situjuh Limo Nagari;3;Situjuah Gadang;Aman;Aman
+;Lima Puluh Kota;;Situjuh Limo Nagari;4;Situjuah Ladang Laweh;Bahaya;Bahaya
+;Lima Puluh Kota;;Situjuh Limo Nagari;5;Tungka;Waspada;Waspada
+;Lima Puluh Kota;13;Suliki;1;Andiang;Siaga;Siaga
+;Lima Puluh Kota;;Suliki;2;Kurai;Aman;Aman
+;Lima Puluh Kota;;Suliki;3;Limbanang;Siaga;Siaga
+;Lima Puluh Kota;;Suliki;4;Suliki;Waspada;Waspada
+;Lima Puluh Kota;;Suliki;5;Sungai Rimbang;Siaga;Siaga
+;Lima Puluh Kota;;Suliki;6;Tanjuang Bungo;Siaga;Siaga
+19;Tanah Datar;1;X Koto;1;Aie Angek;Waspada;Waspada
+;Tanah Datar;;X Koto;2;Jaho;Aman;Aman
+;Tanah Datar;;X Koto;3;Koto Baru;Waspada;Waspada
+;Tanah Datar;;X Koto;4;Koto Laweh;Siaga;Siaga
+;Tanah Datar;;X Koto;5;Pandai Sikek;Siaga;Siaga
+;Tanah Datar;;X Koto;6;Paninjauan;Waspada;Waspada
+;Tanah Datar;;X Koto;7;Panyalaian;Aman;Aman
+;Tanah Datar;;X Koto;8;Singgalang;Waspada;Waspada
+;Tanah Datar;;X Koto;9;Tambangan;Aman;Aman
+;Tanah Datar;2;Batipuh;1;Andaleh;Aman;Aman
+;Tanah Datar;;Batipuh;2;Batipuh Ateh;Aman;Aman
+;Tanah Datar;;Batipuh;3;Batipuh Baruah;Aman;Aman
+;Tanah Datar;;Batipuh;4;Bungo Tanjuang;Bahaya;Bahaya
+;Tanah Datar;;Batipuh;5;Gunuang Rajo;Siaga;Siaga
+;Tanah Datar;;Batipuh;6;Pitalah;Aman;Aman
+;Tanah Datar;;Batipuh;7;Sabu;Aman;Aman
+;Tanah Datar;;Batipuh;8;Tanjuang Barulak;Aman;Aman
+;Tanah Datar;3;Batipuh Selatan;1;Batu Bata;Siaga;Siaga
+;Tanah Datar;;Batipuh Selatan;2;Guguak Malalo;Waspada;Waspada
+;Tanah Datar;;Batipuh Selatan;3;Padang Laweh Malalo;Waspada;Waspada
+;Tanah Datar;;Batipuh Selatan;4;Sumpur;Waspada;Waspada
+;Tanah Datar;4;Lima Kaum;1;Baringin;Waspada;Waspada
+;Tanah Datar;;Lima Kaum;2;Cubadak;Aman;Aman
+;Tanah Datar;;Lima Kaum;3;Labuah;Waspada;Waspada
+;Tanah Datar;;Lima Kaum;4;Limo Kaum;Bahaya;Bahaya
+;Tanah Datar;;Lima Kaum;5;Parambahan;Waspada;Waspada
+;Tanah Datar;5;Lintau Buo;1;Buo;Waspada;Waspada
+;Tanah Datar;;Lintau Buo;2;Pangian;Siaga;Siaga
+;Tanah Datar;;Lintau Buo;3;Taluak;Siaga;Siaga
+;Tanah Datar;;Lintau Buo;4;Tigo Jangko;Bahaya;Bahaya
+;Tanah Datar;6;Lintau Buo Utara;1;Balai Tangah;Siaga;Siaga
+;Tanah Datar;;Lintau Buo Utara;2;Batu Bulek;Siaga;Siaga
+;Tanah Datar;;Lintau Buo Utara;3;Lubuak Jantan;Waspada;Waspada
+;Tanah Datar;;Lintau Buo Utara;4;Tanjung Bonai;Siaga;Siaga
+;Tanah Datar;;Lintau Buo Utara;5;Tepi Selo;Waspada;Waspada
+;Tanah Datar;7;Padang Ganting;1;Atar;Siaga;Siaga
+;Tanah Datar;;Padang Ganting;2;Padang Ganting;Bahaya;Bahaya
+;Tanah Datar;8;Pariangan;1;Batu Basa;Aman;Aman
+;Tanah Datar;;Pariangan;2;Pariangan;Aman;Aman
+;Tanah Datar;;Pariangan;3;Sawah Tangah;Aman;Aman
+;Tanah Datar;;Pariangan;4;Simabur;Waspada;Waspada
+;Tanah Datar;;Pariangan;5;Sungai Jambu;Aman;Aman
+;Tanah Datar;;Pariangan;6;Tabek;Waspada;Waspada
+;Tanah Datar;9;Rambatan;1;III Koto;Waspada;Waspada
+;Tanah Datar;;Rambatan;2;Balimbing;Aman;Aman
+;Tanah Datar;;Rambatan;3;Padang Magek;Waspada;Waspada
+;Tanah Datar;;Rambatan;4;Rambatan;Waspada;Waspada
+;Tanah Datar;;Rambatan;5;Simawang;Waspada;Waspada
+;Tanah Datar;10;Salimpaung;1;Lawang Mandahiling;Waspada;Waspada
+;Tanah Datar;;Salimpaung;2;Salimpaung;Waspada;Waspada
+;Tanah Datar;;Salimpaung;3;Situmbuk;Waspada;Waspada
+;Tanah Datar;;Salimpaung;4;Sumanik;Waspada;Waspada
+;Tanah Datar;;Salimpaung;5;Supayang;Waspada;Waspada
+;Tanah Datar;;Salimpaung;6;Tabek Patah;Waspada;Waspada
+;Tanah Datar;11;Sungai Tarab;1;Gurun;Waspada;Waspada
+;Tanah Datar;;Sungai Tarab;2;Koto Baru;Aman;Aman
+;Tanah Datar;;Sungai Tarab;3;Koto Tuo;bahaya;bahaya
+;Tanah Datar;;Sungai Tarab;4;Kumango;Waspada;Waspada
+;Tanah Datar;;Sungai Tarab;5;Padang Laweh;Siaga;Siaga
+;Tanah Datar;;Sungai Tarab;6;Pasie Laweh;Aman;Aman
+;Tanah Datar;;Sungai Tarab;7;RaoRao;Siaga;Siaga
+;Tanah Datar;;Sungai Tarab;8;Simpuruik;Siaga;Siaga
+;Tanah Datar;;Sungai Tarab;9;Sungai Tarab;Waspada;Waspada
+;Tanah Datar;;Sungai Tarab;10;Talang Tangah;Siaga;Siaga
+;Tanah Datar;12;Sungayang;1;Andaleh Baruh Bukik;Aman;Aman
+;Tanah Datar;;Sungayang;2;Minangkabau;Aman;Aman
+;Tanah Datar;;Sungayang;3;Sungai Patai;Waspada;Waspada
+;Tanah Datar;;Sungayang;4;Sungayang;Siaga;Siaga
+;Tanah Datar;;Sungayang;5;Tanjung;Aman;Aman
+;Tanah Datar;13;Tanjung Baru;1;Barulak;Waspada;Waspada
+;Tanah Datar;;Tanjung Baru;2;Tanjung Alam;Waspada;Waspada

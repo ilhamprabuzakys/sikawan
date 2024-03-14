@@ -1,0 +1,256 @@
+{% extends "home/base_home.html" %}
+{% load static %}
+
+{% block title %} FAQ (Frequently Asked Questions) {% endblock title %}
+{% block container %} container-fluid {% endblock container %}
+
+{% block content %}
+
+<section id="faq" class="px-4 mb-5">
+
+    <div class="container">
+        <section id="heading" class="row align-items-center justify-content-center g-5 py-5" data-aos="fade-up">
+            <div class="col-lg-2">
+                <img src="{% static 'assets/home/images/question.png' %}" class="d-block mx-lg-auto img-fluid"
+                    alt="FAQ Image" width="500" height="400" loading="eager" title="FAQ Image">
+            </div>
+            <div class="col-lg-8">
+                <h1 class="display-5 fw-bold text-body-emphasis lh-1 mb-3">Pertanyaan yang sering diajukan</h1>
+                <p class="mt-3 mb-4">
+                    Berikut merupakan daftar pertanyaan yang sering diajukan ke situs <b>KAWAN</b> dan <b>Direktorat
+                        Pemberdayaan Alternatif</b> dari <b>Deputi Bidang Pemberdayaan Masyarakat</b>.</p>
+            </div>
+        </section>
+
+        <section id="daftar_pertanyaan">
+            <div class="row align-items-center justify-content-between">
+                <div class="col-lg-12">
+                    <div class="accordion" id="list_left_question">
+                        <div data-aos="fade-up" data-aos-once="true" class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#left_question_1" aria-expanded="true"
+                                    aria-controls="left_question_1">
+                                    Apa itu Kawan?
+                                </button>
+                            </h2>
+                            <div id="left_question_1" class="accordion-collapse collapse"
+                                data-bs-parent="#list_left_question">
+                                <div class="accordion-body">
+                                    Kawan merupakan singkatan dari <b>Kawasan Rawan</b>, yang merupakan suatu aplikasi
+                                    dari <b>Direktorat Pemberdayaan Alternatif</b> <b>Deputi Bidang Pemberdayaan
+                                        Masyarakat</b> yang memiliki fungsi dan tujuan sebagai media untuk memonitoring
+                                    semua status kerawanan di Indonesia.
+                                </div>
+                            </div>
+                        </div>
+                        <div data-aos="fade-up" data-aos-once="true" class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#left_question_2" aria-expanded="true"
+                                    aria-controls="left_question_2">
+                                    Apa tujuan dari aplikasi ini?
+                                </button>
+                            </h2>
+                            <div id="left_question_2" class="accordion-collapse collapse"
+                                data-bs-parent="#list_left_question">
+                                <div class="accordion-body">
+                                    Tujuan dari aplikasi <b>Kawasan Rawan</b> yakni menjadikan aplikasi sebagai media
+                                    untuk memonitoring semua status kerawanan di Indonesia dan menampilkan data tersebut
+                                    ke seluruh rakyat Indonesia sebagai sumber informasi terkait <b>status kerawanan</b>
+                                    di daerahnya masing-masing.
+                                </div>
+                            </div>
+                        </div>
+                        <div data-aos="fade-up" data-aos-once="true" class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#left_question_3" aria-expanded="true"
+                                    aria-controls="left_question_3">
+                                    Apa maksud dari status kerawanan?
+                                </button>
+                            </h2>
+                            <div id="left_question_3" class="accordion-collapse collapse"
+                                data-bs-parent="#list_left_question">
+                                <div class="accordion-body">
+                                    Status kerawanan merupakan indikator dari keadaan <b>kerawanan</b> di daerahnya
+                                    masing-masing yang dilaporkan oleh <b>BNNP</b> masing-masing wilayah.
+                                </div>
+                            </div>
+                        </div>
+                        <div data-aos="fade-up" data-aos-once="true" class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#left_question_4" aria-expanded="true"
+                                    aria-controls="left_question_4">
+                                    Kapan data dari aplikasi ini diperbarui?
+                                </button>
+                            </h2>
+                            <div id="left_question_4" class="accordion-collapse collapse"
+                                data-bs-parent="#list_left_question">
+                                <div class="accordion-body">
+                                    Data Status kerawanan dari semua daerah akan secara <b>serempak</b> diperbarui
+                                    setelah proses verifikasi dan juga pengumpulan data keseluruhan dari masing-masing
+                                    <b>BNNP</b> ke pusat.
+                                </div>
+                            </div>
+                        </div>
+                        <div data-aos="fade-up" data-aos-once="true" class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#right_question_1" aria-expanded="true"
+                                    aria-controls="right_question_1">
+                                    Bagaimana cara masuk ke aplikasi ini?
+                                </button>
+                            </h2>
+                            <div id="right_question_1" class="accordion-collapse collapse"
+                                data-bs-parent="#list_right_question">
+                                <div class="accordion-body">
+                                    Pengguna dapat masuk ke aplikasi dengan menggunakan <b>akun BNN</b> yang terdaftar,
+                                    sehingga yang dapat masuk ke aplikasi ini hanyalah pengguna yang
+                                    <b>terverifikasi</b> sebagai anggota bagian dari <b>BNN</b>
+                                </div>
+                            </div>
+                        </div>
+                        <div data-aos="fade-up" data-aos-once="true" class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#right_question_2" aria-expanded="true"
+                                    aria-controls="right_question_2">
+                                    Bagaimana cara saya melaporkan status kerawanan terkait daerah saya?
+                                </button>
+                            </h2>
+                            <div id="right_question_2" class="accordion-collapse collapse"
+                                data-bs-parent="#list_right_question">
+                                <div class="accordion-body">
+                                    Untuk saat ini aktifitas <b>pelaporan</b> status kerawanan terkait daerah hanya
+                                    dapat dilakukan oleh <b>BNNP</b> masing-masing daerah.
+                                </div>
+                            </div>
+                        </div>
+                        <div data-aos="fade-up" data-aos-once="true" class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#right_question_3" aria-expanded="true"
+                                    aria-controls="right_question_3">
+                                    Apakah aplikasi ini terbuka untuk umum?
+                                </button>
+                            </h2>
+                            <div id="right_question_3" class="accordion-collapse collapse"
+                                data-bs-parent="#list_right_question">
+                                <div class="accordion-body">
+                                    Untuk saat ini aplikasi <b>Kawasan Rawan</b> terbuka untuk umum hanya untuk beberapa
+                                    menu seperti menu yang ada di bagian <b>Info</b> dan menu <b>Kawasan Rawan</b>.
+                                </div>
+                            </div>
+                        </div>
+                        <div data-aos="fade-up" data-aos-once="true" class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#right_question_4" aria-expanded="true"
+                                    aria-controls="right_question_4">
+                                    Apa solusinya jika saya tidak dapat login ke aplikasi?
+                                </button>
+                            </h2>
+                            <div id="right_question_4" class="accordion-collapse collapse"
+                                data-bs-parent="#list_right_question">
+                                <div class="accordion-body">
+                                    Jika anda sudah mencoba login ke aplikasi dengan menggunakan <b>akun BNN</b> dan ternyata gagal, untuk mengatasi masalah ini, anda dapat mengunjungi halaman <a
+                                        href="{% url 'accounts:login' %}">Login</a> dan klik tombol <b>Lupa
+                                        Password</b>, anda akan diarahkan ke halaman website BNN bagian
+                                    <b>puslitdatin</b> untuk mengatasi masalah anda.
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                {% comment %} <div class="col-lg-12">
+                    <div class="accordion" id="list_right_question">
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#right_question_1" aria-expanded="true"
+                                    aria-controls="right_question_1">
+                                    Bagaimana cara masuk ke aplikasi ini?
+                                </button>
+                            </h2>
+                            <div id="right_question_1" class="accordion-collapse collapse"
+                                data-bs-parent="#list_right_question">
+                                <div class="accordion-body">
+                                    Pengguna dapat masuk ke aplikasi dengan menggunakan <b>akun BNN</b> yang terdaftar,
+                                    sehingga yang dapat masuk ke aplikasi ini hanyalah pengguna yang
+                                    <b>terverifikasi</b> sebagai anggota bagian dari <b>BNN</b>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#right_question_2" aria-expanded="true"
+                                    aria-controls="right_question_2">
+                                    Bagaimana cara saya melaporkan status kerawanan terkait daerah saya?
+                                </button>
+                            </h2>
+                            <div id="right_question_2" class="accordion-collapse collapse"
+                                data-bs-parent="#list_right_question">
+                                <div class="accordion-body">
+                                    Untuk saat ini aktifitas <b>pelaporan</b> status kerawanan terkait daerah hanya
+                                    dapat dilakukan oleh <b>BNNP</b> masing-masing daerah.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#right_question_3" aria-expanded="true"
+                                    aria-controls="right_question_3">
+                                    Apakah aplikasi ini terbuka untuk umum?
+                                </button>
+                            </h2>
+                            <div id="right_question_3" class="accordion-collapse collapse"
+                                data-bs-parent="#list_right_question">
+                                <div class="accordion-body">
+                                    Untuk saat ini aplikasi <b>Kawasan Rawan</b> terbuka untuk umum hanya untuk beberapa
+                                    menu seperti menu yang ada di bagian <b>Info</b> dan menu <b>Kawasan Rawan</b>.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#right_question_4" aria-expanded="true"
+                                    aria-controls="right_question_4">
+                                    Apa solusinya jika saya tidak dapat login ke aplikasi?
+                                </button>
+                            </h2>
+                            <div id="right_question_4" class="accordion-collapse collapse"
+                                data-bs-parent="#list_right_question">
+                                <div class="accordion-body">
+                                    Jika anda sudah mencoba login ke aplikasi dengan menggunakan <b>akun BNN</b> dan ternyata gagal, untuk mengatasi masalah ini, anda dapat mengunjungi halaman <a
+                                        href="{% url 'accounts:login' %}">Login</a> dan klik tombol <b>Lupa
+                                        Password</b>, anda akan diarahkan ke halaman website BNN bagian
+                                    <b>puslitdatin</b> untuk mengatasi masalah anda.
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div> {% endcomment %}
+            </div>
+        </section>
+    </div>
+</section>
+{% endblock content %}
+
+{% block head %}
+<style>
+    .accordion .accordion-body {}
+
+    .accordion .accordion-item {
+        border-radius: 0;
+    }
+
+    .accordion .accordion-button:not(.collapsed) {
+        background-color: #fff;
+    }
+</style>
+{% endblock head %}

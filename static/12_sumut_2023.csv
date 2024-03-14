@@ -1,0 +1,2552 @@
+﻿1;Medan;1;Medan Amplas;1;Amplas;Siaga;Siaga
+;Medan;2;Medan Area;2;Kotamatsum I;Bahaya;Siaga
+;Medan;2;Medan Area;2;Kotamatsum Iv;Bahaya;Siaga
+;Medan;10;Medan Kota;2;Pandau Hulu I;Siaga;Siaga
+;Medan;10;Medan Kota;2;Sei Rengas I;Siaga;Siaga
+;Medan;18;Medan Selayang;2;Tanjung Sari;Siaga;Siaga
+;Binjai;1;Binjai Barat;2;Limau Mungkur;Bahaya;Siaga
+;Binjai;1;Binjai Barat;2;Paya Roba;Bahaya;Siaga
+;Binjai;1;Binjai Barat;2;Suka Ramai;Bahaya;Siaga
+;Binjai;2;Binjai Kota;2;Berngam;Bahaya;Siaga
+;Binjai;2;Binjai Kota;2;Kartini;Siaga;Siaga
+;Binjai;2;Binjai Kota;2;Pekan Binjai;Bahaya;Siaga
+;Binjai;2;Binjai Kota;2;Kampung Binjai;Siaga;Siaga
+;Binjai;3;Binjai Selatan;2;Rambung Barat;Waspada;Siaga
+;Binjai;3;Binjai Selatan;2;Rambung Timur;Bahaya;Siaga
+;Binjai;4;Binjai Timur;2;Dataran Tinggi;Bahaya;Siaga
+;Binjai;4;Binjai Timur;2;Sumber Karya;Bahaya;Siaga
+;Binjai;4;Binjai Timur;2;Sumber Mulyo Rejo;Bahaya;Siaga
+;Binjai;5;Binjai Utara;2;Pahlawan;Bahaya;Siaga
+;Asahan;3;Kecamatan Pulo Bandring;2;Taman Sari;Siaga;Siaga
+;Asahan;3;Kecamatan Pulo Bandring;2;Perhutaan Silau;Siaga;Siaga
+;Asahan;3;Kecamatan Pulo Bandring;2;Suka Damai;Siaga;Siaga
+;Asahan;3;Kecamatan Pulo Bandring;2;Tanah Rakyat;Siaga;Siaga
+;Asahan;3;Kecamatan Pulo Bandring;2;Gedangan;Siaga;Siaga
+;Asahan;3;Kecamatan Pulo Bandring;2;Pulo Bandring;Siaga;Siaga
+;Asahan;4;Kecamatan Simpang Empat;2;Perkebunan Hessa;Siaga;Siaga
+;Asahan;4;Kecamatan Simpang Empat;2;Anjung Ganjang;Siaga;Siaga
+;Asahan;5;Kecamatan Sei Dadap;2;Sei Kamah Ii;Siaga;Siaga
+;Asahan;5;Kecamatan Sei Dadap;2;Pasiran;Siaga;Siaga
+;Asahan;5;Kecamatan Sei Dadap;2;Perkebunan Sei Dadap I/Ii;Siaga;Siaga
+;Asahan;5;Kecamatan Sei Dadap;2;Perkebunan Sei Dadap Iii/Iv;Siaga;Siaga
+;Asahan;5;Kecamatan Sei Dadap;2;Bahung Sibatu-Batu;Siaga;Siaga
+;Asahan;5;Kecamatan Sei Dadap;2;Tanjung Asri;Siaga;Siaga
+;Asahan;6;Kecamatan Silau Laut;2;Silo Bonto;Siaga;Siaga
+;Asahan;6;Kecamatan Silau Laut;2;Silo Baru;Siaga;Siaga
+;Asahan;7;Kecamatan Buntu Pane;2;Mekar Sari;Siaga;Siaga
+;Asahan;7;Kecamatan Buntu Pane;2;Prapat Janji;Siaga;Siaga
+;Asahan;7;Kecamatan Buntu Pane;2;Perkebunan Sei Silau;Siaga;Siaga
+;Asahan;8;Kecamatan Bandar Pasir Mandoge;2;Huta Bagasan;Siaga;Siaga
+;Asahan;8;Kecamatan Bandar Pasir Mandoge;2;Tomuan Holbung;Siaga;Siaga
+;Asahan;8;Kecamatan Bandar Pasir Mandoge;2;Gotting Sidodadi;Siaga;Siaga
+;Asahan;8;Kecamatan Bandar Pasir Mandoge;2;Silau Jama;Siaga;Siaga
+;Asahan;8;Kecamatan Bandar Pasir Mandoge;2;Sei Nadoras;Siaga;Siaga
+;Asahan;9;Kecamatan Aek Ledong;2;Padang Sipirok;Siaga;Siaga
+;Asahan;10;Kecamatan Setia Janji;2;Sei Silau Tua;Siaga;Siaga
+;Asahan;10;Kecamatan Setia Janji;2;Sei Silau Barat;Siaga;Siaga
+;Asahan;11;Kecamatan Bandar Pulau;2;Bandar Pulau Pekan;Siaga;Siaga
+;Asahan;11;Kecamatan Bandar Pulau;2;Perkebunan Padang Pulau;Siaga;Siaga
+;Asahan;11;Kecamatan Bandar Pulau;2;Buntu Maraja;Siaga;Siaga
+;Asahan;11;Kecamatan Bandar Pulau;2;Gunung Berkat;Siaga;Siaga
+;Asahan;11;Kecamatan Bandar Pulau;2;Gonting Malaha;Siaga;Siaga
+;Asahan;11;Kecamatan Bandar Pulau;2;Perkebunan Aek Tarum;Siaga;Siaga
+;Asahan;11;Kecamatan Bandar Pulau;2;Huta Rao;Siaga;Siaga
+;Asahan;12;Kecamatan Aek Kuasan;2;Rawa Sari;Siaga;Siaga
+;Asahan;12;Kecamatan Aek Kuasan;2;Lobu Jiur;Siaga;Siaga
+;Asahan;12;Kecamatan Aek Kuasan;2;Alang Bonbon;Siaga;Siaga
+;Asahan;12;Kecamatan Aek Kuasan;2;Sengon Sari;Siaga;Siaga
+;Asahan;13;Kecamatan Air Batu;2;Perkebunan Air Batu Iii/Ix;Siaga;Siaga
+;Asahan;13;Kecamatan Air Batu;2;Pinanggiripan;Siaga;Siaga
+;Asahan;13;Kecamatan Air Batu;2;Danau Sijabut;Siaga;Siaga
+;Asahan;13;Kecamatan Air Batu;2;Sijabut Teratai;Siaga;Siaga
+;Asahan;13;Kecamatan Air Batu;2;Pulahan;Siaga;Siaga
+;Asahan;14;Kecamatan Tinggi Raja;2;Terusan Tengah;Siaga;Siaga
+;Asahan;14;Kecamatan Tinggi Raja;2;Padang Sari;Siaga;Siaga
+;Asahan;14;Kecamatan Tinggi Raja;2;Teladan;Siaga;Siaga
+;Asahan;15;Kecamatan Tanjung Balai;2;Kapias Batu Viii;Siaga;Siaga
+;Asahan;16;Kecamatan Sei Kepayang;2;Perbangunan;Siaga;Siaga
+;Asahan;16;Kecamatan Sei Kepayang;2;Pertahanan;Siaga;Siaga
+;Asahan;16;Kecamatan Sei Kepayang;2;Bangun Baru;Siaga;Siaga
+;Asahan;16;Kecamatan Sei Kepayang;2;Sei Kepayang Kanan;Siaga;Siaga
+;Asahan;16;Kecamatan Sei Kepayang;2;Sei Kepayang Tengah;Siaga;Siaga
+;Asahan;18;Kecamatan Sei Kepayang Barat;2;Sei Tualang Pandau;Siaga;Siaga
+;Asahan;18;Kecamatan Sei Kepayang Barat;2;Sei Kepayang Kiri;Siaga;Siaga
+;Asahan;19;Kecamatan Aek Songsongan;2;Perkebunan Bandar Pulau;Siaga;Siaga
+;Asahan;19;Kecamatan Aek Songsongan;2;Aek Bambon;Siaga;Siaga
+;Asahan;19;Kecamatan Aek Songsongan;2;Marjanji Aceh;Siaga;Siaga
+;Asahan;19;Kecamatan Aek Songsongan;2;Tangga;Siaga;Siaga
+;Asahan;19;Kecamatan Aek Songsongan;2;Mekar Marjanji;Siaga;Siaga
+;Asahan;19;Kecamatan Aek Songsongan;2;Situnjak;Siaga;Siaga
+;Asahan;20;Kecamatan Teluk Dalam;2;Pulau Tanjung;Siaga;Siaga
+;Asahan;20;Kecamatan Teluk Dalam;2;Mekar Tanjung;Siaga;Siaga
+;Asahan;21;Kecamatan Pulau Rakyat;2;Sei Piring;Siaga;Siaga
+;Asahan;21;Kecamatan Pulau Rakyat;2;Baru;Siaga;Siaga
+;Asahan;21;Kecamatan Pulau Rakyat;2;Bangun;Siaga;Siaga
+;Asahan;21;Kecamatan Pulau Rakyat;2;Ofa Padang Mahondang;Siaga;Siaga
+;Asahan;22;Kecamatan Air Joman;2;Pasar Lembu;Siaga;Siaga
+;Asahan;23;Kecamatan Rahuning;2;Rahuning Ii;Siaga;Siaga
+;Asahan;23;Kecamatan Rahuning;2;Perkebunan Gunung Melayu;Siaga;Siaga
+;Asahan;24;Kecamatan Rawang Panca Arga;2;Pondok Bungur;Siaga;Siaga
+;Asahan;24;Kecamatan Rawang Panca Arga;2;Rawang Lama;Siaga;Siaga
+;Asahan;24;Kecamatan Rawang Panca Arga;2;Rawang Pasar V;Siaga;Siaga
+;Asahan;24;Kecamatan Rawang Panca Arga;2;Rawang Pasar Vi;Siaga;Siaga
+;Asahan;25;Kecamatan Meranti;2;Serdang;Siaga;Siaga
+;Asahan;25;Kecamatan Meranti;2;Perkebunan Sei Balai;Siaga;Siaga
+;Asahan;25;Kecamatan Meranti;2;Sukajadi;Siaga;Siaga
+;Asahan;25;Kecamatan Meranti;2;Air Putih;Siaga;Siaga
+;Pematang Siantar;2;Siantar Martoba;2;Kel.Tanjung Pinggir;Bahaya;Siaga
+;Pematang Siantar;3;Siantar Timur;2;Kebun Sayur;Siaga;Siaga
+;Pematang Siantar;4;Siantar Utara;2;Kahean;Bahaya;Siaga
+;Pematang Siantar;5;Siantar Marihat;2;Bp. Nauli;Siaga;Siaga
+;Pematang Siantar;5;Siantar Marihat;2;Mekar Nauli;Siaga;Siaga
+;Pematang Siantar;6;Siantar Selatan;2;Toba;Siaga;Siaga
+;Pematang Siantar;8;Siantar Sitalasari;2;Bah Sorma;Siaga;Siaga
+5;Humbang Hasundutan;1;Bakti Raja;2;Marbun Tonga Marbun Dolok;Siaga;Siaga
+;Humbang Hasundutan;1;Bakti Raja;2;Marbun Toruan;Siaga;Siaga
+;Humbang Hasundutan;1;Bakti Raja;2;Simamora;Siaga;Siaga
+;Humbang Hasundutan;1;Bakti Raja;2;Simangulampe;Siaga;Siaga
+;Humbang Hasundutan;1;Bakti Raja;2;Sinambela;Siaga;Siaga
+;Humbang Hasundutan;1;Bakti Raja;2;Siunong-Unong Julu;Siaga;Siaga
+;Humbang Hasundutan;1;Bakti Raja;2;Tipang;Siaga;Siaga
+;Humbang Hasundutan;2;Dolok Sanggul;2;Kel.Bonani Onan;Siaga;Siaga
+;Humbang Hasundutan;2;Dolok Sanggul;2;Huta Bagasan;Siaga;Siaga
+;Humbang Hasundutan;2;Dolok Sanggul;2;Hutaraja;Siaga;Siaga
+;Humbang Hasundutan;2;Dolok Sanggul;2;Janji;Siaga;Siaga
+;Humbang Hasundutan;2;Dolok Sanggul;2;Lumban Purba;Siaga;Siaga
+;Humbang Hasundutan;2;Dolok Sanggul;2;Matiti I;Siaga;Siaga
+;Humbang Hasundutan;2;Dolok Sanggul;2;Matiti Ii;Siaga;Siaga
+;Humbang Hasundutan;2;Dolok Sanggul;2;Pakkat;Siaga;Siaga
+;Humbang Hasundutan;2;Dolok Sanggul;2;Parik Sinomba;Siaga;Siaga
+;Humbang Hasundutan;2;Dolok Sanggul;2;Purba Manalu;Siaga;Siaga
+;Humbang Hasundutan;2;Dolok Sanggul;2;Saitnihuta;Siaga;Siaga
+;Humbang Hasundutan;2;Dolok Sanggul;2;Sampean;Siaga;Siaga
+;Humbang Hasundutan;2;Dolok Sanggul;2;Sihite Ii;Siaga;Siaga
+;Humbang Hasundutan;2;Dolok Sanggul;2;Silaga-Laga;Siaga;Siaga
+;Humbang Hasundutan;2;Dolok Sanggul;2;Sileang;Siaga;Siaga
+;Humbang Hasundutan;2;Dolok Sanggul;2;Simangaronsang;Siaga;Siaga
+;Humbang Hasundutan;2;Dolok Sanggul;2;Simarigung;Siaga;Siaga
+;Humbang Hasundutan;2;Dolok Sanggul;2;Sirisirisi;Siaga;Siaga
+;Humbang Hasundutan;2;Dolok Sanggul;2;Sosor Gonting;Siaga;Siaga
+;Humbang Hasundutan;2;Dolok Sanggul;2;Sosor Tambok;Siaga;Siaga
+;Humbang Hasundutan;3;Lintong Nihuta;2;Bonan Dolok;Siaga;Siaga
+;Humbang Hasundutan;3;Lintong Nihuta;2;Dolok Margu;Siaga;Siaga
+;Humbang Hasundutan;3;Lintong Nihuta;2;Habeahan;Siaga;Siaga
+;Humbang Hasundutan;3;Lintong Nihuta;2;Hutasoit;Siaga;Siaga
+;Humbang Hasundutan;3;Lintong Nihuta;2;Hutasoit Ii;Siaga;Siaga
+;Humbang Hasundutan;3;Lintong Nihuta;2;Lobu Tua;Siaga;Siaga
+;Humbang Hasundutan;3;Lintong Nihuta;2;Naga Saribu I;Siaga;Siaga
+;Humbang Hasundutan;3;Lintong Nihuta;2;Naga Saribu Ii;Siaga;Siaga
+;Humbang Hasundutan;3;Lintong Nihuta;2;Naga Saribu Iii;Siaga;Siaga
+;Humbang Hasundutan;3;Lintong Nihuta;2;Naga Saribu Iv;Siaga;Siaga
+;Humbang Hasundutan;3;Lintong Nihuta;2;Naga Saribu V;Siaga;Siaga
+;Humbang Hasundutan;3;Lintong Nihuta;2;Pargaulan;Siaga;Siaga
+;Humbang Hasundutan;3;Lintong Nihuta;2;Parulohan;Siaga;Siaga
+;Humbang Hasundutan;3;Lintong Nihuta;2;Sibuntuon Partur;Siaga;Siaga
+;Humbang Hasundutan;3;Lintong Nihuta;2;Sigompul;Siaga;Siaga
+;Humbang Hasundutan;3;Lintong Nihuta;2;Sigumpar;Siaga;Siaga
+;Humbang Hasundutan;3;Lintong Nihuta;2;Siponjot;Siaga;Siaga
+;Humbang Hasundutan;3;Lintong Nihuta;2;Sitio Ii;Siaga;Siaga
+;Humbang Hasundutan;3;Lintong Nihuta;2;Sitolu Bahal;Siaga;Siaga
+;Humbang Hasundutan;3;Lintong Nihuta;2;Tapian Nauli;Siaga;Siaga
+;Humbang Hasundutan;3;Lintong Nihuta;2;Siharjulu;Siaga;Siaga
+;Humbang Hasundutan;4;Onan Ganjang;2;Kelurahan Onan Ganjang;Siaga;Siaga
+;Humbang Hasundutan;4;Onan Ganjang;2;Aek Godang;Siaga;Siaga
+;Humbang Hasundutan;4;Onan Ganjang;2;Batu Nagodang Siatas;Siaga;Siaga
+;Humbang Hasundutan;4;Onan Ganjang;2;Hutajulu;Siaga;Siaga
+;Humbang Hasundutan;4;Onan Ganjang;2;Janji Nagodang;Siaga;Siaga
+;Humbang Hasundutan;4;Onan Ganjang;2;Parbotihan;Siaga;Siaga
+;Humbang Hasundutan;4;Onan Ganjang;2;Pamapa;Siaga;Siaga
+;Humbang Hasundutan;4;Onan Ganjang;2;Sampetua;Siaga;Siaga
+;Humbang Hasundutan;4;Onan Ganjang;2;Sanggaran Ii;Siaga;Siaga
+;Humbang Hasundutan;4;Onan Ganjang;2;Sibuluan;Siaga;Siaga
+;Humbang Hasundutan;4;Onan Ganjang;2;Sigalogo;Siaga;Siaga
+;Humbang Hasundutan;4;Onan Ganjang;2;Sihikkit;Siaga;Siaga
+;Humbang Hasundutan;5;Pakkat;2;Banuarea;Siaga;Siaga
+;Humbang Hasundutan;5;Pakkat;2;Karya;Siaga;Siaga
+;Humbang Hasundutan;5;Pakkat;2;Lumban Tonga-Tonga;Siaga;Siaga
+;Humbang Hasundutan;5;Pakkat;2;Manalu;Siaga;Siaga
+;Humbang Hasundutan;5;Pakkat;2;Parmonangan;Siaga;Siaga
+;Humbang Hasundutan;5;Pakkat;2;Pulo Godang;Siaga;Siaga
+;Humbang Hasundutan;5;Pakkat;2;Purba Baringin;Siaga;Siaga
+;Humbang Hasundutan;5;Pakkat;2;Purba Bersatu;Siaga;Siaga
+;Humbang Hasundutan;5;Pakkat;2;Rura Aek Sopang;Siaga;Siaga
+;Humbang Hasundutan;5;Pakkat;2;Rura Tanjung;Siaga;Siaga
+;Humbang Hasundutan;5;Pakkat;2;Siambaton;Siaga;Siaga
+;Humbang Hasundutan;5;Pakkat;2;Sijarango;Siaga;Siaga
+;Humbang Hasundutan;5;Pakkat;2;Sipagabu;Siaga;Siaga
+;Humbang Hasundutan;5;Pakkat;2;Hauagong;Siaga;Siaga
+;Humbang Hasundutan;5;Pakkat;2;Panggugunan;Siaga;Siaga
+;Humbang Hasundutan;5;Pakkat;2;Peadungdung;Siaga;Siaga
+;Humbang Hasundutan;5;Pakkat;2;Purba Sianjur;Siaga;Siaga
+;Humbang Hasundutan;5;Pakkat;2;Siambaton Pahae;Siaga;Siaga
+;Humbang Hasundutan;5;Pakkat;2;Sijarango I;Siaga;Siaga
+;Humbang Hasundutan;5;Pakkat;2;Tukka Dolok;Siaga;Siaga
+;Humbang Hasundutan;6;Paranginan;2;Lobu Tolong;Siaga;Siaga
+;Humbang Hasundutan;6;Paranginan;2;Lobu Tolongi;Siaga;Siaga
+;Humbang Hasundutan;6;Paranginan;2;Lumban Barat;Siaga;Siaga
+;Humbang Hasundutan;6;Paranginan;2;Lumban Sialaman;Siaga;Siaga
+;Humbang Hasundutan;6;Paranginan;2;Lumban Sianturi;Siaga;Siaga
+;Humbang Hasundutan;6;Paranginan;2;Paranginan Selatan;Siaga;Siaga
+;Humbang Hasundutan;6;Paranginan;2;Paranginan Utara;Siaga;Siaga
+;Humbang Hasundutan;6;Paranginan;2;Pearung;Siaga;Siaga
+;Humbang Hasundutan;6;Paranginan;2;Pearung Silali;Siaga;Siaga
+;Humbang Hasundutan;6;Paranginan;2;Siborutorop;Siaga;Siaga
+;Humbang Hasundutan;6;Paranginan;2;Sihonongan;Siaga;Siaga
+;Humbang Hasundutan;7;Parlilitan;2;Baringin;Siaga;Siaga
+;Humbang Hasundutan;7;Parlilitan;2;Baringin Natam;Siaga;Siaga
+;Humbang Hasundutan;7;Parlilitan;2;Janji Hutanapa;Siaga;Siaga
+;Humbang Hasundutan;7;Parlilitan;2;Pusuk I;Siaga;Siaga
+;Humbang Hasundutan;7;Parlilitan;2;Pusuk Ii Simaninggir;Siaga;Siaga
+;Humbang Hasundutan;7;Parlilitan;2;Sihotang Hasugian Dolok I;Siaga;Siaga
+;Humbang Hasundutan;7;Parlilitan;2;Sihotang Hasugian Dolok Ii;Siaga;Siaga
+;Humbang Hasundutan;7;Parlilitan;2;Sihotang Hasugian Habinsaran;Siaga;Siaga
+;Humbang Hasundutan;7;Parlilitan;2;Sihotang Hasugian Tonga;Siaga;Siaga
+;Humbang Hasundutan;7;Parlilitan;2;Simataniari;Siaga;Siaga
+;Humbang Hasundutan;7;Parlilitan;2;Sionom Hudon Julu;Siaga;Siaga
+;Humbang Hasundutan;7;Parlilitan;2;Sionom Hudon Runggu;Siaga;Siaga
+;Humbang Hasundutan;7;Parlilitan;2;Sionom Hudon Selatan;Siaga;Siaga
+;Humbang Hasundutan;7;Parlilitan;2;Sionom Hudon Sibulbulon;Siaga;Siaga
+;Humbang Hasundutan;7;Parlilitan;2;Sioom Hudon Timur;Siaga;Siaga
+;Humbang Hasundutan;7;Parlilitan;2;Sionom Hudon Timur Ii;Siaga;Siaga
+;Humbang Hasundutan;7;Parlilitan;2;Sionom Hudon Tonga;Siaga;Siaga
+;Humbang Hasundutan;7;Parlilitan;2;Sionom Hudon Toruan;Siaga;Siaga
+;Humbang Hasundutan;7;Parlilitan;2;Sionom Hudon Utara;Siaga;Siaga
+;Humbang Hasundutan;7;Parlilitan;2;Sionom Hudon Vii;Siaga;Siaga
+;Humbang Hasundutan;8;Pollung;2;Aek Nauli I;Siaga;Siaga
+;Humbang Hasundutan;8;Pollung;2;Aek Nauli Ii;Siaga;Siaga
+;Humbang Hasundutan;8;Pollung;2;Huta Julu;Siaga;Siaga
+;Humbang Hasundutan;8;Pollung;2;Huta Paung;Siaga;Siaga
+;Humbang Hasundutan;8;Pollung;2;Huta Paung Utara;Siaga;Siaga
+;Humbang Hasundutan;8;Pollung;2;Pandumaan;Siaga;Siaga
+;Humbang Hasundutan;8;Pollung;2;Pansur Batu;Siaga;Siaga
+;Humbang Hasundutan;8;Pollung;2;Pardomuan;Siaga;Siaga
+;Humbang Hasundutan;8;Pollung;2;Parsingguran Ii;Siaga;Siaga
+;Humbang Hasundutan;8;Pollung;2;Parsingguran Ii;Siaga;Siaga
+;Humbang Hasundutan;8;Pollung;2;Ria-Ria;Siaga;Siaga
+;Humbang Hasundutan;9;Sijama Polang;2;Batuu Nagajar;Siaga;Siaga
+;Humbang Hasundutan;9;Sijama Polang;2;Bonan Dolok I;Siaga;Siaga
+;Humbang Hasundutan;9;Sijama Polang;2;Bonan Dolok Ii;Siaga;Siaga
+;Humbang Hasundutan;9;Sijama Polang;2;Hutaginjang;Siaga;Siaga
+;Humbang Hasundutan;9;Sijama Polang;2;Sanggaran I;Siaga;Siaga
+;Humbang Hasundutan;9;Sijama Polang;2;Nagurguran;Siaga;Siaga
+;Humbang Hasundutan;9;Sijama Polang;2;Siborboron;Siaga;Siaga
+;Humbang Hasundutan;9;Sijama Polang;2;Sibuntuon;Siaga;Siaga
+;Humbang Hasundutan;9;Sijama Polang;2;Sigulok;Siaga;Siaga
+;Humbang Hasundutan;9;Sijama Polang;2;Sitapongan;Siaga;Siaga
+;Humbang Hasundutan;10;Tarabintang;2;Marpadan;Siaga;Siaga
+;Humbang Hasundutan;10;Tarabintang;2;Mungkur;Siaga;Siaga
+;Humbang Hasundutan;10;Tarabintang;2;Sibongkare;Siaga;Siaga
+;Humbang Hasundutan;10;Tarabintang;2;Sbongkare Sianju;Siaga;Siaga
+;Humbang Hasundutan;10;Tarabintang;2;Sihombu;Siaga;Siaga
+;Humbang Hasundutan;10;Tarabintang;2;Sihotang Hasugian Toruan;Siaga;Siaga
+;Humbang Hasundutan;10;Tarabintang;2;Simbara;Siaga;Siaga
+;Humbang Hasundutan;10;Tarabintang;2;Sitanduk;Siaga;Siaga
+;Humbang Hasundutan;10;Tarabintang;2;Tarabintang;Siaga;Siaga
+6;Samosir;1;Harian;2;Dolok Raja;Siaga;Siaga
+;Samosir;1;Harian;2;Hariara Pintu;Siaga;Siaga
+;Samosir;1;Harian;2;Hariara Pohan;Siaga;Siaga
+;Samosir;1;Harian;2;Janji Martahan;Siaga;Siaga
+;Samosir;1;Harian;2;Hutagalung;Siaga;Siaga
+;Samosir;1;Harian;2;Partungko Naginjang;Siaga;Siaga
+;Samosir;1;Harian;2;Sampur Toba;Siaga;Siaga
+;Samosir;1;Harian;2;Siparmahan;Siaga;Siaga
+;Samosir;1;Harian;2;Sosor Dolok;Siaga;Siaga
+;Samosir;1;Harian;2;Turpuk Limbong;Siaga;Siaga
+;Samosir;1;Harian;2;Turpuk Malau;Siaga;Siaga
+;Samosir;1;Harian;2;Turpuk Sagala;Siaga;Siaga
+;Samosir;1;Harian;2;Turpuk Sihotang;Siaga;Siaga
+;Samosir;2;Nainggolan;2;Kelurahan Parhusip Iii;Siaga;Siaga
+;Samosir;2;Nainggolan;2;Kelurahan Siruma Hombar;Siaga;Siaga
+;Samosir;2;Nainggolan;2;Huta Rihit;Siaga;Siaga
+;Samosir;2;Nainggolan;2;Janji Marapot;Siaga;Siaga
+;Samosir;2;Nainggolan;2;Nainggolan;Siaga;Siaga
+;Samosir;2;Nainggolan;2;Panangganan;Siaga;Siaga
+;Samosir;2;Nainggolan;2;Panangganan Ii;Siaga;Siaga
+;Samosir;2;Nainggolan;2;Pangaloan;Siaga;Siaga
+;Samosir;2;Nainggolan;2;Pasaran I;Siaga;Siaga
+;Samosir;2;Nainggolan;2;Pasaran Parsaoran;Siaga;Siaga
+;Samosir;2;Nainggolan;2;Sibonor Ompu Ratus;Siaga;Siaga
+;Samosir;2;Nainggolan;2;Sinaga Uruk Pandiangan;Siaga;Siaga
+;Samosir;2;Nainggolan;2;Sipinggan;Siaga;Siaga
+;Samosir;2;Nainggolan;2;Sipinggan Lumban Siantar;Siaga;Siaga
+;Samosir;2;Nainggolan;2;Toguan Galung;Siaga;Siaga
+;Samosir;3;Onan Runggu;2;Harian;Siaga;Siaga
+;Samosir;3;Onan Runggu;2;Huta Hotang;Siaga;Siaga
+;Samosir;3;Onan Runggu;2;Janji Matogu;Siaga;Siaga
+;Samosir;3;Onan Runggu;2;Onan Runggu;Siaga;Siaga
+;Samosir;3;Onan Runggu;2;Pakpahan;Siaga;Siaga
+;Samosir;3;Onan Runggu;2;Pardomuan;Siaga;Siaga
+;Samosir;3;Onan Runggu;2;Rinabolak;Siaga;Siaga
+;Samosir;3;Onan Runggu;2;Silima Lombu;Siaga;Siaga
+;Samosir;3;Onan Runggu;2;Sipira;Siaga;Siaga
+;Samosir;3;Onan Runggu;2;Sitamiang;Siaga;Siaga
+;Samosir;3;Onan Runggu;2;Sitinjak;Siaga;Siaga
+;Samosir;3;Onan Runggu;2;Tambun Sungkean;Siaga;Siaga
+;Samosir;4;Palipi;2;Gorat Pallombuan;Siaga;Siaga
+;Samosir;4;Palipi;2;Hatoguan;Siaga;Siaga
+;Samosir;4;Palipi;2;Huta Dame;Siaga;Siaga
+;Samosir;4;Palipi;2;Huta Ginjang;Siaga;Siaga
+;Samosir;4;Palipi;2;Palipi;Siaga;Siaga
+;Samosir;4;Palipi;2;Pallombuan;Siaga;Siaga
+;Samosir;4;Palipi;2;Pamutaran;Siaga;Siaga
+;Samosir;4;Palipi;2;Pardomuan Nauli;Siaga;Siaga
+;Samosir;4;Palipi;2;Parsaoran Urat;Siaga;Siaga
+;Samosir;4;Palipi;2;Saor Nauli Hatoguan;Siaga;Siaga
+;Samosir;4;Palipi;2;Sideak;Siaga;Siaga
+;Samosir;4;Palipi;2;Sigaol Marbun;Siaga;Siaga
+;Samosir;4;Palipi;2;Sigaol Simbolon;Siaga;Siaga
+;Samosir;4;Palipi;2;Simbolon Purba;Siaga;Siaga
+;Samosir;4;Palipi;2;Suhut Nihuta Pardomuan;Siaga;Siaga
+;Samosir;4;Palipi;2;Urat Ii;Siaga;Siaga
+;Samosir;4;Palipi;2;Urat Timur;Siaga;Siaga
+;Samosir;5;Pangururan;2;Kelurahan Pasar Pangururan;Siaga;Siaga
+;Samosir;5;Pangururan;2;Kelurahan Pintu Sona;Siaga;Siaga
+;Samosir;5;Pangururan;2;Kelurahan Siogung-Ogung;Siaga;Siaga
+;Samosir;5;Pangururan;2;Aek Nauli;Siaga;Siaga
+;Samosir;5;Pangururan;2;Huta Bolon;Siaga;Siaga
+;Samosir;5;Pangururan;2;Huta Namora;Siaga;Siaga
+;Samosir;5;Pangururan;2;Huta Tinggi;Siaga;Siaga
+;Samosir;5;Pangururan;2;Lumban Pinggol;Siaga;Siaga
+;Samosir;5;Pangururan;2;Lumban Suhi-Suhi Toruan;Siaga;Siaga
+;Samosir;5;Pangururan;2;Panampangan;Siaga;Siaga
+;Samosir;5;Pangururan;2;Parbaba Dolok;Siaga;Siaga
+;Samosir;5;Pangururan;2;Pardomuan I;Siaga;Siaga
+;Samosir;5;Pangururan;2;Pardomuan Nauli;Siaga;Siaga
+;Samosir;5;Pangururan;2;Pardugul;Siaga;Siaga
+;Samosir;5;Pangururan;2;Parhorasan;Siaga;Siaga
+;Samosir;5;Pangururan;2;Parlondut;Siaga;Siaga
+;Samosir;5;Pangururan;2;Parmonangan;Siaga;Siaga
+;Samosir;5;Pangururan;2;Parsaoran I;Siaga;Siaga
+;Samosir;5;Pangururan;2;Rianiate;Siaga;Siaga
+;Samosir;5;Pangururan;2;Sait Nihuta;Siaga;Siaga
+;Samosir;5;Pangururan;2;Sialanguan;Siaga;Siaga
+;Samosir;5;Pangururan;2;Sianting-Anting;Siaga;Siaga
+;Samosir;5;Pangururan;2;Siopat Sosor;Siaga;Siaga
+;Samosir;5;Pangururan;2;Desan Situngkir;Siaga;Siaga
+;Samosir;6;Ronggur Nihuta;2;Lintong Nihuta;Siaga;Siaga
+;Samosir;6;Ronggur Nihuta;2;Paraduan;Siaga;Siaga
+;Samosir;6;Ronggur Nihuta;2;Ronggur Nihuta;Siaga;Siaga
+;Samosir;6;Ronggur Nihuta;2;Sabungan Nihuta;Siaga;Siaga
+;Samosir;6;Ronggur Nihuta;2;Salaon Dolok;Siaga;Siaga
+;Samosir;6;Ronggur Nihuta;2;Salaon Toba;Siaga;Siaga
+;Samosir;6;Ronggur Nihuta;2;Salaon Tonga Tonga;Siaga;Siaga
+;Samosir;6;Ronggur Nihuta;2;Sijambur;Siaga;Siaga
+;Samosir;7;Simanindo;2;Ambarita;Siaga;Siaga
+;Samosir;7;Simanindo;2;Cinta Dame;Siaga;Siaga
+;Samosir;7;Simanindo;2;Dosroha;Siaga;Siaga
+;Samosir;7;Simanindo;2;Garoga;Siaga;Siaga
+;Samosir;7;Simanindo;2;Huta Ginjang;Siaga;Siaga
+;Samosir;7;Simanindo;2;Maduma;Siaga;Siaga
+;Samosir;7;Simanindo;2;Marlumba;Siaga;Siaga
+;Samosir;7;Simanindo;2;Martobaparbalohan;Siaga;Siaga
+;Samosir;7;Simanindo;2;Pardomuan;Siaga;Siaga
+;Samosir;7;Simanindo;2;Parmonangan;Siaga;Siaga
+;Samosir;7;Simanindo;2;Siallagan;Siaga;Siaga
+;Samosir;7;Simanindo;2;Pinda Raya;Siaga;Siaga
+;Samosir;7;Simanindo;2;Sihusapi;Siaga;Siaga
+;Samosir;7;Simanindo;2;Simanindo;Siaga;Siaga
+;Samosir;7;Simanindo;2;Simanindo Sangkal;Siaga;Siaga
+;Samosir;7;Simanindo;2;Simarmata;Siaga;Siaga
+;Samosir;7;Simanindo;2;Tanjungan;Siaga;Siaga
+;Samosir;7;Simanindo;2;Tomok;Siaga;Siaga
+;Samosir;7;Simanindo;2;Tomok Parsaoran;Siaga;Siaga
+;Samosir;7;Simanindo;2;Unjur;Siaga;Siaga
+;Samosir;8;Sitio-Tio;2;Buntu Mauli;Siaga;Siaga
+;Samosir;8;Sitio-Tio;2;Cinta Maju;Siaga;Siaga
+;Samosir;8;Sitio-Tio;2;Holbung;Siaga;Siaga
+;Samosir;8;Sitio-Tio;2;Janji Maria;Siaga;Siaga
+;Samosir;8;Sitio-Tio;2;Janji Raja;Siaga;Siaga
+;Samosir;8;Sitio-Tio;2;Parsaoran;Siaga;Siaga
+;Samosir;8;Sitio-Tio;2;Sabulan;Siaga;Siaga
+;Samosir;9;Sianjur Mula-Mula;2;Aek Sipitudai;Siaga;Siaga
+;Samosir;9;Sianjur Mula-Mula;2;Bonan Dolok;Siaga;Siaga
+;Samosir;9;Sianjur Mula-Mula;2;Ginolat;Siaga;Siaga
+;Samosir;9;Sianjur Mula-Mula;2;Habeahan Naburahan;Siaga;Siaga
+;Samosir;9;Sianjur Mula-Mula;2;Hasinggaan;Siaga;Siaga
+;Samosir;9;Sianjur Mula-Mula;2;Huta Ginjang;Siaga;Siaga
+;Samosir;9;Sianjur Mula-Mula;2;Huta Gurgur;Siaga;Siaga
+;Samosir;9;Sianjur Mula-Mula;2;Sari Marihit;Siaga;Siaga
+;Samosir;9;Sianjur Mula-Mula;2;Sianjur Mulamula;Siaga;Siaga
+;Samosir;9;Sianjur Mula-Mula;2;Siboro;Siaga;Siaga
+;Samosir;9;Sianjur Mula-Mula;2;Singkam;Siaga;Siaga
+;Samosir;9;Sianjur Mula-Mula;2;Boho;Siaga;Siaga
+7;Karo;1;Barusjahe;2;Barus Jahe;Siaga;Siaga
+;Karo;1;Barusjahe;2;Barus Julu;Waspada;Siaga
+;Karo;1;Barusjahe;2;Bulan Julu;Siaga;Siaga
+;Karo;1;Barusjahe;2;Paribun;Waspada;Siaga
+;Karo;1;Barusjahe;2;Penampen;Siaga;Siaga
+;Karo;1;Barusjahe;2;Persadanta;Siaga;Siaga
+;Karo;1;Barusjahe;2;Rumamis;Siaga;Siaga
+;Karo;1;Barusjahe;2;Sarimanis;Siaga;Siaga
+;Karo;1;Barusjahe;2;Semangat;Siaga;Siaga
+;Karo;1;Barusjahe;2;Serdang;Siaga;Siaga
+;Karo;1;Barusjahe;2;Sikab;Siaga;Siaga
+;Karo;1;Barusjahe;2;Sinaman;Siaga;Siaga
+;Karo;1;Barusjahe;2;Tangkidik;Siaga;Siaga
+;Karo;1;Barusjahe;2;Tanjung Barus;Waspada;Siaga
+;Karo;2;Berastagi;2;Doulu;Waspada;Siaga
+;Karo;2;Berastagi;2;Kelurahan Gundaling I;Waspada;Siaga
+;Karo;2;Berastagi;2;Kelurahan Gundaling Ii;Waspada;Siaga
+;Karo;2;Berastagi;2;Gurusinga;Waspada;Siaga
+;Karo;2;Berastagi;2;Rumah Berastagi;Waspada;Siaga
+;Karo;2;Berastagi;2;Sempajaya;Waspada;Siaga
+;Karo;2;Berastagi;2;Tambak Lau Mulgap I;Waspada;Siaga
+;Karo;2;Berastagi;2;Tambak Lau Mulgap Ii;Waspada;Siaga
+;Karo;3;Dolat Rayat;2;Bukit;Siaga;Siaga
+;Karo;3;Dolat Rayat;2;Dolat Rayat;Waspada;Siaga
+;Karo;3;Dolat Rayat;2;Kubucolia;Siaga;Siaga
+;Karo;3;Dolat Rayat;2;Melas;Siaga;Siaga
+;Karo;3;Dolat Rayat;2;Sampun;Siaga;Siaga
+;Karo;3;Dolat Rayat;2;Sugihen;Siaga;Siaga
+;Karo;4;Juhar;2;Batu Mamak;Siaga;Siaga
+;Karo;4;Juhar;2;Bekilang;Siaga;Siaga
+;Karo;4;Juhar;2;Buluh Pancur;Waspada;Siaga
+;Karo;4;Juhar;2;Gunung Juhar;Siaga;Siaga
+;Karo;4;Juhar;2;Jandi (Jandi Meriah);Siaga;Siaga
+;Karo;4;Juhar;2;Juhar Ginting;Bahaya;Siaga
+;Karo;4;Juhar;2;Juhar Perangin-Angin;Siaga;Siaga
+;Karo;4;Juhar;2;Juhar Tarigan;Siaga;Siaga
+;Karo;4;Juhar;2;Keriahen;Siaga;Siaga
+;Karo;4;Juhar;2;Ketawaren;Siaga;Siaga
+;Karo;4;Juhar;2;Kidupen;Siaga;Siaga
+;Karo;4;Juhar;2;Kutagugung;Siaga;Siaga
+;Karo;4;Juhar;2;Kutambelin;Siaga;Siaga
+;Karo;4;Juhar;2;Lau Kidupen;Siaga;Siaga
+;Karo;4;Juhar;2;Lau Lingga;Siaga;Siaga
+;Karo;4;Juhar;2;Mbetong;Siaga;Siaga
+;Karo;4;Juhar;2;Naga;Siaga;Siaga
+;Karo;4;Juhar;2;Nageri;Siaga;Siaga
+;Karo;4;Juhar;2;Namosuro;Siaga;Siaga
+;Karo;4;Juhar;2;Pasar Baru;Siaga;Siaga
+;Karo;4;Juhar;2;Pernantin;Siaga;Siaga
+;Karo;4;Juhar;2;Sigenderang;Siaga;Siaga
+;Karo;4;Juhar;2;Sugihen;Waspada;Siaga
+;Karo;4;Juhar;2;Sukababo;Siaga;Siaga
+;Karo;4;Juhar;2;Juhar Ginting Sadanioga;Siaga;Siaga
+;Karo;5;Kabanjahe;2;Kelurahan Gung Leto;Bahaya;Siaga
+;Karo;5;Kabanjahe;2;Kaban;Siaga;Siaga
+;Karo;5;Kabanjahe;2;Kacaribu;Waspada;Siaga
+;Karo;5;Kabanjahe;2;Kandibata;Waspada;Siaga
+;Karo;5;Kabanjahe;2;Ketaren;Waspada;Siaga
+;Karo;5;Kabanjahe;2;Lausimono;Siaga;Siaga
+;Karo;5;Kabanjahe;2;Rumah Kabanjahe;Waspada;Siaga
+;Karo;5;Kabanjahe;2;Samura;Bahaya;Siaga
+;Karo;5;Kabanjahe;2;Sumber Mufakat;Waspada;Siaga
+;Karo;5;Kabanjahe;2;Kelurahan Gung Negeri;Bahaya;Siaga
+;Karo;5;Kabanjahe;2;Kelurahan Kampung Dalam;Waspada;Siaga
+;Karo;5;Kabanjahe;2;Kelurahan Lau Cimba;Bahaya;Siaga
+;Karo;5;Kabanjahe;2;Kelurahan Padang Mas;Bahaya;Siaga
+;Karo;6;Kuta Buluh;2;Amburidi;Siaga;Siaga
+;Karo;6;Kuta Buluh;2;Bintang Meriah;Siaga;Siaga
+;Karo;6;Kuta Buluh;2;Buah Raya;Siaga;Siaga
+;Karo;6;Kuta Buluh;2;Gunung Meriah;Siaga;Siaga
+;Karo;6;Kuta Buluh;2;Jinabun;Siaga;Siaga
+;Karo;6;Kuta Buluh;2;Kuta Buluh;Waspada;Siaga
+;Karo;6;Kuta Buluh;2;Kuta Buluh Gugung;Siaga;Siaga
+;Karo;6;Kuta Buluh;2;Kuta Male;Siaga;Siaga
+;Karo;6;Kuta Buluh;2;Lau Buluh;Waspada;Siaga
+;Karo;6;Kuta Buluh;2;Liang Merdeka;Siaga;Siaga
+;Karo;6;Kuta Buluh;2;Negeri Jahe;Siaga;Siaga
+;Karo;6;Kuta Buluh;2;Pola Tebu;Siaga;Siaga
+;Karo;6;Kuta Buluh;2;Rih Tengah;Siaga;Siaga
+;Karo;6;Kuta Buluh;2;Siabang-Abang;Siaga;Siaga
+;Karo;6;Kuta Buluh;2;Tanjung Merahe;Siaga;Siaga
+;Karo;6;Kuta Buluh;2;Ujung Deleng;Siaga;Siaga
+;Karo;7;Lau Baleng;2;Buluh Pancur;Bahaya;Siaga
+;Karo;7;Lau Baleng;2;Durin Rugun;Siaga;Siaga
+;Karo;7;Lau Baleng;2;Kinangkong;Siaga;Siaga
+;Karo;7;Lau Baleng;2;Kutambelin;Siaga;Siaga
+;Karo;7;Lau Baleng;2;Lau Baleng;Waspada;Siaga
+;Karo;7;Lau Baleng;2;Lau Paranggunen;Siaga;Siaga
+;Karo;7;Lau Baleng;2;Lingga Muda;Siaga;Siaga
+;Karo;7;Lau Baleng;2;Perbulan;Waspada;Siaga
+;Karo;7;Lau Baleng;2;Rambah Tampu;Siaga;Siaga
+;Karo;7;Lau Baleng;2;Tanjung Gunung;Siaga;Siaga
+;Karo;7;Lau Baleng;2;Pintu Angin;Siaga;Siaga
+;Karo;7;Lau Baleng;2;Batu Rongkam;Siaga;Siaga
+;Karo;8;Mardinding;2;Kuta Pengkih;Siaga;Siaga
+;Karo;8;Mardinding;2;Lau Kasumpat;Siaga;Siaga
+;Karo;8;Mardinding;2;Lau Mulgap;Siaga;Siaga
+;Karo;8;Mardinding;2;Lau Pakam;Waspada;Siaga
+;Karo;8;Mardinding;2;Lau Pengulu;Siaga;Siaga
+;Karo;8;Mardinding;2;Lau Solu;Siaga;Siaga
+;Karo;8;Mardinding;2;Mardingding;Bahaya;Siaga
+;Karo;8;Mardinding;2;Rimo Bunga;Siaga;Siaga
+;Karo;8;Mardinding;2;Tanjung Pamah;Siaga;Siaga
+;Karo;8;Mardinding;2;Bukit Makmur;Siaga;Siaga
+;Karo;8;Mardinding;2;Lau Garut;Siaga;Siaga
+;Karo;9;Merdeka;2;Cinta Rayat;Siaga;Siaga
+;Karo;9;Merdeka;2;Deram;Waspada;Siaga
+;Karo;9;Merdeka;2;Gongsol;Siaga;Siaga
+;Karo;9;Merdeka;2;Jaranguda;Waspada;Siaga
+;Karo;9;Merdeka;2;Merdeka;Waspada;Siaga
+;Karo;9;Merdeka;2;Sada Perarih;Siaga;Siaga
+;Karo;9;Merdeka;2;Semangat;Siaga;Siaga
+;Karo;9;Merdeka;2;Semangat Gunung;Siaga;Siaga
+;Karo;9;Merdeka;2;Ujung Teran;Siaga;Siaga
+;Karo;10;Merek;2;Ajinembah;Siaga;Siaga
+;Karo;10;Merek;2;Bandar Tongging;Siaga;Siaga
+;Karo;10;Merek;2;Dokan;Waspada;Siaga
+;Karo;10;Merek;2;Garingging;Siaga;Siaga
+;Karo;10;Merek;2;Kodon-Kodon;Siaga;Siaga
+;Karo;10;Merek;2;Merek;Waspada;Siaga
+;Karo;10;Merek;2;Nagalingga;Siaga;Siaga
+;Karo;10;Merek;2;Nagara;Siaga;Siaga
+;Karo;10;Merek;2;Negeri Tongging;Siaga;Siaga
+;Karo;10;Merek;2;Pancur Batu;Siaga;Siaga
+;Karo;10;Merek;2;Pangambaten;Siaga;Siaga
+;Karo;10;Merek;2;Pertibi Lama;Waspada;Siaga
+;Karo;10;Merek;2;Pertibitembe;Siaga;Siaga
+;Karo;10;Merek;2;Regaji;Waspada;Siaga
+;Karo;10;Merek;2;Sibolangit;Siaga;Siaga
+;Karo;10;Merek;2;Situnggaling;Siaga;Siaga
+;Karo;10;Merek;2;Sukamandi;Siaga;Siaga
+;Karo;10;Merek;2;Tongging;Siaga;Siaga
+;Karo;11;Munte;2;Bandar Meriah;Siaga;Siaga
+;Karo;11;Munte;2;Barung Kersap;Siaga;Siaga
+;Karo;11;Munte;2;Biak Nampe;Siaga;Siaga
+;Karo;11;Munte;2;Buluh Naman;Waspada;Siaga
+;Karo;11;Munte;2;Gunung Saribu;Siaga;Siaga
+;Karo;11;Munte;2;Gurubenua;Siaga;Siaga
+;Karo;11;Munte;2;Kabantua;Siaga;Siaga
+;Karo;11;Munte;2;Kineppen;Siaga;Siaga
+;Karo;11;Munte;2;Kutagerat;Siaga;Siaga
+;Karo;11;Munte;2;Kutambaru;Waspada;Siaga
+;Karo;11;Munte;2;Kutasuah;Siaga;Siaga
+;Karo;11;Munte;2;Nageri;Siaga;Siaga
+;Karo;11;Munte;2;Parimbalang;Siaga;Siaga
+;Karo;11;Munte;2;Pertumbungen;Siaga;Siaga
+;Karo;11;Munte;2;Sarimunte;Bahaya;Siaga
+;Karo;11;Munte;2;Sarinembah;Waspada;Siaga
+;Karo;11;Munte;2;Selakkar;Siaga;Siaga
+;Karo;11;Munte;2;Singgamanik;Waspada;Siaga
+;Karo;11;Munte;2;Sukarame;Waspada;Siaga
+;Karo;11;Munte;2;Tanjung Beringin;Siaga;Siaga
+;Karo;12;Nama Teran;2;Bekerah;Siaga;Siaga
+;Karo;12;Nama Teran;2;Gung Pinto;Siaga;Siaga
+;Karo;12;Nama Teran;2;Kebayaken;Waspada;Siaga
+;Karo;12;Nama Teran;2;Kuta Gugung;Siaga;Siaga
+;Karo;12;Nama Teran;2;Kuta Mbelin;Siaga;Siaga
+;Karo;12;Nama Teran;2;Kuta Rayat;Waspada;Siaga
+;Karo;12;Nama Teran;2;Kuta Tonggal;Siaga;Siaga
+;Karo;12;Nama Teran;2;Naman;Waspada;Siaga
+;Karo;12;Nama Teran;2;Ndeskati;Siaga;Siaga
+;Karo;12;Nama Teran;2;Sigarang Garang;Siaga;Siaga
+;Karo;12;Nama Teran;2;Simacem;Siaga;Siaga
+;Karo;12;Nama Teran;2;Suka Nalu;Siaga;Siaga
+;Karo;12;Nama Teran;2;Suka Ndebi;Siaga;Siaga
+;Karo;12;Nama Teran;2;Sukatepu;Siaga;Siaga
+;Karo;13;Payung;2;Batukarang;Waspada;Siaga
+;Karo;13;Payung;2;Cimbang;Siaga;Siaga
+;Karo;13;Payung;2;Gurukinayan;Waspada;Siaga
+;Karo;13;Payung;2;Payung;Waspada;Siaga
+;Karo;13;Payung;2;Rimokayu;Waspada;Siaga
+;Karo;13;Payung;2;Selandi;Waspada;Siaga
+;Karo;13;Payung;2;Suka Meriah;Siaga;Siaga
+;Karo;13;Payung;2;Ujung Payung;Siaga;Siaga
+;Karo;14;Simpang Empat;2;Beganding;Bahaya;Siaga
+;Karo;14;Simpang Empat;2;Berastepu;Bahaya;Siaga
+;Karo;14;Simpang Empat;2;Bulan Baru;Siaga;Siaga
+;Karo;14;Simpang Empat;2;Gajah;Waspada;Siaga
+;Karo;14;Simpang Empat;2;Gamber;Siaga;Siaga
+;Karo;14;Simpang Empat;2;Jeraya;Siaga;Siaga
+;Karo;14;Simpang Empat;2;Kuta Tengah;Waspada;Siaga
+;Karo;14;Simpang Empat;2;Lingga;Siaga;Siaga
+;Karo;14;Simpang Empat;2;Lingga Julu;Waspada;Siaga
+;Karo;14;Simpang Empat;2;Nang Belawan;Waspada;Siaga
+;Karo;14;Simpang Empat;2;Ndokum Siroga;Waspada;Siaga
+;Karo;14;Simpang Empat;2;Perteguhen;Siaga;Siaga
+;Karo;14;Simpang Empat;2;Pintu Besi;Waspada;Siaga
+;Karo;14;Simpang Empat;2;Serumbia;Siaga;Siaga
+;Karo;14;Simpang Empat;2;Surbakti;Waspada;Siaga
+;Karo;14;Simpang Empat;2;Tiga Pancur;Siaga;Siaga
+;Karo;14;Simpang Empat;2;Torong;Siaga;Siaga
+;Karo;15;Tiga Binanga;2;Bunga Baru;Siaga;Siaga
+;Karo;15;Tiga Binanga;2;Gunung;Siaga;Siaga
+;Karo;15;Tiga Binanga;2;Kem Kem;Siaga;Siaga
+;Karo;15;Tiga Binanga;2;Kuala;Waspada;Siaga
+;Karo;15;Tiga Binanga;2;Kuta Bangun;Waspada;Siaga
+;Karo;15;Tiga Binanga;2;Kuta Buara;Siaga;Siaga
+;Karo;15;Tiga Binanga;2;Kuta Galoh;Waspada;Siaga
+;Karo;15;Tiga Binanga;2;Kuta Gerat;Siaga;Siaga
+;Karo;15;Tiga Binanga;2;Kuta Julu;Siaga;Siaga
+;Karo;15;Tiga Binanga;2;Kuta Raya;Siaga;Siaga
+;Karo;15;Tiga Binanga;2;Kutambaru;Siaga;Siaga
+;Karo;15;Tiga Binanga;2;Lau Kapur;Siaga;Siaga
+;Karo;15;Tiga Binanga;2;Limang;Siaga;Siaga
+;Karo;15;Tiga Binanga;2;Perbesi;Waspada;Siaga
+;Karo;15;Tiga Binanga;2;Pergendangen;Waspada;Siaga
+;Karo;15;Tiga Binanga;2;Pertumbuken;Siaga;Siaga
+;Karo;15;Tiga Binanga;2;Simolap;Waspada;Siaga
+;Karo;15;Tiga Binanga;2;Batumamak (Batumanak);Siaga;Siaga
+;Karo;15;Tiga Binanga;2;Impang Pergendangen;Siaga;Siaga
+;Karo;15;Tiga Binanga;2;Tiga Binanga;Bahaya;Siaga
+;Karo;16;Tiga Panah;2;Ajibuhara;Waspada;Siaga
+;Karo;16;Tiga Panah;2;Ajijahe;Siaga;Siaga
+;Karo;16;Tiga Panah;2;Ajijulu;Waspada;Siaga
+;Karo;16;Tiga Panah;2;Ajimbelang;Siaga;Siaga
+;Karo;16;Tiga Panah;2;Bertah;Siaga;Siaga
+;Karo;16;Tiga Panah;2;Kuta Kepar;Siaga;Siaga
+;Karo;16;Tiga Panah;2;Kutajulu;Siaga;Siaga
+;Karo;16;Tiga Panah;2;Lau Riman;Siaga;Siaga
+;Karo;16;Tiga Panah;2;Lepar Samura;Siaga;Siaga
+;Karo;16;Tiga Panah;2;Manuk Mulia;Waspada;Siaga
+;Karo;16;Tiga Panah;2;Salit;Siaga;Siaga
+;Karo;17;Tiganderket;2;Gunung Merlawan;Waspada;Siaga
+;Karo;17;Tiganderket;2;Kuta Kepar;Siaga;Siaga
+;Karo;17;Tiganderket;2;Kutambaru;Siaga;Siaga
+;Karo;17;Tiganderket;2;Mardingding;Siaga;Siaga
+;Karo;17;Tiganderket;2;Penampen;Siaga;Siaga
+;Karo;17;Tiganderket;2;Perbaji;Siaga;Siaga
+;Karo;17;Tiganderket;2;Suka Tendel;Siaga;Siaga
+;Karo;17;Tiganderket;2;Tanjung Mbelang;Siaga;Siaga
+;Karo;17;Tiganderket;2;Tanjung Merawa;Siaga;Siaga
+;Karo;17;Tiganderket;2;Temburun;Siaga;Siaga
+;Dairi;1;Sidikalang;2;Belang Malum;Siaga;Siaga
+;Dairi;1;Sidikalang;2;Kelurahan Bintang Hulu;Siaga;Siaga
+;Dairi;1;Sidikalang;2;Bintang Mersada;Siaga;Siaga
+;Dairi;1;Sidikalang;2;Kalang Simbara;Siaga;Siaga
+;Dairi;2;Tigalingga;2;Bertungen Julu;Waspada;Siaga
+;Dairi;2;Tigalingga;2;Juma Gerat;Siaga;Siaga
+;Dairi;2;Tigalingga;2;Lau Mil;Siaga;Siaga
+;Dairi;2;Tigalingga;2;Lau Molgap;Siaga;Siaga
+;Dairi;2;Tigalingga;2;Lau Pak-Pak;Siaga;Siaga
+;Dairi;2;Tigalingga;2;Lau Sireme;Bahaya;Siaga
+;Dairi;2;Tigalingga;2;Polding Jaya Sumbul;Siaga;Siaga
+;Dairi;2;Tigalingga;2;Sarintonu;Siaga;Siaga
+;Dairi;2;Tigalingga;2;Sukandebi;Siaga;Siaga
+;Dairi;2;Tigalingga;2;Sumbul Tengah;Siaga;Siaga
+;Dairi;2;Tigalingga;2;Ujung Teran;Siaga;Siaga
+;Dairi;3;Kecamatan Tanah Pinem;2;Alur Subur;Siaga;Siaga
+;Dairi;3;Kecamatan Tanah Pinem;2;Balandua;Siaga;Siaga
+;Dairi;3;Kecamatan Tanah Pinem;2;Gunung Tua;Siaga;Siaga
+;Dairi;3;Kecamatan Tanah Pinem;2;Harapan;Waspada;Siaga
+;Dairi;3;Kecamatan Tanah Pinem;2;Kempawa;Siaga;Siaga
+;Dairi;3;Kecamatan Tanah Pinem;2;Kuta Gember;Siaga;Siaga
+;Dairi;3;Kecamatan Tanah Pinem;2;Lau Njuhar;Siaga;Siaga
+;Dairi;3;Kecamatan Tanah Pinem;2;Lau Primbon;Siaga;Siaga
+;Dairi;3;Kecamatan Tanah Pinem;2;Liang Jering;Siaga;Siaga
+;Dairi;3;Kecamatan Tanah Pinem;2;Mangan Molih;Siaga;Siaga
+;Dairi;3;Kecamatan Tanah Pinem;2;Pamah;Waspada;Siaga
+;Dairi;3;Kecamatan Tanah Pinem;2;Pasir Mbelang;Siaga;Siaga
+;Dairi;3;Kecamatan Tanah Pinem;2;Pasir Tengah;Siaga;Siaga
+;Dairi;3;Kecamatan Tanah Pinem;2;Sinar Pagi;Siaga;Siaga
+;Dairi;3;Kecamatan Tanah Pinem;2;Sukadame;Siaga;Siaga
+;Dairi;3;Kecamatan Tanah Pinem;2;Tanah Pinem;Waspada;Siaga
+;Dairi;4;Kecamatan Gunung Sitember;2;Batu Gun-Gun;Siaga;Siaga
+;Dairi;4;Kecamatan Gunung Sitember;2;Bukit Lau Kersik;Siaga;Siaga
+;Dairi;4;Kecamatan Gunung Sitember;2;Gunung Sitember;Siaga;Siaga
+;Dairi;4;Kecamatan Gunung Sitember;2;Kendit Liang;Siaga;Siaga
+;Dairi;4;Kecamatan Gunung Sitember;2;Lau Lebah;Siaga;Siaga
+;Dairi;4;Kecamatan Gunung Sitember;2;Rante Besi;Waspada;Siaga
+;Dairi;4;Kecamatan Gunung Sitember;2;Taupak Raja;Siaga;Siaga
+;Dairi;4;Kecamatan Gunung Sitember;2;Gundaling;Siaga;Siaga
+;Dairi;5;Silahi Sabungan;2;Paropo;Siaga;Siaga
+;Dairi;5;Silahi Sabungan;2;Paropo I;Siaga;Siaga
+;Dairi;5;Silahi Sabungan;2;Silalahi I;Siaga;Siaga
+;Dairi;5;Silahi Sabungan;2;Silalahi Ii;Siaga;Siaga
+;Dairi;6;Sumbul;2;Barisan Nauli;Siaga;Siaga
+;Dairi;6;Sumbul;2;Dolok Tolong;Siaga;Siaga
+;Dairi;6;Sumbul;2;Kuta Gugung;Siaga;Siaga
+;Dairi;6;Sumbul;2;Kelurahan Pagagan Julu I;Siaga;Siaga
+;Dairi;6;Sumbul;2;Pagagan Julu Ii;Siaga;Siaga
+;Dairi;6;Sumbul;2;Pagagan Julu Iii;Siaga;Siaga
+;Dairi;6;Sumbul;2;Pagagan Julu Iv;Siaga;Siaga
+;Dairi;6;Sumbul;2;Pagagan Julu Ix;Siaga;Siaga
+;Dairi;6;Sumbul;2;Pagagan Julu V;Siaga;Siaga
+;Dairi;6;Sumbul;2;Pagagan Julu Vi;Siaga;Siaga
+;Dairi;6;Sumbul;2;Pagagan Julu Vii;Siaga;Siaga
+;Dairi;6;Sumbul;2;Pagagan Julu Viii;Siaga;Siaga
+;Dairi;6;Sumbul;2;Pagagan Julu X;Siaga;Siaga
+;Dairi;6;Sumbul;2;Pangguruan;Siaga;Siaga
+;Dairi;6;Sumbul;2;Pargambiraan;Siaga;Siaga
+;Dairi;6;Sumbul;2;Perjuangan;Siaga;Siaga
+;Dairi;6;Sumbul;2;Sileuh Leuh Parsoran;Siaga;Siaga
+;Dairi;6;Sumbul;2;Tanjung Beringin;Siaga;Siaga
+;Dairi;6;Sumbul;2;Tanjung Beringin I;Siaga;Siaga
+;Dairi;7;Berampu;2;Banjar Toba;Siaga;Siaga
+;Dairi;7;Berampu;2;Berampu;Siaga;Siaga
+;Dairi;7;Berampu;2;Karing;Siaga;Siaga
+;Dairi;7;Berampu;2;Pasi;Siaga;Siaga
+;Dairi;7;Berampu;2;Sambaliang;Siaga;Siaga
+;Dairi;8;Lae Parira;2;Bulu Duri;Siaga;Siaga
+;Dairi;8;Lae Parira;2;Kaban Julu;Siaga;Siaga
+;Dairi;8;Lae Parira;2;Kentara;Siaga;Siaga
+;Dairi;8;Lae Parira;2;Lae Parira;Siaga;Siaga
+;Dairi;8;Lae Parira;2;Lumban Sihite;Siaga;Siaga
+;Dairi;8;Lae Parira;2;Lumban Toruan;Siaga;Siaga
+;Dairi;8;Lae Parira;2;Pandiangan;Siaga;Siaga
+;Dairi;8;Lae Parira;2;Sempung Polling;Siaga;Siaga
+;Dairi;8;Lae Parira;2;Sumbul;Siaga;Siaga
+;Dairi;9;Parbuluan;2;Bangun;Siaga;Siaga
+;Dairi;9;Parbuluan;2;Bangun I;Siaga;Siaga
+;Dairi;9;Parbuluan;2;Lae Hole;Siaga;Siaga
+;Dairi;9;Parbuluan;2;Lae Hole I;Siaga;Siaga
+;Dairi;9;Parbuluan;2;Lae Hole Ii;Siaga;Siaga
+;Dairi;9;Parbuluan;2;Parbuluan I;Siaga;Siaga
+;Dairi;9;Parbuluan;2;Parbuluan Ii;Siaga;Siaga
+;Dairi;9;Parbuluan;2;Parbuluan Iii;Siaga;Siaga
+;Dairi;9;Parbuluan;2;Parbuluan Iv;Siaga;Siaga
+;Dairi;9;Parbuluan;2;Parbuluan V;Siaga;Siaga
+;Dairi;9;Parbuluan;2;Parbuluan Vi;Siaga;Siaga
+;Dairi;10;Pegagan Hilir;2;Bandar Huta Usang;Siaga;Siaga
+;Dairi;10;Pegagan Hilir;2;Bukit Baru;Siaga;Siaga
+;Dairi;10;Pegagan Hilir;2;Bukit Tinggi;Siaga;Siaga
+;Dairi;10;Pegagan Hilir;2;Kuta Usang;Siaga;Siaga
+;Dairi;10;Pegagan Hilir;2;Laksa;Siaga;Siaga
+;Dairi;10;Pegagan Hilir;2;Lingga Raja;Siaga;Siaga
+;Dairi;10;Pegagan Hilir;2;Lingga Raja Ii;Siaga;Siaga
+;Dairi;10;Pegagan Hilir;2;Mbinanga;Siaga;Siaga
+;Dairi;10;Pegagan Hilir;2;Onan Lama;Siaga;Siaga
+;Dairi;10;Pegagan Hilir;2;Perik Mbue;Siaga;Siaga
+;Dairi;10;Pegagan Hilir;2;Simanduma;Siaga;Siaga
+;Dairi;10;Pegagan Hilir;2;Siamrtugan;Siaga;Siaga
+;Dairi;10;Pegagan Hilir;2;Tanjung Saluksuk;Siaga;Siaga
+;Dairi;11;Siempat Nempu;2;Adian Gupa;Siaga;Siaga
+;Dairi;11;Siempat Nempu;2;Adian Nangka;Siaga;Siaga
+;Dairi;11;Siempat Nempu;2;Buntu Raja;Siaga;Siaga
+;Dairi;11;Siempat Nempu;2;Gomid;Siaga;Siaga
+;Dairi;11;Siempat Nempu;2;Huta Imbaru;Siaga;Siaga
+;Dairi;11;Siempat Nempu;2;Jumantuang;Siaga;Siaga
+;Dairi;11;Siempat Nempu;2;Jumasiulok;Siaga;Siaga
+;Dairi;11;Siempat Nempu;2;Jumateguh;Siaga;Siaga
+;Dairi;11;Siempat Nempu;2;Maju;Siaga;Siaga
+;Dairi;11;Siempat Nempu;2;Sihorbo;Siaga;Siaga
+;Dairi;11;Siempat Nempu;2;Sinampang;Siaga;Siaga
+;Dairi;11;Siempat Nempu;2;Soban;Siaga;Siaga
+;Dairi;11;Siempat Nempu;2;Sosorlontung;Siaga;Siaga
+;Dairi;12;Siempat Nempu Hilir;2;Jambur Indonesia;Siaga;Siaga
+;Dairi;12;Siempat Nempu Hilir;2;Janji;Siaga;Siaga
+;Dairi;12;Siempat Nempu Hilir;2;Lae Haporas;Siaga;Siaga
+;Dairi;12;Siempat Nempu Hilir;2;Lae Itam;Siaga;Siaga
+;Dairi;12;Siempat Nempu Hilir;2;Lae Luhung;Siaga;Siaga
+;Dairi;12;Siempat Nempu Hilir;2;Lae Markelang;Siaga;Siaga
+;Dairi;12;Siempat Nempu Hilir;2;Lae Sering;Siaga;Siaga
+;Dairi;12;Siempat Nempu Hilir;2;Pardomuan;Siaga;Siaga
+;Dairi;12;Siempat Nempu Hilir;2;Simungun;Siaga;Siaga
+;Dairi;12;Siempat Nempu Hilir;2;Sopo Butar;Siaga;Siaga
+;Dairi;13;Siempat Nempu Hulu;2;Bakal Julu;Siaga;Siaga
+;Dairi;13;Siempat Nempu Hulu;2;Gunung Meriah;Siaga;Siaga
+;Dairi;13;Siempat Nempu Hulu;2;Kuta Tengah;Siaga;Siaga
+;Dairi;13;Siempat Nempu Hulu;2;Lae Nuaha;Siaga;Siaga
+;Dairi;13;Siempat Nempu Hulu;2;Pandang;Siaga;Siaga
+;Dairi;13;Siempat Nempu Hulu;2;Pangaribuan;Siaga;Siaga
+;Dairi;13;Siempat Nempu Hulu;2;Sigambir Gambir;Siaga;Siaga
+;Dairi;13;Siempat Nempu Hulu;2;Silumboyah;Siaga;Siaga
+;Dairi;13;Siempat Nempu Hulu;2;Sipoltong;Siaga;Siaga
+;Dairi;13;Siempat Nempu Hulu;2;Sungai Raya;Siaga;Siaga
+;Dairi;13;Siempat Nempu Hulu;2;Tambahan;Siaga;Siaga
+;Dairi;13;Siempat Nempu Hulu;2;Tualang;Siaga;Siaga
+;Dairi;14;Silima Pungga-Pungga;2;Kelurahan Parongil;Siaga;Siaga
+;Dairi;14;Silima Pungga-Pungga;2;Bakal Gajah;Siaga;Siaga
+;Dairi;14;Silima Pungga-Pungga;2;Bongkaras;Siaga;Siaga
+;Dairi;14;Silima Pungga-Pungga;2;Bonian;Siaga;Siaga
+;Dairi;14;Silima Pungga-Pungga;2;Lae Ambat;Siaga;Siaga
+;Dairi;14;Silima Pungga-Pungga;2;Lae Pangaroan;Siaga;Siaga
+;Dairi;14;Silima Pungga-Pungga;2;Lae Panginuman;Siaga;Siaga
+;Dairi;14;Silima Pungga-Pungga;2;Lae Rambong;Siaga;Siaga
+;Dairi;14;Silima Pungga-Pungga;2;Longkotan;Siaga;Siaga
+;Dairi;14;Silima Pungga-Pungga;2;Palipi;Waspada;Siaga
+;Dairi;14;Silima Pungga-Pungga;2;Poliing Anak-Anak;Siaga;Siaga
+;Dairi;14;Silima Pungga-Pungga;2;Siboras;Siaga;Siaga
+;Dairi;14;Silima Pungga-Pungga;2;Siratah;Siaga;Siaga
+;Dairi;14;Silima Pungga-Pungga;2;Sumbari;Siaga;Siaga
+;Dairi;14;Silima Pungga-Pungga;2;Tungtung Batu;Siaga;Siaga
+;Dairi;14;Silima Pungga-Pungga;2;Uruk Belin;Siaga;Siaga
+;Dairi;15;Sitinjo;2;Kelurahan Panji Dabutar;Siaga;Siaga
+;Dairi;15;Sitinjo;2;Sitinjo I;Siaga;Siaga
+;Dairi;15;Sitinjo;2;Sitinjo Ii;Siaga;Siaga
+9;Pakpak Bharat;1;Kerajaan;2;Kuta Dame;Siaga;Siaga
+;Pakpak Bharat;1;Kerajaan;2;Kuta Meriah;Siaga;Siaga
+;Pakpak Bharat;1;Kerajaan;2;Kuta Saga;Siaga;Siaga
+;Pakpak Bharat;1;Kerajaan;2;Majanggut I;Siaga;Siaga
+;Pakpak Bharat;1;Kerajaan;2;Majanggut Ii;Siaga;Siaga
+;Pakpak Bharat;1;Kerajaan;2;Pardomuan;Siaga;Siaga
+;Pakpak Bharat;1;Kerajaan;2;Parpulungan;Siaga;Siaga
+;Pakpak Bharat;1;Kerajaan;2;Perduhapen;Siaga;Siaga
+;Pakpak Bharat;1;Kerajaan;2;Sukaramai;Waspada;Siaga
+;Pakpak Bharat;1;Kerajaan;2;Surung Mersada;Siaga;Siaga
+;Pakpak Bharat;2;Pagindar;2;Lae Mbentar;Siaga;Siaga
+;Pakpak Bharat;2;Pagindar;2;Napatalun Pertambukan;Siaga;Siaga
+;Pakpak Bharat;2;Pagindar;2;Pagindar;Waspada;Siaga
+;Pakpak Bharat;2;Pagindar;2;Sibagindar;Siaga;Siaga
+;Pakpak Bharat;3;Pergetteng Getteng Sengkut;2;Aornakan I;Siaga;Siaga
+;Pakpak Bharat;3;Pergetteng Getteng Sengkut;2;Aornakan Ii;Siaga;Siaga
+;Pakpak Bharat;3;Pergetteng Getteng Sengkut;2;Kecupak I;Siaga;Siaga
+;Pakpak Bharat;3;Pergetteng Getteng Sengkut;2;Simerpara;Siaga;Siaga
+;Pakpak Bharat;3;Pergetteng Getteng Sengkut;2;Kecupak Ii;Siaga;Siaga
+;Pakpak Bharat;4;Salak;2;Kuta Tinggi;Siaga;Siaga
+;Pakpak Bharat;4;Salak;2;Penanggalan Binanga Boang;Siaga;Siaga
+;Pakpak Bharat;4;Salak;2;Salak I;Siaga;Siaga
+;Pakpak Bharat;4;Salak;2;Salak Ii;Siaga;Siaga
+;Pakpak Bharat;4;Salak;2;Sibongkaras;Siaga;Siaga
+;Pakpak Bharat;5;Siempat Rube;2;Kuta Jungak;Siaga;Siaga
+;Pakpak Bharat;5;Siempat Rube;2;Mungkur;Siaga;Siaga
+;Pakpak Bharat;5;Siempat Rube;2;Siempat Rube I;Siaga;Siaga
+;Pakpak Bharat;5;Siempat Rube;2;Siempat Rube Ii;Siaga;Siaga
+;Pakpak Bharat;5;Siempat Rube;2;Siempat Rube Iv;Siaga;Siaga
+;Pakpak Bharat;5;Siempat Rube;2;Traju;Siaga;Siaga
+;Pakpak Bharat;6;Sitelu Tali Urang Jahe;2;Bandar Baru;Siaga;Siaga
+;Pakpak Bharat;6;Sitelu Tali Urang Jahe;2;Kaban Tengah;Siaga;Siaga
+;Pakpak Bharat;6;Sitelu Tali Urang Jahe;2;Maholida;Siaga;Siaga
+;Pakpak Bharat;6;Sitelu Tali Urang Jahe;2;Malum;Siaga;Siaga
+;Pakpak Bharat;6;Sitelu Tali Urang Jahe;2;Mbinalun;Siaga;Siaga
+;Pakpak Bharat;6;Sitelu Tali Urang Jahe;2;Perjaga;Siaga;Siaga
+;Pakpak Bharat;6;Sitelu Tali Urang Jahe;2;Perolihen;Siaga;Siaga
+;Pakpak Bharat;6;Sitelu Tali Urang Jahe;2;Simberruna;Siaga;Siaga
+;Pakpak Bharat;6;Sitelu Tali Urang Jahe;2;Tanjung Meriah;Siaga;Siaga
+;Pakpak Bharat;7;Sitelu Tali Urang Julu;2;Cikaok;Siaga;Siaga
+;Pakpak Bharat;7;Sitelu Tali Urang Julu;2;Pardomuan;Siaga;Siaga
+;Pakpak Bharat;7;Sitelu Tali Urang Julu;2;Silima Kuta;Siaga;Siaga
+;Pakpak Bharat;7;Sitelu Tali Urang Julu;2;Ulumerah;Siaga;Siaga
+;Pakpak Bharat;7;Sitelu Tali Urang Julu;2;Lae Langge Namuseng;Siaga;Siaga
+;Pakpak Bharat;8;Tinada;2;Buluh Tellang;Siaga;Siaga
+;Pakpak Bharat;8;Tinada;2;Kuta Babo;Siaga;Siaga
+;Pakpak Bharat;8;Tinada;2;Mahal;Siaga;Siaga
+;Pakpak Bharat;8;Tinada;2;Prongil;Siaga;Siaga
+;Pakpak Bharat;8;Tinada;2;Silima Kuta;Siaga;Siaga
+;Pakpak Bharat;8;Tinada;2;Tinada;Siaga;Siaga
+;Simalungun;1;Bandar;2;Landbouw;Siaga;Siaga
+;Simalungun;1;Bandar;2;Bandar Rakyat;Siaga;Siaga
+;Simalungun;1;Bandar;2;Sido Tani;Siaga;Siaga
+;Simalungun;1;Bandar;2;Sugarang Bayu;Siaga;Siaga
+;Simalungun;1;Bandar;2;Timbaan;Siaga;Siaga
+;Simalungun;1;Bandar;2;Bah Lias;Siaga;Siaga
+;Simalungun;2;Bandar Masilam;2;Bandar Tinggi;Siaga;Siaga
+;Simalungun;2;Bandar Masilam;2;Partimbalan;Siaga;Siaga
+;Simalungun;2;Bandar Masilam;2;Bandar Gunung;Siaga;Siaga
+;Simalungun;2;Bandar Masilam;2;Bandar Masilam Ii;Siaga;Siaga
+;Simalungun;2;Bandar Masilam;2;Bandar Rejo;Waspada;Siaga
+;Simalungun;2;Bandar Masilam;2;Gunung Serawan;Siaga;Siaga
+;Simalungun;2;Bandar Masilam;2;Lias Baru;Siaga;Siaga
+;Simalungun;3;Bandar Huluan;2;Bandar Betsy I;Siaga;Siaga
+;Simalungun;3;Bandar Huluan;2;Bandar Betsy Ii;Siaga;Siaga
+;Simalungun;3;Bandar Huluan;2;Bandar Tongah;Siaga;Siaga
+;Simalungun;3;Bandar Huluan;2;Dolok Parmonangan;Siaga;Siaga
+;Simalungun;3;Bandar Huluan;2;Laras;Waspada;Siaga
+;Simalungun;3;Bandar Huluan;2;Naga Jaya Ii;Siaga;Siaga
+;Simalungun;3;Bandar Huluan;2;Naga Soppa;Siaga;Siaga
+;Simalungun;3;Bandar Huluan;2;Tanjung Hataran;Siaga;Siaga
+;Simalungun;4;Bosar Maligas;2;Boluk;Siaga;Siaga
+;Simalungun;4;Bosar Maligas;2;Marihat Tanjung;Waspada;Siaga
+;Simalungun;4;Bosar Maligas;2;Adil Makmur;Siaga;Siaga
+;Simalungun;4;Bosar Maligas;2;Nagori Bosar Maligas;Siaga;Siaga
+;Simalungun;4;Bosar Maligas;2;Dusun Pengkolan;Siaga;Siaga
+;Simalungun;4;Bosar Maligas;2;Nagori Marihat Butar;Siaga;Siaga
+;Simalungun;4;Bosar Maligas;2;Nagori Mekar Rejo;Siaga;Siaga
+;Simalungun;4;Bosar Maligas;2;Nagori Naggar Bayu;Siaga;Siaga
+;Simalungun;4;Bosar Maligas;2;Nagori Sei Torop;Siaga;Siaga
+;Simalungun;4;Bosar Maligas;2;Nagori Sidomulyo;Siaga;Siaga
+;Simalungun;4;Bosar Maligas;2;Nagori Talun Saragih;Siaga;Siaga
+;Simalungun;4;Bosar Maligas;2;Nagori Teladan;Siaga;Siaga
+;Simalungun;5;Dolok Batu Nanggar;2;Bandar Selamat;Siaga;Siaga
+;Simalungun;5;Dolok Batu Nanggar;2;Dolok Ilir Dua;Siaga;Siaga
+;Simalungun;5;Dolok Batu Nanggar;2;Dolok Ilir Satu;Siaga;Siaga
+;Simalungun;5;Dolok Batu Nanggar;2;Dolok Merangir Dua;Siaga;Siaga
+;Simalungun;5;Dolok Batu Nanggar;2;Dolok Merangir Satu;Siaga;Siaga
+;Simalungun;5;Dolok Batu Nanggar;2;Kelurahan Aman Sari;Waspada;Siaga
+;Simalungun;5;Dolok Batu Nanggar;2;Bah Tobu;Waspada;Siaga
+;Simalungun;5;Dolok Batu Nanggar;2;Bahung Huluan;Siaga;Siaga
+;Simalungun;5;Dolok Batu Nanggar;2;Dolok Kataran;Siaga;Siaga
+;Simalungun;5;Dolok Batu Nanggar;2;Dolok Mainu;Siaga;Siaga
+;Simalungun;5;Dolok Batu Nanggar;2;Kahean;Siaga;Siaga
+;Simalungun;5;Dolok Batu Nanggar;2;Padang Mainu;Siaga;Siaga
+;Simalungun;5;Dolok Batu Nanggar;2;Silenduk;Siaga;Siaga
+;Simalungun;6;Dolok Panribuan;2;Bandar Dolok;Siaga;Siaga
+;Simalungun;6;Dolok Panribuan;2;Dolok Parmonangan;Siaga;Siaga
+;Simalungun;6;Dolok Panribuan;2;Dolok Tomuan;Siaga;Siaga
+;Simalungun;6;Dolok Panribuan;2;Gunung Mariah;Siaga;Siaga
+;Simalungun;6;Dolok Panribuan;2;Lumban Gorat;Siaga;Siaga
+;Simalungun;6;Dolok Panribuan;2;Marihat Dolok;Siaga;Siaga
+;Simalungun;6;Dolok Panribuan;2;Marihat Marsada;Siaga;Siaga
+;Simalungun;6;Dolok Panribuan;2;Marihat Pondok;Siaga;Siaga
+;Simalungun;6;Dolok Panribuan;2;Marihat Raja;Siaga;Siaga
+;Simalungun;6;Dolok Panribuan;2;Negeri Dolok;Siaga;Siaga
+;Simalungun;6;Dolok Panribuan;2;Palianaopat;Siaga;Siaga
+;Simalungun;6;Dolok Panribuan;2;Pondok Buluh;Siaga;Siaga
+;Simalungun;6;Dolok Panribuan;2;Siatasan;Siaga;Siaga
+;Simalungun;6;Dolok Panribuan;2;Tiga Dolok;Waspada;Siaga
+;Simalungun;6;Dolok Panribuan;2;Ujung Bondar;Siaga;Siaga
+;Simalungun;7;Dolok Pardamean;2;Buttu Bayu Pane Raja;Siaga;Siaga
+;Simalungun;7;Dolok Pardamean;2;Dolok Saribu;Siaga;Siaga
+;Simalungun;7;Dolok Pardamean;2;Nagori Bayu;Siaga;Siaga
+;Simalungun;7;Dolok Pardamean;2;Parik Sabungan;Siaga;Siaga
+;Simalungun;7;Dolok Pardamean;2;Sibuntuon;Siaga;Siaga
+;Simalungun;7;Dolok Pardamean;2;Sihemun Baru;Siaga;Siaga
+;Simalungun;7;Dolok Pardamean;2;Silabah Jaya;Siaga;Siaga
+;Simalungun;7;Dolok Pardamean;2;Sirube-Rube Gunung Purba;Siaga;Siaga
+;Simalungun;7;Dolok Pardamean;2;Tanjung Saribu;Siaga;Siaga
+;Simalungun;7;Dolok Pardamean;2;Tigaras;Waspada;Siaga
+;Simalungun;7;Dolok Pardamean;2;Togu Domu Nauli;Siaga;Siaga
+;Simalungun;8;Dolok Silau;2;Bawang;Siaga;Siaga
+;Simalungun;8;Dolok Silau;2;Bosi Sinombah;Siaga;Siaga
+;Simalungun;8;Dolok Silau;2;Cingkes;Waspada;Siaga
+;Simalungun;8;Dolok Silau;2;Dolok Mariah;Siaga;Siaga
+;Simalungun;8;Dolok Silau;2;Huta Saing;Siaga;Siaga
+;Simalungun;8;Dolok Silau;2;Mariah Dolok;Siaga;Siaga
+;Simalungun;8;Dolok Silau;2;Panribuan;Waspada;Siaga
+;Simalungun;8;Dolok Silau;2;Saran Padang;Siaga;Siaga
+;Simalungun;8;Dolok Silau;2;Silau Marawan;Siaga;Siaga
+;Simalungun;8;Dolok Silau;2;Tanjung Purba;Siaga;Siaga
+;Simalungun;8;Dolok Silau;2;Togur;Siaga;Siaga
+;Simalungun;8;Dolok Silau;2;Ujung Bawang;Siaga;Siaga
+;Simalungun;9;Girsang Sipangan Bolon;2;Sibaganding;Siaga;Siaga
+;Simalungun;9;Girsang Sipangan Bolon;2;Sipangan Bolon;Siaga;Siaga
+;Simalungun;9;Girsang Sipangan Bolon;2;Sipangan Bolon Mekar;Siaga;Siaga
+;Simalungun;9;Girsang Sipangan Bolon;2;Tiga Raja;Waspada;Siaga
+;Simalungun;9;Girsang Sipangan Bolon;2;Nagori Sipangan Bolon Mekar;Siaga;Siaga
+;Simalungun;10;Gunung Malela;2;Bangun;Siaga;Siaga
+;Simalungun;10;Gunung Malela;2;Bukit Maraja;Siaga;Siaga
+;Simalungun;10;Gunung Malela;2;Dolok Malela;Siaga;Siaga
+;Simalungun;10;Gunung Malela;2;Lingga;Siaga;Siaga
+;Simalungun;10;Gunung Malela;2;Margomulyo;Waspada;Siaga
+;Simalungun;10;Gunung Malela;2;Pematang Gajing;Siaga;Siaga
+;Simalungun;10;Gunung Malela;2;Pematang Sah Kuda;Waspada;Siaga
+;Simalungun;10;Gunung Malela;2;Serapuh;Waspada;Siaga
+;Simalungun;10;Gunung Malela;2;Silau Malela;Siaga;Siaga
+;Simalungun;10;Gunung Malela;2;Silulu;Siaga;Siaga
+;Simalungun;11;Gunung Maligas;2;Bandar Malela;Siaga;Siaga
+;Simalungun;11;Gunung Maligas;2;Gajing;Siaga;Siaga
+;Simalungun;11;Gunung Maligas;2;Huta Dipar;Siaga;Siaga
+;Simalungun;11;Gunung Maligas;2;Karang Anyer;Waspada;Siaga
+;Simalungun;11;Gunung Maligas;2;Karang Sari;Siaga;Siaga
+;Simalungun;11;Gunung Maligas;2;Rabuhit;Siaga;Siaga
+;Simalungun;11;Gunung Maligas;2;Silau Bayu;Siaga;Siaga
+;Simalungun;11;Gunung Maligas;2;Tumorang;Siaga;Siaga
+;Simalungun;12;Haranggaol Horison;2;Nagori Purba;Siaga;Siaga
+;Simalungun;12;Haranggaol Horison;2;Nagori Sihalpe;Siaga;Siaga
+;Simalungun;12;Haranggaol Horison;2;Purba Horison;Waspada;Siaga
+;Simalungun;12;Haranggaol Horison;2;Purba Pasir;Siaga;Siaga
+;Simalungun;13;Hatonduhan;2;Nagori Bosar Nauli;Siaga;Siaga
+;Simalungun;13;Hatonduhan;2;Nagori Jawa Tongah;Siaga;Siaga
+;Simalungun;13;Hatonduhan;2;Nagori Jawa Tongah Ii;Siaga;Siaga
+;Simalungun;13;Hatonduhan;2;Nagori Parhundalian Jawadipar;Siaga;Siaga
+;Simalungun;13;Hatonduhan;2;Nagori Tangga Batu;Waspada;Siaga
+;Simalungun;13;Hatonduhan;2;Nagori Tonduhan;Siaga;Siaga
+;Simalungun;13;Hatonduhan;2;Nagori Buntu Bayu;Waspada;Siaga
+;Simalungun;14;Hutabayu Raja;2;Bahal Batu;Waspada;Siaga
+;Simalungun;14;Hutabayu Raja;2;Nagori Bosar Batu;Siaga;Siaga
+;Simalungun;14;Hutabayu Raja;2;Kelurahan Dolok Sinembah;Siaga;Siaga
+;Simalungun;14;Hutabayu Raja;2;Nagori Huta Bayu;Siaga;Siaga
+;Simalungun;14;Hutabayu Raja;2;Nagori Jawa Baru;Siaga;Siaga
+;Simalungun;14;Hutabayu Raja;2;Nagori Mancuk;Siaga;Siaga
+;Simalungun;14;Hutabayu Raja;2;Nagori Manrayap Baru;Siaga;Siaga
+;Simalungun;14;Hutabayu Raja;2;Nagori Marihat Mayang;Siaga;Siaga
+;Simalungun;14;Hutabayu Raja;2;Nagori Pokan Baru;Siaga;Siaga
+;Simalungun;14;Hutabayu Raja;2;Nagori Pulo Bayu;Siaga;Siaga
+;Simalungun;14;Hutabayu Raja;2;Nagori Rajamaligas;Siaga;Siaga
+;Simalungun;14;Hutabayu Raja;2;Nagori Rajamaligas I;Siaga;Siaga
+;Simalungun;14;Hutabayu Raja;2;Nagori Silak Kidir;Siaga;Siaga
+;Simalungun;14;Hutabayu Raja;2;Nagori Talang Bayu;Siaga;Siaga
+;Simalungun;15;Jawamaraja Bah Jambi;2;Nagori Mariah Jambi;Waspada;Siaga
+;Simalungun;15;Jawamaraja Bah Jambi;2;Nagori Bah Jambi I;Siaga;Siaga
+;Simalungun;15;Jawamaraja Bah Jambi;2;Nagori Bahalat Bayu;Siaga;Siaga
+;Simalungun;15;Jawamaraja Bah Jambi;2;Nagori Jawamaraja;Siaga;Siaga
+;Simalungun;15;Jawamaraja Bah Jambi;2;Nagori Mekar Bahalat;Siaga;Siaga
+;Simalungun;15;Jawamaraja Bah Jambi;2;Nagori Tanjung Maraja;Siaga;Siaga
+;Simalungun;16;Jawamaraja Bah Jambi;2;Nagori Bah Birong Ulu;Siaga;Siaga
+;Simalungun;16;Jorlang Hataran;2;Nagori Dipar Hataran;Siaga;Siaga
+;Simalungun;16;Jawamaraja Bah Jambi;2;Nagori Dolok Marlawan;Siaga;Siaga
+;Simalungun;16;Jorlang Hataran;2;Nagori Dolok Parriasan;Siaga;Siaga
+;Simalungun;16;Jorlang Hataran;2;Nagori Kasindir;Siaga;Siaga
+;Simalungun;16;Jawamaraja Bah Jambi;2;Nagori Pagar Pinang;Siaga;Siaga
+;Simalungun;16;Jorlang Hataran;2;Nagori Panombean Hutaurung;Siaga;Siaga
+;Simalungun;16;Jawamaraja Bah Jambi;2;Nagori Parmonangan;Siaga;Siaga
+;Simalungun;16;Jorlang Hataran;2;Nagori Pinang Ratus;Siaga;Siaga
+;Simalungun;16;Jawamaraja Bah Jambi;2;Nagori Sibungabunga;Siaga;Siaga
+;Simalungun;17;Panei;2;Nagori Panei Tongah;Siaga;Siaga
+;Simalungun;17;Panei;2;Nagori Bah Balon Tongah;Siaga;Siaga
+;Simalungun;17;Panei;2;Nagori Bahliran Siborna;Siaga;Siaga
+;Simalungun;17;Panei;2;Nagori Bangun Das Mariah;Siaga;Siaga
+;Simalungun;17;Panei;2;Nagori Bangun Rakyat;Siaga;Siaga
+;Simalungun;17;Panei;2;Nagori Bangun Sitoluh Bah;Siaga;Siaga
+;Simalungun;17;Panei;2;Nagori Janggir Leto;Siaga;Siaga
+;Simalungun;17;Panei;2;Nagori Mekar Sari Raya;Siaga;Siaga
+;Simalungun;17;Panei;2;Nagori Rawang Pardomuan Nauli;Siaga;Siaga
+;Simalungun;17;Panei;2;Nagori Siborna;Siaga;Siaga
+;Simalungun;17;Panei;2;Nagori Sigodang;Siaga;Siaga
+;Simalungun;17;Panei;2;Nagori Sigodang Barat;Siaga;Siaga
+;Simalungun;17;Panei;2;Nagori Simantin Pane Dame;Siaga;Siaga
+;Simalungun;17;Panei;2;Nagori Simpang Raya;Siaga;Siaga
+;Simalungun;17;Panei;2;Nagori Simpang Raya Dasma;Siaga;Siaga
+;Simalungun;17;Panei;2;Nagori Sipoldas;Siaga;Siaga
+;Simalungun;18;Pematang Silimakuta;2;Nagori Ujung Saribu;Waspada;Siaga
+;Simalungun;18;Pematang Silimakuta;2;Nagori Saribu Jandi;Siaga;Siaga
+;Simalungun;18;Pematang Silimakuta;2;Nagori Siboras;Siaga;Siaga
+;Simalungun;18;Pematang Silimakuta;2;Nagori Mardinding;Siaga;Siaga
+;Simalungun;18;Pematang Silimakuta;2;Nagori Naga Bosar;Siaga;Siaga
+;Simalungun;18;Pematang Silimakuta;2;Nagori Naga Mariah;Siaga;Siaga
+;Simalungun;18;Pematang Silimakuta;2;Nagori Naga Saribu;Waspada;Siaga
+;Simalungun;18;Pematang Silimakuta;2;Nagori Silimakuta Barat;Siaga;Siaga
+;Simalungun;18;Pematang Silimakuta;2;Nagori Ujung Mariah;Siaga;Siaga
+;Simalungun;19;Panombean Panei;2;Nagori Rukun Mulyo;Waspada;Siaga
+;Simalungun;19;Panombean Panei;2;Nagori Talun Kondot;Siaga;Siaga
+;Simalungun;19;Panombean Panei;2;Nagori Banuh Raya;Siaga;Siaga
+;Simalungun;19;Panombean Panei;2;Nagori Marjandi Pisang;Waspada;Siaga
+;Simalungun;19;Panombean Panei;2;Nagori Bosar;Siaga;Siaga
+;Simalungun;19;Panombean Panei;2;Nagori Panombean;Siaga;Siaga
+;Simalungun;19;Panombean Panei;2;Nagori Pematang Pane;Waspada;Siaga
+;Simalungun;19;Panombean Panei;2;Nagori Pematang Panombean;Siaga;Siaga
+;Simalungun;19;Panombean Panei;2;Nagori Simbolon Tengkoh;Siaga;Siaga
+;Simalungun;19;Panombean Panei;2;Nagori Simpang Pane;Waspada;Siaga
+;Simalungun;20;Pematang Bandar;2;Nagori Bandar Manis;Siaga;Siaga
+;Simalungun;20;Pematang Bandar;2;Nagori Kandangan;Siaga;Siaga
+;Simalungun;20;Pematang Bandar;2;Nagori Pardomuan Nauli;Siaga;Siaga
+;Simalungun;20;Pematang Bandar;2;Kelurahan Pematang Bandar;Waspada;Siaga
+;Simalungun;20;Pematang Bandar;2;Nagori Purwodadi;Siaga;Siaga
+;Simalungun;20;Pematang Bandar;2;Nagori Purwosari;Siaga;Siaga
+;Simalungun;20;Pematang Bandar;2;Nagori Talun Madear;Siaga;Siaga
+;Simalungun;20;Pematang Bandar;2;Nagori Talun Rejo;Siaga;Siaga
+;Simalungun;20;Pematang Bandar;2;Nagori Wonorejo;Waspada;Siaga
+;Simalungun;20;Pematang Bandar;2;Nagori Mariah Bandar;Siaga;Siaga
+;Simalungun;21;Pematang Sidamanik;2;Nagori Bandar Manik;Siaga;Siaga
+;Simalungun;21;Pematang Sidamanik;2;Nagori Gorak;Siaga;Siaga
+;Simalungun;21;Pematang Sidamanik;2;Nagori Jorlang Huluan;Siaga;Siaga
+;Simalungun;21;Pematang Sidamanik;2;Nagori Pematang Sidamanik;Siaga;Siaga
+;Simalungun;21;Pematang Sidamanik;2;Nagori Pematang Tambun Raya;Siaga;Siaga
+;Simalungun;21;Pematang Sidamanik;2;Nagori Sait Buttu Saribu;Waspada;Siaga
+;Simalungun;21;Pematang Sidamanik;2;Nagori Sarimattin;Siaga;Siaga
+;Simalungun;21;Pematang Sidamanik;2;Nagori Sahaporas;Siaga;Siaga
+;Simalungun;21;Pematang Sidamanik;2;Nagori Simantin;Siaga;Siaga
+;Simalungun;21;Pematang Sidamanik;2;Nagori Sipolha Horisan;Siaga;Siaga
+;Simalungun;22;Purba;2;Nagori Bandar Sauhur;Siaga;Siaga
+;Simalungun;22;Purba;2;Nagori Bunga Sampang;Siaga;Siaga
+;Simalungun;22;Purba;2;Nagori Hutaraja;Siaga;Siaga
+;Simalungun;22;Purba;2;Nagori Kinalang;Siaga;Siaga
+;Simalungun;22;Purba;2;Nagori Tongah;Siaga;Siaga
+;Simalungun;22;Purba;2;Nagori Pematang Purba;Waspada;Siaga
+;Simalungun;22;Purba;2;Nagori Purba Dolok;Siaga;Siaga
+;Simalungun;22;Purba;2;Nagori Purba Sipinggan;Siaga;Siaga
+;Simalungun;22;Purba;2;Nagori Purba Tengah;Siaga;Siaga
+;Simalungun;22;Purba;2;Nagori Saribu Jandi;Siaga;Siaga
+;Simalungun;22;Purba;2;Nagori Tanoh Pinggir;Siaga;Siaga
+;Simalungun;22;Purba;2;Kelurahan Tigarunggu;Siaga;Siaga
+;Simalungun;22;Purba;2;Nagori Urung Pane;Siaga;Siaga
+;Simalungun;22;Purba;2;Nagori Urung Purba;Siaga;Siaga
+;Simalungun;23;Raya;2;Nagori Bahapal Raya;Siaga;Siaga
+;Simalungun;23;Raya;2;Nagori Baringin Raya;Siaga;Siaga
+;Simalungun;23;Raya;2;Nagori Bongguron Kariahan;Siaga;Siaga
+;Simalungun;23;Raya;2;Nagori Dalig Raya;Siaga;Siaga
+;Simalungun;23;Raya;2;Nagori Dame Raya;Siaga;Siaga
+;Simalungun;23;Raya;2;Nagori Limag Raya;Siaga;Siaga
+;Simalungun;23;Raya;2;Nagori Lokkung Raya;Siaga;Siaga
+;Simalungun;23;Raya;2;Kelurahan Merek Raya;Siaga;Siaga
+;Simalungun;23;Raya;2;Nagori Raya Bayu;Siaga;Siaga
+;Simalungun;23;Raya;2;Nagori Raya Bosi;Siaga;Siaga
+;Simalungun;23;Raya;2;Nagori Sihubu Raya;Siaga;Siaga
+;Simalungun;23;Raya;2;Nagori Silou Buttu;Siaga;Siaga
+;Simalungun;23;Raya;2;Nagori Silou Huluan;Siaga;Siaga
+;Simalungun;23;Raya;2;Nagori Simbou Baru;Siaga;Siaga
+;Simalungun;23;Raya;2;Nagori Siporkas;Siaga;Siaga
+;Simalungun;23;Raya;2;Kelurahan Sondi Raya;Waspada;Siaga
+;Simalungun;24;Raya Kahean;2;Nagori Banjaran;Siaga;Siaga
+;Simalungun;24;Raya Kahean;2;Nagori Banu Raya;Siaga;Siaga
+;Simalungun;24;Raya Kahean;2;Nagori Durian Banggal;Siaga;Siaga
+;Simalungun;24;Raya Kahean;2;Nagori Gunung Datas;Siaga;Siaga
+;Simalungun;24;Raya Kahean;2;Nagori Marubun Siboras;Siaga;Siaga
+;Simalungun;24;Raya Kahean;2;Nagori Puli Buah;Siaga;Siaga
+;Simalungun;24;Raya Kahean;2;Nagori Sambosar Raya;Siaga;Siaga
+;Simalungun;24;Raya Kahean;2;Kelurahan Sindar Raya;Waspada;Siaga
+;Simalungun;24;Raya Kahean;2;Nagori Sorba Dolok;Siaga;Siaga
+;Simalungun;25;Siantar;2;Nagori Lestari Indah;Waspada;Siaga
+;Simalungun;25;Siantar;2;Nagori Nusa Harapan;Siaga;Siaga
+;Simalungun;25;Siantar;2;Nagori Pantoan Maju;Siaga;Siaga
+;Simalungun;25;Siantar;2;Nagori Laras Dua;Siaga;Siaga
+;Simalungun;25;Siantar;2;Nagori Pematang Silampuyang;Siaga;Siaga
+;Simalungun;25;Siantar;2;Nagori Sejahtera;Siaga;Siaga
+;Simalungun;25;Siantar;2;Nagori Silampuyang;Siaga;Siaga
+;Simalungun;25;Siantar;2;Nagori Silau Manik;Siaga;Siaga
+;Simalungun;25;Siantar;2;Nagori Sitalasari;Siaga;Siaga
+;Simalungun;25;Siantar;2;Nagori Dolok Marlawan;Siaga;Siaga
+;Simalungun;25;Siantar;2;Nagori Silau Malaha;Siaga;Siaga
+;Simalungun;25;Siantar;2;Nagori Dolok Hataran;Siaga;Siaga
+;Simalungun;26;Sidamanik;2;Nagori Manik Hataran;Siaga;Siaga
+;Simalungun;26;Sidamanik;2;Nagori Sarimatondang;Waspada;Siaga
+;Simalungun;26;Sidamanik;2;Nagori Ambarisan;Siaga;Siaga
+;Simalungun;26;Sidamanik;2;Nagori Bah Biak;Siaga;Siaga
+;Simalungun;26;Sidamanik;2;Nagori Bah Butung Dua;Siaga;Siaga
+;Simalungun;26;Sidamanik;2;Nagori Bah Butung Satu;Siaga;Siaga
+;Simalungun;26;Sidamanik;2;Nagori Bahal Gajah;Siaga;Siaga
+;Simalungun;26;Sidamanik;2;Nagori Birong Ulu Manriah;Waspada;Siaga
+;Simalungun;26;Sidamanik;2;Nagori Bukit Rejo;Siaga;Siaga
+;Simalungun;26;Sidamanik;2;Nagori Kebun Sayur Bah Butong;Siaga;Siaga
+;Simalungun;26;Sidamanik;2;Nagori Mekar Sidamanik;Siaga;Siaga
+;Simalungun;27;Silimakuta;2;Nagori Purba Sinombah;Siaga;Siaga
+;Simalungun;27;Silimakuta;2;Nagori Purbatua;Siaga;Siaga
+;Simalungun;27;Silimakuta;2;Nagori Purbatua Baru;Waspada;Siaga
+;Simalungun;27;Silimakuta;2;Nagori Purbatua Etek;Waspada;Siaga
+;Simalungun;27;Silimakuta;2;Nagori Sibangun Meriah;Siaga;Siaga
+;Simalungun;27;Silimakuta;2;Nagori Sinar Baru;Siaga;Siaga
+;Simalungun;27;Silimakuta;2;Nagori Nagori Tani;Siaga;Siaga
+;Simalungun;27;Silimakuta;2;Nagori Negeri Dolok;Siaga;Siaga
+;Simalungun;28;Silau Kahean;2;Nagori Silau Dunia;Siaga;Siaga
+;Simalungun;28;Silau Kahean;2;Nagori Bah Sarimah;Siaga;Siaga
+;Simalungun;28;Silau Kahean;2;Nagori Bandar Maruhur;Siaga;Siaga
+;Simalungun;28;Silau Kahean;2;Nagori Bandar Nagori;Siaga;Siaga
+;Simalungun;28;Silau Kahean;2;Nagori Buttu Bayu;Siaga;Siaga
+;Simalungun;28;Silau Kahean;2;Nagori Damakitang;Siaga;Siaga
+;Simalungun;28;Silau Kahean;2;Nagori Dolok Marawa;Siaga;Siaga
+;Simalungun;28;Silau Kahean;2;Nagori Dolok Saribu Bangun;Siaga;Siaga
+;Simalungun;28;Silau Kahean;2;Nagori Mariah Buttu;Siaga;Siaga
+;Simalungun;28;Silau Kahean;2;Nagori Pardomuan Bandar;Siaga;Siaga
+;Simalungun;28;Silau Kahean;2;Nagori Pardomuan Tongah;Siaga;Siaga
+;Simalungun;28;Silau Kahean;2;Nagori Silau Paribuan;Siaga;Siaga
+;Simalungun;28;Silau Kahean;2;Nagori Simanabun;Siaga;Siaga
+;Simalungun;28;Silau Kahean;2;Nagori Sinasih;Waspada;Siaga
+;Simalungun;29;Tanah Jawa;2;Nagori Bah Jambi Iii;Bahaya;Siaga
+;Simalungun;29;Tanah Jawa;2;Nagori Bah Kisat;Siaga;Siaga
+;Simalungun;29;Tanah Jawa;2;Nagori Baja Dolok;Siaga;Siaga
+;Simalungun;29;Tanah Jawa;2;Nagori Baluju;Siaga;Siaga
+;Simalungun;29;Tanah Jawa;2;Nagori Bayu Bagasan;Siaga;Siaga
+;Simalungun;29;Tanah Jawa;2;Nagori Bosar Galugur;Siaga;Siaga
+;Simalungun;29;Tanah Jawa;2;Nagori Maligas Tongah;Siaga;Siaga
+;Simalungun;29;Tanah Jawa;2;Nagori Barubun Bayu;Siaga;Siaga
+;Simalungun;29;Tanah Jawa;2;Nagori Mekar Mulia;Siaga;Siaga
+;Simalungun;29;Tanah Jawa;2;Nagori Muara Mulia;Siaga;Siaga
+;Simalungun;29;Tanah Jawa;2;Nagori Pagar Jambi;Siaga;Siaga
+;Simalungun;29;Tanah Jawa;2;Nagori Panambean Marjanji;Siaga;Siaga
+;Simalungun;29;Tanah Jawa;2;Nagori Pardamean Asih;Siaga;Siaga
+;Simalungun;29;Tanah Jawa;2;Nagori Totap Majawa;Siaga;Siaga
+;Simalungun;29;Tanah Jawa;2;Nagori Bah Jambi Ii;Siaga;Siaga
+;Simalungun;30;Tapian Dolok;2;Nagori Dolok Maraja;Siaga;Siaga
+;Simalungun;30;Tapian Dolok;2;Nagori Dolok Simbolon;Siaga;Siaga
+;Simalungun;30;Tapian Dolok;2;Nagori Dolok Ulu;Siaga;Siaga
+;Simalungun;30;Tapian Dolok;2;Nagori Naga Dolok;Siaga;Siaga
+;Simalungun;30;Tapian Dolok;2;Nagori Nagur Usang;Siaga;Siaga
+;Simalungun;30;Tapian Dolok;2;Nagori Negeri Bayu Muslimin;Siaga;Siaga
+;Simalungun;30;Tapian Dolok;2;Nagori Pematang Dolok Kahean;Siaga;Siaga
+;Simalungun;31;Ujung Padang;2;Nagori Banjar Hulu;Siaga;Siaga
+;Simalungun;31;Ujung Padang;2;Nagori Huta Parik;Siaga;Siaga
+;Simalungun;31;Ujung Padang;2;Nagori Bangun Sordang;Siaga;Siaga
+;Simalungun;31;Ujung Padang;2;Nagori Dusun Ulu;Waspada;Siaga
+;Simalungun;31;Ujung Padang;2;Nagori Aek Ger Ger;Waspada;Siaga
+;Simalungun;31;Ujung Padang;2;Nagori Kampung Lalang;Siaga;Siaga
+;Simalungun;31;Ujung Padang;2;Nagori Pagar Bosi;Siaga;Siaga
+;Simalungun;31;Ujung Padang;2;Nagori Pulo Pitu Marihat;Siaga;Siaga
+;Simalungun;31;Ujung Padang;2;Nagori Rawamasin;Siaga;Siaga
+;Simalungun;31;Ujung Padang;2;Nagori Riah Naposo;Siaga;Siaga
+;Simalungun;31;Ujung Padang;2;Nagori Sayur Martinggi;Siaga;Siaga
+;Simalungun;31;Ujung Padang;2;Nagori Sei Merbau;Siaga;Siaga
+;Simalungun;31;Ujung Padang;2;Nagori Sordang Baru;Siaga;Siaga
+;Simalungun;31;Ujung Padang;2;Nagori Sordang Bolon;Siaga;Siaga
+;Simalungun;31;Ujung Padang;2;Nagori Taratak Nagodang;Siaga;Siaga
+;Simalungun;31;Ujung Padang;2;Nagori Teluk Lapian;Siaga;Siaga
+;Simalungun;32;Dolok Masagal;2;Nagori Bangun Pane;Siaga;Siaga
+;Simalungun;32;Dolok Masagal;2;Pematang Sinaman;Siaga;Siaga
+;Simalungun;32;Dolok Masagal;2;Bah Bolon;Siaga;Siaga
+;Simalungun;32;Dolok Masagal;2;Bintang Mariah;Siaga;Siaga
+;Simalungun;32;Dolok Masagal;2;Dolog Huluan;Siaga;Siaga
+;Simalungun;32;Dolok Masagal;2;Raya Huluan;Siaga;Siaga
+;Simalungun;32;Dolok Masagal;2;Raya Usang;Siaga;Siaga
+;Simalungun;32;Dolok Masagal;2;Parjalangan;Siaga;Siaga
+;Simalungun;32;Dolok Masagal;2;Partuah;Siaga;Siaga
+;Tapanuli Utara;1;Pangaribuan;2;Parsibarungan;Waspada;Siaga
+;Tapanuli Utara;1;Pangaribuan;2;Pakpahan;Waspada;Siaga
+;Tapanuli Utara;1;Pangaribuan;2;Sibingke;Waspada;Siaga
+;Tapanuli Utara;1;Pangaribuan;2;Sigotom Julu;Siaga;Siaga
+;Tapanuli Utara;1;Pangaribuan;2;Silantom Jae;Waspada;Siaga
+;Tapanuli Utara;2;Tarutung;2;Parbubu Ii;Waspada;Siaga
+;Tapanuli Utara;2;Tarutung;2;Aek Sian Simun;Waspada;Siaga
+;Tapanuli Utara;2;Tarutung;2;Kel.Partali Toruan;Waspada;Siaga
+;Tapanuli Utara;5;Pahae Jae;2;Pasar Sarulla;Waspada;Siaga
+;Tapanuli Utara;5;Pahae Jae;2;Parsaoran Nainggolan;Waspada;Siaga
+;Tapanuli Utara;8;Muara;2;Unte Mungkur;Waspada;Siaga
+;Tapanuli Utara;10;Siatas Barita;2;Sitompul;Waspada;Siaga
+;Tapanuli Utara;10;Siatas Barita;2;Lumban Siagian Jae;Waspada;Siaga
+;Tapanuli Utara;10;Siatas Barita;2;Lumban Siagian Julu;Waspada;Siaga
+;Tapanuli Utara;10;Siatas Barita;2;Simorangkir Habinsaran;Waspada;Siaga
+;Tapanuli Utara;12;Siborong-Borong;2;Paniaran;Waspada;Siaga
+;Tapanuli Utara;12;Siborong-Borong;2;Soiborong-Borong I;Siaga;Siaga
+;Deli Serdang;1;Lubuk Pakam;2;Tanjung Garbus;Siaga;Siaga
+;Deli Serdang;1;Lubuk Pakam;2;Pasar Melintang;Siaga;Siaga
+;Deli Serdang;1;Lubuk Pakam;2;Syahmad;Siaga;Siaga
+;Deli Serdang;1;Lubuk Pakam;2;Petapahan;Siaga;Siaga
+;Deli Serdang;1;Lubuk Pakam;2;Paluh Kemiri;Siaga;Siaga
+;Deli Serdang;1;Lubuk Pakam;2;Pagar Merbau Iii;Siaga;Siaga
+;Deli Serdang;1;Lubuk Pakam;2;Bakaran Batu;Siaga;Siaga
+;Deli Serdang;2;Tanjung Morawa;2;Bandar Labuhan;Siaga;Siaga
+;Deli Serdang;2;Tanjung Morawa;2;Dagang Krawan;Siaga;Siaga
+;Deli Serdang;2;Tanjung Morawa;2;Lengau Serpang;Siaga;Siaga
+;Deli Serdang;2;Tanjung Morawa;2;Bangun Sari Baru;Siaga;Siaga
+;Deli Serdang;2;Tanjung Morawa;2;Medan Sinembah;Siaga;Siaga
+;Deli Serdang;2;Tanjung Morawa;2;Naga Timbul;Siaga;Siaga
+;Deli Serdang;2;Tanjung Morawa;2;Penara Kebun;Siaga;Siaga
+;Deli Serdang;2;Tanjung Morawa;2;Perdamaian;Siaga;Siaga
+;Deli Serdang;2;Tanjung Morawa;2;Punden Rejo;Siaga;Siaga
+;Deli Serdang;2;Tanjung Morawa;2;Sei Merah;Siaga;Siaga
+;Deli Serdang;2;Tanjung Morawa;2;Dagang Kelambir;Siaga;Siaga
+;Deli Serdang;2;Tanjung Morawa;2;Bangun Rejo;Siaga;Siaga
+;Deli Serdang;2;Tanjung Morawa;2;Aek Pancur;Siaga;Siaga
+;Deli Serdang;2;Tanjung Morawa;2;Tanjung Mulia;Siaga;Siaga
+;Deli Serdang;2;Tanjung Morawa;2;Telaga Sari;Siaga;Siaga
+;Deli Serdang;2;Tanjung Morawa;2;Ujung Serdang;Siaga;Siaga
+;Deli Serdang;2;Tanjung Morawa;2;Wono Sari;Siaga;Siaga
+;Deli Serdang;2;Tanjung Morawa;2;Dalu 10 B;Siaga;Siaga
+;Deli Serdang;3;Percut Sei Tuan;2;Cinta Damai;Siaga;Siaga
+;Deli Serdang;3;Percut Sei Tuan;2;Pematang Lalang;Siaga;Siaga
+;Deli Serdang;4;Batang Kuis;2;Bakaran Batu;Siaga;Siaga
+;Deli Serdang;4;Batang Kuis;2;Bintang Meriah;Siaga;Siaga
+;Deli Serdang;4;Batang Kuis;2;Paya Gambar;Siaga;Siaga
+;Deli Serdang;4;Batang Kuis;2;Tanjung Sari;Siaga;Siaga
+;Deli Serdang;4;Batang Kuis;2;Mesjid;Siaga;Siaga
+;Deli Serdang;4;Batang Kuis;2;Sena;Siaga;Siaga
+;Deli Serdang;4;Batang Kuis;2;Sidodadi;Siaga;Siaga
+;Deli Serdang;4;Batang Kuis;2;Sugiharjo;Siaga;Siaga
+;Deli Serdang;4;Batang Kuis;2;Baru;Siaga;Siaga
+;Deli Serdang;5;Deli Tua;2;Deli Tua Timur;Siaga;Siaga
+;Deli Serdang;5;Deli Tua;2;Deli Tua Barat;Siaga;Siaga
+;Deli Serdang;6;Beringin;2;Pasar Vi Kualanamu;Siaga;Siaga
+;Deli Serdang;6;Beringin;2;Karang Anyar;Siaga;Siaga
+;Deli Serdang;6;Beringin;2;Serdang;Siaga;Siaga
+;Deli Serdang;6;Beringin;2;Sidoarjo Ii Ramunia;Siaga;Siaga
+;Deli Serdang;6;Beringin;2;Sidourip;Siaga;Siaga
+;Deli Serdang;6;Beringin;2;Aras Kabu;Siaga;Siaga
+;Deli Serdang;7;Patumbak;2;Lantasan Baru;Siaga;Siaga
+;Deli Serdang;7;Patumbak;2;Patumbak I;Siaga;Siaga
+;Deli Serdang;7;Patumbak;2;Patumbak Ii;Siaga;Siaga
+;Deli Serdang;7;Patumbak;2;Patumbak Kampung;Siaga;Siaga
+;Deli Serdang;7;Patumbak;2;Sigara-Gara;Siaga;Siaga
+;Deli Serdang;8;Sunggal;2;Helvetia;Siaga;Siaga
+;Deli Serdang;8;Sunggal;2;Medan Krio;Siaga;Siaga
+;Deli Serdang;8;Sunggal;2;Paya Geli;Siaga;Siaga
+;Deli Serdang;8;Sunggal;2;Purwodadi;Siaga;Siaga
+;Deli Serdang;8;Sunggal;2;Sei Beras Sekata;Siaga;Siaga
+;Deli Serdang;8;Sunggal;2;Serbajadi;Siaga;Siaga
+;Deli Serdang;8;Sunggal;2;Suka Maju;Siaga;Siaga
+;Deli Serdang;8;Sunggal;2;Sumber Melati Diski;Siaga;Siaga
+;Deli Serdang;8;Sunggal;2;Tanjung Gusta;Siaga;Siaga
+;Deli Serdang;8;Sunggal;2;Tanjung Selamat;Siaga;Siaga
+;Deli Serdang;9;Pantai Labu;2;Pantai Labu Pekan;Waspada;Siaga
+;Deli Serdang;9;Pantai Labu;2;Binjai Bakung;Siaga;Siaga
+;Deli Serdang;9;Pantai Labu;2;Denai Kuala;Siaga;Siaga
+;Deli Serdang;9;Pantai Labu;2;Denai Lama;Siaga;Siaga
+;Deli Serdang;9;Pantai Labu;2;Denai Sarang Burung;Siaga;Siaga
+;Deli Serdang;9;Pantai Labu;2;Durian;Siaga;Siaga
+;Deli Serdang;9;Pantai Labu;2;Kelambir;Siaga;Siaga
+;Deli Serdang;9;Pantai Labu;2;Kubah Sentang;Siaga;Siaga
+;Deli Serdang;9;Pantai Labu;2;Paluh Sibaji;Siaga;Siaga
+;Deli Serdang;9;Pantai Labu;2;Pantai Labu Baru;Siaga;Siaga
+;Deli Serdang;9;Pantai Labu;2;Pematang Biara;Siaga;Siaga
+;Deli Serdang;9;Pantai Labu;2;Perkebunan Ramunia;Siaga;Siaga
+;Deli Serdang;9;Pantai Labu;2;Ramunia I;Siaga;Siaga
+;Deli Serdang;9;Pantai Labu;2;Ramunia Ii;Siaga;Siaga
+;Deli Serdang;9;Pantai Labu;2;Rantau Panjang;Siaga;Siaga
+;Deli Serdang;9;Pantai Labu;2;Sei Tuan;Siaga;Siaga
+;Deli Serdang;9;Pantai Labu;2;Tengah;Siaga;Siaga
+;Deli Serdang;10;Bangun Purba;2;Bagerpang;Siaga;Siaga
+;Deli Serdang;10;Bangun Purba;2;Bah Balua;Siaga;Siaga
+;Deli Serdang;10;Bangun Purba;2;Bah Perak;Siaga;Siaga
+;Deli Serdang;10;Bangun Purba;2;Bandar Gunung;Siaga;Siaga
+;Deli Serdang;10;Bangun Purba;2;Bandar Kwala;Siaga;Siaga
+;Deli Serdang;10;Bangun Purba;2;Bandar Meriah;Siaga;Siaga
+;Deli Serdang;10;Bangun Purba;2;Bangun Purba;Siaga;Siaga
+;Deli Serdang;10;Bangun Purba;2;Bangun Purba Tengah;Siaga;Siaga
+;Deli Serdang;10;Bangun Purba;2;Batu Gingging;Siaga;Siaga
+;Deli Serdang;10;Bangun Purba;2;Batu Rata;Siaga;Siaga
+;Deli Serdang;10;Bangun Purba;2;Cimahe;Siaga;Siaga
+;Deli Serdang;10;Bangun Purba;2;Damak Maliho;Siaga;Siaga
+;Deli Serdang;10;Bangun Purba;2;Greahan;Siaga;Siaga
+;Deli Serdang;10;Bangun Purba;2;Mabar;Siaga;Siaga
+;Deli Serdang;10;Bangun Purba;2;Marombun Barat;Siaga;Siaga
+;Deli Serdang;10;Bangun Purba;2;Marombun Ujung Jawi;Siaga;Siaga
+;Deli Serdang;10;Bangun Purba;2;Perguruan;Siaga;Siaga
+;Deli Serdang;10;Bangun Purba;2;Rumah Deleng;Siaga;Siaga
+;Deli Serdang;10;Bangun Purba;2;Sialang;Siaga;Siaga
+;Deli Serdang;10;Bangun Purba;2;Sibaganding;Siaga;Siaga
+;Deli Serdang;10;Bangun Purba;2;Suka Lewei;Siaga;Siaga
+;Deli Serdang;10;Bangun Purba;2;Tanjung Purba;Siaga;Siaga
+;Deli Serdang;10;Bangun Purba;2;Urung Ganjang;Siaga;Siaga
+;Deli Serdang;11;Sibiru-Biru;2;Biru-Biru;Siaga;Siaga
+;Deli Serdang;11;Sibiru-Biru;2;Kuala Dekah;Siaga;Siaga
+;Deli Serdang;11;Sibiru-Biru;2;Kuta Mulyo;Siaga;Siaga
+;Deli Serdang;11;Sibiru-Biru;2;Madinding Julu;Siaga;Siaga
+;Deli Serdang;11;Sibiru-Biru;2;Mbaruai;Siaga;Siaga
+;Deli Serdang;11;Sibiru-Biru;2;Namo Suro Baru;Siaga;Siaga
+;Deli Serdang;11;Sibiru-Biru;2;Namo Tualang;Siaga;Siaga
+;Deli Serdang;11;Sibiru-Biru;2;Penen;Siaga;Siaga
+;Deli Serdang;11;Sibiru-Biru;2;Per Ria-Ria;Siaga;Siaga
+;Deli Serdang;11;Sibiru-Biru;2;Rumah Gerat;Siaga;Siaga
+;Deli Serdang;11;Sibiru-Biru;2;Sari Laba Jahe;Siaga;Siaga
+;Deli Serdang;11;Sibiru-Biru;2;Sidodadi;Siaga;Siaga
+;Deli Serdang;11;Sibiru-Biru;2;Tanjung Sena;Siaga;Siaga
+;Deli Serdang;11;Sibiru-Biru;2;Candi Rejo;Siaga;Siaga
+;Deli Serdang;12;Galang;2;Jaharum A;Siaga;Siaga
+;Deli Serdang;12;Galang;2;Kampung Galang Suka;Siaga;Siaga
+;Deli Serdang;12;Galang;2;Kampung Kelapa Satu;Siaga;Siaga
+;Deli Serdang;12;Galang;2;Kotangan;Siaga;Siaga
+;Deli Serdang;12;Galang;2;Galang Kota;Siaga;Siaga
+;Deli Serdang;12;Galang;2;Pisang Pala;Siaga;Siaga
+;Deli Serdang;12;Galang;2;Sungai Karang;Siaga;Siaga
+;Deli Serdang;12;Galang;2;Tanjung Gusti;Siaga;Siaga
+;Deli Serdang;12;Galang;2;Timbang Deli;Siaga;Siaga
+;Deli Serdang;12;Galang;2;Bandar Kwala;Siaga;Siaga
+;Deli Serdang;12;Galang;2;Baru Titi Besi;Siaga;Siaga
+;Deli Serdang;12;Galang;2;Batu Lokong;Siaga;Siaga
+;Deli Serdang;12;Galang;2;Paku;Siaga;Siaga
+;Deli Serdang;12;Galang;2;Galang Barat;Siaga;Siaga
+;Deli Serdang;12;Galang;2;Jaharum B;Siaga;Siaga
+;Deli Serdang;12;Galang;2;Kampung Johar Baru;Siaga;Siaga
+;Deli Serdang;12;Galang;2;Kampung Paku;Siaga;Siaga
+;Deli Serdang;12;Galang;2;Kotasan;Siaga;Siaga
+;Deli Serdang;12;Galang;2;Kramat Gajah;Siaga;Siaga
+;Deli Serdang;12;Galang;2;Naga Rejo;Siaga;Siaga
+;Deli Serdang;12;Galang;2;Paya Itik;Siaga;Siaga
+;Deli Serdang;12;Galang;2;Paya Kuda;Siaga;Siaga
+;Deli Serdang;12;Galang;2;Paya Sampir;Siaga;Siaga
+;Deli Serdang;12;Galang;2;Pertangguhan;Siaga;Siaga
+;Deli Serdang;12;Galang;2;Pulau Gambar;Siaga;Siaga
+;Deli Serdang;12;Galang;2;Pulau Tagor Batu;Siaga;Siaga
+;Deli Serdang;12;Galang;2;Sungai Putih;Siaga;Siaga
+;Deli Serdang;12;Galang;2;Tanah Merah;Siaga;Siaga
+;Deli Serdang;12;Galang;2;Tanjung Siporkis;Siaga;Siaga
+;Deli Serdang;13;Pancur Batu;2;Gunung Tinggi;Siaga;Siaga
+;Deli Serdang;13;Pancur Batu;2;Namo Riam;Siaga;Siaga
+;Deli Serdang;13;Pancur Batu;2;Namo Rih;Siaga;Siaga
+;Deli Serdang;13;Pancur Batu;2;Namo Simpur;Siaga;Siaga
+;Deli Serdang;13;Pancur Batu;2;Pertampilen;Siaga;Siaga
+;Deli Serdang;13;Pancur Batu;2;Salam Tani;Siaga;Siaga
+;Deli Serdang;13;Pancur Batu;2;Sembahe Baru;Siaga;Siaga
+;Deli Serdang;13;Pancur Batu;2;Sugau;Siaga;Siaga
+;Deli Serdang;13;Pancur Batu;2;Bintang Meriah;Siaga;Siaga
+;Deli Serdang;13;Pancur Batu;2;Tiang Layar;Siaga;Siaga
+;Deli Serdang;13;Pancur Batu;2;Tuntungan I;Siaga;Siaga
+;Deli Serdang;13;Pancur Batu;2;Tuntungan Ii;Siaga;Siaga
+;Deli Serdang;13;Pancur Batu;2;Durian Jangak;Siaga;Siaga
+;Deli Serdang;13;Pancur Batu;2;Hulu;Siaga;Siaga
+;Deli Serdang;13;Pancur Batu;2;Kampung Tengah;Siaga;Siaga
+;Deli Serdang;13;Pancur Batu;2;Namo Bintang;Siaga;Siaga
+;Deli Serdang;13;Pancur Batu;2;Sei Gelugur;Siaga;Siaga
+;Deli Serdang;13;Pancur Batu;2;Durin Tonggal;Siaga;Siaga
+;Deli Serdang;13;Pancur Batu;2;Durin Simbelang;Siaga;Siaga
+;Deli Serdang;14;Labuhan Deli;2;Karang Gading;Siaga;Siaga
+;Deli Serdang;14;Labuhan Deli;2;Telaga Tujuh;Siaga;Siaga
+;Deli Serdang;15;Hamparan Perak;2;Kampung Lama;Siaga;Siaga
+;Deli Serdang;15;Hamparan Perak;2;Klambir;Siaga;Siaga
+;Deli Serdang;15;Hamparan Perak;2;Klambir Lima Kebon;Siaga;Siaga
+;Deli Serdang;15;Hamparan Perak;2;Datar;Siaga;Siaga
+;Deli Serdang;15;Hamparan Perak;2;Paluh Kurau;Siaga;Siaga
+;Deli Serdang;15;Hamparan Perak;2;Paluh Manan;Siaga;Siaga
+;Deli Serdang;15;Hamparan Perak;2;Paya Bakung;Siaga;Siaga
+;Deli Serdang;15;Hamparan Perak;2;Selemak;Siaga;Siaga
+;Deli Serdang;15;Hamparan Perak;2;Sialang Muda;Siaga;Siaga
+;Deli Serdang;15;Hamparan Perak;2;Sungai Baharu;Siaga;Siaga
+;Deli Serdang;15;Hamparan Perak;2;Tandam Hilir Dua;Siaga;Siaga
+;Deli Serdang;15;Hamparan Perak;2;Tandam Hilir Satu;Siaga;Siaga
+;Deli Serdang;15;Hamparan Perak;2;Tandam Hulu Satu;Siaga;Siaga
+;Deli Serdang;15;Hamparan Perak;2;Klambir Lima Kampung;Siaga;Siaga
+;Deli Serdang;15;Hamparan Perak;2;Klumpang Kampung;Siaga;Siaga
+;Deli Serdang;15;Hamparan Perak;2;Klumpang Kebon;Siaga;Siaga
+;Deli Serdang;15;Hamparan Perak;2;Tandam Hulu Dua;Siaga;Siaga
+;Deli Serdang;16;Stm Hulu;2;Bah-Bah Buntu;Siaga;Siaga
+;Deli Serdang;16;Stm Hulu;2;Durian Empat Mbelang;Siaga;Siaga
+;Deli Serdang;16;Stm Hulu;2;Durin Tinggung;Siaga;Siaga
+;Deli Serdang;16;Stm Hulu;2;Gunung Manumpak A;Siaga;Siaga
+;Deli Serdang;16;Stm Hulu;2;Gunung Manumpak B;Siaga;Siaga
+;Deli Serdang;16;Stm Hulu;2;Kuta Mbelin;Siaga;Siaga
+;Deli Serdang;16;Stm Hulu;2;Liang Muda;Siaga;Siaga
+;Deli Serdang;16;Stm Hulu;2;Liang Pematang;Siaga;Siaga
+;Deli Serdang;16;Stm Hulu;2;Ranggitgit;Siaga;Siaga
+;Deli Serdang;16;Stm Hulu;2;Rumah Lengo;Siaga;Siaga
+;Deli Serdang;16;Stm Hulu;2;Rumah Rih;Siaga;Siaga
+;Deli Serdang;16;Stm Hulu;2;Rumah Sumbul;Siaga;Siaga
+;Deli Serdang;16;Stm Hulu;2;Sibunga-Bunga Hilir;Siaga;Siaga
+;Deli Serdang;16;Stm Hulu;2;Sipinggan;Siaga;Siaga
+;Deli Serdang;16;Stm Hulu;2;Tanah Gara Hulu;Siaga;Siaga
+;Deli Serdang;16;Stm Hulu;2;Tanjung Bampu;Siaga;Siaga
+;Deli Serdang;16;Stm Hulu;2;Tanjung Muda;Siaga;Siaga
+;Deli Serdang;16;Stm Hulu;2;Tanjung Raja;Siaga;Siaga
+;Deli Serdang;16;Stm Hulu;2;Tanjung Timur;Siaga;Siaga
+;Deli Serdang;16;Stm Hulu;2;Tiga Juhar;Siaga;Siaga
+;Deli Serdang;17;Stm Hilir;2;Gunung Rintis;Siaga;Siaga
+;Deli Serdang;17;Stm Hilir;2;Jumma Tombak;Siaga;Siaga
+;Deli Serdang;17;Stm Hilir;2;Kuta Jurung;Siaga;Siaga
+;Deli Serdang;17;Stm Hilir;2;Lau Barus Baru;Siaga;Siaga
+;Deli Serdang;17;Stm Hilir;2;Lau Rakit;Siaga;Siaga
+;Deli Serdang;17;Stm Hilir;2;Lau Rempah;Siaga;Siaga
+;Deli Serdang;17;Stm Hilir;2;Limau Mungkur;Siaga;Siaga
+;Deli Serdang;17;Stm Hilir;2;Negara Beringin;Siaga;Siaga
+;Deli Serdang;17;Stm Hilir;2;Penungkiren;Siaga;Siaga
+;Deli Serdang;17;Stm Hilir;2;Rambai;Siaga;Siaga
+;Deli Serdang;17;Stm Hilir;2;Siguci;Siaga;Siaga
+;Deli Serdang;17;Stm Hilir;2;Sumbul;Siaga;Siaga
+;Deli Serdang;17;Stm Hilir;2;Tadukan Raga;Siaga;Siaga
+;Deli Serdang;17;Stm Hilir;2;Tala Peta;Siaga;Siaga
+;Deli Serdang;17;Stm Hilir;2;Telun Kenas;Siaga;Siaga
+;Deli Serdang;18;Namorambe;2;Batu Gemuk;Siaga;Siaga
+;Deli Serdang;18;Namorambe;2;Batu Mbelin;Siaga;Siaga
+;Deli Serdang;18;Namorambe;2;Batu Rejo;Siaga;Siaga
+;Deli Serdang;18;Namorambe;2;Bekukul;Siaga;Siaga
+;Deli Serdang;18;Namorambe;2;Cinta Rakyat;Siaga;Siaga
+;Deli Serdang;18;Namorambe;2;Gunung Berita;Siaga;Siaga
+;Deli Serdang;18;Namorambe;2;Gunung Kelawas;Siaga;Siaga
+;Deli Serdang;18;Namorambe;2;Jaba;Siaga;Siaga
+;Deli Serdang;18;Namorambe;2;Jati Kesuma;Siaga;Siaga
+;Deli Serdang;18;Namorambe;2;Kuala Simeme;Siaga;Siaga
+;Deli Serdang;18;Namorambe;2;Kuta Tengah;Siaga;Siaga
+;Deli Serdang;18;Namorambe;2;Kuta Tualah;Siaga;Siaga
+;Deli Serdang;18;Namorambe;2;Lau Mulgap;Siaga;Siaga
+;Deli Serdang;18;Namorambe;2;Lubang Ido;Siaga;Siaga
+;Deli Serdang;18;Namorambe;2;Namo Batang;Siaga;Siaga
+;Deli Serdang;18;Namorambe;2;Namo Landur;Siaga;Siaga
+;Deli Serdang;18;Namorambe;2;Namo Mbaru;Siaga;Siaga
+;Deli Serdang;18;Namorambe;2;Namo Mbelin;Siaga;Siaga
+;Deli Serdang;18;Namorambe;2;Namo Pakam;Siaga;Siaga
+;Deli Serdang;18;Namorambe;2;Namo Pinang;Siaga;Siaga
+;Deli Serdang;18;Namorambe;2;Namorambe;Siaga;Siaga
+;Deli Serdang;18;Namorambe;2;Rimo Mungkur;Siaga;Siaga
+;Deli Serdang;18;Namorambe;2;Rumah Keben;Siaga;Siaga
+;Deli Serdang;18;Namorambe;2;Rumah Mbacang;Siaga;Siaga
+;Deli Serdang;18;Namorambe;2;Salang Tungir;Siaga;Siaga
+;Deli Serdang;18;Namorambe;2;Silue Lue;Siaga;Siaga
+;Deli Serdang;18;Namorambe;2;Sudi Rejo;Siaga;Siaga
+;Deli Serdang;18;Namorambe;2;Suka Mulia Hilir;Siaga;Siaga
+;Deli Serdang;18;Namorambe;2;Suka Mulia Hulu;Siaga;Siaga
+;Deli Serdang;18;Namorambe;2;Tangkahan;Siaga;Siaga
+;Deli Serdang;18;Namorambe;2;Tanjung Selamat;Siaga;Siaga
+;Deli Serdang;18;Namorambe;2;Timbang Lawan;Siaga;Siaga
+;Deli Serdang;18;Namorambe;2;Ujung Labuhen;Siaga;Siaga
+;Deli Serdang;18;Namorambe;2;Uruk Gedang;Siaga;Siaga
+;Deli Serdang;18;Namorambe;2;Batu Penjemuran;Siaga;Siaga
+;Deli Serdang;18;Namorambe;2;Deli Tua;Siaga;Siaga
+;Deli Serdang;19;Sibolangit;2;Bandar Baru;Siaga;Siaga
+;Deli Serdang;19;Sibolangit;2;Batu Layang;Siaga;Siaga
+;Deli Serdang;19;Sibolangit;2;Batu Mbelin;Siaga;Siaga
+;Deli Serdang;19;Sibolangit;2;Bengkurung;Siaga;Siaga
+;Deli Serdang;19;Sibolangit;2;Betimus Baru;Siaga;Siaga
+;Deli Serdang;19;Sibolangit;2;Bingkawan;Siaga;Siaga
+;Deli Serdang;19;Sibolangit;2;Buah Nabar;Siaga;Siaga
+;Deli Serdang;19;Sibolangit;2;Bukum;Siaga;Siaga
+;Deli Serdang;19;Sibolangit;2;Buluh Awar;Siaga;Siaga
+;Deli Serdang;19;Sibolangit;2;Cinta Rakyat;Siaga;Siaga
+;Deli Serdang;19;Sibolangit;2;Durin Serugun;Siaga;Siaga
+;Deli Serdang;19;Sibolangit;2;Ketangkuhen;Siaga;Siaga
+;Deli Serdang;19;Sibolangit;2;Kuala;Siaga;Siaga
+;Deli Serdang;19;Sibolangit;2;Martelu;Siaga;Siaga
+;Deli Serdang;19;Sibolangit;2;Negri Gugung;Siaga;Siaga
+;Deli Serdang;19;Sibolangit;2;Puang Aja;Siaga;Siaga
+;Deli Serdang;19;Sibolangit;2;Rambung Baru;Siaga;Siaga
+;Deli Serdang;19;Sibolangit;2;Rumah Kinangkung Sp;Siaga;Siaga
+;Deli Serdang;19;Sibolangit;2;Rumah Pil-Pil;Siaga;Siaga
+;Deli Serdang;19;Sibolangit;2;Rumah Sumbul;Siaga;Siaga
+;Deli Serdang;19;Sibolangit;2;Sala Bulan;Siaga;Siaga
+;Deli Serdang;19;Sibolangit;2;Sayum Sabah;Siaga;Siaga
+;Deli Serdang;19;Sibolangit;2;Sembahe;Siaga;Siaga
+;Deli Serdang;19;Sibolangit;2;Sibolangit;Siaga;Siaga
+;Deli Serdang;19;Sibolangit;2;Sikeben;Siaga;Siaga
+;Deli Serdang;19;Sibolangit;2;Suka Maju;Siaga;Siaga
+;Deli Serdang;19;Sibolangit;2;Suka Makmur;Siaga;Siaga
+;Deli Serdang;19;Sibolangit;2;Tambunen;Siaga;Siaga
+;Deli Serdang;19;Sibolangit;2;Tanjung Beringin;Siaga;Siaga
+;Deli Serdang;19;Sibolangit;2;Ujung Deleng;Siaga;Siaga
+;Deli Serdang;20;Pagar Merbau;2;Bandar Dolok;Siaga;Siaga
+;Deli Serdang;20;Pagar Merbau;2;Pagar Merbau Ii;Siaga;Siaga
+;Deli Serdang;20;Pagar Merbau;2;Perbarakan;Siaga;Siaga
+;Deli Serdang;20;Pagar Merbau;2;Sidoarjo Satu Jati Baru;Siaga;Siaga
+;Deli Serdang;20;Pagar Merbau;2;Sidoarjo Satu Pasar Miring;Siaga;Siaga
+;Deli Serdang;20;Pagar Merbau;2;Sukamandi Hilir;Siaga;Siaga
+;Deli Serdang;20;Pagar Merbau;2;Sukamandi Hulu;Siaga;Siaga
+;Deli Serdang;20;Pagar Merbau;2;Sumberejo;Siaga;Siaga
+;Deli Serdang;20;Pagar Merbau;2;Tanjung Garbus Kampung;Siaga;Siaga
+;Deli Serdang;20;Pagar Merbau;2;Jati Rejo;Siaga;Siaga
+;Deli Serdang;20;Pagar Merbau;2;Pagar Merbau I;Siaga;Siaga
+;Deli Serdang;20;Pagar Merbau;2;Purwodadi;Siaga;Siaga
+;Deli Serdang;20;Pagar Merbau;2;Sidodadi Batu Delapan;Siaga;Siaga
+;Deli Serdang;20;Pagar Merbau;2;Suka Mulia;Siaga;Siaga
+;Deli Serdang;20;Pagar Merbau;2;Tanjung Garbus Ii;Siaga;Siaga
+;Deli Serdang;20;Pagar Merbau;2;Tanjung Mulia;Siaga;Siaga
+;Deli Serdang;21;Kutalimbaru;2;Kuala Lau Bicik;Siaga;Siaga
+;Deli Serdang;21;Kutalimbaru;2;Kuta Limbaru;Siaga;Siaga
+;Deli Serdang;21;Kutalimbaru;2;Lau Bakeri;Siaga;Siaga
+;Deli Serdang;21;Kutalimbaru;2;Namo Mirik;Siaga;Siaga
+;Deli Serdang;21;Kutalimbaru;2;Pasar X;Siaga;Siaga
+;Deli Serdang;21;Kutalimbaru;2;Perpanden;Siaga;Siaga
+;Deli Serdang;21;Kutalimbaru;2;Sampe Cita;Siaga;Siaga
+;Deli Serdang;21;Kutalimbaru;2;Sawit Rejo;Siaga;Siaga
+;Deli Serdang;21;Kutalimbaru;2;Sei Mencirim;Siaga;Siaga
+;Deli Serdang;21;Kutalimbaru;2;Silebo Lebo;Siaga;Siaga
+;Deli Serdang;21;Kutalimbaru;2;Suka Dame;Siaga;Siaga
+;Deli Serdang;21;Kutalimbaru;2;Suka Makmur;Siaga;Siaga
+;Deli Serdang;21;Kutalimbaru;2;Suka Rende;Siaga;Siaga
+;Deli Serdang;22;Gunung Meriah;2;Bintang Meriah;Siaga;Siaga
+;Deli Serdang;22;Gunung Meriah;2;Gunung Meriah;Siaga;Siaga
+;Deli Serdang;22;Gunung Meriah;2;Gunung Paribuan;Siaga;Siaga
+;Deli Serdang;22;Gunung Meriah;2;Gunung Seribu;Siaga;Siaga
+;Deli Serdang;22;Gunung Meriah;2;Gunung Sinembah;Siaga;Siaga
+;Deli Serdang;22;Gunung Meriah;2;Kuta Bayu;Siaga;Siaga
+;Deli Serdang;22;Gunung Meriah;2;Kuta Tengah;Siaga;Siaga
+;Deli Serdang;22;Gunung Meriah;2;Marjanji Pematang;Siaga;Siaga
+;Deli Serdang;22;Gunung Meriah;2;Marjanji Tongah;Siaga;Siaga
+;Deli Serdang;22;Gunung Meriah;2;Pekan Gunung Meriah;Siaga;Siaga
+;Deli Serdang;22;Gunung Meriah;2;Simempar;Siaga;Siaga
+;Deli Serdang;22;Gunung Meriah;2;Ujung Meriah;Siaga;Siaga
+14;Gunung Sitoli;1;Gunungsitoli Idanoi;2;Hilimbowo Idanoi;Aman;Siaga
+;Gunung Sitoli;1;Gunungsitoli Idanoi;2;Hiliweto Idanoi;Aman;Siaga
+;Gunung Sitoli;1;Gunungsitoli Idanoi;2;Tuhegeo Ii;Aman;Siaga
+;Gunung Sitoli;1;Gunungsitoli Idanoi;2;Samasi;Aman;Siaga
+;Gunung Sitoli;1;Gunungsitoli Idanoi;2;Loloanaa Idanoi;Aman;Siaga
+;Gunung Sitoli;1;Gunungsitoli Idanoi;2;Ombolata;Aman;Siaga
+;Gunung Sitoli;1;Gunungsitoli Idanoi;2;Onowaembo;Aman;Siaga
+;Gunung Sitoli;1;Gunungsitoli Idanoi;2;Siwalubanua I;Aman;Siaga
+;Gunung Sitoli;1;Gunungsitoli Idanoi;2;Awaai;Aman;Siaga
+;Gunung Sitoli;1;Gunungsitoli Idanoi;2;Lewuoguru Idanoi;Aman;Siaga
+;Gunung Sitoli;1;Gunungsitoli Idanoi;2;Fadoro;Aman;Siaga
+;Gunung Sitoli;1;Gunungsitoli Idanoi;2;Sifalaete;Aman;Siaga
+;Gunung Sitoli;1;Gunungsitoli Idanoi;2;Hilihambawa;Aman;Siaga
+;Gunung Sitoli;1;Gunungsitoli Idanoi;2;Tetehosi I;Aman;Siaga
+;Gunung Sitoli;1;Gunungsitoli Idanoi;2;Tetehosi Ii;Aman;Siaga
+;Gunung Sitoli;1;Gunungsitoli Idanoi;2;Binaka;Aman;Siaga
+;Gunung Sitoli;1;Gunungsitoli Idanoi;2;Idanotae;Aman;Siaga
+;Gunung Sitoli;1;Gunungsitoli Idanoi;2;Fowa;Aman;Siaga
+;Gunung Sitoli;1;Gunungsitoli Idanoi;2;Siwalubanua Ii;Aman;Siaga
+;Gunung Sitoli;1;Gunungsitoli Idanoi;2;Humene;Aman;Siaga
+;Gunung Sitoli;1;Gunungsitoli Idanoi;2;Simanaere;Aman;Siaga
+;Gunung Sitoli;1;Gunungsitoli Idanoi;2;Helefanikha;Aman;Siaga
+;Gunung Sitoli;1;Gunungsitoli Idanoi;2;Tuhegeo I;Aman;Siaga
+;Gunung Sitoli;1;Gunungsitoli Idanoi;2;Hilimbawadesolo;Aman;Siaga
+;Gunung Sitoli;1;Gunungsitoli Idanoi;2;Bawodesolo;Aman;Siaga
+;Gunung Sitoli;2;Gunungsitoli Selatan;2;Lololakha;Aman;Siaga
+;Gunung Sitoli;2;Gunungsitoli Selatan;2;Onozitoli Tabaloho;Aman;Siaga
+;Gunung Sitoli;2;Gunungsitoli Selatan;2;Sihareo I Tabaloho;Aman;Siaga
+;Gunung Sitoli;2;Gunungsitoli Selatan;2;Ombolata Simenari;Aman;Siaga
+;Gunung Sitoli;2;Gunungsitoli Selatan;2;Mazingo Tabaloho;Aman;Siaga
+;Gunung Sitoli;2;Gunungsitoli Selatan;2;Ononamolo I Lot;Aman;Siaga
+;Gunung Sitoli;2;Gunungsitoli Selatan;2;Luaha Laraga;Aman;Siaga
+;Gunung Sitoli;2;Gunungsitoli Selatan;2;Lolomboli;Aman;Siaga
+;Gunung Sitoli;2;Gunungsitoli Selatan;2;Faekhu;Aman;Siaga
+;Gunung Sitoli;2;Gunungsitoli Selatan;2;Lolofaoso Tabaloho;Aman;Siaga
+;Gunung Sitoli;2;Gunungsitoli Selatan;2;Hiligara;Aman;Siaga
+;Gunung Sitoli;2;Gunungsitoli Selatan;2;Hiligodu Ombolata;Aman;Siaga
+;Gunung Sitoli;2;Gunungsitoli Selatan;2;Tetehosi Ombalata;Aman;Siaga
+;Gunung Sitoli;2;Gunungsitoli Selatan;2;Sisobahili Ii Tanoseo;Aman;Siaga
+;Gunung Sitoli;3;Gunungsitoli Barat;2;Onozikho;Aman;Siaga
+;Gunung Sitoli;3;Gunungsitoli Barat;2;Gada;Aman;Siaga
+;Gunung Sitoli;3;Gunungsitoli Barat;2;Hilinakhe;Aman;Siaga
+;Gunung Sitoli;3;Gunungsitoli Barat;2;Lolomoyo Tuhemberua;Aman;Siaga
+;Gunung Sitoli;3;Gunungsitoli Barat;2;Sihareo Siwahili;Aman;Siaga
+;Gunung Sitoli;3;Gunungsitoli Barat;2;Desatumori Balohili;Aman;Siaga
+;Gunung Sitoli;3;Gunungsitoli Barat;2;Tumori;Aman;Siaga
+;Gunung Sitoli;3;Gunungsitoli Barat;2;Orahili Tumori;Aman;Siaga
+;Gunung Sitoli;3;Gunungsitoli Barat;2;Ononamolo Ii Lot;Aman;Siaga
+;Gunung Sitoli;4;Gunungsitoli;2;Miga;Aman;Siaga
+;Gunung Sitoli;4;Gunungsitoli;2;Sihareo Ii;Aman;Siaga
+;Gunung Sitoli;4;Gunungsitoli;2;Kelurahan Ilir;Aman;Siaga
+;Gunung Sitoli;4;Gunungsitoli;2;Dahana;Aman;Siaga
+;Gunung Sitoli;4;Gunungsitoli;2;Sisobahili Tabaloho;Aman;Siaga
+;Gunung Sitoli;4;Gunungsitoli;2;Dahadano Gawu Gawu;Aman;Siaga
+;Gunung Sitoli;4;Gunungsitoli;2;Lasara Bahili;Aman;Siaga
+;Gunung Sitoli;4;Gunungsitoli;2;Mudik;Siaga;Siaga
+;Gunung Sitoli;4;Gunungsitoli;2;Boyo;Aman;Siaga
+;Gunung Sitoli;4;Gunungsitoli;2;Lelewonu Nikootano;Aman;Siaga
+;Gunung Sitoli;4;Gunungsitoli;2;Simandraolo;Aman;Siaga
+;Gunung Sitoli;4;Gunungsitoli;2;Madolaoli;Aman;Siaga
+;Gunung Sitoli;4;Gunungsitoli;2;Sisarahili Sisambalahe;Aman;Siaga
+;Gunung Sitoli;4;Gunungsitoli;2;Onowaembo;Aman;Siaga
+;Gunung Sitoli;4;Gunungsitoli;2;Fadoro Lasara;Aman;Siaga
+;Gunung Sitoli;4;Gunungsitoli;2;Tuhemberua Ulu;Aman;Siaga
+;Gunung Sitoli;4;Gunungsitoli;2;Onozitoli Siforoasi;Aman;Siaga
+;Gunung Sitoli;4;Gunungsitoli;2;Kelurahan Pasar Gunung Sitoli;Aman;Siaga
+;Gunung Sitoli;4;Gunungsitoli;2;Kelurahan Saombo;Aman;Siaga
+;Gunung Sitoli;4;Gunungsitoli;2;Sifalaete Ulu;Aman;Siaga
+;Gunung Sitoli;4;Gunungsitoli;2;Hilimbaruzo;Aman;Siaga
+;Gunung Sitoli;4;Gunungsitoli;2;Hili Hao;Aman;Siaga
+;Gunung Sitoli;4;Gunungsitoli;2;Sisarahili Gamo;Aman;Siaga
+;Gunung Sitoli;4;Gunungsitoli;2;Bawadesolo;Aman;Siaga
+;Gunung Sitoli;4;Gunungsitoli;2;Onozitoli Olora;Aman;Siaga
+;Gunung Sitoli;4;Gunungsitoli;2;Madula;Aman;Siaga
+;Gunung Sitoli;5;Gunungsitoli Alo Oa;2;Fadoro You;Aman;Siaga
+;Gunung Sitoli;5;Gunungsitoli Alo Oa;2;Nazalou Alooa;Aman;Siaga
+;Gunung Sitoli;5;Gunungsitoli Alo Oa;2;Nikootano Dao;Aman;Siaga
+;Gunung Sitoli;5;Gunungsitoli Alo Oa;2;Nazalou Lolowua;Aman;Siaga
+;Gunung Sitoli;5;Gunungsitoli Alo Oa;2;Lololawa;Aman;Siaga
+;Gunung Sitoli;5;Gunungsitoli Alo Oa;2;Orahili Tanoseo;Aman;Siaga
+;Gunung Sitoli;5;Gunungsitoli Alo Oa;2;Tarakhaini;Aman;Siaga
+;Gunung Sitoli;5;Gunungsitoli Alo Oa;2;Fadoro Hilimbowo;Aman;Siaga
+;Gunung Sitoli;5;Gunungsitoli Alo Oa;2;Iraono Lase;Aman;Siaga
+;Gunung Sitoli;6;Gunungsitoli Utara;2;Hiligodu Ulu;Aman;Siaga
+;Gunung Sitoli;6;Gunungsitoli Utara;2;Hilimbowo Olora;Aman;Siaga
+;Gunung Sitoli;6;Gunungsitoli Utara;2;Gawu Gawu Bouso;Aman;Siaga
+;Gunung Sitoli;6;Gunungsitoli Utara;2;Loloanaa / Lolomoyo;Aman;Siaga
+;Gunung Sitoli;6;Gunungsitoli Utara;2;Lasara Sowu;Aman;Siaga
+;Gunung Sitoli;6;Gunungsitoli Utara;2;Hambawa;Aman;Siaga
+;Gunung Sitoli;6;Gunungsitoli Utara;2;Tetehosi Afia;Aman;Siaga
+;Gunung Sitoli;6;Gunungsitoli Utara;2;Afia;Aman;Siaga
+;Gunung Sitoli;6;Gunungsitoli Utara;2;Teluk Belukar;Aman;Siaga
+;Nias Utara;11;Lahewa;2;Kelurahan Lahewa;Siaga;Siaga
+;Nias Barat;1;Sirombu;2;Sirombu;Siaga;Siaga
+;Tanjung Balai;3;Sei Tualang Raso;2;Sumber Sari;Waspada;Siaga
+;Tanjung Balai;4;Tanjungbalai Selatan;2;Tanjungbalai Ii;Siaga;Siaga
+;Tanjung Balai;4;Tanjungbalai Selatan;2;Perwira;Siaga;Siaga
+;Langkat;1;Tanjung Pura;2;Kampung Lalang;Siaga;Siaga
+;Langkat;1;Tanjung Pura;2;Kwala Serapuh;Siaga;Siaga
+;Langkat;1;Tanjung Pura;2;Karya Maju;Siaga;Siaga
+;Langkat;1;Tanjung Pura;2;Paya Perupuk;Siaga;Siaga
+;Langkat;1;Tanjung Pura;2;Pematang Cengal Barat;Siaga;Siaga
+;Langkat;1;Tanjung Pura;2;Pematang;Siaga;Siaga
+;Langkat;1;Tanjung Pura;2;Pematang Serai;Siaga;Siaga
+;Langkat;1;Tanjung Pura;2;Pulau Banyak;Siaga;Siaga
+;Langkat;1;Tanjung Pura;2;Tapak Kuda;Siaga;Siaga
+;Langkat;2;Hinai;2;Suka Jadi;Siaga;Siaga
+;Langkat;2;Hinai;2;Suka Damai Timur;Siaga;Siaga
+;Langkat;2;Hinai;2;Tamaran;Siaga;Siaga
+;Langkat;2;Hinai;2;Pasar Viii;Siaga;Siaga
+;Langkat;2;Hinai;2;Tanjung Mulya;Siaga;Siaga
+;Langkat;2;Hinai;2;Muka Paya;Siaga;Siaga
+;Langkat;3;Gebang;2;Bukit Mengkirai;Siaga;Siaga
+;Langkat;3;Gebang;2;Dogang;Siaga;Siaga
+;Langkat;3;Gebang;2;Kwala Gebang;Siaga;Siaga
+;Langkat;3;Gebang;2;Padang Langkat;Siaga;Siaga
+;Langkat;3;Gebang;2;Pasar Rawa;Siaga;Siaga
+;Langkat;3;Gebang;2;Sangga Lima;Siaga;Siaga
+;Langkat;3;Gebang;2;Pasiran;Siaga;Siaga
+;Langkat;3;Gebang;2;Perkebunan Serat;Siaga;Siaga
+;Langkat;3;Gebang;2;Paya Bengkuang;Siaga;Siaga
+;Langkat;4;Sei Lepan;2;Kelurahan Harapan Jaya;Siaga;Siaga
+;Langkat;4;Sei Lepan;2;Harapan Maju;Siaga;Siaga
+;Langkat;4;Sei Lepan;2;Harapan Makmur;Siaga;Siaga
+;Langkat;4;Sei Lepan;2;Lama;Siaga;Siaga
+;Langkat;4;Sei Lepan;2;Lama Baru;Siaga;Siaga
+;Langkat;4;Sei Lepan;2;Mekar Makmur;Siaga;Siaga
+;Langkat;4;Sei Lepan;2;Puraka I Pertamina;Siaga;Siaga
+;Langkat;5;Babalan;2;Kelurahan Brandan Barat;Siaga;Siaga
+;Langkat;5;Babalan;2;Kelurahan Brandan Timur Baru;Siaga;Siaga
+;Langkat;5;Babalan;2;Teluk Meku;Siaga;Siaga
+;Langkat;5;Babalan;2;Kelurahan Brandan Timur;Siaga;Siaga
+;Langkat;5;Babalan;2;Securai Selatan;Siaga;Siaga
+;Langkat;6;Kuala;2;Balai Kasih;Siaga;Siaga
+;Langkat;6;Kuala;2;Bekiun;Bahaya;Siaga
+;Langkat;6;Kuala;2;Beruam;Siaga;Siaga
+;Langkat;6;Kuala;2;Belangkahan;Siaga;Siaga
+;Langkat;6;Kuala;2;Dalan Naman;Siaga;Siaga
+;Langkat;6;Kuala;2;Garunggang;Siaga;Siaga
+;Langkat;6;Kuala;2;Parit Bindu;Siaga;Siaga
+;Langkat;6;Kuala;2;Raja Tengah;Siaga;Siaga
+;Langkat;6;Kuala;2;Sei Penjara;Siaga;Siaga
+;Langkat;6;Kuala;2;Sido Makmur;Siaga;Siaga
+;Langkat;6;Kuala;2;Suka Damai;Siaga;Siaga
+;Langkat;7;Wampu;2;Gergas;Siaga;Siaga
+;Langkat;7;Wampu;2;Kebun Balok;Siaga;Siaga
+;Langkat;7;Wampu;2;Mekar Jaya;Siaga;Siaga
+;Langkat;7;Wampu;2;Paya Tusam;Siaga;Siaga
+;Langkat;7;Wampu;2;Pertumbukan;Siaga;Siaga
+;Langkat;7;Wampu;2;Stabat Lama Barat;Siaga;Siaga
+;Langkat;7;Wampu;2;Sumber Mulyo;Siaga;Siaga
+;Langkat;7;Wampu;2;Bukit Melintang;Siaga;Siaga
+;Langkat;7;Wampu;2;Jentera Stabat;Siaga;Siaga
+;Langkat;10;Kutambaru;2;Kaperas;Siaga;Siaga
+;Langkat;10;Kutambaru;2;Kuta Gajah;Siaga;Siaga
+;Langkat;10;Kutambaru;2;Kutambaru;Siaga;Siaga
+;Langkat;10;Kutambaru;2;Perkebunan Marike;Siaga;Siaga
+;Langkat;10;Kutambaru;2;Perkebunan Namotongan;Siaga;Siaga
+;Langkat;10;Kutambaru;2;Rempah;Siaga;Siaga
+;Langkat;10;Kutambaru;2;Sulkam;Siaga;Siaga
+;Langkat;11;Brandan Barat;2;Kelantan;Siaga;Siaga
+;Langkat;11;Brandan Barat;2;Lubuk Kertang;Siaga;Siaga
+;Langkat;11;Brandan Barat;2;Kelurahan Pangkalan Batu;Siaga;Siaga
+;Langkat;11;Brandan Barat;2;Sei Tulang;Siaga;Siaga
+;Langkat;11;Brandan Barat;2;Kelurahan Tangkahan Durian;Siaga;Siaga
+;Langkat;12;Sawit Sebrang;2;Alur Gadung;Siaga;Siaga
+;Langkat;12;Sawit Sebrang;2;Alur Melati;Siaga;Siaga
+;Langkat;12;Sawit Sebrang;2;Sawit Hulu;Siaga;Siaga
+;Langkat;12;Sawit Sebrang;2;Kelurahan Sawit Sebrang;Siaga;Siaga
+;Langkat;12;Sawit Sebrang;2;Simpang Tiga;Siaga;Siaga
+;Langkat;13;Padang Tualang;2;Bukit Sari;Siaga;Siaga
+;Langkat;13;Padang Tualang;2;Besilam;Siaga;Siaga
+;Langkat;13;Padang Tualang;2;Jati Sari;Siaga;Siaga
+;Langkat;13;Padang Tualang;2;Kwala Pesilam;Siaga;Siaga
+;Langkat;13;Padang Tualang;2;Serapuh Abc;Siaga;Siaga
+;Langkat;13;Padang Tualang;2;Suka Ramai;Siaga;Siaga
+;Langkat;13;Padang Tualang;2;Bandar Jaya;Siaga;Siaga
+;Langkat;13;Padang Tualang;2;Tebing Tanjung Selamat;Siaga;Siaga
+;Langkat;13;Padang Tualang;2;Tanjung Putus;Siaga;Siaga
+;Langkat;13;Padang Tualang;2;Kelurahan Tanjung Selamat;Siaga;Siaga
+;Langkat;14;Salapian;2;Adin Tengah;Siaga;Siaga
+;Langkat;14;Salapian;2;Lau Gugur;Siaga;Siaga
+;Langkat;14;Salapian;2;Lau Tepu;Siaga;Siaga
+;Langkat;14;Salapian;2;Pamah Tambunan;Siaga;Siaga
+;Langkat;14;Salapian;2;Pancur Ido;Siaga;Siaga
+;Langkat;14;Salapian;2;Parangguam;Siaga;Siaga
+;Langkat;14;Salapian;2;Perkebunan Bandar Telu;Siaga;Siaga
+;Langkat;14;Salapian;2;Perkebuanan Gelugur Langkat;Siaga;Siaga
+;Langkat;14;Salapian;2;Perkebunan Tambunan;Siaga;Siaga
+;Langkat;14;Salapian;2;Perkebunan Tanjung Keliling;Siaga;Siaga
+;Langkat;14;Salapian;2;Kelurahan Tanjung Langkat;Siaga;Siaga
+;Langkat;14;Salapian;2;Panco Warno;Siaga;Siaga
+;Langkat;14;Salapian;2;Ujung Bandar;Siaga;Siaga
+;Langkat;15;Pangkalan Susu;2;Kelurahan Beras Basah;Siaga;Siaga
+;Langkat;15;Pangkalan Susu;2;Kelurahan Bukit Jengkol;Siaga;Siaga
+;Langkat;15;Pangkalan Susu;2;Pangkalan Siata;Siaga;Siaga
+;Langkat;15;Pangkalan Susu;2;Pulau Sembilan;Siaga;Siaga
+;Langkat;15;Pangkalan Susu;2;Pintu Air;Siaga;Siaga
+;Langkat;15;Pangkalan Susu;2;Pulau Kampai;Siaga;Siaga
+;Langkat;15;Pangkalan Susu;2;Sei Meran;Siaga;Siaga
+;Langkat;16;Batang Serangan;2;Kwala Musam;Siaga;Siaga
+;Langkat;16;Batang Serangan;2;Namosialang;Siaga;Siaga
+;Langkat;16;Batang Serangan;2;Paluh Pakih Babussalam;Siaga;Siaga
+;Langkat;16;Batang Serangan;2;Bamban;Siaga;Siaga
+;Langkat;16;Batang Serangan;2;Musam;Siaga;Siaga
+;Langkat;16;Batang Serangan;2;Serdang;Siaga;Siaga
+;Langkat;17;Sei Bingai;2;Belinteng;Siaga;Siaga
+;Langkat;17;Sei Bingai;2;Durian Lingga;Siaga;Siaga
+;Langkat;17;Sei Bingai;2;Gunung Ambat;Siaga;Siaga
+;Langkat;17;Sei Bingai;2;Mekar Jaya;Siaga;Siaga
+;Langkat;17;Sei Bingai;2;Pasar Vi Kwala Mencirim;Waspada;Siaga
+;Langkat;17;Sei Bingai;2;Pasar Iv Namo Terasi;Waspada;Siaga
+;Langkat;17;Sei Bingai;2;Purwobinangun;Siaga;Siaga
+;Langkat;17;Sei Bingai;2;Rumah Galuh;Siaga;Siaga
+;Langkat;17;Sei Bingai;2;Simpang Kuta Buluh;Siaga;Siaga
+;Langkat;17;Sei Bingai;2;Tanjung Gunung;Siaga;Siaga
+;Langkat;17;Sei Bingai;2;Telagah;Siaga;Siaga
+;Langkat;18;Selesei;2;Bekulap;Siaga;Siaga
+;Langkat;18;Selesei;2;Kuta Parit;Siaga;Siaga
+;Langkat;18;Selesei;2;Kwala Air Hitam;Siaga;Siaga
+;Langkat;18;Selesei;2;Mancang;Siaga;Siaga
+;Langkat;18;Selesei;2;Nambiki;Siaga;Siaga
+;Langkat;18;Selesei;2;Padang Cermin;Siaga;Siaga
+;Langkat;18;Selesei;2;Kelurahan Pekan Selesai;Siaga;Siaga
+;Langkat;18;Selesei;2;Perhiasan;Siaga;Siaga
+;Langkat;18;Selesei;2;Sei Limbat;Siaga;Siaga
+;Langkat;18;Selesei;2;Tanjung Merahe;Siaga;Siaga
+;Langkat;18;Selesei;2;Lau Mulgap;Siaga;Siaga
+;Langkat;18;Selesei;2;Selayang;Siaga;Siaga
+;Langkat;19;Binjai;2;Kelurahan Kwala Begumit;Siaga;Siaga
+;Langkat;19;Binjai;2;Perdamaian;Siaga;Siaga
+;Langkat;19;Binjai;2;Sambi Rejo;Siaga;Siaga
+;Langkat;19;Binjai;2;Sido Mulyo;Siaga;Siaga
+;Langkat;19;Binjai;2;Suka Makmur;Siaga;Siaga
+;Langkat;19;Binjai;2;Sendang Rejo;Siaga;Siaga
+;Langkat;19;Binjai;2;Tanjung Jati;Siaga;Siaga
+;Langkat;20;Serapit;2;Aman Damai;Siaga;Siaga
+;Langkat;20;Serapit;2;Suka Pulung;Siaga;Siaga
+;Langkat;20;Serapit;2;Tanjung Keriahan;Siaga;Siaga
+;Langkat;20;Serapit;2;Gunung Tinggi;Siaga;Siaga
+;Langkat;20;Serapit;2;Pulau Semikat;Siaga;Siaga
+;Langkat;20;Serapit;2;Serapit;Siaga;Siaga
+;Langkat;20;Serapit;2;Sidorejo;Siaga;Siaga
+;Langkat;20;Serapit;2;Perkebaunan Amal Tani;Siaga;Siaga
+;Langkat;20;Serapit;2;Sibertung;Siaga;Siaga
+;Langkat;20;Serapit;2;Sumber Jaya;Siaga;Siaga
+;Langkat;21;Pematang Jaya;2;Damar Condong;Siaga;Siaga
+;Langkat;21;Pematang Jaya;2;Limau Mukur;Siaga;Siaga
+;Langkat;21;Pematang Jaya;2;Pematang Tengah;Siaga;Siaga
+;Langkat;21;Pematang Jaya;2;Perkebunan Damar Condong;Siaga;Siaga
+;Langkat;21;Pematang Jaya;2;Perkebunan Perapen;Siaga;Siaga
+;Langkat;21;Pematang Jaya;2;Salahaji;Siaga;Siaga
+;Langkat;21;Pematang Jaya;2;Serang Jaya;Siaga;Siaga
+;Langkat;21;Pematang Jaya;2;Jaya Hilir;Siaga;Siaga
+;Langkat;22;Secanggang;2;Cinta Raja;Siaga;Siaga
+;Langkat;22;Secanggang;2;Kelurahan Hinai Kiri;Siaga;Siaga
+;Langkat;22;Secanggang;2;Jaring Halus;Siaga;Siaga
+;Langkat;22;Secanggang;2;Karang Anyar;Siaga;Siaga
+;Langkat;22;Secanggang;2;Karang Gading;Siaga;Siaga
+;Langkat;22;Secanggang;2;Kebun Kelapa;Siaga;Siaga
+;Langkat;22;Secanggang;2;Kepala Sungai;Siaga;Siaga
+;Langkat;22;Secanggang;2;Kwala Besar;Siaga;Siaga
+;Langkat;22;Secanggang;2;Pantai Gading;Siaga;Siaga
+;Langkat;22;Secanggang;2;Perkotaan;Siaga;Siaga
+;Langkat;22;Secanggang;2;Secanggang;Siaga;Siaga
+;Langkat;22;Secanggang;2;Selotong;Siaga;Siaga
+;Langkat;22;Secanggang;2;Suka Mulia;Siaga;Siaga
+;Langkat;22;Secanggang;2;Sungai Ular;Siaga;Siaga
+;Langkat;22;Secanggang;2;Tanjung Ibus;Siaga;Siaga
+;Langkat;22;Secanggang;2;Telaga Jernih;Siaga;Siaga
+;Langkat;22;Secanggang;2;Teluk;Siaga;Siaga
+;Langkat;23;Bahorok;2;Batu Jonjong;Siaga;Siaga
+;Langkat;23;Bahorok;2;Empus;Siaga;Siaga
+;Langkat;23;Bahorok;2;Lau Damak;Siaga;Siaga
+;Langkat;23;Bahorok;2;Musam Pembangunan;Siaga;Siaga
+;Langkat;23;Bahorok;2;Kelurahan Pekan Bahorok;Siaga;Siaga
+;Langkat;23;Bahorok;2;Perkebunan Bukit Lawang;Siaga;Siaga
+;Langkat;23;Bahorok;2;Perkebunan Bungara;Siaga;Siaga
+;Langkat;23;Bahorok;2;Perkebunan Pulo Rambung;Siaga;Siaga
+;Langkat;23;Bahorok;2;Perkebunan Sei Musam;Siaga;Siaga
+;Langkat;23;Bahorok;2;Perkebunan Turangi;Siaga;Siaga
+;Langkat;23;Bahorok;2;Sampe Raya;Siaga;Siaga
+;Langkat;23;Bahorok;2;Sei Musam Kendit;Siaga;Siaga
+;Langkat;23;Bahorok;2;Sematar;Siaga;Siaga
+;Langkat;23;Bahorok;2;Simpang Pulo Rambung;Siaga;Siaga
+;Langkat;23;Bahorok;2;Suka Rakyat;Siaga;Siaga
+;Langkat;23;Bahorok;2;Tanjung Lenggang;Siaga;Siaga
+;Langkat;23;Bahorok;2;Timbang Jaya;Siaga;Siaga
+;Langkat;23;Bahorok;2;Timbang Lawan;Siaga;Siaga
+;Langkat;23;Bahorok;2;Ujung Bandar;Siaga;Siaga
+21;Serdang Bedagai;1;Perbaungan;2;Adolina;Siaga;Siaga
+;Serdang Bedagai;1;Perbaungan;2;Batang Terab;Siaga;Siaga
+;Serdang Bedagai;1;Perbaungan;2;Cinta Air;Siaga;Siaga
+;Serdang Bedagai;1;Perbaungan;2;Deli Muda Ilir;Siaga;Siaga
+;Serdang Bedagai;1;Perbaungan;2;Dei Muda Ulu;Siaga;Siaga
+;Serdang Bedagai;1;Perbaungan;2;Kesatuan;Siaga;Siaga
+;Serdang Bedagai;1;Perbaungan;2;Galuh;Siaga;Siaga
+;Serdang Bedagai;1;Perbaungan;2;Lidah Tanah;Siaga;Siaga
+;Serdang Bedagai;1;Perbaungan;2;Lubuk Bayas;Siaga;Siaga
+;Serdang Bedagai;1;Perbaungan;2;Lubuk Cemara;Siaga;Siaga
+;Serdang Bedagai;1;Perbaungan;2;Lubuk Dendang;Siaga;Siaga
+;Serdang Bedagai;1;Perbaungan;2;Lubuk Rotan;Siaga;Siaga
+;Serdang Bedagai;1;Perbaungan;2;Melati Dua;Siaga;Siaga
+;Serdang Bedagai;1;Perbaungan;2;Melati Satu;Siaga;Siaga
+;Serdang Bedagai;1;Perbaungan;2;Pematang Sijonam;Siaga;Siaga
+;Serdang Bedagai;1;Perbaungan;2;Pematang Tatatl;Siaga;Siaga
+;Serdang Bedagai;1;Perbaungan;2;Sei/Sungai Buluh;Siaga;Siaga
+;Serdang Bedagai;1;Perbaungan;2;Sei/Sungai Naga Lawan;Siaga;Siaga
+;Serdang Bedagai;1;Perbaungan;2;Sei/Sungai Sijenggi;Siaga;Siaga
+;Serdang Bedagai;1;Perbaungan;2;Suka Beras;Siaga;Siaga
+;Serdang Bedagai;1;Perbaungan;2;Suka Jadi;Siaga;Siaga
+;Serdang Bedagai;1;Perbaungan;2;Tanah Merah;Siaga;Siaga
+;Serdang Bedagai;1;Perbaungan;2;Tanjung Buluh;Siaga;Siaga
+;Serdang Bedagai;2;Dolok Masihul;2;Aras Panjang;Siaga;Siaga
+;Serdang Bedagai;2;Dolok Masihul;2;Bah Kerapuh;Siaga;Siaga
+;Serdang Bedagai;2;Dolok Masihul;2;Baja Ronggi;Siaga;Siaga
+;Serdang Bedagai;2;Dolok Masihul;2;Batu 12;Siaga;Siaga
+;Serdang Bedagai;2;Dolok Masihul;2;Batu 13;Siaga;Siaga
+;Serdang Bedagai;2;Dolok Masihul;2;Blok Sepuluh;Siaga;Siaga
+;Serdang Bedagai;2;Dolok Masihul;2;Bukit Cermin Hilir;Siaga;Siaga
+;Serdang Bedagai;2;Dolok Masihul;2;Dame;Siaga;Siaga
+;Serdang Bedagai;2;Dolok Masihul;2;Dolok Manampang;Siaga;Siaga
+;Serdang Bedagai;2;Dolok Masihul;2;Durian Puloan;Siaga;Siaga
+;Serdang Bedagai;2;Dolok Masihul;2;Havea;Siaga;Siaga
+;Serdang Bedagai;2;Dolok Masihul;2;Huta Nauli;Siaga;Siaga
+;Serdang Bedagai;2;Dolok Masihul;2;Kerapuh;Siaga;Siaga
+;Serdang Bedagai;2;Dolok Masihul;2;Tengah;Siaga;Siaga
+;Serdang Bedagai;2;Dolok Masihul;2;Mala Sori;Siaga;Siaga
+;Serdang Bedagai;2;Dolok Masihul;2;Martebing;Siaga;Siaga
+;Serdang Bedagai;2;Dolok Masihul;2;Paardomuan;Siaga;Siaga
+;Serdang Bedagai;2;Dolok Masihul;2;Pekan Kemis;Siaga;Siaga
+;Serdang Bedagai;2;Dolok Masihul;2;Pertambatan;Siaga;Siaga
+;Serdang Bedagai;2;Dolok Masihul;2;Sarang Giting;Siaga;Siaga
+;Serdang Bedagai;2;Dolok Masihul;2;Sarang Torop;Siaga;Siaga
+;Serdang Bedagai;2;Dolok Masihul;2;Silau Merawan;Siaga;Siaga
+;Serdang Bedagai;2;Dolok Masihul;2;Tanjung Maria;Siaga;Siaga
+;Serdang Bedagai;2;Dolok Masihul;2;Tegal Sari;Siaga;Siaga
+;Serdang Bedagai;2;Dolok Masihul;2;Ujung Silau;Siaga;Siaga
+;Serdang Bedagai;3;Sei Rampah;2;Cempedak Lobang;Siaga;Siaga
+;Serdang Bedagai;3;Sei Rampah;2;Firdaus Estate;Siaga;Siaga
+;Serdang Bedagai;3;Sei Rampah;2;Pematang Ganjang;Siaga;Siaga
+;Serdang Bedagai;3;Sei Rampah;2;Pematang Pelintahan;Siaga;Siaga
+;Serdang Bedagai;3;Sei Rampah;2;Pergulaan;Siaga;Siaga
+;Serdang Bedagai;3;Sei Rampah;2;Rambung Estate;Siaga;Siaga
+;Serdang Bedagai;3;Sei Rampah;2;Rambung Sialang Hilir;Siaga;Siaga
+;Serdang Bedagai;3;Sei Rampah;2;Rambung Sialang Hulu;Siaga;Siaga
+;Serdang Bedagai;3;Sei Rampah;2;Rambung Sialang Tengah;Siaga;Siaga
+;Serdang Bedagai;3;Sei Rampah;2;Sei Parit;Siaga;Siaga
+;Serdang Bedagai;3;Sei Rampah;2;Silau Rakyat;Siaga;Siaga
+;Serdang Bedagai;3;Sei Rampah;2;Simpang Empat;Siaga;Siaga
+;Serdang Bedagai;3;Sei Rampah;2;Sinah Kasih;Siaga;Siaga
+;Serdang Bedagai;3;Sei Rampah;2;Tanah Raja;Siaga;Siaga
+;Serdang Bedagai;4;Silinda;2;Batu Masagi;Siaga;Siaga
+;Serdang Bedagai;4;Silinda;2;Demak/Damak Gelugur;Siaga;Siaga
+;Serdang Bedagai;4;Silinda;2;Kulasar;Siaga;Siaga
+;Serdang Bedagai;4;Silinda;2;Pagar Manik;Siaga;Siaga
+;Serdang Bedagai;4;Silinda;2;Pamah;Siaga;Siaga
+;Serdang Bedagai;4;Silinda;2;Silinda;Siaga;Siaga
+;Serdang Bedagai;4;Silinda;2;Sungai Buaya;Siaga;Siaga
+;Serdang Bedagai;4;Silinda;2;Tapak Meriah;Siaga;Siaga
+;Serdang Bedagai;4;Silinda;2;Tarean;Siaga;Siaga
+;Serdang Bedagai;5;Sipispis;2;Baja Dolok;Siaga;Siaga
+;Serdang Bedagai;5;Sipispis;2;Bartong;Siaga;Siaga
+;Serdang Bedagai;5;Sipispis;2;Buluh Duri;Siaga;Siaga
+;Serdang Bedagai;5;Sipispis;2;Damak Kurat;Siaga;Siaga
+;Serdang Bedagai;5;Sipispis;2;Gunung Manako;Siaga;Siaga
+;Serdang Bedagai;5;Sipispis;2;Gunung Pane;Siaga;Siaga
+;Serdang Bedagai;5;Sipispis;2;Meriah Nagur;Siaga;Siaga
+;Serdang Bedagai;5;Sipispis;2;Marjanji;Siaga;Siaga
+;Serdang Bedagai;5;Sipispis;2;Marubun;Siaga;Siaga
+;Serdang Bedagai;5;Sipispis;2;Naga Raja;Siaga;Siaga
+;Serdang Bedagai;5;Sipispis;2;Nagur Pane;Siaga;Siaga
+;Serdang Bedagai;5;Sipispis;2;Parlambean;Siaga;Siaga
+;Serdang Bedagai;5;Sipispis;2;Pispis;Siaga;Siaga
+;Serdang Bedagai;5;Sipispis;2;Rimbun;Siaga;Siaga
+;Serdang Bedagai;5;Sipispis;2;Serbananti;Siaga;Siaga
+;Serdang Bedagai;5;Sipispis;2;Sibarau (Sibangu);Siaga;Siaga
+;Serdang Bedagai;5;Sipispis;2;Silau Padang;Siaga;Siaga
+;Serdang Bedagai;5;Sipispis;2;Simalas;Siaga;Siaga
+;Serdang Bedagai;5;Sipispis;2;Sipispis;Siaga;Siaga
+;Serdang Bedagai;5;Sipispis;2;Tinokkah;Siaga;Siaga
+;Serdang Bedagai;6;Bandar Kalipah;2;Bandar Tengah;Siaga;Siaga
+;Serdang Bedagai;6;Bandar Kalipah;2;Gelam Sei Sarimah;Siaga;Siaga
+;Serdang Bedagai;6;Bandar Kalipah;2;Juhar (Kampung Juhar);Siaga;Siaga
+;Serdang Bedagai;6;Bandar Kalipah;2;Kayu Besar;Siaga;Siaga
+;Serdang Bedagai;6;Bandar Kalipah;2;Pekan Bandar Kalipah;Siaga;Siaga
+;Serdang Bedagai;7;Tebing Tinggi;2;Bah Sumbu;Siaga;Siaga
+;Serdang Bedagai;7;Tebing Tinggi;2;Gunung Kataran;Siaga;Siaga
+;Serdang Bedagai;7;Tebing Tinggi;2;Jambu;Siaga;Siaga
+;Serdang Bedagai;7;Tebing Tinggi;2;Kedai Damar;Siaga;Siaga
+;Serdang Bedagai;7;Tebing Tinggi;2;Kuta Baru;Siaga;Siaga
+;Serdang Bedagai;7;Tebing Tinggi;2;Mariah Padang;Siaga;Siaga
+;Serdang Bedagai;7;Tebing Tinggi;2;Naga Kesiangan;Siaga;Siaga
+;Serdang Bedagai;7;Tebing Tinggi;2;Paya Bagas;Siaga;Siaga
+;Serdang Bedagai;7;Tebing Tinggi;2;Paya Lombang;Siaga;Siaga
+;Serdang Bedagai;7;Tebing Tinggi;2;Paya Mabar;Siaga;Siaga
+;Serdang Bedagai;7;Tebing Tinggi;2;Penanggol;Siaga;Siaga
+;Serdang Bedagai;7;Tebing Tinggi;2;Pertapaan;Siaga;Siaga
+;Serdang Bedagai;7;Tebing Tinggi;2;Sei Priok (Sungai Periok);Siaga;Siaga
+;Serdang Bedagai;7;Tebing Tinggi;2;Sei Seimah;Siaga;Siaga
+;Serdang Bedagai;8;Kotari;2;Bandar Bayu;Siaga;Siaga
+;Serdang Bedagai;8;Kotari;2;Banjaran Godang;Siaga;Siaga
+;Serdang Bedagai;8;Kotari;2;Durian Kondot;Siaga;Siaga
+;Serdang Bedagai;8;Kotari;2;Huta Galuh;Siaga;Siaga
+;Serdang Bedagai;8;Kotari;2;Kotarih Baru;Siaga;Siaga
+;Serdang Bedagai;8;Kotari;2;Kotarih Pekan;Siaga;Siaga
+;Serdang Bedagai;8;Kotari;2;Perbahingan;Siaga;Siaga
+;Serdang Bedagai;8;Kotari;2;Rubun Dunia;Siaga;Siaga
+;Serdang Bedagai;8;Kotari;2;Sei Karih;Siaga;Siaga
+;Serdang Bedagai;8;Kotari;2;Sei Ujan-Ujan;Siaga;Siaga
+;Serdang Bedagai;8;Kotari;2;Sialtong;Siaga;Siaga
+;Serdang Bedagai;9;Pantai Cermin;2;Ara Payung;Siaga;Siaga
+;Serdang Bedagai;9;Pantai Cermin;2;Besar 2 Terjun;Siaga;Siaga
+;Serdang Bedagai;9;Pantai Cermin;2;Celawan;Siaga;Siaga
+;Serdang Bedagai;9;Pantai Cermin;2;Pari;Siaga;Siaga
+;Serdang Bedagai;9;Pantai Cermin;2;Luubuk Saban;Siaga;Siaga
+;Serdang Bedagai;9;Pantai Cermin;2;Naga Kisar;Siaga;Siaga
+;Serdang Bedagai;9;Pantai Cermin;2;Pantai Cermin Kanan;Siaga;Siaga
+;Serdang Bedagai;9;Pantai Cermin;2;Pematang Kasih;Siaga;Siaga
+;Serdang Bedagai;9;Pantai Cermin;2;Sementara;Siaga;Siaga
+;Serdang Bedagai;9;Pantai Cermin;2;Ujung Rambung;Siaga;Siaga
+;Serdang Bedagai;10;Serba Jadi;2;Bah Sidua-Dua;Siaga;Siaga
+;Serdang Bedagai;10;Serba Jadi;2;Karang Tengah;Siaga;Siaga
+;Serdang Bedagai;10;Serba Jadi;2;Kelapa Bajohor/Bajohom;Siaga;Siaga
+;Serdang Bedagai;10;Serba Jadi;2;Manggis;Siaga;Siaga
+;Serdang Bedagai;10;Serba Jadi;2;Pulau Tagor;Siaga;Siaga
+;Serdang Bedagai;10;Serba Jadi;2;Serba Jadi;Siaga;Siaga
+;Serdang Bedagai;10;Serba Jadi;2;Tambak Cekur;Siaga;Siaga
+;Serdang Bedagai;10;Serba Jadi;2;Tanjung Harap;Siaga;Siaga
+;Serdang Bedagai;11;Tebing Syahbandar;2;Bahilang;Siaga;Siaga
+;Serdang Bedagai;11;Tebing Syahbandar;2;Binjai;Siaga;Siaga
+;Serdang Bedagai;11;Tebing Syahbandar;2;Kuta Pinang;Siaga;Siaga
+;Serdang Bedagai;11;Tebing Syahbandar;2;Laut Tador;Siaga;Siaga
+;Serdang Bedagai;11;Tebing Syahbandar;2;Paya Pasir;Siaga;Siaga
+;Serdang Bedagai;11;Tebing Syahbandar;2;Paya Pinang;Siaga;Siaga
+;Serdang Bedagai;11;Tebing Syahbandar;2;Penggalangan;Siaga;Siaga
+;Serdang Bedagai;11;Tebing Syahbandar;2;Penggalian;Siaga;Siaga
+;Serdang Bedagai;11;Tebing Syahbandar;2;Sibulan;Siaga;Siaga
+;Serdang Bedagai;11;Tebing Syahbandar;2;Tanah Besih;Siaga;Siaga
+;Serdang Bedagai;12;Sei Bamban;2;Bakaran Batu;Siaga;Siaga
+;Serdang Bedagai;12;Sei Bamban;2;Gempolan;Siaga;Siaga
+;Serdang Bedagai;12;Sei Bamban;2;Penggalangan;Siaga;Siaga
+;Serdang Bedagai;12;Sei Bamban;2;Rampah Estate;Siaga;Siaga
+;Serdang Bedagai;12;Sei Bamban;2;Sei Bamban Estate;Siaga;Siaga
+;Serdang Bedagai;12;Sei Bamban;2;Sei Belutu;Siaga;Siaga
+;Serdang Bedagai;12;Sei Bamban;2;Sei Buluh Estate;Siaga;Siaga
+;Serdang Bedagai;13;Teluk Mengkudu;2;Bogak Besar;Siaga;Siaga
+;Serdang Bedagai;13;Teluk Mengkudu;2;Liberia;Siaga;Siaga
+;Serdang Bedagai;13;Teluk Mengkudu;2;Makmur;Siaga;Siaga
+;Serdang Bedagai;13;Teluk Mengkudu;2;Matapao;Siaga;Siaga
+;Serdang Bedagai;13;Teluk Mengkudu;2;Pasar Baru;Siaga;Siaga
+;Serdang Bedagai;13;Teluk Mengkudu;2;Pematang Guntung;Siaga;Siaga
+;Serdang Bedagai;13;Teluk Mengkudu;2;Pematang Kuala;Siaga;Siaga
+;Serdang Bedagai;13;Teluk Mengkudu;2;Pematang Seterak (Strak);Siaga;Siaga
+;Serdang Bedagai;13;Teluk Mengkudu;2;Sentang;Siaga;Siaga
+;Serdang Bedagai;14;Pegajahan;2;Bengabing;Siaga;Siaga
+;Serdang Bedagai;14;Pegajahan;2;Bingkat;Siaga;Siaga
+;Serdang Bedagai;14;Pegajahan;2;Jati Mulyo;Siaga;Siaga
+;Serdang Bedagai;14;Pegajahan;2;Karang Anyar;Siaga;Siaga
+;Serdang Bedagai;14;Pegajahan;2;Lestari Dadi;Siaga;Siaga
+;Serdang Bedagai;14;Pegajahan;2;Melati Kebon;Siaga;Siaga
+;Serdang Bedagai;14;Pegajahan;2;Pegajahan;Siaga;Siaga
+;Serdang Bedagai;14;Pegajahan;2;Pondok Tengah;Siaga;Siaga
+;Serdang Bedagai;14;Pegajahan;2;Putuaran/Petuaran Ilir;Siaga;Siaga
+;Serdang Bedagai;14;Pegajahan;2;Putuaran/Petuaran Ulu;Siaga;Siaga
+;Serdang Bedagai;14;Pegajahan;2;Sennah;Siaga;Siaga
+;Serdang Bedagai;14;Pegajahan;2;Sukasari;Siaga;Siaga
+;Serdang Bedagai;14;Pegajahan;2;Tanjung Putus;Siaga;Siaga
+;Serdang Bedagai;15;Tanjung Beringin;2;Bagan Kuala;Siaga;Siaga
+;Serdang Bedagai;15;Tanjung Beringin;2;Mangga Dua;Siaga;Siaga
+;Serdang Bedagai;15;Tanjung Beringin;2;Pematang Cermai;Siaga;Siaga
+;Serdang Bedagai;15;Tanjung Beringin;2;Pematang Terang;Siaga;Siaga
+;Serdang Bedagai;15;Tanjung Beringin;2;Sukajadi;Siaga;Siaga
+;Serdang Bedagai;16;Dolok Merawan;2;Afdeling Vi Dolok Ilir;Siaga;Siaga
+;Serdang Bedagai;16;Dolok Merawan;2;Afdeling Vii Dolok Ilir;Siaga;Siaga
+;Serdang Bedagai;16;Dolok Merawan;2;Bah Damar;Siaga;Siaga
+;Serdang Bedagai;16;Dolok Merawan;2;Bandarawan;Siaga;Siaga
+;Serdang Bedagai;16;Dolok Merawan;2;Dolok Merawan;Siaga;Siaga
+;Serdang Bedagai;16;Dolok Merawan;2;Gunung Para Ii;Siaga;Siaga
+;Serdang Bedagai;16;Dolok Merawan;2;Kalembak;Siaga;Siaga
+;Serdang Bedagai;16;Dolok Merawan;2;Korajim;Siaga;Siaga
+;Serdang Bedagai;16;Dolok Merawan;2;Limbong;Siaga;Siaga
+;Serdang Bedagai;16;Dolok Merawan;2;Mainu Tengah;Siaga;Siaga
+;Serdang Bedagai;16;Dolok Merawan;2;Nagaraja I;Siaga;Siaga
+;Serdang Bedagai;16;Dolok Merawan;2;Pabatu I;Siaga;Siaga
+;Serdang Bedagai;16;Dolok Merawan;2;Pabatu Ii;Siaga;Siaga
+;Serdang Bedagai;16;Dolok Merawan;2;Pabatu Iii;Siaga;Siaga
+;Serdang Bedagai;16;Dolok Merawan;2;Pabatu Vi;Siaga;Siaga
+;Serdang Bedagai;16;Dolok Merawan;2;Panglong;Siaga;Siaga
+;Serdang Bedagai;16;Dolok Merawan;2;Paretokan;Siaga;Siaga
+;Serdang Bedagai;17;Bintang Bayu;2;Bandar Magodang;Siaga;Siaga
+;Serdang Bedagai;17;Bintang Bayu;2;Bandar Negeri;Siaga;Siaga
+;Serdang Bedagai;17;Bintang Bayu;2;Bandar Pinang Kebon;Siaga;Siaga
+;Serdang Bedagai;17;Bintang Bayu;2;Bandar Pinang Rambe;Siaga;Siaga
+;Serdang Bedagai;17;Bintang Bayu;2;Bintang Bayu;Siaga;Siaga
+;Serdang Bedagai;17;Bintang Bayu;2;Damak Tolong Buho;Siaga;Siaga
+;Serdang Bedagai;17;Bintang Bayu;2;Dolok Masango;Siaga;Siaga
+;Serdang Bedagai;17;Bintang Bayu;2;Gudang Garam;Siaga;Siaga
+;Serdang Bedagai;17;Bintang Bayu;2;Huta Durian;Siaga;Siaga
+;Serdang Bedagai;17;Bintang Bayu;2;Kampung Kristen;Siaga;Siaga
+;Serdang Bedagai;17;Bintang Bayu;2;Maarihat Dolok;Siaga;Siaga
+;Serdang Bedagai;17;Bintang Bayu;2;Panombean;Siaga;Siaga
+;Serdang Bedagai;17;Bintang Bayu;2;Pegajahan Hulu;Siaga;Siaga
+;Serdang Bedagai;17;Bintang Bayu;2;Pegajahan Kahan;Siaga;Siaga
+;Serdang Bedagai;17;Bintang Bayu;2;Sarang Ginting Hulu;Siaga;Siaga
+;Serdang Bedagai;17;Bintang Bayu;2;Sarang Ginting Kahan;Siaga;Siaga
+;Serdang Bedagai;17;Bintang Bayu;2;Siahap;Siaga;Siaga
+;Serdang Bedagai;17;Bintang Bayu;2;Ujung Negeri Hulu;Siaga;Siaga
+;Serdang Bedagai;17;Bintang Bayu;2;Ujung Negeri Kahan;Siaga;Siaga
+22;Toba;1;Kecamatan Balige;2;Aek Bolon Julu;Siaga;Siaga
+;Toba;1;Kecamatan Balige;2;Aek Bolon Jae;Siaga;Siaga
+;Toba;1;Kecamatan Balige;2;Baruara;Siaga;Siaga
+;Toba;1;Kecamatan Balige;2;Bonan Dolok I;Siaga;Siaga
+;Toba;1;Kecamatan Balige;2;Bonan Dolok Ii;Siaga;Siaga
+;Toba;1;Kecamatan Balige;2;Bonan Dolok Iii;Siaga;Siaga
+;Toba;1;Kecamatan Balige;2;Huta Bulu Mejan;Siaga;Siaga
+;Toba;1;Kecamatan Balige;2;Huta Dame;Siaga;Siaga
+;Toba;1;Kecamatan Balige;2;Huta Namora;Siaga;Siaga
+;Toba;1;Kecamatan Balige;2;Hutagaol Peatalun;Siaga;Siaga
+;Toba;1;Kecamatan Balige;2;Longat;Siaga;Siaga
+;Toba;1;Kecamatan Balige;2;Lumban Bul-Bul;Siaga;Siaga
+;Toba;1;Kecamatan Balige;2;Lumban Pea Timur;Siaga;Siaga
+;Toba;1;Kecamatan Balige;2;Lumban Silintong;Siaga;Siaga
+;Toba;1;Kecamatan Balige;2;Matio;Siaga;Siaga
+;Toba;1;Kecamatan Balige;2;Paindoan;Siaga;Siaga
+;Toba;1;Kecamatan Balige;2;Parsuratan;Siaga;Siaga
+;Toba;1;Kecamatan Balige;2;Sianipar Sihail Hail;Siaga;Siaga
+;Toba;1;Kecamatan Balige;2;Siboruon;Siaga;Siaga
+;Toba;1;Kecamatan Balige;2;Sibuntuon;Siaga;Siaga
+;Toba;1;Kecamatan Balige;2;Silalahi Pagar Batu;Siaga;Siaga
+;Toba;1;Kecamatan Balige;2;Desatambunan Sunge;Siaga;Siaga
+;Toba;2;Kecamatan Ajibata;2;Horsik;Siaga;Siaga
+;Toba;2;Kecamatan Ajibata;2;Motung;Siaga;Siaga
+;Toba;2;Kecamatan Ajibata;2;Pardamean Ajibata;Siaga;Siaga
+;Toba;2;Kecamatan Ajibata;2;Pardamean Sibisa;Siaga;Siaga
+;Toba;2;Kecamatan Ajibata;2;Pardomuan Ajibata;Siaga;Siaga
+;Toba;2;Kecamatan Ajibata;2;Pardomuan Motung;Siaga;Siaga
+;Toba;2;Kecamatan Ajibata;2;Sigapiton;Siaga;Siaga
+;Toba;2;Kecamatan Ajibata;2;Sirungkungon;Siaga;Siaga
+;Toba;3;Kecamatan Bona Tua Lunasi;2;Harungguan;Siaga;Siaga
+;Toba;3;Kecamatan Bona Tua Lunasi;2;Lumban Lobu;Siaga;Siaga
+;Toba;3;Kecamatan Bona Tua Lunasi;2;Lumban Sangkalan;Siaga;Siaga
+;Toba;3;Kecamatan Bona Tua Lunasi;2;Naga Timbul;Siaga;Siaga
+;Toba;3;Kecamatan Bona Tua Lunasi;2;Timbul Timur;Siaga;Siaga
+;Toba;3;Kecamatan Bona Tua Lunasi;2;Pardolok Lbn Logu;Siaga;Siaga
+;Toba;3;Kecamatan Bona Tua Lunasi;2;Partoruan Lbn Lobu;Siaga;Siaga
+;Toba;3;Kecamatan Bona Tua Lunasi;2;Sibadihon;Siaga;Siaga
+;Toba;3;Kecamatan Bona Tua Lunasi;2;Sihiong;Siaga;Siaga
+;Toba;3;Kecamatan Bona Tua Lunasi;2;Silamosik Ii;Siaga;Siaga
+;Toba;3;Kecamatan Bona Tua Lunasi;2;Silombu;Siaga;Siaga
+;Toba;3;Kecamatan Bona Tua Lunasi;2;Sinar Sabungan;Siaga;Siaga
+;Toba;4;Kecamatan Bor-Bor;2;Aek Unsim;Siaga;Siaga
+;Toba;4;Kecamatan Bor-Bor;2;Huta Gur-Gur;Siaga;Siaga
+;Toba;4;Kecamatan Bor-Bor;2;Janji Maria;Siaga;Siaga
+;Toba;4;Kecamatan Bor-Bor;2;Lintong;Siaga;Siaga
+;Toba;4;Kecamatan Bor-Bor;2;Lumban Sewa;Siaga;Siaga
+;Toba;4;Kecamatan Bor-Bor;2;Natumingka;Siaga;Siaga
+;Toba;4;Kecamatan Bor-Bor;2;Pangururan;Siaga;Siaga
+;Toba;4;Kecamatan Bor-Bor;2;Pangururan Ii;Siaga;Siaga
+;Toba;4;Kecamatan Bor-Bor;2;Pangururan Iii;Siaga;Siaga
+;Toba;4;Kecamatan Bor-Bor;2;Pardomuan Nauli;Siaga;Siaga
+;Toba;4;Kecamatan Bor-Bor;2;Pasar Bor-Bor;Siaga;Siaga
+;Toba;4;Kecamatan Bor-Bor;2;Purba Tua;Siaga;Siaga
+;Toba;4;Kecamatan Bor-Bor;2;Riani Ate;Siaga;Siaga
+;Toba;4;Kecamatan Bor-Bor;2;Riganjang;Siaga;Siaga
+;Toba;4;Kecamatan Bor-Bor;2;Simare;Siaga;Siaga
+;Toba;5;Kecamatan Habinsara;2;Aek Ulok;Siaga;Siaga
+;Toba;5;Kecamatan Habinsara;2;Batu Nabolon;Siaga;Siaga
+;Toba;5;Kecamatan Habinsara;2;Hite Tano;Siaga;Siaga
+;Toba;5;Kecamatan Habinsara;2;Lobu Hole;Siaga;Siaga
+;Toba;5;Kecamatan Habinsara;2;Lumban Balik;Siaga;Siaga
+;Toba;5;Kecamatan Habinsara;2;Lumban Gaol;Siaga;Siaga
+;Toba;5;Kecamatan Habinsara;2;Lumban Lintong;Siaga;Siaga
+;Toba;5;Kecamatan Habinsara;2;Lumban Pea;Siaga;Siaga
+;Toba;5;Kecamatan Habinsara;2;Lumban Pinasa;Siaga;Siaga
+;Toba;5;Kecamatan Habinsara;2;Lumban Pinasa Saoha;Siaga;Siaga
+;Toba;5;Kecamatan Habinsara;2;Lumban Rau Barat;Siaga;Siaga
+;Toba;5;Kecamatan Habinsara;2;Lumban Rau Selatan;Siaga;Siaga
+;Toba;5;Kecamatan Habinsara;2;Lumban Ruhab;Siaga;Siaga
+;Toba;5;Kecamatan Habinsara;2;Pagar Batu;Siaga;Siaga
+;Toba;5;Kecamatan Habinsara;2;Panampaparan;Siaga;Siaga
+;Toba;5;Kecamatan Habinsara;2;Pangujunan;Siaga;Siaga
+;Toba;5;Kecamatan Habinsara;2;Pararungan;Siaga;Siaga
+;Toba;5;Kecamatan Habinsara;2;Parsoburan Barat;Siaga;Siaga
+;Toba;5;Kecamatan Habinsara;2;Sibuntuon;Siaga;Siaga
+;Toba;5;Kecamatan Habinsara;2;Tao Marisi;Siaga;Siaga
+;Toba;5;Kecamatan Habinsara;2;Tornagodang;Siaga;Siaga
+;Toba;6;Kecamatan Lagu Boti;2;Aruan;Siaga;Siaga
+;Toba;6;Kecamatan Lagu Boti;2;Gasaribu;Siaga;Siaga
+;Toba;6;Kecamatan Lagu Boti;2;Haunatas I;Siaga;Siaga
+;Toba;6;Kecamatan Lagu Boti;2;Haunatas Ii;Siaga;Siaga
+;Toba;6;Kecamatan Lagu Boti;2;Lumban Bagasan;Siaga;Siaga
+;Toba;6;Kecamatan Lagu Boti;2;Lumban Binanga;Siaga;Siaga
+;Toba;6;Kecamatan Lagu Boti;2;Omppu Raja Hatulian;Siaga;Siaga
+;Toba;6;Kecamatan Lagu Boti;2;Omppu Raja Hutapea;Siaga;Siaga
+;Toba;6;Kecamatan Lagu Boti;2;Omppu Raja Hutape Timur;Siaga;Siaga
+;Toba;6;Kecamatan Lagu Boti;2;Pardomuan Nauli;Siaga;Siaga
+;Toba;6;Kecamatan Lagu Boti;2;Pintu Bosi;Siaga;Siaga
+;Toba;6;Kecamatan Lagu Boti;2;Sidulang;Siaga;Siaga
+;Toba;6;Kecamatan Lagu Boti;2;Simatibung;Siaga;Siaga
+;Toba;6;Kecamatan Lagu Boti;2;Sintong Marnipi;Siaga;Siaga
+;Toba;6;Kecamatan Lagu Boti;2;Siraja Gorat;Siaga;Siaga
+;Toba;6;Kecamatan Lagu Boti;2;Sitangkola;Siaga;Siaga
+;Toba;6;Kecamatan Lagu Boti;2;Tinggir Nipasir;Siaga;Siaga
+;Toba;6;Kecamatan Lagu Boti;2;Tujung Tanduk;Siaga;Siaga
+;Toba;7;Kecamatan Lumban Julu;2;Aek Natolu Jaya;Siaga;Siaga
+;Toba;7;Kecamatan Lumban Julu;2;Hatinggian;Siaga;Siaga
+;Toba;7;Kecamatan Lumban Julu;2;Huta Namora;Siaga;Siaga
+;Toba;7;Kecamatan Lumban Julu;2;Jangga Dolok;Siaga;Siaga
+;Toba;7;Kecamatan Lumban Julu;2;Jangga Toruan;Siaga;Siaga
+;Toba;7;Kecamatan Lumban Julu;2;Jonggi Nihuta;Siaga;Siaga
+;Toba;7;Kecamatan Lumban Julu;2;Lintong Julu;Siaga;Siaga
+;Toba;7;Kecamatan Lumban Julu;2;Pasar Lumban Julu;Siaga;Siaga
+;Toba;7;Kecamatan Lumban Julu;2;Sibaruang;Siaga;Siaga
+;Toba;7;Kecamatan Lumban Julu;2;Sionggang Selatan;Siaga;Siaga
+;Toba;7;Kecamatan Lumban Julu;2;Sionggang Tengah;Siaga;Siaga
+;Toba;7;Kecamatan Lumban Julu;2;Sionggang Utara;Siaga;Siaga
+;Toba;8;Kecamatan Nasau;2;Batu Manumpak;Siaga;Siaga
+;Toba;8;Kecamatan Nasau;2;Cinta Damai;Siaga;Siaga
+;Toba;8;Kecamatan Nasau;2;Liat Tondung;Siaga;Siaga
+;Toba;8;Kecamatan Nasau;2;Lumban Rauh Tengah;Siaga;Siaga
+;Toba;8;Kecamatan Nasau;2;Lumban Rau Tenggara;Siaga;Siaga
+;Toba;8;Kecamatan Nasau;2;Lumban Rau Timur;Siaga;Siaga
+;Toba;8;Kecamatan Nasau;2;Lumban Rau Utara;Siaga;Siaga
+;Toba;8;Kecamatan Nasau;2;Napajoring;Siaga;Siaga
+;Toba;8;Kecamatan Nasau;2;Siantarara;Siaga;Siaga
+;Toba;8;Kecamatan Nasau;2;Sipagabu;Siaga;Siaga
+;Toba;9;Kecamatan Parmaksian;2;Banjar Ganjang;Siaga;Siaga
+;Toba;9;Kecamatan Parmaksian;2;Bius Gu Barat;Siaga;Siaga
+;Toba;9;Kecamatan Parmaksian;2;Jonggi Manulus;Siaga;Siaga
+;Toba;9;Kecamatan Parmaksian;2;Lumban Hualak;Siaga;Siaga
+;Toba;9;Kecamatan Parmaksian;2;Lumban Manurung;Siaga;Siaga
+;Toba;9;Kecamatan Parmaksian;2;Lumban Sitorus;Siaga;Siaga
+;Toba;9;Kecamatan Parmaksian;2;Pangombusan;Siaga;Siaga
+;Toba;9;Kecamatan Parmaksian;2;Siantar Utara;Siaga;Siaga
+;Toba;9;Kecamatan Parmaksian;2;Tangga Batu I;Siaga;Siaga
+;Toba;9;Kecamatan Parmaksian;2;Tangga Batu Ii;Siaga;Siaga
+;Toba;10;Kecamatan Pinttu Pohan Meranti;2;Amabar Halim;Siaga;Siaga
+;Toba;10;Kecamatan Pinttu Pohan Meranti;2;Halado;Siaga;Siaga
+;Toba;10;Kecamatan Pinttu Pohan Meranti;2;Merranti Tengah;Siaga;Siaga
+;Toba;10;Kecamatan Pinttu Pohan Meranti;2;Meranti Timur;Siaga;Siaga
+;Toba;10;Kecamatan Pinttu Pohan Meranti;2;Mearanti Utara;Siaga;Siaga
+;Toba;10;Kecamatan Pinttu Pohan Meranti;2;Pintu Pohan;Siaga;Siaga
+;Toba;10;Kecamatan Pinttu Pohan Meranti;2;Pintu Pohan Dolok;Siaga;Siaga
+;Toba;11;Kecamatan Porsea;2;Amborgang;Siaga;Siaga
+;Toba;11;Kecamatan Porsea;2;Lumbangurning;Siaga;Siaga
+;Toba;11;Kecamatan Porsea;2;Nalelak;Siaga;Siaga
+;Toba;11;Kecamatan Porsea;2;Parparean I;Siaga;Siaga
+;Toba;11;Kecamatan Porsea;2;Parparean Ii;Siaga;Siaga
+;Toba;11;Kecamatan Porsea;2;Parparean Iv;Siaga;Siaga
+;Toba;11;Kecamatan Porsea;2;Patane I;Siaga;Siaga
+;Toba;11;Kecamatan Porsea;2;Patane Ii;Siaga;Siaga
+;Toba;11;Kecamatan Porsea;2;Patane V;Siaga;Siaga
+;Toba;11;Kecamatan Porsea;2;Raut Bosi;Siaga;Siaga
+;Toba;11;Kecamatan Porsea;2;Silamosik I;Siaga;Siaga
+;Toba;11;Kecamatan Porsea;2;Simpang Sigura Gura;Siaga;Siaga
+;Toba;12;Kecamatan Siantar Narumonda;2;Narumonda I;Siaga;Siaga
+;Toba;12;Kecamatan Siantar Narumonda;2;Narumonda Ii;Siaga;Siaga
+;Toba;12;Kecamatan Siantar Narumonda;2;Narumonda Iii;Siaga;Siaga
+;Toba;12;Kecamatan Siantar Narumonda;2;Narumonda Iv;Siaga;Siaga
+;Toba;12;Kecamatan Siantar Narumonda;2;Narumonda V;Siaga;Siaga
+;Toba;12;Kecamatan Siantar Narumonda;2;Narumonda Vi;Siaga;Siaga
+;Toba;12;Kecamatan Siantar Narumonda;2;Narumonda Vii;Siaga;Siaga
+;Toba;12;Kecamatan Siantar Narumonda;2;Narumonda Viii;Siaga;Siaga
+;Toba;12;Kecamatan Siantar Narumonda;2;Dsiantar Dangsina;Siaga;Siaga
+;Toba;12;Kecamatan Siantar Narumonda;2;Siantar Sigordang;Siaga;Siaga
+;Toba;12;Kecamatan Siantar Narumonda;2;Siantar Sitio Tio;Siaga;Siaga
+;Toba;12;Kecamatan Siantar Narumonda;2;Siantar Tongah-Tongah I;Siaga;Siaga
+;Toba;12;Kecamatan Siantar Narumonda;2;Siantar Tongah-Tongah Ii;Siaga;Siaga
+;Toba;12;Kecamatan Siantar Narumonda;2;Siantar Tongah-Tongah Iii;Siaga;Siaga
+;Toba;13;Kecamatan Sigumpar;2;Banua Huta;Siaga;Siaga
+;Toba;13;Kecamatan Sigumpar;2;Dolok Jior;Siaga;Siaga
+;Toba;13;Kecamatan Sigumpar;2;Maju;Siaga;Siaga
+;Toba;13;Kecamatan Sigumpar;2;Marsangap;Siaga;Siaga
+;Toba;13;Kecamatan Sigumpar;2;Nauli;Siaga;Siaga
+;Toba;13;Kecamatan Sigumpar;2;Sigumpar;Siaga;Siaga
+;Toba;13;Kecamatan Sigumpar;2;Sigumpar Barat;Siaga;Siaga
+;Toba;13;Kecamatan Sigumpar;2;Sigumpar Julu;Siaga;Siaga
+;Toba;13;Kecamatan Sigumpar;2;Situa-Tua;Siaga;Siaga
+;Toba;14;Kecamatan Silaen;2;Dalihan Natolu;Siaga;Siaga
+;Toba;14;Kecamatan Silaen;2;Huta Gugur I;Siaga;Siaga
+;Toba;14;Kecamatan Silaen;2;Hutagur-Gur Ii;Siaga;Siaga
+;Toba;14;Kecamatan Silaen;2;Huta Namora;Siaga;Siaga
+;Toba;14;Kecamatan Silaen;2;Hutagaol Sihujur;Siaga;Siaga
+;Toba;14;Kecamatan Silaen;2;Lumban Dolok;Siaga;Siaga
+;Toba;14;Kecamatan Silaen;2;Marbulang;Siaga;Siaga
+;Toba;14;Kecamatan Silaen;2;Meranti Barat;Siaga;Siaga
+;Toba;14;Kecamatan Silaen;2;Napitupulu;Siaga;Siaga
+;Toba;14;Kecamatan Silaen;2;Natolu Tali;Siaga;Siaga
+;Toba;14;Kecamatan Silaen;2;Ombur;Siaga;Siaga
+;Toba;14;Kecamatan Silaen;2;Panindii;Siaga;Siaga
+;Toba;14;Kecamatan Silaen;2;Pardomuan;Siaga;Siaga
+;Toba;14;Kecamatan Silaen;2;Parsambilan;Siaga;Siaga
+;Toba;14;Kecamatan Silaen;2;Pintu Batu;Siaga;Siaga
+;Toba;14;Kecamatan Silaen;2;Sibide;Siaga;Siaga
+;Toba;14;Kecamatan Silaen;2;Sibide Barat;Siaga;Siaga
+;Toba;14;Kecamatan Silaen;2;Sigodang Tua;Siaga;Siaga
+;Toba;14;Kecamatan Silaen;2;Silaen;Siaga;Siaga
+;Toba;14;Kecamatan Silaen;2;Simanobak;Siaga;Siaga
+;Toba;14;Kecamatan Silaen;2;Sinta Dame;Siaga;Siaga
+;Toba;14;Kecamatan Silaen;2;Siringkiron;Siaga;Siaga
+;Toba;14;Kecamatan Silaen;2;Sitorang I;Siaga;Siaga
+;Toba;15;Kecamatan Tampahan;2;Gurgur Aek Raja;Siaga;Siaga
+;Toba;15;Kecamatan Tampahan;2;Lintong Nihuta;Siaga;Siaga
+;Toba;15;Kecamatan Tampahan;2;Meak;Siaga;Siaga
+;Toba;15;Kecamatan Tampahan;2;Tangga Batu Barat;Siaga;Siaga
+;Toba;15;Kecamatan Tampahan;2;Tangga Batu Timur;Siaga;Siaga
+;Toba;15;Kecamatan Tampahan;2;Tara Bunga;Siaga;Siaga
+;Toba;16;Kecamatan Uluan;2;Dolok Nagodangf;Siaga;Siaga
+;Toba;16;Kecamatan Uluan;2;Dolok Saribu;Siaga;Siaga
+;Toba;16;Kecamatan Uluan;2;Dolok Saribu Janji Matobu;Siaga;Siaga
+;Toba;16;Kecamatan Uluan;2;Lumban Binanga;Siaga;Siaga
+;Toba;16;Kecamatan Uluan;2;Lumban Holbung;Siaga;Siaga
+;Toba;16;Kecamatan Uluan;2;Lumban Nabolon;Siaga;Siaga
+;Toba;16;Kecamatan Uluan;2;Marom;Siaga;Siaga
+;Toba;16;Kecamatan Uluan;2;Parbagasan Janji Matogu;Siaga;Siaga
+;Toba;16;Kecamatan Uluan;2;Parhabinsaran Janji Matogu;Siaga;Siaga
+;Toba;16;Kecamatan Uluan;2;Parik;Siaga;Siaga
+;Toba;16;Kecamatan Uluan;2;Partor Janji Matogu;Siaga;Siaga
+;Toba;16;Kecamatan Uluan;2;Partoruan Janji Matogu;Siaga;Siaga
+;Toba;16;Kecamatan Uluan;2;Sampu Ara;Siaga;Siaga
+;Toba;16;Kecamatan Uluan;2;Sibuntuon;Siaga;Siaga
+;Toba;16;Kecamatan Uluan;2;Sigaol Barat;Siaga;Siaga
+;Toba;16;Kecamatan Uluan;2;Sigaol Timur;Siaga;Siaga
+;Toba;16;Kecamatan Uluan;2;Siregar Aek Nalas;Siaga;Siaga
+;Batubara;1;Air Putih;2;Tanah Tinggi;Siaga;Siaga
+;Batubara;1;Air Putih;2;Tanah Rendah;Siaga;Siaga
+;Batubara;5;Lima Puluh;2;Sumber Padi;Siaga;Siaga
+;Batubara;5;Lima Puluh;2;Mangkai Lama;Siaga;Siaga
+;Batubara;5;Lima Puluh;2;Mangkai Baru;Siaga;Siaga
+;Batubara;6;Datuk Lima Puluh;2;Simpang Dolok;Siaga;Siaga
+;Batubara;7;Lima Puluh Pesisir;2;Lubuk Cuik;Siaga;Siaga
+;Batubara;7;Lima Puluh Pesisir;2;Gunung Bandung;Siaga;Siaga
+;Batubara;7;Lima Puluh Pesisir;2;Titi Merah;Siaga;Siaga
+;Batubara;9;Talawi;2;Dahari Selebar;Siaga;Siaga
+;Batubara;9;Talawi;2;Pahang;Siaga;Siaga
+;Batubara;11;Nibung Hangus;2;Lima Laras;Siaga;Siaga
+;Batubara;12;Sei Balai;2;Tanah Timbul;Siaga;Siaga
+;Batubara;12;Sei Balai;2;Mekar Mulio;Siaga;Siaga
+;Padang Sidimpuan;2;Kec.Psp Selatan;2;Kel.Ujung Padang;Aman;Siaga
+;Padang Sidimpuan;4;Kec.Psp Utara;2;Kel.Sadabuan;Aman;Siaga
+;Labuhan Batu Utara;1;Kualuh Hulu;2;Parpaudangan;Siaga;Siaga
+;Labuhan Batu Utara;1;Kualuh Hulu;2;Perkebunan Kanopan Ulu;Siaga;Siaga
+;Labuhan Batu Utara;1;Kualuh Hulu;2;Perkebunan Labuhan Haji;Siaga;Siaga
+;Labuhan Batu Utara;1;Kualuh Hulu;2;Perk.Mambang Muda;Siaga;Siaga
+;Labuhan Batu Utara;1;Kualuh Hulu;2;Sono Martani;Siaga;Siaga
+;Labuhan Batu Utara;1;Kualuh Hulu;2;Suka Rame;Siaga;Siaga
+;Labuhan Batu Utara;1;Kualuh Hulu;2;Suka Rame Baru;Siaga;Siaga
+;Labuhan Batu Utara;2;Kualuh Selatan;2;Damuli Kebun;Siaga;Siaga
+;Labuhan Batu Utara;2;Kualuh Selatan;2;Damuli Pekan;Siaga;Siaga
+;Labuhan Batu Utara;2;Kualuh Selatan;2;Gunting Saga;Waspada;Siaga
+;Labuhan Batu Utara;2;Kualuh Selatan;2;Gunung Melayu;Siaga;Siaga
+;Labuhan Batu Utara;2;Kualuh Selatan;2;Sialang Taji;Siaga;Siaga
+;Labuhan Batu Utara;2;Kualuh Selatan;2;Siamporik;Siaga;Siaga
+;Labuhan Batu Utara;2;Kualuh Selatan;2;Sidua Dua;Siaga;Siaga
+;Labuhan Batu Utara;2;Kualuh Selatan;2;Simangalam;Waspada;Siaga
+;Labuhan Batu Utara;3;Kualuh Hilir;2;Kelurahan Kampung Mesjid;Siaga;Siaga
+;Labuhan Batu Utara;3;Kualuh Hilir;2;Kuala Bangka;Waspada;Siaga
+;Labuhan Batu Utara;3;Kualuh Hilir;2;Sei/Sungai Apung;Siaga;Siaga
+;Labuhan Batu Utara;3;Kualuh Hilir;2;Sei/Sungai Sentang;Siaga;Siaga
+;Labuhan Batu Utara;3;Kualuh Hilir;2;Tanjung Mangedar;Siaga;Siaga
+;Labuhan Batu Utara;3;Kualuh Hilir;2;Teluk Piai;Siaga;Siaga
+;Labuhan Batu Utara;4;Kualuh Leidong;2;Air Hitam;Siaga;Siaga
+;Labuhan Batu Utara;4;Kualuh Leidong;2;Pangkalan Lunang;Siaga;Siaga
+;Labuhan Batu Utara;4;Kualuh Leidong;2;Simandulang;Siaga;Siaga
+;Labuhan Batu Utara;4;Kualuh Leidong;2;Teluk Pulai Luar;Siaga;Siaga
+;Labuhan Batu Utara;5;Aek Natas;2;Adian Torop;Siaga;Siaga
+;Labuhan Batu Utara;5;Aek Natas;2;Kampung Yaman;Waspada;Siaga
+;Labuhan Batu Utara;5;Aek Natas;2;Pangkalan;Siaga;Siaga
+;Labuhan Batu Utara;5;Aek Natas;2;Perkebunan Aek Pamienke;Siaga;Siaga
+;Labuhan Batu Utara;5;Aek Natas;2;Perkebunan Halim B;Waspada;Siaga
+;Labuhan Batu Utara;5;Aek Natas;2;Poldung;Siaga;Siaga
+;Labuhan Batu Utara;5;Aek Natas;2;Rombisan;Siaga;Siaga
+;Labuhan Batu Utara;5;Aek Natas;2;Sibito;Waspada;Siaga
+;Labuhan Batu Utara;5;Aek Natas;2;Terang Bulan;Siaga;Siaga
+;Labuhan Batu Utara;6;Aek Kuo;2;Kelurahan Karang Anyar;Siaga;Siaga
+;Labuhan Batu Utara;6;Aek Kuo;2;Perkebunan Padang Halaban;Siaga;Siaga
+;Labuhan Batu Utara;6;Aek Kuo;2;Perkebunan Panigoran;Siaga;Siaga
+;Labuhan Batu Utara;6;Aek Kuo;2;Purworejo;Siaga;Siaga
+;Labuhan Batu Utara;6;Aek Kuo;2;Kelurahan Sidomulyo;Siaga;Siaga
+;Labuhan Batu Utara;7;Marbau;2;Aek Tapa;Siaga;Siaga
+;Labuhan Batu Utara;7;Marbau;2;Babussalam;Siaga;Siaga
+;Labuhan Batu Utara;7;Marbau;2;Belongkut;Siaga;Siaga
+;Labuhan Batu Utara;7;Marbau;2;Bulungihit;Siaga;Siaga
+;Labuhan Batu Utara;7;Marbau;2;Lobu Rampah;Siaga;Siaga
+;Labuhan Batu Utara;7;Marbau;2;Perkebunan Brussel;Siaga;Siaga
+;Labuhan Batu Utara;7;Marbau;2;Perkebunan Marbau Selatan;Siaga;Siaga
+;Labuhan Batu Utara;7;Marbau;2;Perkebunan Milano;Siaga;Siaga
+;Labuhan Batu Utara;7;Marbau;2;Perkebunan Pernantian;Siaga;Siaga
+;Labuhan Batu Utara;7;Marbau;2;Simpang Empat;Siaga;Siaga
+;Labuhan Batu Utara;7;Marbau;2;Sipare Pare Hilir;Siaga;Siaga
+;Labuhan Batu Utara;7;Marbau;2;Sipare Pare Tengah;Siaga;Siaga
+;Labuhan Batu Utara;7;Marbau;2;Sumber Mulyo;Siaga;Siaga
+;Labuhan Batu Utara;7;Marbau;2;Tubiran;Siaga;Siaga
+;Labuhan Batu Utara;8;Na Ix-X;2;Bangun Rejo;Siaga;Siaga
+;Labuhan Batu Utara;8;Na Ix-X;2;Batu Tunggal;Siaga;Siaga
+;Labuhan Batu Utara;8;Na Ix-X;2;Hatapang;Siaga;Siaga
+;Labuhan Batu Utara;8;Na Ix-X;2;Meranti Omas;Siaga;Siaga
+;Labuhan Batu Utara;8;Na Ix-X;2;Pasang Lela;Siaga;Siaga
+;Labuhan Batu Utara;8;Na Ix-X;2;Pematang;Siaga;Siaga
+;Labuhan Batu Utara;8;Na Ix-X;2;Perkebunan Berangir;Waspada;Siaga
+;Labuhan Batu Utara;8;Na Ix-X;2;Silumajang;Siaga;Siaga
+;Labuhan Batu Utara;8;Na Ix-X;2;Simpang Marbau;Siaga;Siaga
+27;Labuhan Batu;1;Bilah Barat;2;Bandar Kumbul;Siaga;Siaga
+;Labuhan Batu;1;Bilah Barat;2;Janji;Siaga;Siaga
+;Labuhan Batu;1;Bilah Barat;2;Perkebunan Aek Buru Selatan;Siaga;Siaga
+;Labuhan Batu;1;Bilah Barat;2;Perk. Afdeling I Rantau Prapat;Siaga;Siaga
+;Labuhan Batu;1;Bilah Barat;2;Sibargot;Siaga;Siaga
+;Labuhan Batu;1;Bilah Barat;2;Tanjung Medan;Siaga;Siaga
+;Labuhan Batu;1;Bilah Barat;2;Tebing Linggahara;Siaga;Siaga
+;Labuhan Batu;1;Bilah Barat;2;Kampung Baru;Siaga;Siaga
+;Labuhan Batu;2;Bilah Hilir;2;Kampung Bilah;Siaga;Siaga
+;Labuhan Batu;2;Bilah Hilir;2;Kelurahan Negeri Baru;Siaga;Siaga
+;Labuhan Batu;2;Bilah Hilir;2;Kelurahan Negeri Lama;Siaga;Siaga
+;Labuhan Batu;2;Bilah Hilir;2;Perkebunan Bilah;Siaga;Siaga
+;Labuhan Batu;2;Bilah Hilir;2;Perkebunan Sennah;Siaga;Siaga
+;Labuhan Batu;2;Bilah Hilir;2;Sei Kasih;Siaga;Siaga
+;Labuhan Batu;2;Bilah Hilir;2;Sei Tampang;Siaga;Siaga
+;Labuhan Batu;2;Bilah Hilir;2;Sei Tarolat;Siaga;Siaga
+;Labuhan Batu;2;Bilah Hilir;2;Selat Besar;Siaga;Siaga
+;Labuhan Batu;2;Bilah Hilir;2;Sidomulyo;Siaga;Siaga
+;Labuhan Batu;2;Bilah Hilir;2;Tanjung Haloban;Siaga;Siaga
+;Labuhan Batu;3;Bilah Hulu;2;Kelurahan Bandar Tinggi;Siaga;Siaga
+;Labuhan Batu;3;Bilah Hulu;2;Kelurahan Emplasmen Aek Nabara;Siaga;Siaga
+;Labuhan Batu;3;Bilah Hulu;2;Kelurahan Gunung Selamat;Siaga;Siaga
+;Labuhan Batu;3;Bilah Hulu;2;Kelurahan Kampung Dalam;Siaga;Siaga
+;Labuhan Batu;3;Bilah Hulu;2;Kelurahan Meranti;Siaga;Siaga
+;Labuhan Batu;3;Bilah Hulu;2;Kelurahan N1/Satu Aek Nabara;Siaga;Siaga
+;Labuhan Batu;3;Bilah Hulu;2;Kelurahan N2/Dua Aek Nabara;Siaga;Siaga
+;Labuhan Batu;3;Bilah Hulu;2;N3/Tiga Aek Nabara;Siaga;Siaga
+;Labuhan Batu;3;Bilah Hulu;2;Kelurahan N5/Lima Aek Nabara;Siaga;Siaga
+;Labuhan Batu;3;Bilah Hulu;2;Kelurahan N6/Enam Aek Nabara;Siaga;Siaga
+;Labuhan Batu;3;Bilah Hulu;2;N7/Tujuh Aek Nabara;Siaga;Siaga
+;Labuhan Batu;3;Bilah Hulu;2;Kelurahan N8/Delapan Aek Nabara;Siaga;Siaga
+;Labuhan Batu;3;Bilah Hulu;2;Perbaungan;Siaga;Siaga
+;Labuhan Batu;3;Bilah Hulu;2;Kelurahan Pondok Batu;Siaga;Siaga
+;Labuhan Batu;3;Bilah Hulu;2;S1/Enam Aek Nabara;Siaga;Siaga
+;Labuhan Batu;3;Bilah Hulu;2;S2/Enam Aek Nabara;Siaga;Siaga
+;Labuhan Batu;3;Bilah Hulu;2;S4/Enam Aek Nabara;Siaga;Siaga
+;Labuhan Batu;3;Bilah Hulu;2;S5/Enam Aek Nabara;Siaga;Siaga
+;Labuhan Batu;3;Bilah Hulu;2;S6/Enam Aek Nabara;Siaga;Siaga
+;Labuhan Batu;3;Bilah Hulu;2;Kelurahan Tanjung Tiram;Siaga;Siaga
+;Labuhan Batu;4;Panai Hilir;2;Sei Buru;Siaga;Siaga
+;Labuhan Batu;4;Panai Hilir;2;Kelurahan Sei Berombang;Siaga;Siaga
+;Labuhan Batu;4;Panai Hilir;2;Sei Penggatungan;Siaga;Siaga
+;Labuhan Batu;4;Panai Hilir;2;Sei Sakat;Siaga;Siaga
+;Labuhan Batu;4;Panai Hilir;2;Sei Tawar;Siaga;Siaga
+;Labuhan Batu;4;Panai Hilir;2;Wonosari;Siaga;Siaga
+;Labuhan Batu;5;Panai Hulu;2;Cinta Makmur;Siaga;Siaga
+;Labuhan Batu;5;Panai Hulu;2;Meranti/Meranti Paham;Siaga;Siaga
+;Labuhan Batu;5;Panai Hulu;2;Sijawi Jawi (Sei Jawi Jawi);Siaga;Siaga
+;Labuhan Batu;5;Panai Hulu;2;Tanjung Sarang Elang;Siaga;Siaga
+;Labuhan Batu;5;Panai Hulu;2;Teluk Sentosa;Siaga;Siaga
+;Labuhan Batu;6;Panai Tengah;2;Kelurahan Labuhan Bilik;Siaga;Siaga
+;Labuhan Batu;6;Panai Tengah;2;Pasar Tiga;Siaga;Siaga
+;Labuhan Batu;6;Panai Tengah;2;Sei Merdeka;Siaga;Siaga
+;Labuhan Batu;6;Panai Tengah;2;Sei Plancang;Siaga;Siaga
+;Labuhan Batu;6;Panai Tengah;2;Sei Rakyat;Siaga;Siaga
+;Labuhan Batu;6;Panai Tengah;2;Sei Siati/Siarti;Siaga;Siaga
+;Labuhan Batu;6;Panai Tengah;2;Telaga Suka;Siaga;Siaga
+;Labuhan Batu;7;Pangkatan;2;Kampung Padang;Siaga;Siaga
+;Labuhan Batu;7;Pangkatan;2;Pangkatan;Siaga;Siaga
+;Labuhan Batu;7;Pangkatan;2;Sidorukun;Siaga;Siaga
+;Labuhan Batu;7;Pangkatan;2;Tebing Tinggi Pangkatan;Siaga;Siaga
+;Labuhan Batu;8;Rantau Selatan;2;Kelurahan Bakaran Batu;Siaga;Siaga
+;Labuhan Batu;8;Rantau Selatan;2;Kelurahan Ujung Bandar;Siaga;Siaga
+;Labuhan Batu;8;Rantau Selatan;2;Kelurahan Sidorejo;Siaga;Siaga
+;Labuhan Batu;8;Rantau Selatan;2;Kelurahan Sigambal;Siaga;Siaga
+;Labuhan Batu;8;Rantau Selatan;2;Kelurahan Danobale;Siaga;Siaga
+;Labuhan Batu;8;Rantau Selatan;2;Kelurahan Sioldengan;Siaga;Siaga
+;Labuhan Batu;8;Rantau Selatan;2;Kelurahan Urung Kompas;Siaga;Siaga
+;Labuhan Batu;9;Rantau Utara;2;Kelurahan Rantau Prapat;Siaga;Siaga
+;Labuhan Batu;9;Rantau Utara;2;Kelurahan Cendana;Siaga;Siaga
+;Labuhan Batu;9;Rantau Utara;2;Kelurahan Kartini;Siaga;Siaga
+;Labuhan Batu;9;Rantau Utara;2;Kelurahan Pulo Padang;Siaga;Siaga
+28;Labuhan Selatan;1;Kampung Rakyat;2;Air Merah;Siaga;Siaga
+;Labuhan Selatan;1;Kampung Rakyat;2;Perkebunan Batang Seponggol;Siaga;Siaga
+;Labuhan Selatan;1;Kampung Rakyat;2;Perkebunan Perlabian;Siaga;Siaga
+;Labuhan Selatan;1;Kampung Rakyat;2;Perkebunan Tolan;Siaga;Siaga
+;Labuhan Selatan;1;Kampung Rakyat;2;Perlabian (Kampung Perlabian);Siaga;Siaga
+;Labuhan Selatan;1;Kampung Rakyat;2;Tanjung Mulia;Siaga;Siaga
+;Labuhan Selatan;1;Kampung Rakyat;2;Teluk Panji (Kampung Teluk Panji);Siaga;Siaga
+;Labuhan Selatan;1;Kampung Rakyat;2;Teluk Panji Ii;Siaga;Siaga
+;Labuhan Selatan;1;Kampung Rakyat;2;Teluk Panji Iii;Siaga;Siaga
+;Labuhan Selatan;1;Kampung Rakyat;2;Teluk Panji Iv;Siaga;Siaga
+;Labuhan Selatan;2;Pinang;2;Kelurahan Pinang;Siaga;Siaga
+;Labuhan Selatan;2;Pinang;2;Mampang;Siaga;Siaga
+;Labuhan Selatan;2;Pinang;2;Perkebunan Nagondang;Siaga;Siaga
+;Labuhan Selatan;2;Pinang;2;Perkebunan Normark;Siaga;Siaga
+;Labuhan Selatan;2;Pinang;2;Simatahari;Siaga;Siaga
+;Labuhan Selatan;2;Pinang;2;Sosopan;Siaga;Siaga
+;Labuhan Selatan;2;Pinang;2;Sungai Rumbia;Siaga;Siaga
+;Labuhan Selatan;3;Sei /Sungai Kanan;2;Hajoran;Siaga;Siaga
+;Labuhan Selatan;3;Sei /Sungai Kanan;2;Huta Godang;Siaga;Siaga
+;Labuhan Selatan;3;Sei /Sungai Kanan;2;Marsonja;Siaga;Siaga
+;Labuhan Selatan;3;Sei /Sungai Kanan;2;Parimburan;Siaga;Siaga
+;Labuhan Selatan;3;Sei /Sungai Kanan;2;Sabungan;Siaga;Siaga
+;Labuhan Selatan;3;Sei /Sungai Kanan;2;Sampean;Siaga;Siaga
+;Labuhan Selatan;3;Sei /Sungai Kanan;2;Ujung Gading;Siaga;Siaga
+;Labuhan Selatan;4;Silangkitang;2;Aek Goti;Siaga;Siaga
+;Labuhan Selatan;4;Silangkitang;2;Binanga Dua;Siaga;Siaga
+;Labuhan Selatan;4;Silangkitang;2;Rintis;Siaga;Siaga
+;Labuhan Selatan;4;Silangkitang;2;Ulumahuam;Siaga;Siaga
+;Labuhan Selatan;5;Torgamba;2;Kelurahan Aek Batu;Siaga;Siaga
+;Labuhan Selatan;5;Torgamba;2;Asam Jawa;Siaga;Siaga
+;Labuhan Selatan;5;Torgamba;2;Beringin Jaya;Siaga;Siaga
+;Labuhan Selatan;5;Torgamba;2;Bunut;Siaga;Siaga
+;Labuhan Selatan;5;Torgamba;2;Rasau;Siaga;Siaga
+;Labuhan Selatan;5;Torgamba;2;Torgamba;Siaga;Siaga
+;Labuhan Selatan;5;Torgamba;2;Torganda;Siaga;Siaga
+;Tapanuli Selatan;2;Angkola Barat;2;Sibangkua;Siaga;Siaga
+;Tapanuli Selatan;4;Angkola Selatan;2;Pardomuan;Aman;Siaga
+;Tapanuli Selatan;5;Angkola Timur;2;Batangtura Sirumambe;Siaga;Siaga
+;Tapanuli Selatan;7;Batang Angkola;2;Pintu Padang Raya I;Siaga;Siaga
+;Tapanuli Selatan;7;Batang Angkola;2;Pintu Padang Raya Ii;Siaga;Siaga
+;Tapanuli Selatan;7;Batang Angkola;2;Sorik;Siaga;Siaga
+;Tapanuli Selatan;7;Batang Angkola;2;Janji Manon;Aman;Siaga
+;Tapanuli Selatan;7;Batang Angkola;2;Padang Kahombu;Siaga;Siaga
+;Tapanuli Selatan;8;Angkola Muaratais;2;Bintuju;Siaga;Siaga
+;Tapanuli Selatan;8;Angkola Muaratais;2;Pargumbangan;Siaga;Siaga
+;Tapanuli Selatan;8;Angkola Muaratais;2;Muara Purba Nauli;Siaga;Siaga
+;Tapanuli Selatan;9;Batangtoru;2;Napa;Siaga;Siaga
+;Tapanuli Selatan;9;Batangtoru;2;Sipenggeng;Siaga;Siaga
+;Tapanuli Selatan;9;Batangtoru;2;Wek Iii;Siaga;Siaga
+;Tapanuli Selatan;9;Batangtoru;2;Wek Iv;Siaga;Siaga
+;Tapanuli Selatan;12;Saipar Dolok Hole;2;Simangambat;Siaga;Siaga
+;Tapanuli Selatan;13;Sayurmatinggi;2;Silaiya;Siaga;Siaga
+;Tapanuli Selatan;14;Sipirok;2;Bagas Lombang;Siaga;Siaga
+;Tapanuli Selatan;14;Sipirok;2;Kilang Papan;Siaga;Siaga
+;Tapanuli Selatan;14;Sipirok;2;Simaninggir;Siaga;Siaga
+;Tapanuli Selatan;15;Tantom Angkola;2;Kel.Batu Horpak;Siaga;Siaga
+;Tapanuli Selatan;15;Tantom Angkola;2;Tanjung Medan;Siaga;Siaga
+;Padang Lawas;1;Kec.Barumun Selatan;2;Gunung Inten;Aman;Siaga
+;Tapanuli Tengah;3;Barus;2;Pasar Terandam;Aman;Siaga
+;Mandailing Natal;1;Panyabungan;2;Gunung Barani;Waspada;Siaga
+;Mandailing Natal;1;Panyabungan;2;Panggorengan;Aman;Siaga
+;Mandailing Natal;1;Panyabungan;2;Panyabungan I;Siaga;Siaga
+;Mandailing Natal;1;Panyabungan;2;Adian Jior;Siaga;Siaga
+;Mandailing Natal;1;Panyabungan;2;Gunung Manaon;Siaga;Siaga
+;Mandailing Natal;1;Panyabungan;2;Sigalapang Julu;Aman;Siaga
+;Mandailing Natal;1;Panyabungan;2;Kampung Padang;Siaga;Siaga
+;Mandailing Natal;1;Panyabungan;2;Huta Lombang Lubis;Siaga;Siaga
+;Mandailing Natal;1;Panyabungan;2;Gunung Tua Julu;Siaga;Siaga
+;Mandailing Natal;1;Panyabungan;2;Gunung Tua Tonga;Siaga;Siaga
+;Mandailing Natal;1;Panyabungan;2;Manyabar Jae;Siaga;Siaga
+;Mandailing Natal;1;Panyabungan;2;Saba Jambu;Siaga;Siaga
+;Mandailing Natal;1;Panyabungan;2;Sipapaga;Siaga;Siaga
+;Mandailing Natal;2;Panyabungan Utara;2;Simanondong;Aman;Siaga
+;Mandailing Natal;2;Panyabungan Utara;2;Rumbio;Siaga;Siaga
+;Mandailing Natal;2;Panyabungan Utara;2;Mompang Julu;Siaga;Siaga
+;Mandailing Natal;2;Panyabungan Utara;2;Huta Dame;Siaga;Siaga
+;Mandailing Natal;2;Panyabungan Utara;2;Tanjung Mompang;Aman;Siaga
+;Mandailing Natal;2;Panyabungan Utara;2;Kampung Baru;Siaga;Siaga
+;Mandailing Natal;3;Panyabungan Barat;2;Longat;Siaga;Siaga
+;Mandailing Natal;3;Panyabungan Barat;2;Sirambas;Siaga;Siaga
+;Mandailing Natal;3;Panyabungan Barat;2;Huta Baringin;Aman;Siaga
+;Mandailing Natal;3;Panyabungan Barat;2;Barbaran;Siaga;Siaga
+;Mandailing Natal;4;Panyabungan Selatan;2;Kayu Laut;Siaga;Siaga
+;Mandailing Natal;4;Panyabungan Selatan;2;Tanobato;Siaga;Siaga
+;Mandailing Natal;5;Panyabungan Timur;2;Tanjung;Aman;Siaga
+;Mandailing Natal;5;Panyabungan Timur;2;Pagur;Aman;Siaga
+;Mandailing Natal;5;Panyabungan Timur;2;Sirangkap;Aman;Siaga
+;Mandailing Natal;5;Panyabungan Timur;2;Banjar Lancat;Aman;Siaga
+;Mandailing Natal;5;Panyabungan Timur;2;Padang Laru;Siaga;Siaga
+;Mandailing Natal;6;Siabu;2;Huraba I;Bahaya;Siaga
+;Mandailing Natal;6;Siabu;2;Aek Mual;Siaga;Siaga
+;Mandailing Natal;6;Siabu;2;Tangga Bosi I;Siaga;Siaga
+;Mandailing Natal;6;Siabu;2;Huta Godang Muda;Siaga;Siaga
+;Mandailing Natal;6;Siabu;2;Huraba Ii;Siaga;Siaga
+;Mandailing Natal;6;Siabu;2;Huta Puli;Siaga;Siaga
+;Mandailing Natal;6;Siabu;2;Huta Raja;Siaga;Siaga
+;Mandailing Natal;6;Siabu;2;Sibaruang;Siaga;Siaga
+;Mandailing Natal;6;Siabu;2;Tangga Bosi Ii;Siaga;Siaga
+;Mandailing Natal;6;Siabu;2;Tangga Bosi Iii;Siaga;Siaga
+;Mandailing Natal;6;Siabu;2;Sihepeng Sada;Siaga;Siaga
+;Mandailing Natal;6;Siabu;2;Sihepeng Dua;Siaga;Siaga
+;Mandailing Natal;7;Natal;2;Taluk;Siaga;Siaga
+;Mandailing Natal;7;Natal;2;Sikara-Kara I;Siaga;Siaga
+;Mandailing Natal;7;Natal;2;Sikara-Kara Iii;Siaga;Siaga
+;Mandailing Natal;7;Natal;2;Sundutan Tigo;Siaga;Siaga
+;Mandailing Natal;7;Natal;2;Pasar Iii Natal;Aman;Siaga
+;Mandailing Natal;7;Natal;2;Tunas Karya;Aman;Siaga
+;Mandailing Natal;7;Natal;2;Rukun Jaya;Siaga;Siaga
+;Mandailing Natal;7;Natal;2;Suka Maju;Siaga;Siaga
+;Mandailing Natal;7;Natal;2;Kunkun;Siaga;Siaga
+;Mandailing Natal;7;Natal;2;Pardamean Baru;Siaga;Siaga
+;Mandailing Natal;7;Natal;2;Kampung Sawah;Aman;Siaga
+;Mandailing Natal;7;Natal;2;Pasar I Natal;Siaga;Siaga
+;Mandailing Natal;7;Natal;2;Setia Karya;Siaga;Siaga
+;Mandailing Natal;7;Natal;2;Patiluban Hilir;Aman;Siaga
+;Mandailing Natal;7;Natal;2;Perk Patiluban;Siaga;Siaga
+;Mandailing Natal;7;Natal;2;Panggautan;Siaga;Siaga
+;Mandailing Natal;8;Bukit Malintang;2;Sidojadi;Siaga;Siaga
+;Mandailing Natal;8;Bukit Malintang;2;Pasar Baru Malintang;Siaga;Siaga
+;Mandailing Natal;8;Bukit Malintang;2;Malintang;Siaga;Siaga
+;Mandailing Natal;9;Muara Batang Gadis;2;Rantau Panjang;Siaga;Siaga
+;Mandailing Natal;9;Muara Batang Gadis;2;Upt Tabuyung;Aman;Siaga
+;Mandailing Natal;9;Muara Batang Gadis;2;Upt Singkuang Ii;Aman;Siaga
+;Mandailing Natal;9;Muara Batang Gadis;2;Upt Singkuang I;Aman;Siaga
+;Mandailing Natal;;Batang Natal;2;Sopotinjak;Siaga;Siaga
+;Mandailing Natal;;Batang Natal;2;Aek Holbung;Siaga;Siaga
+;Mandailing Natal;;Batang Natal;2;Aek Nangali;Siaga;Siaga
+;Mandailing Natal;;Batang Natal;2;Ampung Julu;Siaga;Siaga
+;Mandailing Natal;;Batang Natal;2;Ampung Siala;Aman;Siaga
+;Mandailing Natal;;Batang Natal;2;Bangkelang;Aman;Siaga
+;Mandailing Natal;;Batang Natal;2;Guo Batu;Siaga;Siaga
+;Mandailing Natal;;Batang Natal;2;Muara Soma;Siaga;Siaga
+;Mandailing Natal;11;Sinunukan;2;Sinunukan Iv;Siaga;Siaga
+;Mandailing Natal;11;Sinunukan;2;Banjar Aur Utara;Siaga;Siaga
+;Mandailing Natal;11;Sinunukan;2;Bintung Bejangkar Baru;Siaga;Siaga
+;Mandailing Natal;11;Sinunukan;2;Widodaren;Siaga;Siaga
+;Mandailing Natal;11;Sinunukan;2;Wono Sari;Siaga;Siaga
+;Mandailing Natal;11;Sinunukan;2;Sido Makmur;Siaga;Siaga
+;Mandailing Natal;11;Sinunukan;2;Air Apa;Siaga;Siaga
+;Mandailing Natal;12;Muara Sipongi;2;Bandar Panjang;Aman;Siaga
+;Mandailing Natal;12;Muara Sipongi;2;Pasar Muara Sipongi;Aman;Siaga
+;Mandailing Natal;12;Muara Sipongi;2;Bandar Panjang Tuo;Aman;Siaga
+;Mandailing Natal;13;Naga Juang;2;Sayur Matua;Aman;Siaga
+;Mandailing Natal;13;Naga Juang;2;Tarutung Panjang;Aman;Siaga
+;Mandailing Natal;14;Tambangan;2;Rao-Rao Dolok;Waspada;Siaga
+;Mandailing Natal;14;Tambangan;2;Muara Mais;Siaga;Siaga
+;Mandailing Natal;14;Tambangan;2;Laru Baringin;Siaga;Siaga
+;Mandailing Natal;14;Tambangan;2;Pasar Laru;Siaga;Siaga
+;Mandailing Natal;14;Tambangan;2;Laru Lombang;Siaga;Siaga
+;Mandailing Natal;14;Tambangan;2;Tambangan Jae;Siaga;Siaga
+;Mandailing Natal;14;Tambangan;2;Lumban Pasir;Siaga;Siaga
+;Mandailing Natal;15;Puncak Sorik Marapi;2;Purba Julu;Aman;Siaga
+;Mandailing Natal;15;Puncak Sorik Marapi;2;Huta Tinggi;Siaga;Siaga
+;Mandailing Natal;15;Puncak Sorik Marapi;2;Hutanamale;Siaga;Siaga
+;Mandailing Natal;15;Puncak Sorik Marapi;2;Huta Baringin;Siaga;Siaga
+;Mandailing Natal;16;Lembah Sorik Merapi;2;Maga Lombang;Siaga;Siaga
+;Mandailing Natal;16;Lembah Sorik Merapi;2;Purba Baru;Siaga;Siaga
+;Mandailing Natal;16;Lembah Sorik Merapi;2;Maga Dolok;Aman;Siaga
+;Mandailing Natal;17;Batahan;2;Banjar Aur;Siaga;Siaga
+;Mandailing Natal;17;Batahan;2;Batahan Ii;Siaga;Siaga
+;Mandailing Natal;17;Batahan;2;Batahan Iii;Siaga;Siaga
+;Mandailing Natal;17;Batahan;2;Batu Sondat;Siaga;Siaga
+;Mandailing Natal;17;Batahan;2;Bintungan Bejangkar;Siaga;Siaga
+;Mandailing Natal;17;Batahan;2;Kampung Kapas I;Siaga;Siaga
+;Mandailing Natal;17;Batahan;2;Kubangan Pandan Sari;Siaga;Siaga
+;Mandailing Natal;17;Batahan;2;Pasar Baru Batahan;Siaga;Siaga
+;Mandailing Natal;17;Batahan;2;Sari Kenanga;Siaga;Siaga
+;Mandailing Natal;18;Huta Bargot;2;Bangun Sejati;Aman;Siaga
+;Mandailing Natal;18;Huta Bargot;2;Huta Bargot Setia;Siaga;Siaga
+;Mandailing Natal;18;Huta Bargot;2;Sayur Maincat;Siaga;Siaga
+;Mandailing Natal;18;Huta Bargot;2;Simalagi;Siaga;Siaga
+;Mandailing Natal;19;Kotanopan;2;Gading Bain;Siaga;Siaga
+;Mandailing Natal;19;Kotanopan;2;Huta Puli;Siaga;Siaga
+;Mandailing Natal;19;Kotanopan;2;Pasar Kotanopan;Siaga;Siaga
+;Mandailing Natal;19;Kotanopan;2;Huta Padang Sm;Siaga;Siaga
+;Mandailing Natal;19;Kotanopan;2;Saba Dolok;Siaga;Siaga
+;Mandailing Natal;19;Kotanopan;2;Botung;Siaga;Siaga
+;Mandailing Natal;19;Kotanopan;2;Huta Pungkut Julu;Siaga;Siaga
+;Mandailing Natal;19;Kotanopan;2;Huta Pungkut Jae;Siaga;Siaga
+;Mandailing Natal;20;Lingga Bayu;2;Bandar Limabung;Siaga;Siaga
+;Mandailing Natal;20;Lingga Bayu;2;Aek Manyuruk;Siaga;Siaga
+;Mandailing Natal;20;Lingga Bayu;2;Simpang Koje;Siaga;Siaga
+;Mandailing Natal;20;Lingga Bayu;2;Pangkalan;Siaga;Siaga
+;Mandailing Natal;20;Lingga Bayu;2;Lancat Batu Gajah;Siaga;Siaga
+;Mandailing Natal;20;Lingga Bayu;2;Lobung;Siaga;Siaga
+;Mandailing Natal;20;Lingga Bayu;2;Kampung Baru;Siaga;Siaga
+;Mandailing Natal;20;Lingga Bayu;2;Parbatasan;Siaga;Siaga
+;Mandailing Natal;21;Pakantan;2;Pakantan Dolok;Aman;Siaga
+;Mandailing Natal;21;Pakantan;2;Pakantan Lombang;Aman;Siaga
+;Mandailing Natal;22;Ranto Baek;2;Tandikek;Siaga;Siaga
+;Mandailing Natal;22;Ranto Baek;2;Bangun Saroha;Siaga;Siaga
+;Mandailing Natal;22;Ranto Baek;2;Banjar Maga;Siaga;Siaga
+;Mandailing Natal;22;Ranto Baek;2;Ranto Nalinjang;Aman;Siaga
+;Mandailing Natal;22;Ranto Baek;2;Gunung Godang;Siaga;Siaga
+;Mandailing Natal;23;Ulu Pungkut;2;Huta Padang Up;Siaga;Siaga
+;Mandailing Natal;23;Ulu Pungkut;2;Huta Godang;Aman;Siaga

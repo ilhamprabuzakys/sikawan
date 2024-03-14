@@ -1,0 +1,125 @@
+/* HTML LAYERS */
+.bloc,
+aside {
+    color: #000;
+    background: rgba(225, 238, 215, 1);
+    padding: 0.5rem;
+    width: 100px;
+    border-radius: 8px;
+    border: 2px solid #2D75B6;
+}
+
+.border-map {
+    border: 0.5px solid #e1a901;
+}
+
+.leaflet-polyline {
+    z-index: 1;
+}
+
+.bloc {
+    z-index: 999999;
+}
+
+/*
+.leaflet-overlay-pane {
+    z-index: 5;
+}
+
+.leaflet-shadow-pane {
+    z-index: 4;
+} */
+
+/* .bloc,
+aside {
+    color: white;
+    background: #4e42f5;
+    padding: 0.5rem;
+    width: 100px;
+} */
+
+.bloc_danger {
+    color: white;
+    background: #ff1100;
+    padding: 0.5rem;
+    width: 100px;
+    border-radius: 8px;
+    border: 2px solid #2D75B6;
+}
+
+.bloc.wide {
+    width: 460px;
+}
+
+.leaflet-container {
+    height: 800px;
+    width: 100%;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+#info_kawan {
+    height: 1300px;
+}
+
+#data_map #map {
+    width: 100%;
+    height: 900px;
+}
+
+#data_map .box-data-wilayah {
+    background-color: #fcfcfc;
+    border-radius: 10px;
+    padding: 10px 0 0 10px;
+}
+
+#data_map .box-data-wilayah .list-group {
+    height: 600px;
+    overflow: auto;
+}
+
+#data_map .box-data-wilayah table thead {
+    position: sticky;
+    top: 0;
+    background-color: #fff;
+    z-index: 1;
+    box-shadow: 0px 5px 5px -5px rgba(255, 255, 255, 0.8), 0px -5px 5px -5px rgba(255, 255, 255, 0.8);
+}
+
+#data_map .box-data-wilayah .table-responsive {
+    border-top: 1px solid #dee2e6;
+}
+
+#data_map .box-data-wilayah table th {
+    position: sticky;
+    top: 0;
+}
+
+#data_map .box-data-wilayah .list-group .table .info .keterangan {
+    display: inline-block;
+    width: 70px;
+}
+
+#data_map .box-data-wilayah .list-group .table .nama_provinsi {
+    cursor: pointer;
+}
+
+#search_bar #search__results {
+    width: 100%;
+    z-index: 9999;
+    box-shadow: 1px 2px #d4d4d4;
+    top: 100%;
+    left: 0%;
+}
+
+.accordion .accordion-body {
+    padding: 10px 0 0px 20px;
+}
+
+.accordion .accordion-item {
+    border-radius: 0;
+}
+
+.accordion .accordion-button:not(.collapsed) {
+    background-color: #fff;
+}

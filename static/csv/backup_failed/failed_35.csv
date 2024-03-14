@@ -1,0 +1,1597 @@
+;Bondowoso;;Binakal;5;JerukSoksok;Aman;Aman;Aman
+;Bondowoso;;Binakal;8;Sumber waru;Aman;Aman;Aman
+;Bondowoso;;Bondowoso;13;Kota Kulon;Siaga;Siaga;Siaga
+;Bondowoso;;Cermee;29;Batu ampar;Aman;Aman;Aman
+;Bondowoso;;Cermee;30;Batu salang;Aman;Aman;Aman
+;Bondowoso;;Cermee;37;Palalangan;Aman;Aman;Aman
+;Bondowoso;;Cermee;38;Ramban Kulon;Aman;Aman;Aman
+;Bondowoso;;Cermee;39;Ramban Wetan;Aman;Aman;Aman
+;Bondowoso;;Cermee;41;Suling Kulon;Aman;Aman;Aman
+;Bondowoso;;Cermee;42;Suling Wetan;Aman;Aman;Aman
+;Bondowoso;;Curahdami;49;Panambangan;Aman;Aman;Aman
+;Bondowoso;;Curahdami;53;Sumber salak;Aman;Aman;Aman
+;Bondowoso;;Curahdami;54;Sumber suko;Aman;Aman;Aman
+;Bondowoso;6;Curahdami;55;Dadapan;Aman;Aman;Aman
+;Bondowoso;;Curahdami;56;Dawuhan;Aman;Aman;Aman
+;Bondowoso;;Curahdami;57;Grujugan Kidul;Siaga;Siaga;Siaga
+;Bondowoso;;Curahdami;58;Kabuaran;Aman;Aman;Aman
+;Bondowoso;;Curahdami;59;Kejawan;Aman;Aman;Aman
+;Bondowoso;;Curahdami;60;Pekauman;Aman;Aman;Aman
+;Bondowoso;;Curahdami;61;Sumber Pandan;Aman;Aman;Aman
+;Bondowoso;;Curahdami;62;Taman;Waspada;Waspada;Waspada
+;Bondowoso;;Curahdami;63;Tegal Mijin;Aman;Aman;Aman
+;Bondowoso;;Curahdami;64;Wanisodo;Aman;Aman;Aman
+;Bondowoso;;Curahdami;65;Wonosari;Aman;Aman;Aman
+;Bondowoso;;Jambesari Darus Sholah;67; Jambe Anom;Aman;Aman;Aman
+;Bondowoso;;Jambesari Darus Sholah;68; Jambe Sari;Siaga;Siaga;Siaga
+;Bondowoso;;Klabang;77;Karang Anyar;Aman;Aman;Aman
+;Bondowoso;;Klabang;78;Karang Sengon;Aman;Aman;Aman
+;Bondowoso;;Klabang;83;Sumber Suko;Aman;Aman;Aman
+;Bondowoso;;Maesan;91;Pujer Baru;Aman;Aman;Aman
+;Bondowoso;;Maesan;94;Sumber Anyar;Bahaya;Bahaya;Bahaya
+;Bondowoso;;Maesan;95;Sumber Pakem;Aman;Aman;Aman
+;Bondowoso;12;Pujer;113;Alas sumur;Aman;Aman;Aman
+;Bondowoso;;Pujer;116;Maskuning Barat;Aman;Aman;Aman
+;Bondowoso;;Pujer;117;Maskuning Timur;Aman;Aman;Aman
+;Bondowoso;;Pujer;120;Randucangkring;Aman;Aman;Aman
+;Bondowoso;;Pujer;122;Sukokerto;Aman;Aman;Aman
+;Bondowoso;;Sempol;125;Kali Gedang;Aman;Aman;Aman
+;Bondowoso;;Sempol;129;Sumber Rejo;Aman;Aman;Aman
+;Bondowoso;16;Taman Krocok;140;Gentong;Aman;Aman;Aman
+;Bondowoso;;Taman Krocok;141;Kemuningan;Aman;Aman;Aman
+;Bondowoso;;Taman Krocok;142;Kretek;Aman;Aman;Aman
+;Bondowoso;;Taman Krocok;143;Paguan;Aman;Aman;Aman
+;Bondowoso;;Taman Krocok;144;Sumberkokap;Aman;Aman;Aman
+;Bondowoso;;Taman Krocok;145;Taman;Siaga;Siaga;Siaga
+;Bondowoso;;Taman Krocok;146Trebungan;Aman;Aman;Aman
+;Bondowoso;;Tenggarang;179;Koncer darul Aman; Siaga;Siaga;Siaga
+;Bondowoso;;Tenggarang;180;Koncer Kidul; Siaga;Siaga;Siaga
+;Bondowoso;;Tenggarang;183;Sumber salam; Aman;Aman;Aman
+;Bondowoso;;Tenggarang;184;Tangsil Kulon; Aman;Aman;Aman
+;Bondowoso;21;Tlogosari;185;Brambang Darussolah;Aman;Aman;Aman
+;Bondowoso;;Wonosari;211;Lombok Kulon;Aman;Aman;Aman
+;Bondowoso;;Wonosari;212;Lombok Wetan;Aman;Aman;Aman
+;Bondowoso;;Wonosari;216;Tangsil TimWeanur;Aman;Aman;Aman
+;Banyuwangi;;Purwoharjo;239;Sumbersari ;Aman;Aman;Aman
+;Banyuwangi;;Muncar;252;Kemendung;Aman;Aman;Aman
+;Banyuwangi;;Muncar;253;Sumberberas;Siaga;Siaga;Siaga
+;Banyuwangi;8;Srono;274;Bagorejo;Aman;Aman;Aman
+;Banyuwangi;;Genteng;285;Gentengwetan;Siaga;Siaga;Siaga
+;Banyuwangi;;Genteng;286;Gentengkulon;Waspada;Waspada;Waspada
+;Banyuwangi;;Kalibaru;299;Kajarharjo;Siaga;Siaga;Siaga
+;Banyuwangi;;Singojuruh;303;Alasmalang;Aman;Aman;Aman
+;Banyuwangi;;Kabat;326;Benelanlor;Aman;Aman;Aman
+;Banyuwangi;;Kabat;333;Macan Putih;Aman;Aman;Aman
+;Banyuwangi;;Glagah;340;Kampunganyar;Aman;Aman;Aman
+;Banyuwangi;16;Banyuwangi;347;Kampungmandar ;Siaga;Siaga;Siaga
+;Banyuwangi;;Banyuwangi;348;Kampungmelayu ;Aman;Aman;Aman
+;Banyuwangi;;Banyuwangi;361;Sumberrejo ;Waspada;Waspada;Waspada
+;Banyuwangi;;Banyuwangi;362;Tamanbaru ;Aman;Aman;Aman
+;Banyuwangi;;Banyuwangi;364;Tukangkayu ;Bahaya;Bahaya;Bahaya
+;Banyuwangi;;Wongsorejo;372;Alas Rejo ;Aman;Aman;Aman
+;Banyuwangi;;Siliragung;411;Sineporejo ;Siaga;Siaga;Siaga
+;Banyuwangi;;Licin;420;Gumuk;Aman;Aman;Aman
+;Situbondo;;Banyuglugur;459;Selabanteng;Aman;Aman;Aman
+;Situbondo;7;Jangkar;484;Situbondo;Aman;Aman;Aman
+;Situbondo;9;Kapongan;500;Curah Cotok ;Aman;Aman;Aman
+;Situbondo;;Kapongan;504;Kesambirampak;Waspada;Waspada;Waspada
+;Situbondo;13;Panarukan;530;Alasmalang;Aman;Aman;Aman
+;Situbondo;;Suboh;558;Dawuan;Aman;Aman;Aman
+;Situbondo;;Suboh;562;Mojodungkol;Aman;Aman;Aman
+;Situbondo;17;SumberMalang;564;Alastengah;Aman;Aman;Aman
+;Situbondo;;SumberMalang;566;Kalirejo ;Aman;Aman;Aman
+;Situbondo;;SumberMalang;567;Plalangan ;Aman;Aman;Aman
+;Situbondo;;SumberMalang;568;Sumberargo ;Aman;Aman;Aman
+;Situbondo;;SumberMalang;569;Taman ;Aman;Aman;Aman
+;Situbondo;;SumberMalang;570;Tamankursi ;Aman;Aman;Aman
+;Situbondo;;SumberMalang;571;Tamansari ;Aman;Aman;Aman
+;Situbondo;;SumberMalang;572; Tlogosari ;Aman;Aman;Aman
+;Sidoarjo;;Sidoarjo;574; Bluru Kidul ;Bahaya;Bahaya;SIAGA
+;Sidoarjo;;Sidoarjo;579; Rangkah Kidul;Bahaya;Aman;AMAN
+;Sidoarjo;;Sidoarjo;585;Cemengkalan;Waspada;Waspada;waspada
+;Sidoarjo;;Sidoarjo;591;Pucang Anom;Waspada;Waspada;SIAGA
+;Sidoarjo;;Porong;637;Glagahharum;Waspada;Waspada;Waspada
+;Sidoarjo;5;Krembung;655;Balonggarut;Siaga;Siaga;Siaga
+;Sidoarjo;;Krembung;670;Tanjekwagir;Siaga;Siaga;Siaga
+;Sidoarjo;;Tulangan;675;Grabagan;Siaga;Siaga;Siaga
+;Sidoarjo;;Tulangan;681;Kebaron;Siaga;Siaga;Siaga
+;Sidoarjo;;Tanggulangin;712; Ganggang panjang;Waspada;Waspada;Waspada
+;Sidoarjo;;Jabon;724; Pajarakan;Siaga;Siaga;Siaga
+;Sidoarjo;;Krian;735; Katerungan;Waspada;Waspada;SIAGA
+;Sidoarjo;;Krian;744; Terik;Waspada;Waspada;Waspada
+;Sidoarjo;;Krian;751;Tambakkemerakan;Bahaya;Bahaya;Bahaya
+;Sidoarjo;;Balongbendo;753;Bakalanwringinpitu;Waspada;Waspada;Waspada
+;Sidoarjo;;Balongbendo;757; Gagangkepuhsari;Waspada;Waspada;Waspada
+;Sidoarjo;;Balongbendo;765;Singkalan;Waspada;Waspada;Waspada
+;Sidoarjo;;Balongbendo;766;Sumokebangsri;Waspada;Waspada;Waspada
+;Sidoarjo;;Wonoayu;788; Simoangin-angin;Waspada;Waspada;Waspada
+;Sidoarjo;;Wonoayu;790; Sumberrejo;Waspada;Waspada;Waspada
+;Sidoarjo;;Wonoayu;794; Wonokasian;Waspada;Waspada;Waspada
+;Sidoarjo;12;Tarik;795; Banjarwungu;Siaga;Siaga;Siaga
+;Sidoarjo;;Tarik;796; Balongmacekan;Siaga;Siaga;Siaga
+;Sidoarjo;;Tarik;797; Gampingrowo;Siaga;Siaga;Siaga
+;Sidoarjo;;Tarik;798; Gedangklutuko;Siaga;Siaga;Siaga
+;Sidoarjo;;Tarik;799; Jantio;Siaga;Siaga;Siaga
+;Sidoarjo;;Tarik;800; Kalimatio;Bahaya;Bahaya;Bahaya
+;Sidoarjo;;Tarik;801; Kedungbocoko;Siaga;Siaga;Siaga
+;Sidoarjo;;Tarik;802; Kedinding;Siaga;Siaga;Siaga
+;Sidoarjo;;Tarik;803; Kemuning;Siaga;Siaga;Siaga
+;Sidoarjo;;Tarik;804; Kendalsewu;Siaga;Siaga;Siaga
+;Sidoarjo;;Tarik;805; Klantingsario;Siaga;Siaga;Siaga
+;Sidoarjo;;Tarik;806; Kramattemanggungo;Siaga;Siaga;Siaga
+;Sidoarjo;;Tarik;807; Mergobenero;Siaga;Siaga;Siaga
+;Sidoarjo;;Tarik;808; Mergosario;Siaga;Siaga;Siaga
+;Sidoarjo;;Tarik;809; Mindugadingo;Siaga;Siaga;Siaga
+;Sidoarjo;;Tarik;810; Miriprowoo;Siaga;Siaga;Siaga
+;Sidoarjo;;Tarik;811; Sebanio;Siaga;Siaga;Siaga
+;Sidoarjo;;Tarik;812; Segodobancango;Siaga;Siaga;Siaga
+;Sidoarjo;;Tarik;813; Singgogaliho;Siaga;Siaga;Siaga
+;Sidoarjo;;Tarik;814; Tariko;Bahaya;Bahaya;Bahaya
+;Sidoarjo;;Prambon;820; Jatialunalun;Waspada;Waspada;Waspada
+;Sidoarjo;;Prambon;823; Kajartrengguli;Waspada;Waspada;Waspada
+;Sidoarjo;;Taman;840; Kragan;Waspada;Waspada;Waspada
+;Sidoarjo;;Taman;844; Pertapan Maduretno ;Waspada;Waspada;Waspada
+;Sidoarjo;;Waru;869; Tambarejo; Waspada;Waspada;Waspada
+;Sidoarjo;;Gedangan;877; Ganting Waspada;Waspada;SIAGA
+;Sidoarjo;;Gedangan;882; Keboan Anom; Waspada;Waspada;Waspada
+;Sidoarjo;;Gedangan;886; Sawo Tratap; Bahaya;Bahaya;WASPADA
+;Sidoarjo;;Gedangan;888; Sereuni; Waspada;Waspada;SIAGA
+;Sidoarjo;17;Sedati;891; Banjarkemuningtambak;Waspada;Waspada;Waspada
+;Sidoarjo;;Sedati;895; Gisikcemandi;Waspada;Waspada;Waspada
+;Sidoarjo;;Sedati;898; PabeanBahaya;Bahaya;WASPADA
+;Sidoarjo;;Sedati;902; Sedatiagug;Bahaya;Bahaya;Bahaya
+;Sidoarjo;;Sukodono;912; Keloposepuluh;Waspada;Waspada;Waspada
+;Sidoarjo;;Sukodono;918; PanjunganWaspada;Waspada;Waspada
+;Kediri;;Banyakan;940; Jatirogo ;Aman;Aman;Aman
+;Kediri;;Gurah;970; Tambak Rejo;Aman;Aman;Aman
+;Kediri;;Gurah;974; Sumber Cangkring;Aman;Aman;Aman
+;Kediri;;Kandangan;980; Jeruk Wangi ;Aman;Aman;Aman
+;Kediri;;Kandangan;981; Jeruk Gulung ;Aman;Aman;Aman
+;Kediri;;Kandangan;982; Jlumbung ;Aman;Aman;Aman
+;Kediri;;Kandat;989; Sumberjo ;Aman;Aman;Aman
+;Kediri;;Kras;1029; Sentonorejo;Aman;Aman;Aman
+;Kediri;;Kunjang;1064; Tenggerlor ;Aman;Aman;Aman
+;Kediri;;Ngadiluwih;1075; Bangle;Aman;Aman;Aman
+;Kediri;;Ngadiluwih;1078; Rembang Kepuh;Aman;Aman;Aman
+;Kediri;;Ngadiluwih;1084; Banjarrejo;Aman;Aman;Aman
+;Kediri;;Papar;1119; Kedung Malang;Aman;Aman;Aman
+;Kediri;;Plosoklaten;1151; Plosokidul;Aman;Aman;Aman
+;Kediri;;Plosoklaten;1152; Plosolor;Aman;Aman;Aman
+;Kediri;;Ringinrejo;1193; Nambaan;Aman;Aman;Aman
+;Kediri;;Ngasem;1248; Sumberjo;Aman;Aman;Aman
+;Blitar;;Selorejo;1416;Olak-Alen;Aman;Aman;Aman
+;Blitar;;Selopuro;1423;Mann;Aman;Aman;Aman
+;Blitar;15;Srengat;1429;Bangelenan;Aman;Aman;Aman
+;Blitar;;Talun;1469;Kec. Talun;Aman;Aman;Aman
+;Blitar;;Udanawu;1478;Ds.Sukorejo; Aman;Aman;Aman
+;Blitar;;Udanawu;1481;Ds.Tunjung; Aman;Aman;Aman
+7;Kota Blitar;1;Kepanjen Kidul;1518;Bendo;Aman;Aman;Aman
+;Kota Blitar;;Kepanjen Kidul;1519;Kauman;Aman;Aman;Aman
+;Kota Blitar;;Kepanjen Kidul;1520;Kepanjenkidul;Aman;Aman;Aman
+;Kota Blitar;;Kepanjen Kidul;1521;Kepanjenlor;Aman;Aman;Aman
+;Kota Blitar;;Kepanjen Kidul;1522;Ngadirejo;Aman;Aman;Aman
+;Kota Blitar;;Kepanjen Kidul;1523;Sentul;Aman;Aman;Aman
+;Kota Blitar;;Kepanjen Kidul;1524;Tanggung;Aman;Aman;Aman
+;Kota Blitar;;Sananwetan;1527;Karangtengah;Aman;Aman;Aman
+;Kota Mojokerto;;Magersari;1542;Gunung Gedangan;Bahaya;Bahaya
+;Kota Mojokerto;3;Prajurit Kulon;1551;Prajurit Kulon;Waspada;Waspada;Siaga
+;Kota Mojokerto;;Prajurit Kulon;1552;Surodinawan;Waspada;Waspada;Waspada
+;Kota Mojokerto;;Prajurit Kulon;1553;Kauman;Siaga;Siaga;Siaga
+;Kota Mojokerto;;Prajurit Kulon;1554;Blooto;Siaga;Siaga;Siaga
+;Kota Mojokerto;;Prajurit Kulon;1555;Pulorejo;Waspada;Waspada;Waspada
+;Kota Mojokerto;;Prajurit Kulon;1556;Mentikan;Bahaya;Bahaya;Bahaya
+;Mojokerto;;Mojosari;1561;Belahan Tengah;Siaga;Siaga;Siaga
+;Mojokerto;;Mojosari;1574;Kedung Gempol;Aman;Aman;Aman
+;Mojokerto;;Ngoro;1599;Manduro MG;Waspada;Waspada;Waspada
+;Mojokerto;;Ngoro;1603;Wotanmas Jedong;Siaga;Siaga;Siaga
+;Mojokerto;4;Dlanggu;1611;Kedung Lengkong;Aman;Aman;Aman
+;Mojokerto;;Dlanggu;1615;Randu Genengan;Waspada;Waspada;Waspada
+;Mojokerto;;Dlanggu;1621;Kedung Gede;Aman;Aman;Aman
+;Mojokerto;;Bangsal;1636;Tinggar Buntut;Aman;Aman;Aman
+;Mojokerto;;Mojoanyar;1655;Kweden Kembar;Aman;Aman;Aman
+;Mojokerto;;Sooko;1682;Ngigasrembyong ;Waspada;Waspada;Waspada
+;Mojokerto;;Kutorejo;1716;Sampang Agung;Waspada;Waspada;Waspada
+;Mojokerto;15;Gedeg;1793;Gempolkrep ;Waspada;Waspada;Waspada
+;Mojokerto;;Gedeg;1799;berat wetan ;Siaga;Siaga;Siaga
+;Mojokerto;;Gedeg;1801;Jeruk seger;Aman;Aman;Aman
+;Mojokerto;;Gedeg;1803;Ngares Kidul ;Aman;Aman;Aman
+;Mojokerto;18;Dawar Blandong;1843;Bangeran;Siaga;Siaga;Siaga
+;Mojokerto;;Dawar Blandong;1844;Banyulegi;Aman;Aman;Aman
+;Mojokerto;;Dawar Blandong;1845;Brayublandong;Siaga;Siaga;Siaga
+;Mojokerto;;Dawar Blandong;1846;Cendoro;Aman;Aman;Aman
+;Mojokerto;;Dawar Blandong;1847;Cinandang;Aman;Aman;Aman
+;Mojokerto;;Dawar Blandong;1848;Dawarblandong;Aman;Aman;Aman
+;Mojokerto;;Dawar Blandong;1849;Gunungan;Aman;Aman;Aman
+;Mojokerto;;Dawar Blandong;1850;Gunungsari;Siaga;Siaga;Siaga
+;Mojokerto;;Dawar Blandong;1851;Jatirowo;Aman;Aman;Aman
+;Mojokerto;;Dawar Blandong;1852;Madureso;Waspada;Waspada;Waspada
+;Mojokerto;;Dawar Blandong;1853;Pucuk;Aman;Aman;Aman
+;Mojokerto;;Dawar Blandong;1854;Pulorejo;Aman;Aman;Aman
+;Mojokerto;;Dawar Blandong;1855;Randegan;Siaga;Siaga;Siaga
+;Mojokerto;;Dawar Blandong;1856;Simongagrok;Siaga;Siaga;Siaga
+;Mojokerto;;Dawar Blandong;1857;Sumberwuluh;Aman;Aman;Aman
+;Mojokerto;;Dawar Blandong;1858;Suru;Aman;Aman;Aman
+;Mojokerto;;Dawar Blandong;1859;Talunblandong;Aman;Aman;Aman
+;Mojokerto;;Dawar Blandong;1860;Temuireng;Siaga;Siaga;Siaga
+10;Jombang;1;Bandar Kedungmulyo;1861;Bandar Kedungmulyo;Siaga;Siaga;Siaga
+;Jombang;;Bandar Kedungmulyo;1862;Banjarsari;Waspada;Waspada;Waspada
+;Jombang;;Bandar Kedungmulyo;1863;Barongsawahan;Siaga;Siaga;Siaga
+;Jombang;;Bandar Kedungmulyo;1864;Brangkal;Siaga;Siaga;Siaga
+;Jombang;;Bandar Kedungmulyo;1865;Brodot;Siaga;Siaga;Siaga
+;Jombang;;Bandar Kedungmulyo;1866;Gondomanis;Siaga;Siaga;Siaga
+;Jombang;;Bandar Kedungmulyo;1867;Karangdagangan;Siaga;Siaga;Siaga
+;Jombang;;Bandar Kedungmulyo;1868;Kayen;Waspada;Waspada;Waspada
+;Jombang;;Bandar Kedungmulyo;1869;Mojokambang;Siaga;Siaga;Siaga
+;Jombang;;Bandar Kedungmulyo;1870;Pucangsimo;Siaga;Siaga;Siaga
+;Jombang;;Bandar Kedungmulyo;1871;Tinggar;Siaga;Siaga;Siaga
+;Jombang;;Bareng;1882;PaKec Bareng ;Siaga;Siaga;Siaga
+;Jombang;3;Diwek;1885;Balonbesuk ;Siaga;Siaga;Siaga
+;Jombang;;Diwek;1897;Kedawung ;Siaga;Siaga;Siaga
+;Jombang;4;Gudo;1905;Begasur Kedaleman  ;Siaga;Siaga;Siaga
+;Jombang;;Gudo;1907;Gempol Legundi  ;Siaga;Siaga;Siaga
+;Jombang;;Jogoroto;1924;Beji  ;Siaga;Siaga;Siaga
+;Jombang;;Jogoroto;1926;Jarak Kulon  ;Siaga;Siaga;Siaga
+;Jombang;6;Jombang;1934;Banjarjowo ;Siaga;Siaga;Siaga
+;Jombang;;Jombang;1943;Ploso geneng ;Waspada;Waspada;Waspada
+;Jombang;;Jombang;1947;Sumberejo ;Aman;Aman;Aman
+;Jombang;;Kudu;1986;Ketemas ;Siaga;Siaga;Siaga
+;Jombang;;Kudu;1988;Kedungbanjar ;Aman;Aman;Aman
+;Jombang;;Kudu;1992;Da Sidokaton ;Aman;Aman;Aman
+;Jombang;;Megaluh;1997;Dukuh Arum;Siaga;Siaga;Siaga
+;Jombang;;Megaluh;2007;Turipinggir.;Siaga;Siaga;Siaga
+;Jombang;;Mojoagung;2020;Miyagan ;Aman;Aman;Aman
+;Jombang;;Ngusikan;2062;Ketapangkungin;Siaga;Siaga;Siaga
+;Jombang;;Perak;2077;Plosogenung ;Siaga;Siaga;Siaga
+;Jombang;;Peterongan;2095;Tugusumberejo;Aman;Aman;Aman
+;Jombang;;Plandaan;2100;Jipurapah;Siaga;Siaga;Siaga
+;Jombang;;Plandaan;2107;Sumberejo;Siaga;Siaga;Siaga
+;Jombang;;Ploso;2111;Gdongombo;Siaga;Siaga;Siaga
+;Jombang;;Ploso;2113;Jatigendong;Waspada;Waspada;Waspada
+;Jombang;;Ploso;2115;Kedundowo;Siaga;Siaga;Siaga
+;Jombang;;Sumobito;2129;Kedungpapar;Aman;Aman;Aman
+;Jombang;;Sumobito;2131;Madiyopuro;Siaga;Siaga;Siaga
+;Jombang;;Tembelang;2144;Gabusbenaran;Siaga;Siaga;Siaga
+;Jombang;;Wonosalam;2163;Sumberejo ;Siaga;Siaga;Siaga
+11;Kota Surabaya;1;Asemrowo;2167;Asemrowo;Siaga;Siaga;Siaga
+;Kota Surabaya;;Asemrowo;2168;Genting Kalianak;Siaga;Siaga;Siaga
+;Kota Surabaya;;Asemrowo;2169;Tambak Sarioso;Siaga;Siaga;Siaga
+;Kota Surabaya;;Benowo;2173;Tambak Osowilangun;Siaga;Siaga;Siaga
+;Kota Surabaya;;Gubeng;2197;Barata Jaya;Siaga;Siaga;Siaga
+;Kota Surabaya;;Gubeng;2201;Pucangsewu;Siaga;Siaga;Siaga
+;Kota Surabaya;9;Gunung Anyar;2202;Gunungsari;Siaga;Siaga;Siaga
+;Kota Surabaya;11;Karang Pilang;2210;Karangpilang;Siaga;Siaga;Siaga
+;Kota Surabaya;;Karang Pilang;2213;Warugunung;Waspada;Waspada;Waspada
+;Kota Surabaya;;Kenjeran;2215;Tambakwedi;Siaga;Siaga;Siaga
+;Kota Surabaya;;Lakarsantri;2228;Sumur Welut;Siaga;Siaga;Siaga
+;Kota Surabaya;;Mulyorejo;2232;Kejawan Putih Tambak;Siaga;Siaga;Siaga
+;Kota Surabaya;16;Pabean Cantikan;2235;Bongkaran;Siaga;Siaga;Siaga
+;Kota Surabaya;;Pabean Cantikan;2236;Krembangan Utara;Siaga;Siaga;Siaga
+;Kota Surabaya;;Pabean Cantikan;2237;Nyamplungan;Siaga;Siaga;Siaga
+;Kota Surabaya;;Pabean Cantikan;2238;Perak Timur;Siaga;Siaga;Siaga
+;Kota Surabaya;;Pabean Cantikan;2239;Perak Utara;Siaga;Siaga;Siaga
+;Kota Surabaya;;Pakal;2243;Sumberejo ;Siaga;Siaga;Siaga
+;Kota Surabaya;18;Rungkut;2244;Kali Rungkut ;Siaga;Siaga;Siaga
+;Kota Surabaya;;Rungkut;2247;Penjaringan Sari ;Waspada;Waspada;Waspada
+;Kota Surabaya;19;Sambikerep;2250;Bringin ;Siaga;Siaga;Siaga
+;Kota Surabaya;;Simokerto;2268;Kec. Simolawang;Siaga;Siaga;Siaga
+;Kota Surabaya;;Tambaksari;2285;Kapas Madya ;Waspada;Waspada;Waspada
+;Kota Surabaya;;Tambaksari;2286;Pacar Kembang ;Siaga;Siaga;Siaga
+;Kota Surabaya;;Tambaksari;2287;Pacar Keling ;Siaga;Siaga;Siaga
+;Kota Surabaya;27;Tegalsari;2297;Dr. Sutomo;Siaga;Siaga;Siaga
+;Kota Surabaya;;Tenggilis Mejoyo;2305;Tenggiis Mejoyo ;Waspada;Waspada;Waspada
+;Kota Surabaya;30;Wonocolo;2310;Bandul Merisi;Siaga;Siaga;Siaga
+;Kota Surabaya;;Wonokromo;2318;Ngagelrejo;Siaga;Siaga;Siaga
+;Bangkalan;;Bangkalan;2331;Keraton;Siaga;Siaga;Siaga
+;Bangkalan;;Bangkalan;2333; Mertajasah;Siaga;Siaga;Siaga
+;Bangkalan;2;Blega;2334; Alasraja;Siaga;Siaga;Siaga
+;Bangkalan;;Blega;2337; Blegaoloh;Siaga;Siaga;Siaga
+;Bangkalan;;Blega;2339; Kajan;Siaga;Siaga;Siaga
+;Bangkalan;;Blega;2343; Karangnangka;Siaga;Siaga;Siaga
+;Bangkalan;;Blega;2345; Kojolan;Siaga;Siaga;Siaga
+;Bangkalan;;Blega;2347; Lombang Daya;Siaga;Siaga;Siaga
+;Bangkalan;;Blega;2349; Nyor Manis;Siaga;Siaga;Siaga
+;Bangkalan;;Blega;2350; Pangeran Gedungan;Siaga;Siaga;Siaga
+;Bangkalan;3;Burneh;2353; Alas Kembang ;Siaga;Siaga;Siaga
+;Bangkalan;;Burneh;2355; Benangkah;Siaga;Siaga;Siaga
+;Bangkalan;;Burneh;2364;Tonjung;Siaga;Siaga;Siaga
+;Bangkalan;;Galis;2367; Banyubunih;Siaga;Siaga;Siaga
+;Bangkalan;;Galis;2368; Belateran;Siaga;Siaga;Siaga
+;Bangkalan;;Galis;2375; Lantek Temor ; Siaga;Siaga;Siaga
+;Bangkalan;;Galis;2378; Pakaan Daya; Siaga;Siaga;Siaga
+;Bangkalan;;Galis;2384; Telaga ; Siaga;Siaga;Siaga
+;Bangkalan;;Geger;2397; Tagubang ;Siaga;Siaga;Siaga
+;Bangkalan;;Geger;2398; Tegerpriyah ;Siaga;Siaga;Siaga
+;Bangkalan;6;Kamal;2399; Binajuh ;Siaga;Siaga;Siaga
+;Bangkalan;;Kamal;2407; Tanjung Jati;Siaga;Siaga;Siaga
+;Bangkalan;;Kamal;2408; Tellang;Siaga;Siaga;Siaga
+;Bangkalan;7;Klampis;2409; Bantean ;Siaga;Siaga;Siaga
+;Bangkalan;;Klampis;2412; Buluk Agung;Siaga;Siaga;Siaga
+;Bangkalan;;Klampis;2423; Muarah (Moarah);Siaga;Siaga;Siaga
+;Bangkalan;;Klampis;2427; Tenggun Daya;Siaga;Siaga;Siaga
+;Bangkalan;;Klampis;2429; Tolbuk (Tolluk);Siaga;Siaga;Siaga
+;Bangkalan;8;Kokop;2431; Amparaan;Siaga;Siaga;Siaga
+;Bangkalan;;Kokop;2432; Banda Soleh;Siaga;Siaga;Siaga
+;Bangkalan;;Kokop;2439; Lembung Gunung/Gunong;Siaga;Siaga;Siaga
+;Bangkalan;;Konang;2447; Cangkarman (Cangkareman); Siaga;Siaga;Siaga
+;Bangkalan;;Konang;2450; Galis Daya/Dajah; Siaga;Siaga;Siaga
+;Bangkalan;;Konang;2452; Kanegarah (Kanagereh);Siaga;Siaga;Siaga
+;Bangkalan;;Kwanyar;2461; Gunong/Gunung Sereng; Siaga;Siaga;Siaga
+;Bangkalan;;Kwanyar;2464; Karang Entang/Gentang; Siaga;Siaga;Siaga
+;Bangkalan;;Kwanyar;2470; Pasanggrahan (Pesanggrahan); Siaga;Siaga;Siaga
+;Bangkalan;;Kwanyar;2471; Sumur Kuning (Somor Koneng); Siaga;Siaga;Siaga
+;Bangkalan;;Labang;2474; Bringin (Bringen);Siaga;Siaga;Siaga
+;Bangkalan;;Labang;2482; Sendang Daya/Dajah;Siaga;Siaga;Siaga
+;Bangkalan;12;Modung;2486; Alaskokon;Siaga;Siaga;Siaga
+;Bangkalan;;Modung;2488; Glisgis (Gligis);Siaga;Siaga;Siaga
+;Bangkalan;;Modung;2489; Karanganyar;Siaga;Siaga;Siaga
+;Bangkalan;;Modung;2492; Manggaan;Siaga;Siaga;Siaga
+;Bangkalan;;Modung;2498; Patengteng;Siaga;Siaga;Siaga
+;Bangkalan;;Modung;2500; Srabi/Serabi Barat;Siaga;Siaga;Siaga
+;Bangkalan;;Modung;2501; Srabi/Serabi Timur;Siaga;Siaga;Siaga
+;Bangkalan;;Modung;2502; Suwaan;Siaga;Siaga;Siaga
+;Bangkalan;;Sepulu;2505; Gangseyan (Gengseyan); Siaga;Siaga;Siaga
+;Bangkalan;;Sepulu;2506; Gunelap (Genelap); Siaga;Siaga;Siaga
+;Bangkalan;;Sepulu;2509; Klapayan (Klapaian); Siaga;Siaga;Siaga
+;Bangkalan;;Sepulu;2516; Tanah Gurah Barat (Tanagura Barat); Siaga;Siaga;Siaga
+;Bangkalan;;Sepulu;2517; Tanah Gurah Temor (Tanagura Timur); Siaga;Siaga;Siaga
+;Bangkalan;;Socah;2527; Sanggra/Sanggar Agung;Siaga;Siaga;Siaga
+;Bangkalan;;Tanah Merah;2551; Tlomar (Tlomor);Siaga;Siaga;Siaga
+;Bangkalan;16;Tanjungbumi;2552; Aeng Tabar;Siaga;Siaga;Siaga
+;Bangkalan;;Tanjungbumi;2553; Bandang Dayah;Siaga;Siaga;Siaga
+;Bangkalan;;Tanjungbumi;2554; Banyu Sangkah;Siaga;Siaga;Siaga
+;Bangkalan;;Tanjungbumi;2555; Bumi Anyar;Siaga;Siaga;Siaga
+;Bangkalan;;Tanjungbumi;2556; Bungkeng;Siaga;Siaga;Siaga
+;Bangkalan;;Tanjungbumi;2557; Larangan Timur;Siaga;Siaga;Siaga
+;Bangkalan;;Tanjungbumi;2558; Macajah;Siaga;Siaga;Siaga
+;Bangkalan;;Tanjungbumi;2559; Paseseh;Siaga;Siaga;Siaga
+;Bangkalan;;Tanjungbumi;2560; Planggiran;Siaga;Siaga;Siaga
+;Bangkalan;;Tanjungbumi;2561; Tagungguh;Siaga;Siaga;Siaga
+;Bangkalan;;Tanjungbumi;2562; Tambak Pocok;Siaga;Siaga;Siaga
+;Bangkalan;;Tanjungbumi;2563; Tanjung Bumi;Siaga;Siaga;Siaga
+;Bangkalan;;Tanjungbumi;2564; Telaga/Tlaga Biru;Siaga;Siaga;Siaga
+;Bangkalan;;Tanjungbumi;2565; Tlangoh;Siaga;Siaga;Siaga
+;Bangkalan;;Tragah;2569; Banyu Beseh;Siaga;Siaga;Siaga
+;Bangkalan;;Tragah;2570; Dukotambin;Siaga;Siaga;Siaga
+;Bangkalan;;Tragah;2571; Jaah;Siaga;Siaga;Siaga
+;Bangkalan;;Tragah;2573; Karang Leman/Lemen;Siaga;Siaga;Siaga
+;Bangkalan;;Tragah;2574; Kemoneng (Kemoning);Siaga;Siaga;Siaga
+;Bangkalan;;Arosbaya;2591; Glagah (Glagga);Siaga;Siaga;Siaga
+;Nganjuk;;LOCERET;2651; Teken Glagahan ;Siaga;Siaga;Siaga
+;Nganjuk;;NGANJUK;2664;Ganungkidul;Siaga;Siaga;Siaga
+;Nganjuk;;NGANJUK;2668;Cangkringan;Siaga;Siaga;Siaga
+;Nganjuk;;WILANGAN;2681; Sukoharjo;Siaga;Siaga;Siaga
+;Nganjuk;;PRAMBON;2703; Sonoageng;Siaga;Siaga;Siaga
+;Nganjuk;;LENGKONG;2730; Banggle;Siaga;Siaga;Siaga
+;Nganjuk;11;SUKOMORO;2736; Sukomoro;Siaga;Siaga;Siaga
+;Nganjuk;;SUKOMORO;2741; Nglundo;Siaga;Siaga;Siaga
+;Nganjuk;;SUKOMORO;2742; Kedungsuko;Siaga;Siaga;Siaga
+;Nganjuk;;REJOSO;2754; Sambirkerep;Siaga;Siaga;Siaga
+;Nganjuk;14;GONDANG;2778; Sumberejo ;Siaga;Siaga;Siaga
+;Nganjuk;;GONDANG;2783; Kedung Glugu ;Siaga;Siaga;Siaga
+;Nganjuk;;GONDANG;2785; Ngujung ;Siaga;Siaga;Siaga
+;Nganjuk;;JATIKALEN;2808; Gondangwetan;Siaga;Siaga;Siaga
+;Nganjuk;;JATIKALEN;2810; Lumpang Kuwik;Siaga;Siaga;Siaga
+;Nganjuk;;JATIKALEN;2815; Dluhurejo;Siaga;Siaga;Siaga
+;Nganjuk;;KERTOSONO;2819; Juwono;Siaga;Siaga;Siaga
+;Nganjuk;;BAGOR;2839; Karangtengah;Siaga;Siaga;Siaga
+;Nganjuk;;BAGOR;2845; Kerep Kidul;Waspada;Waspada;Waspada
+;Nganjuk;19;PACE;2852; Pace Kulon;Siaga;Siaga;Siaga
+;Kota Madiun;;KARTOHARJO;2889;Klegen Kec;Siaga;Siaga;Siaga
+;Kota Madiun;;KARTOHARJO;2891;Pilang Bango;Siaga;Siaga;Siaga
+;Kota Madiun;;KARTOHARJO;2894;Tawang Rejo;Siaga;Siaga;Siaga
+;Madiun;;JIWAN;2916;Metisih;Siaga;Siaga;Siaga
+;Madiun;;JIWAN;2921;Kincangwetan;Siaga;Siaga;Siaga
+;Madiun;;SAWAHAN;2931; Lebak Ayu ;Siaga;Siaga;Siaga
+;Madiun;;MADIUN;2950; Tangjungrejo;Siaga;Siaga;Siaga
+;Madiun;5;WONOSARI;2971; BAnyukambang ;Siaga;Siaga;Siaga
+;Madiun;;WONOSARI;2972; Bancong ;Siaga;Siaga;Siaga
+;Madiun;;WONOSARI;2973; Buduran ;Siaga;Siaga;Siaga
+;Madiun;;WONOSARI;2974; Jatirejo ;Siaga;Siaga;Siaga
+;Madiun;;WONOSARI;2975; Klitik ;Siaga;Siaga;Siaga
+;Madiun;;WONOSARI;2976; Ngadirejo ;Siaga;Siaga;Siaga
+;Madiun;;WONOSARI;2977; Plumpungrejo ;Siaga;Siaga;Siaga
+;Madiun;;WONOSARI;2978; Purwosari ;Siaga;Siaga;Siaga
+;Madiun;;WONOSARI;2979; Sidomulyo ;Siaga;Siaga;Siaga
+;Madiun;;WONOSARI;2980; Wonoasri ;Siaga;Siaga;Siaga
+;Madiun;;DOLOPO;3075;Mlirir;Siaga;Siaga;Siaga
+;Madiun;15;KEBONSARI;3105; Balerejo;Siaga;Siaga;Siaga
+;Madiun;;KEBONSARI;3106; Bacem;Siaga;Siaga;Siaga
+;Madiun;;KEBONSARI;3107; Kebon Sari;Waspada;Waspada;Waspada
+;Madiun;;KEBONSARI;3108; Kedondong;Siaga;Siaga;Siaga
+;Madiun;;KEBONSARI;3109; Krandegan;Siaga;Siaga;Siaga
+;Madiun;;KEBONSARI;3110; Mojorejo;Siaga;Siaga;Siaga
+;Madiun;;KEBONSARI;3111; Palur;Siaga;Siaga;Siaga
+;Madiun;;KEBONSARI;3112; Pucanganom;Siaga;Siaga;Siaga
+;Madiun;;KEBONSARI;3113; Rejosari;Siaga;Siaga;Siaga
+;Madiun;;KEBONSARI;3114; Sidorejo;Siaga;Siaga;Siaga
+;Madiun;;KEBONSARI;3115; Singgahan;Siaga;Siaga;Siaga
+;Madiun;;KEBONSARI;3116; Sukorejo;Siaga;Siaga;Siaga
+;Madiun;;KEBONSARI;3117; Tambakmas;Aman;Aman;Aman
+;Madiun;;KEBONSARI;3118; Tanjungrejo;Siaga;Siaga;Siaga
+;Gresik;;Balongpanggang;3121; gedungsekaran;Aman;Aman;Aman
+;Gresik;;Balongpanggang;3129; Kedungpiring;Siaga;Siaga;Siaga
+;Gresik;;Benjeng;3145; Balongtunjung;Siaga;Siaga;Siaga
+;Gresik;;Benjeng;3147; Bangkelolor;Siaga;Siaga;Siaga
+;Gresik;;Benjeng;3152; Gluranploso;Aman;Aman;Aman
+;Gresik;;Benjeng;3157; Kedurungkem;Aman;Aman;Aman
+;Gresik;;Benjeng;3158; Kedung Sekar;Aman;Aman;Aman
+;Gresik;;Benjeng;3165; Sedapurklagen;Siaga;Siaga;Siaga
+;Gresik;3;Bungah;3167; Abar-abir;Aman;Aman;Aman
+;Gresik;;Bungah;3183; Sukarejo;Siaga;Siaga;Siaga
+;Gresik;;Bungah;3186; Tanjungwidoro;Siaga;Siaga;Siaga
+;Gresik;;Cerme;3190; betting;Siaga;Siaga;Siaga
+;Gresik;;Cerme;3191; Cagak Agung;Siaga;Siaga;Siaga
+;Gresik;;Cerme;3198; Gedangkulut;Aman;Aman;Aman
+;Gresik;;Cerme;3200; Iker-Iker Geger;Aman;Aman;Aman
+;Gresik;;Driyorejo;3220; Kesambenwetan;Siaga;Siaga;Siaga
+;Gresik;;Driyorejo;3222; Mojosarirejo;Siaga;Siaga;Siaga
+;Gresik;;Driyorejo;3229; Wedaraanom;Siaga;Siaga;Siaga
+;Gresik;6;Duduk Sampeyan;3230; Ambeng-ambeng;Siaga;Siaga;Siaga
+;Gresik;;Duduk Sampeyan;3231; watangrejo;Siaga;Siaga;Siaga
+;Gresik;;Duduk Sampeyan;3232; Bendungan;Aman;Aman;Aman
+;Gresik;;Duduk Sampeyan;3233; Duduk Sampeyan;Siaga;Siaga;Siaga
+;Gresik;;Duduk Sampeyan;3234; Glanggang;Siaga;Siaga;Siaga
+;Gresik;;Duduk Sampeyan;3235; Gredeg;Aman;Aman;Aman
+;Gresik;;Duduk Sampeyan;3236; kandangan;Aman;Aman;Aman
+;Gresik;;Duduk Sampeyan;3237; kawistowindu;Aman;Aman;Aman
+;Gresik;;Duduk Sampeyan;3238; Kemudi;Aman;Aman;Aman
+;Gresik;;Duduk Sampeyan;3239; Kramat Kulon;Siaga;Siaga;Siaga
+;Gresik;;Duduk Sampeyan;3240; Palepon;Siaga;Siaga;Siaga
+;Gresik;;Duduk Sampeyan;3241; Panjunan;Siaga;Siaga;Siaga
+;Gresik;;Duduk Sampeyan;3242; Petisbenem;Aman;Aman;Aman
+;Gresik;;Duduk Sampeyan;3243; Samirplapani;Siaga;Siaga;Siaga
+;Gresik;;Duduk Sampeyan;3244; Setrohadii;Siaga;Siaga;Siaga
+;Gresik;;Duduk Sampeyan;3245; Sumarii;Siaga;Siaga;Siaga
+;Gresik;;Duduk Sampeyan;3246; Sumengko;Siaga;Siaga;Siaga
+;Gresik;;Duduk Sampeyan;3247; Tambakrejo;Siaga;Siaga;Siaga
+;Gresik;;Duduk Sampeyan;3248; Tebaloan;Siaga;Siaga;Siaga
+;Gresik;;Duduk Sampeyan;3249; Tirem;Siaga;Siaga;Siaga
+;Gresik;;Duduk Sampeyan;3250; Tumapel ;Siaga;Siaga;Siaga
+;Gresik;;Duduk Sampeyan;3251; Wadak Kidul;Aman;Aman;Aman
+;Gresik;;Duduk Sampeyan;3252; Wadak Kor;Aman;Aman;Aman
+;Gresik;;Dukun;3258; Dukuhkembar;Aman;Aman;Aman
+;Gresik;;Dukun;3259; Dukuanyar;Aman;Aman;Aman
+;Gresik;;Dukun;3260; Gedongkedoang;Siaga;Siaga;Siaga
+;Gresik;;Dukun;3261; Imaan;Aman;Aman;Aman
+;Gresik;;Dukun;3268; Mojopentung;Aman;Aman;Aman
+;Gresik;;Dukun;3269; Padangbandung;Aman;Aman;Aman
+;Gresik;;Dukun;3270; Petiyintunggal;Siaga;Siaga;Siaga
+;Gresik;;Dukun;3277; Tiremenggal;Aman;Aman;Aman
+;Gresik;8;Gresik;3279; Gapurosukolilo;Siaga;Siaga;Siaga
+;Gresik;;Gresik;3285; Karangpoh;Siaga;Siaga;Siaga
+;Gresik;;Gresik;3286; Karangturi;Siaga;Siaga;Siaga
+;Gresik;;Gresik;3294; Sidokumpul;Siaga;Siaga;Siaga
+;Gresik;;Gresik;3297; Tlogopatut;Siaga;Siaga;Siaga
+;Gresik;;Gresik;3298; Tlogopojok;Siaga;Siaga;Siaga
+;Gresik;;Kebomas;3302; Karangkering;Aman;Aman;Aman
+;Gresik;;Kebomas;3303; Kedanyang;Siaga;Siaga;Siaga
+;Gresik;;Kebomas;3309; Sukorejoi;Aman;Aman;Aman
+;Gresik;;Kebomas;3313; kawisanyar ;Siaga;Siaga;Siaga
+;Gresik;10;Kedamean;3321; Banyuurip k;Siaga;Siaga;Siaga
+;Gresik;;Kedamean;3322; Belahan Rejo k;Aman;Aman;Aman
+;Gresik;;Kedamean;3323; cermenlerek k;Aman;Aman;Aman
+;Gresik;;Kedamean;3324; Glindah k;Aman;Aman;Aman
+;Gresik;;Kedamean;3325; katimoho k;Aman;Aman;Aman
+;Gresik;;Kedamean;3326; Kedamaian k;Aman;Aman;Aman
+;Gresik;;Kedamean;3327; Lampah k;Aman;Aman;Aman
+;Gresik;;Kedamean;3328; menunggal k;Aman;Aman;Aman
+;Gresik;;Kedamean;3329; Mojowuku k;Aman;Aman;Aman
+;Gresik;;Kedamean;3330; Ngepung k;Siaga;Siaga;Siaga
+;Gresik;;Kedamean;3331; Sidoharjo k;Siaga;Siaga;Siaga
+;Gresik;;Kedamean;3332; Slempit k;Siaga;Siaga;Siaga
+;Gresik;;Kedamean;3333; Tulung k;Siaga;Siaga;Siaga
+;Gresik;;Kedamean;3334; Tanjung k;Waspada;Siaga;Siaga
+;Gresik;;Kedamean;3335; Turirejo k;Siaga;Siaga;Siaga
+;Gresik;;Manyar;3343; Manyar Sidokmukti ;Siaga;Siaga;Siaga
+;Gresik;;Manyar;3347; Peganden ;Waspada;Waspada;Waspada
+;Gresik;;Manyar;3349; Ponganggan ;Siaga;Siaga;Siaga
+;Gresik;;Manyar;3357; Yosowilangon ;Waspada;Waspada;Waspada
+;Gresik;;Manyar;3358; Manyarrejo ;Siaga;Siaga;Siaga
+;Gresik;;Menganti;3372; Palemwatu;Siaga;Siaga;Siaga
+;Gresik;;Menganti;3375; Putat Lor;Siaga;Siaga;Siaga
+;Gresik;;Sangkapura;3398; Deketagung ;Aman;Aman;Aman
+;Gresik;;Sangkapura;3400; Kebuntelukdalam ;Aman;Aman;Aman
+;Gresik;;Sangkapura;3405; Pudakit Barat ;Aman;Aman;Aman
+;Gresik;;Sangkapura;3406; Pudakit Timur ;Aman;Aman;Aman
+;Gresik;15;Sedayu;3412; Asempapak ;Aman;Aman;Aman
+;Gresik;;Sedayu;3413; Bunderan ;Aman;Aman;Aman
+;Gresik;;Sedayu;3414; Gedangan ;Aman;Aman;Aman
+;Gresik;;Sedayu;3415; Golokan ;Siaga;Siaga;Siaga
+;Gresik;;Sedayu;3416; Kauman ;Aman;Aman;Aman
+;Gresik;;Sedayu;3417; Kertosono ;Aman;Aman;Aman
+;Gresik;;Sedayu;3418; Lasem ;Siaga;Siaga;Siaga
+;Gresik;;Sedayu;3419; Mriyunan ;Aman;Aman;Aman
+;Gresik;;Sedayu;3420; Ngawen ;Aman;Aman;Aman
+;Gresik;;Sedayu;3421; Pengulu ;Aman;Aman;Aman
+;Gresik;;Sedayu;3422; Purwodadi ;Aman;Aman;Aman
+;Gresik;;Sedayu;3423; Raci ;Siaga;Siaga;Siaga
+;Gresik;;Sedayu;3424; Raci Tengah ;Siaga;Siaga;Siaga
+;Gresik;;Sedayu;3425; Randuboto ;Aman;Aman;Aman
+;Gresik;;Sedayu;3426; Sambi Pondok ;Aman;Aman;Aman
+;Gresik;;Sedayu;3427; Sedagaran ;Siaga;Siaga;Siaga
+;Gresik;;Sedayu;3428; Sidomulyo ;Aman;Aman;Aman
+;Gresik;;Sedayu;3429; Srowo ;Aman;Aman;Aman
+;Gresik;;Sedayu;3430; Sukorejo ;Aman;Aman;Aman
+;Gresik;;Sedayu;3431; Wadeng ;Siaga;Siaga;Siaga
+;Gresik;;Sedayu;3432; Mojo Asem ;Aman;Aman;Aman
+;Gresik;;Tambak;3436; Kelompanggubug;Aman;Aman;Aman
+;Gresik;;Tambak;3444; Tanjunggori;Siaga;Siaga;Siaga
+;Gresik;17;Ujung Pangkah;3446; Banyuurip;Aman;Aman;Aman
+;Gresik;;Ujung Pangkah;3447; Bolo;Siaga;Siaga;Siaga
+;Gresik;;Ujung Pangkah;3448; Cangaan;Siaga;Siaga;Siaga
+;Gresik;;Ujung Pangkah;3449; Glatik;Aman;Aman;Aman
+;Gresik;;Ujung Pangkah;3450; Gosari;Aman;Aman;Aman
+;Gresik;;Ujung Pangkah;3451; Karangrejo;Siaga;Siaga;Siaga
+;Gresik;;Ujung Pangkah;3452; Kebonagung;Siaga;Siaga;Siaga
+;Gresik;;Ujung Pangkah;3453; Ketapang Lor;Siaga;Siaga;Siaga
+;Gresik;;Ujung Pangkah;3454; Ngemboh;Siaga;Siaga;Siaga
+;Gresik;;Ujung Pangkah;3455; Pangkahkulon;Siaga;Siaga;Siaga
+;Gresik;;Ujung Pangkah;3456; Pangkahwetan;Siaga;Siaga;Siaga
+;Gresik;;Ujung Pangkah;3457; Sekapuk;Siaga;Siaga;Siaga
+;Gresik;;Ujung Pangkah;3458; Tanjangawan;Siaga;Siaga;Siaga
+;Gresik;;Wringinanom;3465; Pasinan Lemah Putih;Siaga;Siaga;Siaga
+;Lamongan;;Babat;3481; Gendong kulon;Aman;Aman;Aman
+;Lamongan;;Babat;3482; Karang Kembang;Siaga;Siaga;Siaga
+;Lamongan;;Bluluk;3504; Songowereng;Aman;Aman;Aman
+;Lamongan;;Brondong;3512; Sedayu Lawas ;Siaga;Siaga;Siaga
+;Lamongan;;Deket;3518; Deket Kulon ;Siaga;Siaga;Siaga
+;Lamongan;;Deket;3519; Deket Wetan ;Siaga;Siaga;Siaga
+;Lamongan;;Deket;3523; Pandan Pancur ;Siaga;Siaga;Siaga
+;Lamongan;;Glagah;3535; Bapuh Baru;Siaga;Siaga;Siaga
+;Lamongan;;Glagah;3538; Duduk Lor;Siaga;Siaga;Siaga
+;Lamongan;;Glagah;3539; Dukuh tunggal;Siaga;Siaga;Siaga
+;Lamongan;;Glagah;3540; Gempol Pendowo;Siaga;Siaga;Siaga
+;Lamongan;;Glagah;3554; Pangggang;Aman;Aman;Aman
+;Lamongan;;Kalitengah;3576; Pengansalan;Siaga;Siaga;Siaga
+;Lamongan;;Karangbinangun;3590; Karangbingangun;Siaga;Siaga;Siaga
+;Lamongan;;Karanggeneng;3606; Guci ';Aman;Aman;Aman
+;Lamongan;;Karanggeneng;3615;Dwaa Latukan ;Aman;Aman;Aman
+;Lamongan;;Kedungpring;3624; Dradah Blumbang ;Siaga;Siaga;Siaga
+;Lamongan;;Kedungpring;3625;Des Gunungrejo ;Siaga;Siaga;Siaga
+;Lamongan;;Laren;3697; Mojo asem;Siaga;Siaga;Siaga
+;Lamongan;;Laren;3701; Taman Prijek;Siaga;Siaga;Siaga
+;Lamongan;;Mantup;3734; Tunggujagir;Aman;Aman;Aman
+;Lamongan;;Ngimbang;3754; Ganggantingan;Aman;Aman;Aman
+;Lamongan;;Ngimbang;3765; Ngasem lamhbang;Aman;Aman;Aman
+;Lamongan;;Paciran;3774; Kandang semangkon;Siaga;Siaga;Siaga
+;Lamongan;;Paciran;3785;Des Tunggul;Aman;Aman;Aman
+;Lamongan;;Sambeng;3817; Patihan ;Siaga;Siaga;Siaga
+;Lamongan;20;Sarirejo;3827; Beru n;Waspada;Waspada;Waspada
+;Lamongan;;Sarirejo;3828; Canggah n;Siaga;Siaga;Siaga
+;Lamongan;;Sarirejo;3829; Dermolemahbang n;Siaga;Siaga;Siaga
+;Lamongan;;Sarirejo;3830; Gempoltukmloko n;Siaga;Siaga;Siaga
+;Lamongan;;Sarirejo;3831; Kedungkumpul n;Siaga;Siaga;Siaga
+;Lamongan;;Sarirejo;3832; Sarirejo n;Siaga;Siaga;Siaga
+;Lamongan;;Sarirejo;3833; Simbatan n;Siaga;Siaga;Siaga
+;Lamongan;;Sarirejo;3834; Sumberjo n;Siaga;Siaga;Siaga
+;Lamongan;;Sarirejo;3835; Tambakmenjangan n;Siaga;Siaga;Siaga
+;Lamongan;;Sekaran;3841; Kebalan kulon;Siaga;Siaga;Siaga
+;Lamongan;;Sekaran;3854; Sungageneng;Siaga;Siaga;Siaga
+;Lamongan;;Sugio;3879; Lawangan agung;Aman;Aman;Aman
+;Lamongan;;Sugio;3880; Lebak adi kec.Sugio Lamongan;Aman;Aman;Aman
+;Lamongan;;Sugio;3882; Sekar bagus;Siaga;Siaga;Siaga
+;Lamongan;24;Sukodadi;3888; Balungtawun;Siaga;Siaga;Siaga
+;Malang;;Bantur;3979; Pringgodani;Waspada;Waspada;Waspada
+;Malang;7;Dampit;4009; Amadanom;Waspada;Waspada;Waspada
+;Malang;;Poncokusumo;4050; Gubukklakah ;Waspada;Waspada;Waspada
+;Malang;;Poncokusumo;4059; Poncokusomo ;Aman;Aman;Aman
+;Malang;12;Turen;4077; Gedong Kulon;Waspada;Waspada;Waspada
+;Malang;;Turen;4078; Gedong Wetan;Waspada;Waspada;Waspada
+;Malang;;Gondanglegi;4121; Urek-Urek;Waspada;Waspada;Waspada
+;Malang;;Sumberpucung;4152; Ngebruk;Waspada;Waspada;Waspada
+;Malang;;Pakisaji;4194; Glanggang;Aman;Aman;Aman
+;Malang;;Tajinan;4215; Tambakasri;Waspada;Siaga;Siaga
+;Malang;24;Tumpang;4217; Benjor Aman;Aman;Aman
+;Malang;;Tumpang;4218; Bokor Aman;Aman;Aman
+;Malang;;Tumpang;4219; Duwet Waspada;Waspada;Waspada
+;Malang;;Tumpang;4220; Duwet Krajan Aman;Aman;Aman
+;Malang;;Tumpang;4221; Jeru Aman;Aman;Aman
+;Malang;;Tumpang;4222; Kambingan Waspada;Waspada;Waspada
+;Malang;;Tumpang;4223; Kidal Waspada;Waspada;Waspada
+;Malang;;Tumpang;4224; Malangsuko Aman;Aman;Aman
+;Malang;;Tumpang;4225; Ngingit Aman;Aman;Aman
+;Malang;;Tumpang;4226; Pandanajeng Aman;Aman;Aman
+;Malang;;Tumpang;4227; Pulungdowo Waspada;Waspada;Waspada
+;Malang;;Tumpang;4228; Slamet Waspada;Waspada;Waspada
+;Malang;;Tumpang;4229; Tulusbesar Aman;Aman;Aman
+;Malang;;Tumpang;4230; Tumpang Waspada;Waspada;Waspada
+;Malang;;Tumpang;4231; Wringinsongo Aman;Aman;Aman
+;Malang;;Jabung;4249; Gunung Jati;Aman;Aman;Aman
+;Malang;;Singosari;4280; Lang-Lang;Aman;Aman;Aman
+;Malang;;Singosari;4283; Tamanharjo;Waspada;Waspada;Waspada
+;Malang;29;Karangploso;4291; Ampeldento;Aman;Aman;Aman
+;Malang;;Karangploso;4292; Bocek;Waspada;Waspada;Waspada
+;Malang;;Karangploso;4293; Donowarih;Waspada;Waspada;Waspada
+;Malang;;Karangploso;4294; Girimoyo;Waspada;Waspada;Waspada
+;Malang;;Karangploso;4295; Kepuharjo;Waspada;Waspada;Waspada
+;Malang;;Karangploso;4296; Ngenep;Waspada;Waspada;Waspada
+;Malang;;Karangploso;4297; Ngijo;Waspada;Waspada;Siaga
+;Malang;;Karangploso;4298; Tawangargo;Waspada;Waspada;Waspada
+;Malang;;Karangploso;4299; Tegalgondo;Waspada;Waspada;Waspada
+;Malang;;Pujon;4314; Panri;Aman;Aman;Aman
+;Tulungagung;;Bandung;4356; Talunkulon;Aman;Aman;Aman
+;Tulungagung;;Besuki;4361; Siyotobagus;Aman;Aman;Aman
+;Tulungagung;4;Campur Darat;4384; Campur Darat;Aman;Aman;Aman
+;Tulungagung;;Campur Darat;4385; Gamping;Aman;Aman;Aman
+;Tulungagung;;Campur Darat;4386; Gedangan;Aman;Aman;Aman
+;Tulungagung;;Campur Darat;4387; Ngentrong;Aman;Aman;Aman
+;Tulungagung;;Campur Darat;4388; Pelem;Aman;Aman;Aman
+;Tulungagung;;Campur Darat;4389; Pojok;Siaga;Siaga;Siaga
+;Tulungagung;;Campur Darat;4390; Sawo;Aman;Aman;Aman
+;Tulungagung;;Campur Darat;4391; Tanggung;Aman;Aman;Aman
+;Tulungagung;;Campur Darat;4392; Wates;Aman;Aman;Aman
+;Tulungagung;;Kalidawir;4425; Salak Kembang;Aman;Aman;Aman
+;Tulungagung;;Kalidawir;4429; Winong Kulon;Aman;Aman;Aman
+;Tulungagung;;Ngunut;4492; Karangsosno;Aman;Aman;Aman
+;Tulungagung;;Ngunut;4505; Gilang Kulon;Aman;Aman;Aman
+;Tulungagung;;Pagerwojo;4509; Krandinan;Aman;Aman;Aman
+;Tulungagung;;Pagerwojo;4510; Molyosari;Aman;Aman;Aman
+;Tulungagung;;Pagerwojo;4515; Sidomuyo;Siaga;Siaga;Siaga
+;Tulungagung;;Pucanglaban;4537; Kaligawe;Aman;Aman;Aman
+;Tulungagung;;Pucanglaban;4544; sumberadadap;Aman;Aman;Aman
+;Tulungagung;15;Rejotangan;4545; Aryojeding;Aman;Aman;Aman
+;Tulungagung;;Sumbergempol;4576; Doro Ampel;Aman;Aman;Aman
+;Tulungagung;18;Tanggung Gunung;4589; Jengglungharjo;Aman;Aman;Aman
+;Tulungagung;;Tanggung Gunung;4590; Kresikan;Aman;Aman;Aman
+;Tulungagung;;Tanggung Gunung;4591; Ngepoh;Siaga;Siaga;Siaga
+;Tulungagung;;Tanggung Gunung;4592; Ngrejo;Aman;Aman;Aman
+;Tulungagung;;Tanggung Gunung;4593; Pakisrejo;Aman;Aman;Aman
+;Tulungagung;;Tanggung Gunung;4594; Tanggunggunung;Aman;Aman;Aman
+;Tulungagung;;Tanggung Gunung;4595; Tenggarejo;Aman;Aman;Aman
+;Tulungagung;;Tulungagung;4602; Tretek;Aman;Aman;Aman
+20;Kota Kediri;1;Kecamatan Kota;4610; Semampir;Waspada;Siaga;Siaga
+;Kota Kediri;;Kecamatan Kota;4611; Dandangan;Waspada;Waspada;Waspada
+;Kota Kediri;;Kecamatan Kota;4612; Ngadirejo;Waspada;Waspada;Siaga
+;Kota Kediri;;Kecamatan Kota;4613; Pakelan;Siaga;Siaga;Siaga
+;Kota Kediri;;Kecamatan Kota;4614; Pocanan;Siaga;Siaga;Siaga
+;Kota Kediri;;Kecamatan Kota;4615; Banjaran;Waspada;Waspada;Waspada
+;Kota Kediri;;Kecamatan Kota;4616; Jagalan;Siaga;Siaga;Siaga
+;Kota Kediri;;Kecamatan Kota;4617; Kemasan;Waspada;Waspada;Waspada
+;Kota Kediri;;Kecamatan Kota;4618; Kaliombo;Waspada;Waspada;Waspada
+;Kota Kediri;;Kecamatan Kota;4619; Kampungdalem;Siaga;Siaga;Siaga
+;Kota Kediri;;Kecamatan Kota;4620; Ngronggo;Waspada;Waspada;Siaga
+;Kota Kediri;;Kecamatan Kota;4621; Manisrenggo;Siaga;Siaga;Siaga
+;Kota Kediri;;Kecamatan Kota;4622; Balowerti;Siaga;Siaga;Siaga
+;Kota Kediri;;Kecamatan Kota;4623; Rejomulyo;Aman;Aman;Aman
+;Kota Kediri;;Kecamatan Kota;4624; Ringinanom;Waspada;Waspada;Waspada
+;Kota Kediri;;Kecamatan Kota;4625; Setono Gedong;Aman;Aman;Aman
+;Kota Kediri;;Kecamatan Kota;4626; Setono Pande;Waspada;Aman;Aman
+;Kota Kediri;2;Kecamatan Mojoroto;4627; Lirboyo;Siaga;Siaga;Siaga
+;Kota Kediri;;Kecamatan Mojoroto;4628; Campurejo;Waspada;Waspada;Waspada
+;Kota Kediri;;Kecamatan Mojoroto;4629; Bandar Lor;Waspada;Siaga;Siaga
+;Kota Kediri;;Kecamatan Mojoroto;4630; Dermo;Siaga;Siaga;Siaga
+;Kota Kediri;;Kecamatan Mojoroto;4631; Mrican;Siaga;Siaga;Siaga
+;Kota Kediri;;Kecamatan Mojoroto;4632; Mojoroto;Waspada;Waspada;Siaga
+;Kota Kediri;;Kecamatan Mojoroto;4633; Ngampel;Waspada;Waspada;Waspada
+;Kota Kediri;;Kecamatan Mojoroto;4634; Gayam;Siaga;Siaga;Siaga
+;Kota Kediri;;Kecamatan Mojoroto;4635; Sukorame;Waspada;Waspada;Waspada
+;Kota Kediri;;Kecamatan Mojoroto;4636; Pojok;Siaga;Siaga;Siaga
+;Kota Kediri;;Kecamatan Mojoroto;4637; Tamanan;Waspada;Waspada;Siaga
+;Kota Kediri;;Kecamatan Mojoroto;4638; Bandar Kidul;Waspada;Waspada;Waspada
+;Kota Kediri;;Kecamatan Mojoroto;4639; Banjarmlati;Waspada;Waspada;Waspada
+;Kota Kediri;;Kecamatan Mojoroto;4640; Bujel;Siaga;Siaga;Siaga
+;Kota Kediri;3;Kecamatan Pesantren;4641; Jamsaren;Waspada;Waspada;Waspada
+;Kota Kediri;;Kecamatan Pesantren;4642; Bangsal;Waspada;Waspada;Waspada
+;Kota Kediri;;Kecamatan Pesantren;4643; Burengan;Waspada;Waspada;Siaga
+;Kota Kediri;;Kecamatan Pesantren;4644; Pesantren;Siaga;Siaga;Siaga
+;Kota Kediri;;Kecamatan Pesantren;4645; Pakunden;Waspada;Waspada;Waspada
+;Kota Kediri;;Kecamatan Pesantren;4646;Keluraha Singonegaran;Waspada;Waspada;Waspada
+;Kota Kediri;;Kecamatan Pesantren;4647; Tinalan;Aman;Aman;Aman
+;Kota Kediri;;Kecamatan Pesantren;4648; Banaran;Waspada;Waspada;Siaga
+;Kota Kediri;;Kecamatan Pesantren;4649; Tosaren;Waspada;Waspada;Waspada
+;Kota Kediri;;Kecamatan Pesantren;4650; Betet;Waspada;Waspada;Waspada
+;Kota Kediri;;Kecamatan Pesantren;4651; Blabak;Waspada;Waspada;Waspada
+;Kota Kediri;;Kecamatan Pesantren;4652; Bawang;Siaga;Siaga;Siaga
+;Kota Kediri;;Kecamatan Pesantren;4653; Ngletih;Aman;Aman;Aman
+;Kota Kediri;;Kecamatan Pesantren;4654; Tempurejo;Waspada;Waspada;Waspada
+;Kota Kediri;;Kecamatan Pesantren;4655; Ketami;Waspada;Waspada;Waspada
+;Magetan;;Karangrejo;4687; Gebyok;Aman;Aman;Aman
+;Magetan;5;Kartoharjo;4710; Bayem Taman;Aman;Aman;Aman
+;Magetan;;Kartoharjo;4711; Bayem Wetan;Aman;Aman;Aman
+;Magetan;;Nguntoronadi;4794; Gorang-Gareng;Aman;Aman;Aman
+;Magetan;;Parang;4820; Joketro;Aman;Aman;Aman
+;Kota Batu;;Batu;4893; Sidomuyo ;Aman;Aman;Aman
+;Kota Batu;;Bumiaji;4907; Sumber Brantas ;Aman;Aman;Aman
+;Kota Malang;;Klojen;4939;Gadingasri;Siaga;Siaga;SIAGA
+;Kota Malang;;Klojen;4942;Kidul Dalem;Siaga;Siaga;SIAGA
+;Kota Malang;;Klojen;4944;Oro Oro Dowo;Siaga;Siaga;SIAGA
+;Kota Malang;;Klojen;4946;Rampal Celaket;Siaga;Siaga;SIAGA
+;Kota Malang;;Lowokwaru;4956;Tasikmadu;Siaga;Siaga;SIAGA
+;Ngawi;;Bringin;4976; Kenongrejo;Aman;Aman;Aman
+;Ngawi;;Bringin;4978; Lego Wetan;Aman;Aman;Aman
+;Ngawi;;Geneng;4986; Kenitren;Aman;Aman;Aman
+;Ngawi;;Geneng;4987; Keras Wetan;Aman;Aman;Aman
+;Ngawi;;Gerih;4997; Keras Kulon; Aman;Aman;Aman
+;Ngawi;;Karangjati;5020; Campur Sari; Siaga;Siaga;Siaga
+;Ngawi;;Karangjati;5027; Ploso Lor; Aman;Aman;Aman
+;Ngawi;;Karangjati;5031; Ringin Anom; Aman;Aman;Aman
+;Ngawi;;Kasreman;5041; Kiyonten;Aman;Aman;Aman
+;Ngawi;;Kasreman;5042; Lego Kulon;Aman;Aman;Aman
+;Ngawi;;Kedunggalar;5052; Pelang Kidul; Aman;Aman;Aman
+;Ngawi;;Kedunggalar;5053; Pelang Lor; Aman;Aman;Aman
+;Ngawi;;Kwadungan;5079; Warukalong;Siaga;Siaga;Siaga
+;Ngawi;;Ngawi;5092; Karang Asri; Siaga;Siaga;Siaga
+;Ngawi;;Ngawi;5099; Karangtengah Kota; Aman;Aman;Aman
+;Ngawi;;Ngrambe;5112; Samberejo;Aman;Aman;Aman
+;Ngawi;;Pangkur;5137; Waruk Tengah;Aman;Aman;Aman
+;Tuban;8;Kerek;5296; Gemulung Aman;Aman;Aman
+;Tuban;;Kerek;5297; Sidonganti Aman;Aman;Aman
+;Tuban;;Kerek;5298; Trantang Aman;Aman;Aman
+;Tuban;;Kerek;5299; Wolutengah Waspada;Waspada;Waspada
+;Tuban;;Kerek;5300; Tenggerwetan Aman;Aman;Aman
+;Tuban;;Kerek;5301; Gaji Aman;Aman;Aman
+;Tuban;;Kerek;5302; Hargoretno Aman;Aman;Aman
+;Tuban;;Kerek;5303; Margorejo Aman;Aman;Aman
+;Tuban;;Kerek;5304; Kedungrejo Aman;Aman;Aman
+;Tuban;;Kerek;5305; Jarorejo Aman;Aman;Aman
+;Tuban;;Kerek;5306; Mliwang Aman;Aman;Aman
+;Tuban;;Kerek;5307; Kasiman Aman;Aman;Aman
+;Tuban;;Kerek;5308; Margomulyo Waspada;Waspada;Waspada
+;Tuban;;Kerek;5309; Temayang Aman;Aman;Aman
+;Tuban;;Kerek;5310; Sumberarum Aman;Aman;Aman
+;Tuban;;Kerek;5311; Karanglo Aman;Aman;Aman
+;Tuban;;Kerek;5312; Padasan Aman;Aman;Aman
+;Tuban;;Palang;5472; Panyuran;Siaga;Siaga;Siaga
+;Bojonegoro;;Balen;5521; Kedungbondo ;Aman;Aman;Aman
+;Bojonegoro;;Balen;5527; Mengkawis ;Aman;Aman;Aman
+;Bojonegoro;;Balen;5535; Sarisejo ;Aman;Aman;Aman
+;Bojonegoro;;Balen;5539; Swaloh ;Aman;Aman;Aman
+;Bojonegoro;;Baureno;5556; Pucangarum;Aman;Aman;Aman
+;Bojonegoro;;Baureno;5560; Sumberagung;Aman;Aman;Aman
+;Bojonegoro;;Bojonegoro;5572; Banjarejo;Aman;Aman;Aman
+;Bojonegoro;;Dander;5603; Sumodikaran;Aman;Aman;Aman
+;Bojonegoro;;Kalitidu;5632; Ngringinrejo;Aman;Aman;Aman
+;Bojonegoro;;Kanor;5643; Cangakan;Aman;Aman;Aman
+;Bojonegoro;;Kapas;5677; Padang Mentoyo;Aman;Aman;Aman
+;Bojonegoro;;Kasiman;5688; Besah;Aman;Aman;Aman
+;Bojonegoro;;Kedewan;5700; Kadewan;Aman;Aman;Aman
+;Bojonegoro;;kepohbaru;5742; Sidonganti ;Aman;Aman;Aman
+;Bojonegoro;;kepohbaru;5747; Sumberoto ;Aman;Aman;Aman
+;Bojonegoro;;ngasem;5784; Dukoh Kidul ;Aman;Aman;Aman
+;Bojonegoro;;padangan;5819; Kuncan;Aman;Aman;Aman
+;Bojonegoro;;padangan;5820; Ngasiman;Aman;Aman;Aman
+;Bojonegoro;;sukosewu;5872; Semen Kidul ;Aman;Aman;Aman
+;Bojonegoro;;sukosewu;5877; Sumberjo Kidul ;Aman;Aman;Aman
+;Bojonegoro;25;sumberrejo;5879; Banjarjo ;Aman;Aman;Aman
+;Bojonegoro;;sumberrejo;5880; Bogangin ;Aman;Aman;Aman
+;Bojonegoro;;sumberrejo;5881; Butoh ;Aman;Aman;Aman
+;Bojonegoro;;sumberrejo;5882; Deru ;Aman;Aman;Aman
+;Bojonegoro;;sumberrejo;5883; Jatigede ;Aman;Aman;Aman
+;Bojonegoro;;sumberrejo;5884; Karangdinoyo ;Aman;Aman;Aman
+;Bojonegoro;;sumberrejo;5885; Karangdowo ;Aman;Aman;Aman
+;Bojonegoro;;sumberrejo;5886; Kayulemah ;Aman;Aman;Aman
+;Bojonegoro;;sumberrejo;5887; Kedungrejo ;Aman;Aman;Aman
+;Bojonegoro;;sumberrejo;5888; Margoagung ;Aman;Aman;Aman
+;Bojonegoro;;sumberrejo;5889; Mejuwet ;Aman;Aman;Aman
+;Bojonegoro;;sumberrejo;5890; Mlinjeng ;Aman;Aman;Aman
+;Bojonegoro;;sumberrejo;5891; Ngampal ;Aman;Aman;Aman
+;Bojonegoro;;sumberrejo;5892; Pejambon ;Aman;Aman;Aman
+;Bojonegoro;;sumberrejo;5893; Pekuwon ;Aman;Aman;Aman
+;Bojonegoro;;sumberrejo;5894; Prayungan ;Siaga;Siaga;Siaga
+;Bojonegoro;;sumberrejo;5895; Sambongrejo ;Aman;Aman;Aman
+;Bojonegoro;;sumberrejo;5896; Sendangagung ;Aman;Aman;Aman
+;Bojonegoro;;sumberrejo;5897; Sumberharjo ;Aman;Aman;Aman
+;Bojonegoro;;sumberrejo;5898; Sumberejo ;Siaga;Siaga;Siaga
+;Bojonegoro;;sumberrejo;5899; Sumuragung ;Aman;Aman;Aman
+;Bojonegoro;;sumberrejo;5900; Talun ;Aman;Aman;Aman
+;Bojonegoro;;sumberrejo;5901; Teleng ;Aman;Aman;Aman
+;Bojonegoro;;sumberrejo;5902; Tlogohaji ;Aman;Aman;Aman
+;Bojonegoro;;sumberrejo;5903; Tulungrejo ;Aman;Aman;Aman
+;Bojonegoro;;sumberrejo;5904; Wotan ;Aman;Aman;Aman
+;Sampang;;Banyuates;5958; Nepa Olor;Siaga;Siaga;Siaga
+;Sampang;;Banyuates;5959; PlanggaranBarat;Siaga;Siaga;Siaga
+;Sampang;2;Camplong;5967; Anggarsek;Siaga;Siaga;Siaga
+;Sampang;;Camplong;5978; Sejati Taddan;Siaga;Siaga;Siaga
+;Sampang;;Kedungdung;6006; Batoporoh Timur;Siaga;Siaga;Siaga
+;Sampang;;Kedungdung;6016; Pelenggian;Siaga;Siaga;Siaga
+;Sampang;;Kedungdung;6017; Pesarenan;Waspada;Waspada;Waspada
+;Sampang;;Ketapang;6024; Karang Anyar;Siaga;Siaga;Siaga
+;Sampang;;Ketapang;6033; Rabiyen;Siaga;Siaga;Siaga
+;Sampang;;Omben;6041; Kebon Sareh;Siaga;Siaga;Siaga
+;Sampang;10;Sampang;6069; Aeng Sareh;Siaga;Siaga;Siaga
+;Sampang;;Sampang;6073; Kamoning;Siaga;Siaga;Siaga
+;Sampang;;Sampang;6078; Pulau Mandangin;Siaga;Siaga;Siaga
+;Sampang;;Sampang;6084;Karang Dalem;Waspada;Waspada;Waspada
+;Sampang;;Sampang;6086;Rong Tengah;Bahaya;Bahaya;Bahaya
+;Pacitan;3;Donorejo;6158; Belah;Aman;Aman;Aman
+;Pacitan;;Donorejo;6159; Cemeng;Siaga;Siaga;Siaga
+;Pacitan;;Donorejo;6160; Donorejo;Aman;Aman;Aman
+;Pacitan;;Donorejo;6161; Gedompol;Aman;Aman;Aman
+;Pacitan;;Donorejo;6162; Gendaran;Aman;Aman;Aman
+;Pacitan;;Donorejo;6163; Kalak;Aman;Aman;Aman
+;Pacitan;;Donorejo;6164; Klepu;Aman;Aman;Aman
+;Pacitan;;Donorejo;6165; Sawahan;Aman;Aman;Aman
+;Pacitan;;Donorejo;6166; Sekar;Aman;Aman;Aman
+;Pacitan;;Donorejo;6167; Sendang;Aman;Aman;Aman
+;Pacitan;;Donorejo;6168; Sukodono;Aman;Aman;Aman
+;Pacitan;;Donorejo;6169; Widoro;Aman;Aman;Aman
+;Pacitan;;Pacitan;6219; Pucungsewu ;Aman;Aman;Aman
+;Pacitan;;Pacitan;6231; Purworjo ;Aman;Aman;Aman
+;Pacitan;;Pacitan;6234; Semantren ;Aman;Aman;Aman
+;Pacitan;;Punung;6264; Sooko ;Aman;Aman;Aman
+;Pacitan;;Punung;6266; Wareg ;Aman;Aman;Aman
+;Pacitan;;Sudimoro;6276; Sukoharjo;Aman;Aman;Aman
+;Jember;;Ambulu;6313; Karang Anyar ;Siaga;Siaga;Siaga
+;Jember;;Arjasa;6323; Kemuning Lor ;Siaga;Siaga;Siaga
+;Jember;5;Balung;6335; Balung Kidul;Siaga;Siaga;Siaga
+;Jember;;Balung;6336; Balung Kulon;Siaga;Siaga;Siaga
+;Jember;;Balung;6337; Balung Lor;Siaga;Siaga;Siaga
+;Jember;;Jenggawah;6361; Kemuningsari Kidul ;Siaga;Siaga;Siaga
+;Jember;11;Kaliwates;6383; Jember Kidul ;Siaga;Siaga;Siaga
+;Jember;;Kaliwates;6385; Kebon Agung ;Siaga;Siaga;Siaga
+;Jember;;Kaliwates;6389; Tegal Besar ;Siaga;Siaga;Siaga
+;Jember;;Panti;6421; Kemuningsari Lor;Siaga;Siaga;Siaga
+;Jember;;Puger;6449; Puger Kulon;Siaga;Siaga;Siaga
+;Jember;;Puger;6450; Puger Wetan;Siaga;Siaga;Siaga
+;Jember;22;Silo;6467; Garahanr;Siaga;Siaga;Siaga
+;Jember;;Silo;6468; Harjomulyor;Siaga;Siaga;Siaga
+;Jember;;Silo;6469; Karangharjor;Siaga;Siaga;Siaga
+;Jember;;Silo;6470; Mulyorejor;Siaga;Siaga;Siaga
+;Jember;;Silo;6471; Pacer;Siaga;Siaga;Siaga
+;Jember;;Silo;6472; Sempolanr;Siaga;Siaga;Siaga
+;Jember;;Silo;6473; Sidomulyor;Siaga;Siaga;Siaga
+;Jember;;Silo;6474; Silor;Siaga;Siaga;Siaga
+;Jember;;Silo;6475; Sumberjatir;Siaga;Siaga;Siaga
+;Jember;;Sukowono;6482; Balet Baru ;Siaga;Siaga;Siaga
+;Jember;;Tanggul;6525; Tanggul Kulon ;Siaga;Siaga;Siaga
+;Jember;;Tanggul;6526; Tanggul Wetan ;Siaga;Siaga;Siaga
+;Ponorogo;;Balong;6580; Bulukidul;Aman;Aman;Aman
+;Ponorogo;;Jetis;6651;Kutukulon;Aman;Aman;Aman
+;Ponorogo;;Jetis;6652;Kutuwetan;Aman;Aman;Aman
+;Ponorogo;;Ngebel;6698; Wagirlor;Aman;Aman;Aman
+;Ponorogo;11;Ngrayun;6699; Baosankidul; Aman;Aman;Aman
+;Ponorogo;;Ngrayun;6700; Baosanlor; Aman;Aman;Aman
+;Ponorogo;13;Pudak;6729; Banjarjo; Aman;Aman;Aman
+;Ponorogo;;Pudak;6732; Pudakkulon; Siaga;Siaga;Siaga
+;Ponorogo;;Pudak;6733; Pudakwetan; Aman;Aman;Aman
+;Ponorogo;;Pulung;6750; Wagirkidul;Aman;Aman;Aman
+;Ponorogo;;Sawoo;6793; Tumpakpelem; Aman;Aman;Aman
+;Ponorogo;;Sukorejo;6844; Gelanglor;Siaga;Siaga;Siaga
+;Ponorogo;;Sukorejo;6847; Karanglolor;Aman;Aman;Aman
+;Lumajang;;Lumajang;6860; Ditrotunan ;Aman;Aman;Aman
+;Lumajang;;Candipuro;6875; Sumberwuluh;Aman;Aman;Aman
+;Lumajang;;Candipuro;6876; Sumbermujur;Aman;Aman;Aman
+;Lumajang;;Candipuro;6879; Kloposawit;Aman;Aman;Aman
+;Lumajang;;Gucialit;6882; PaKec Gucialit;Aman;Aman;Aman
+;Lumajang;;Pasirian;6944; Selok Awar-awar ;Aman;Aman;Aman
+;Lumajang;;Randuagung;6971; Ledok Tempuro ;Aman;Aman;Aman
+;Lumajang;;Randuagung;6972; Pejarakan ;Aman;Aman;Aman
+;Lumajang;;Randuagung;6974; Ranu Wurung ;Aman;Aman;Aman
+;Lumajang;;Ranuyoso;6981; Ranu Bedali;Aman;Aman;Aman
+;Lumajang;;Senduro;7001; Bedayu Talang;Aman;Aman;Aman
+;Lumajang;;Senduro;7002; Wonocempokoayu;Aman;Aman;Aman
+;Lumajang;;Senduro;7004; Ranupane;Aman;Aman;Aman
+;Lumajang;;Sukodono;7011; Selok Besuki;Aman;Aman;Aman
+;Lumajang;;Sukodono;7014; Selok Gondang;Aman;Aman;Aman
+;Trenggalek;;PANGGUL;7074; Krambingan;Siaga;Siaga;Siaga
+;Trenggalek;;DONGKO;7104; Ngerdasi;Siaga;Siaga;Siaga
+;Trenggalek;;DONGKO;7108; Salam Wates;Siaga;Siaga;Aman
+;Trenggalek;;DONGKO;7110; Sumber Bening;Siaga;Siaga;Siaga
+;Trenggalek;;KARANGAN;7132;Kab Trenggalek  Kayen Kec. Karangan;Siaga;Siaga;Siaga
+;Trenggalek;;KARANGAN;7137; Suko Wetan ;Siaga;Siaga;Siaga
+;Trenggalek;;WATULIMO;7151; PaKec. Watulimo Kab Trenggalek;Siaga;Siaga;Siaga
+;Trenggalek;;BENDUNGAN;7165; Suren Lor;Siaga;Siaga;Siaga
+33;Sumenep;1;Kec. Ambunten;7221; Ambunten Barat;Aman;Aman;Aman
+;Sumenep;;Kec. Ambunten;7222; Ambunten Tengah;Aman;Aman;Aman
+;Sumenep;;Kec. Ambunten;7223; Ambunten Timur;Aman;Aman;Aman
+;Sumenep;;Kec. Ambunten;7224; Belluk Ares;Aman;Aman;Aman
+;Sumenep;;Kec. Ambunten;7225; Belluk Kenek;Aman;Aman;Aman
+;Sumenep;;Kec. Ambunten;7226; Belluk Raja;Aman;Aman;Aman
+;Sumenep;;Kec. Ambunten;7227; Bukabu;Aman;Aman;Aman
+;Sumenep;;Kec. Ambunten;7228; Campor Barat;Aman;Aman;Aman
+;Sumenep;;Kec. Ambunten;7229; Campor Timur;Aman;Aman;Aman
+;Sumenep;;Kec. Ambunten;7230; Keles;Aman;Aman;Aman
+;Sumenep;;Kec. Ambunten;7231; Sogian;Aman;Aman;Aman
+;Sumenep;;Kec. Ambunten;7232; Tambak Agung Ares;Aman;Aman;Aman
+;Sumenep;;Kec. Ambunten;7233; Tambak Agung Barat;Aman;Aman;Aman
+;Sumenep;;Kec. Ambunten;7234; Tambak Agung Timur;Aman;Aman;Aman
+;Sumenep;;Kec. Ambunten;7235; Tambak Agung Tengah;Aman;Aman;Aman
+;Sumenep;2;Kec. Arjasa;7236; Angkatan;Aman;Aman;Aman
+;Sumenep;;Kec. Arjasa;7237; Angon-angon;Aman;Aman;Aman
+;Sumenep;;Kec. Arjasa;7238; Arjasa;Aman;Aman;Aman
+;Sumenep;;Kec. Arjasa;7239; Bilis-bilis;Aman;Aman;Aman
+;Sumenep;;Kec. Arjasa;7240; Buddi;Aman;Aman;Aman
+;Sumenep;;Kec. Arjasa;7241; Duko;Aman;Aman;Aman
+;Sumenep;;Kec. Arjasa;7242; Gellaman;Aman;Aman;Aman
+;Sumenep;;Kec. Arjasa;7243; Kalianyar;Aman;Aman;Aman
+;Sumenep;;Kec. Arjasa;7244; Kalikatak;Aman;Aman;Aman
+;Sumenep;;Kec. Arjasa;7245; Kalisangka;Aman;Aman;Aman
+;Sumenep;;Kec. Arjasa;7246; Kolo-kolo;Aman;Aman;Aman
+;Sumenep;;Kec. Arjasa;7247; LaoJangjang;Aman;Aman;Aman
+;Sumenep;;Kec. Arjasa;7248; Pabiyan;Aman;Aman;Aman
+;Sumenep;;Kec. Arjasa;7249; Pajanangger;Aman;Aman;Aman
+;Sumenep;;Kec. Arjasa;7250; Pandeman;Aman;Aman;Aman
+;Sumenep;;Kec. Arjasa;7251; Paseraman;Aman;Aman;Aman
+;Sumenep;;Kec. Arjasa;7252; Sambakati;Aman;Aman;Aman
+;Sumenep;;Kec. Arjasa;7253; Sawa Timur;Aman;Aman;Aman
+;Sumenep;;Kec. Arjasa;7254; Sumber Nangka;Aman;Aman;Aman
+;Sumenep;3;Kec. Batang-Batang;7255; Banuaju Barat;Aman;Aman;Aman
+;Sumenep;;Kec. Batang-Batang;7256; Banuaju Timur;Aman;Aman;Aman
+;Sumenep;;Kec. Batang-Batang;7257; Batang-batang Daja;Aman;Aman;Aman
+;Sumenep;;Kec. Batang-Batang;7258; Batang-batang Laok;Aman;Aman;Aman
+;Sumenep;;Kec. Batang-Batang;7259; Bilangan;Aman;Aman;Aman
+;Sumenep;;Kec. Batang-Batang;7260; Dapenda;Aman;Aman;Aman
+;Sumenep;;Kec. Batang-Batang;7261; Janagger;Aman;Aman;Aman
+;Sumenep;;Kec. Batang-Batang;7262; Jangkong;Aman;Aman;Aman
+;Sumenep;;Kec. Batang-Batang;7263; Kolpo;Aman;Aman;Aman
+;Sumenep;;Kec. Batang-Batang;7264; LegunBarat;Aman;Aman;Aman
+;Sumenep;;Kec. Batang-Batang;7265; LegunTimur;Aman;Aman;Aman
+;Sumenep;;Kec. Batang-Batang;7266; Lombang;Aman;Aman;Aman
+;Sumenep;;Kec. Batang-Batang;7267; Nyabakan Barat;Aman;Aman;Aman
+;Sumenep;;Kec. Batang-Batang;7268; Nyabakan Timur;Aman;Aman;Aman
+;Sumenep;;Kec. Batang-Batang;7269; Tamidung;Aman;Aman;Aman
+;Sumenep;;Kec. Batang-Batang;7270; Totosan;Aman;Aman;Aman
+;Sumenep;4;Kec. Batuputih;7271; Aeng Merah;Aman;Aman;Aman
+;Sumenep;;Kec. Batuputih;7272; Badur;Aman;Aman;Aman
+;Sumenep;;Kec. Batuputih;7273; Bantelan;Aman;Aman;Aman
+;Sumenep;;Kec. Batuputih;7274; Batuputih Daya;Aman;Aman;Aman
+;Sumenep;;Kec. Batuputih;7275; Batuputih Kenek;Aman;Aman;Aman
+;Sumenep;;Kec. Batuputih;7276; Batuputih Laok;Aman;Aman;Aman
+;Sumenep;;Kec. Batuputih;7277; Bulla'an;Aman;Aman;Aman
+;Sumenep;;Kec. Batuputih;7278; Dang-gedang;Aman;Aman;Aman
+;Sumenep;;Kec. Batuputih;7279; Juruwan Daja;Aman;Aman;Aman
+;Sumenep;;Kec. Batuputih;7280; Juruwan Laok;Aman;Aman;Aman
+;Sumenep;;Kec. Batuputih;7281; Kerta;Aman;Aman;Aman
+;Sumenep;;Kec. Batuputih;7282; Larangan Barma;Aman;Aman;Aman
+;Sumenep;;Kec. Batuputih;7283; Sergang;Aman;Aman;Aman
+;Sumenep;;Kec. Batuputih;7284; Tengedan;Aman;Aman;Aman
+;Sumenep;5;Kec. Batuan;7285; Babbalan; Aman;Aman;Aman
+;Sumenep;;Kec. Batuan;7286; Batuan; Aman;Aman;Aman
+;Sumenep;;Kec. Batuan;7287; Galugur; Aman;Aman;Aman
+;Sumenep;;Kec. Batuan;7288; Gedungan; Aman;Aman;Aman
+;Sumenep;;Kec. Batuan;7289; Gunggung; Aman;Aman;Aman
+;Sumenep;;Kec. Batuan;7290; Patean; Aman;Aman;Aman
+;Sumenep;;Kec. Batuan;7291; Torbang; Aman;Aman;Aman
+;Sumenep;6;Kec. Bluto;7292; Aengbaja Kenek;Aman;Aman;Aman
+;Sumenep;;Kec. Bluto;7293; Aengbaja Raja;Aman;Aman;Aman
+;Sumenep;;Kec. Bluto;7294; Aengdake;Aman;Aman;Aman
+;Sumenep;;Kec. Bluto;7295; Bluto;Aman;Aman;Aman
+;Sumenep;;Kec. Bluto;7296; Bungbungan;Aman;Aman;Aman
+;Sumenep;;Kec. Bluto;7297; Errabu;Aman;Aman;Aman
+;Sumenep;;Kec. Bluto;7298; Gilang;Aman;Aman;Aman
+;Sumenep;;Kec. Bluto;7299; Ging-ging;Aman;Aman;Aman
+;Sumenep;;Kec. Bluto;7300; Guluk Majung;Aman;Aman;Aman
+;Sumenep;;Kec. Bluto;7301; Kapedi;Aman;Aman;Aman
+;Sumenep;;Kec. Bluto;7302; Karang Cempaka;Aman;Aman;Aman
+;Sumenep;;Kec. Bluto;7303; Lobuk;Aman;Aman;Aman
+;Sumenep;;Kec. Bluto;7304; Masaran;Aman;Aman;Aman
+;Sumenep;;Kec. Bluto;7305; Pakandangan Barat;Aman;Aman;Aman
+;Sumenep;;Kec. Bluto;7306; Pakandangan Sangra;Aman;Aman;Aman
+;Sumenep;;Kec. Bluto;7307; Pakandangan Tengah;Aman;Aman;Aman
+;Sumenep;;Kec. Bluto;7308; Palongan;Aman;Aman;Aman
+;Sumenep;;Kec. Bluto;7309; Sera Barat;Aman;Aman;Aman
+;Sumenep;;Kec. Bluto;7310; Sera Tengah;Aman;Aman;Aman
+;Sumenep;;Kec. Bluto;7311; Sera Timur;Aman;Aman;Aman
+;Sumenep;7;Kec. Dasuk;7312; Bates;Aman;Aman;Aman
+;Sumenep;;Kec. Dasuk;7313; Batubella Barat;Aman;Aman;Aman
+;Sumenep;;Kec. Dasuk;7314; Batubella Timur;Aman;Aman;Aman
+;Sumenep;;Kec. Dasuk;7315; Brengin;Aman;Aman;Aman
+;Sumenep;;Kec. Dasuk;7316; Dasuk Barat;Aman;Aman;Aman
+;Sumenep;;Kec. Dasuk;7317; Dasuk Laok;Waspada;Waspada;Siaga
+;Sumenep;;Kec. Dasuk;7318; Dasuk Timur;Aman;Aman;Aman
+;Sumenep;;Kec. Dasuk;7319; Ellak Laok;Aman;Aman;Aman
+;Sumenep;;Kec. Dasuk;7320; Jelbudan;Aman;Aman;Aman
+;Sumenep;;Kec. Dasuk;7321; Kecer;Aman;Aman;Aman
+;Sumenep;;Kec. Dasuk;7322; Kerta Barat;Aman;Aman;Aman
+;Sumenep;;Kec. Dasuk;7323; Kerta Timur;Aman;Aman;Aman
+;Sumenep;;Kec. Dasuk;7324; Nyapar;Aman;Aman;Aman
+;Sumenep;;Kec. Dasuk;7325; Sema'an;Aman;Aman;Aman
+;Sumenep;;Kec. Dasuk;7326; Slopeng;Aman;Aman;Aman
+;Sumenep;8;Kec. Dungkek;7327; Bancamara;Aman;Aman;Aman
+;Sumenep;;Kec. Dungkek;7328; Banra'as;Aman;Aman;Aman
+;Sumenep;;Kec. Dungkek;7329; Bicabbi;Aman;Aman;Aman
+;Sumenep;;Kec. Dungkek;7330; Bungin-bungin;Aman;Aman;Aman
+;Sumenep;;Kec. Dungkek;7331; Bunpenang;Aman;Aman;Aman
+;Sumenep;;Kec. Dungkek;7332; Candi;Aman;Aman;Aman
+;Sumenep;;Kec. Dungkek;7333; Dungkek;Aman;Aman;Aman
+;Sumenep;;Kec. Dungkek;7334; Jadung;Aman;Aman;Aman
+;Sumenep;;Kec. Dungkek;7335; LapaDaja;Aman;Aman;Aman
+;Sumenep;;Kec. Dungkek;7336; LapLaok;Aman;Aman;Aman
+;Sumenep;;Kec. Dungkek;7337; LapaTaman;Aman;Aman;Aman
+;Sumenep;;Kec. Dungkek;7338; RombenBarat;Aman;Aman;Aman
+;Sumenep;;Kec. Dungkek;7339; RombenGuna;Aman;Aman;Aman
+;Sumenep;;Kec. Dungkek;7340; Rombea Rana;Aman;Aman;Aman
+;Sumenep;;Kec. Dungkek;7341; TamanSareh;Aman;Aman;Aman
+;Sumenep;9;Kec. Ganding;7342; Bataal Barat;;Aman;Aman;Aman
+;Sumenep;;Kec. Ganding;7343; Bataal Timur;;Aman;Aman;Aman
+;Sumenep;;Kec. Ganding;7344; Billapora Barat;;Aman;Aman;Aman
+;Sumenep;;Kec. Ganding;7345; Billapora Timur;;Aman;Aman;Aman
+;Sumenep;;Kec. Ganding;7346; Gadu Barat;;Aman;Aman;Aman
+;Sumenep;;Kec. Ganding;7347; Gadu Timur;;Aman;Aman;Aman
+;Sumenep;;Kec. Ganding;7348; Ganding;;Aman;Aman;Aman
+;Sumenep;;Kec. Ganding;7349; Ketawang Daleman;;Aman;Aman;Aman
+;Sumenep;;Kec. Ganding;7350; Ketawang Karay;;Aman;Aman;Aman
+;Sumenep;;Kec. Ganding;7351; Ketawang Larangan;;Aman;Aman;Aman
+;Sumenep;;Kec. Ganding;7352; Ketawang Parebaan;;Aman;Aman;Aman
+;Sumenep;;Kec. Ganding;7353; Rombiya Barat;;Aman;Aman;Aman
+;Sumenep;;Kec. Ganding;7354; rRombiya Timur;;Aman;Aman;Aman
+;Sumenep;;Kec. Ganding;7355; Talaga;;Aman;Aman;Aman
+;Sumenep;10;Kec. Gapura;7356; Andulang;Aman;Aman;Aman
+;Sumenep;;Kec. Gapura;7357; Baban;Aman;Aman;Aman
+;Sumenep;;Kec. Gapura;7358; Banjar Barat;Aman;Aman;Aman
+;Sumenep;;Kec. Gapura;7359; Banjar Timur;Aman;Aman;Aman
+;Sumenep;;Kec. Gapura;7360; Batu Dinding;Aman;Aman;Aman
+;Sumenep;;Kec. Gapura;7361; Braji;Aman;Aman;Aman
+;Sumenep;;Kec. Gapura;7362; Gapura Barat;Aman;Aman;Aman
+;Sumenep;;Kec. Gapura;7363; Gapura Tengah;Aman;Aman;Aman
+;Sumenep;;Kec. Gapura;7364; Gapura Timur;Aman;Aman;Aman
+;Sumenep;;Kec. Gapura;7365; Gersik Putih;Aman;Aman;Aman
+;Sumenep;;Kec. Gapura;7366; Grujukan;Aman;Aman;Aman
+;Sumenep;;Kec. Gapura;7367; Karang Buddi;Aman;Aman;Aman
+;Sumenep;;Kec. Gapura;7368; Longos;Aman;Aman;Aman
+;Sumenep;;Kec. Gapura;7369; Mandala;Aman;Aman;Aman
+;Sumenep;;Kec. Gapura;7370; Palo'lo'an;Aman;Aman;Aman
+;Sumenep;;Kec. Gapura;7371; Panangan;Aman;Aman;Aman
+;Sumenep;;Kec. Gapura;7372; Poja;Aman;Aman;Aman
+;Sumenep;11;Kec. Gayam;7373; Gayam;Aman;Aman;Aman
+;Sumenep;;Kec. Gayam;7374; Geddang Barat;Aman;Aman;Aman
+;Sumenep;;Kec. Gayam;7375; Gendang Tengah;Aman;Aman;Aman
+;Sumenep;;Kec. Gayam;7376; Gendang Timur;Aman;Aman;Aman
+;Sumenep;;Kec. Gayam;7377; Jambuir;Aman;Aman;Aman
+;Sumenep;;Kec. Gayam;7378; Kaloang;Aman;Aman;Aman
+;Sumenep;;Kec. Gayam;7379; Nyamplong;Aman;Aman;Aman
+;Sumenep;;Kec. Gayam;7380; Pancor;Aman;Aman;Aman
+;Sumenep;;Kec. Gayam;7381; Prambanan;Aman;Aman;Aman
+;Sumenep;;Kec. Gayam;7382; Tarebung;Aman;Aman;Aman
+;Sumenep;12;Kec. Giligenting;7383; Aeng Anyar;Aman;Aman;Aman
+;Sumenep;;Kec. Giligenting;7384; Banbaru;Aman;Aman;Aman
+;Sumenep;;Kec. Giligenting;7385; Banmaleng;Aman;Aman;Aman
+;Sumenep;;Kec. Giligenting;7386; Bringsang;Aman;Aman;Aman
+;Sumenep;;Kec. Giligenting;7387; Galis;Aman;Aman;Aman
+;Sumenep;;Kec. Giligenting;7388; Gedungan;Aman;Aman;Aman
+;Sumenep;;Kec. Giligenting;7389; Jate;Aman;Aman;Aman
+;Sumenep;;Kec. Giligenting;7390; Lombang;Aman;Aman;Aman
+;Sumenep;13;Kec. Guluk-guluk;7391; Bakeyong; Aman;Aman;Aman
+;Sumenep;;Kec. Guluk-guluk;7392; Baragung; Aman;Aman;Aman
+;Sumenep;;Kec. Guluk-guluk;7393; BatuAmpar; Aman;Aman;Aman
+;Sumenep;;Kec. Guluk-guluk;7394; Guluk-guluk; Siaga;Siaga;Siaga
+;Sumenep;;Kec. Guluk-guluk;7395; Ketawang Laok; Aman;Aman;Aman
+;Sumenep;;Kec. Guluk-guluk;7396; Pajuddan Daleman; Aman;Aman;Aman
+;Sumenep;;Kec. Guluk-guluk;7397; Pajuddan Dundang; Aman;Aman;Aman
+;Sumenep;;Kec. Guluk-guluk;7398; Pajuddan Karang Sokon; Aman;Aman;Aman
+;Sumenep;;Kec. Guluk-guluk;7399; Pajuddan Nangger; Aman;Aman;Aman
+;Sumenep;;Kec. Guluk-guluk;7400; Pananggungan; Aman;Aman;Aman
+;Sumenep;;Kec. Guluk-guluk;7401; Pordapor; Aman;Aman;Aman
+;Sumenep;;Kec. Guluk-guluk;7402; Tambuko; Aman;Aman;Aman
+;Sumenep;14;Kec. Kalianget;7403; Kalianget Barat;Aman;Aman;Aman
+;Sumenep;;Kec. Kalianget;7404; KaliangetTimur;Aman;Aman;Aman
+;Sumenep;;Kec. Kalianget;7405; Kalimo'ok;Aman;Aman;Aman
+;Sumenep;;Kec. Kalianget;7406; Karanganyar;Aman;Aman;Aman
+;Sumenep;;Kec. Kalianget;7407; Kartasada;Aman;Aman;Aman
+;Sumenep;;Kec. Kalianget;7408; Marengan Laok;Aman;Aman;Aman
+;Sumenep;;Kec. Kalianget;7409; Pinggir Papas;Aman;Aman;Aman
+;Sumenep;15;Kec. Kangayan;7410; Batuputih;Aman;Aman;Aman
+;Sumenep;;Kec. Kangayan;7411; Cangkraman;Aman;Aman;Aman
+;Sumenep;;Kec. Kangayan;7412; Dandung;Aman;Aman;Aman
+;Sumenep;;Kec. Kangayan;7413; Jukong-jukong;Aman;Aman;Aman
+;Sumenep;;Kec. Kangayan;7414; Kangayan;Aman;Aman;Aman
+;Sumenep;;Kec. Kangayan;7415; Saubi;Aman;Aman;Aman
+;Sumenep;;Kec. Kangayan;7416; Tembayang;Aman;Aman;Aman
+;Sumenep;;Kec. Kangayan;7417; TimurJangjang;Aman;Aman;Aman
+;Sumenep;;Kec. Kangayan;7418; Torjek;Aman;Aman;Aman
+;Sumenep;16;Kec. Kota Sumenep;7419; Bangkal;Aman;Aman;Aman
+;Sumenep;;Kec. Kota Sumenep;7420; Kacongan;Aman;Aman;Aman
+;Sumenep;;Kec. Kota Sumenep;7421; Kebonagong;Aman;Aman;Aman
+;Sumenep;;Kec. Kota Sumenep;7422; Kebunan;Aman;Aman;Aman
+;Sumenep;;Kec. Kota Sumenep;7423; Kolor;Aman;Aman;Aman
+;Sumenep;;Kec. Kota Sumenep;7424; Marengan Daya;Aman;Aman;Aman
+;Sumenep;;Kec. Kota Sumenep;7425; Paberasan;Aman;Aman;Aman
+;Sumenep;;Kec. Kota Sumenep;7426; Pabian;Aman;Aman;Aman
+;Sumenep;;Kec. Kota Sumenep;7427; Pamolokan;Aman;Aman;Aman
+;Sumenep;;Kec. Kota Sumenep;7428; Pandian;Aman;Aman;Aman
+;Sumenep;;Kec. Kota Sumenep;7429; Pangarangan;Aman;Aman;Aman
+;Sumenep;;Kec. Kota Sumenep;7430; Parsanga;Aman;Aman;Aman
+;Sumenep;;Kec. Kota Sumenep;7431; Bangselok;Aman;Aman;Aman
+;Sumenep;;Kec. Kota Sumenep;7432; KarangDuak;Aman;Aman;Aman
+;Sumenep;;Kec. Kota Sumenep;7433; Kepanjin;Aman;Aman;Aman
+;Sumenep;;Kec. Kota Sumenep;7434; Pajagalan;Aman;Aman;Aman
+;Sumenep;17;Kec. Lenteng;7435; Banarese Barat;Aman;Aman;Aman
+;Sumenep;;Kec. Lenteng;7436; Banarese Timur;Aman;Aman;Aman
+;Sumenep;;Kec. Lenteng;7437; Bilapora Reba;Aman;Aman;Aman
+;Sumenep;;Kec. Lenteng;7438; Cangkreng;Aman;Aman;Aman
+;Sumenep;;Kec. Lenteng;7439; Daramesta;Aman;Aman;Aman
+;Sumenep;;Kec. Lenteng;7440; Ellak Daya;Aman;Aman;Aman
+;Sumenep;;Kec. Lenteng;7441; Ellak Laok;Aman;Aman;Aman
+;Sumenep;;Kec. Lenteng;7442; Jambu;Aman;Aman;Aman
+;Sumenep;;Kec. Lenteng;7443; Kambingan Barat;Aman;Aman;Aman
+;Sumenep;;Kec. Lenteng;7444; Lembung Barat;Aman;Aman;Aman
+;Sumenep;;Kec. Lenteng;7445; Lembung Timur;Aman;Aman;Aman
+;Sumenep;;Kec. Lenteng;7446; Lenteng Barat;Aman;Aman;Aman
+;Sumenep;;Kec. Lenteng;7447; Lenteng Timur;Aman;Aman;Aman
+;Sumenep;;Kec. Lenteng;7448; Meddelan;Aman;Aman;Aman
+;Sumenep;;Kec. Lenteng;7449; Moncek Barat;Aman;Aman;Aman
+;Sumenep;;Kec. Lenteng;7450; Moncek Tengah;Aman;Aman;Aman
+;Sumenep;;Kec. Lenteng;7451; Moncek Timur;Aman;Aman;Aman
+;Sumenep;;Kec. Lenteng;7452; Poreh;Aman;Aman;Aman
+;Sumenep;;Kec. Lenteng;7453; Sender;Aman;Aman;Aman
+;Sumenep;;Kec. Lenteng;7454; Tarongan;Aman;Aman;Aman
+;Sumenep;18;Kec. Manding;7455; Gading;Aman;Aman;Aman
+;Sumenep;;Kec. Manding;7456; Giring;Aman;Aman;Aman
+;Sumenep;;Kec. Manding;7457; GunungKembar;Aman;Aman;Aman
+;Sumenep;;Kec. Manding;7458; Jaba'an;Aman;Aman;Aman
+;Sumenep;;Kec. Manding;7459; Kasengan;Aman;Aman;Aman
+;Sumenep;;Kec. Manding;7460; Lalangon;Aman;Aman;Aman
+;Sumenep;;Kec. Manding;7461; Lanjuk;Aman;Aman;Aman
+;Sumenep;;Kec. Manding;7462; Manding Daya;Aman;Aman;Aman
+;Sumenep;;Kec. Manding;7463; Manding Laok;Aman;Aman;Aman
+;Sumenep;;Kec. Manding;7464; Manding Timur;Aman;Aman;Aman
+;Sumenep;;Kec. Manding;7465; Tenunan;Aman;Aman;Aman
+;Sumenep;19;Kec. Masalembu;7466; Kramian; Aman;Aman;Aman
+;Sumenep;;Kec. Masalembu;7467; Masa Kambing; Aman;Aman;Aman
+;Sumenep;;Kec. Masalembu;7468; Masalima; Aman;Aman;Aman
+;Sumenep;;Kec. Masalembu;7469; Suka Jeruk; Aman;Aman;Aman
+;Sumenep;20;Kec. Nonggunong;7470; Nonggunong;Aman;Aman;Aman
+;Sumenep;;Kec. Nonggunong;7471; Rosong;Aman;Aman;Aman
+;Sumenep;;Kec. Nonggunong;7472; Sokarame Paseser;Aman;Aman;Aman
+;Sumenep;;Kec. Nonggunong;7473; Sokarame Timur;Aman;Aman;Aman
+;Sumenep;;Kec. Nonggunong;7474; Sonok;Aman;Aman;Aman
+;Sumenep;;Kec. Nonggunong;7475; Sumber;Aman;Aman;Aman
+;Sumenep;;Kec. Nonggunong;7476; Talaga;Aman;Aman;Aman
+;Sumenep;;Kec. Nonggunong;7477; Tana Merah;Aman;Aman;Aman
+;Sumenep;21;Kec. Pasongsongan;7478; Campaka;Aman;Aman;Aman
+;Sumenep;;Kec. Pasongsongan;7479; Lebeng Barat;Aman;Aman;Aman
+;Sumenep;;Kec. Pasongsongan;7480; Lebeng Timur;Aman;Aman;Aman
+;Sumenep;;Kec. Pasongsongan;7481; Montorna;Aman;Aman;Aman
+;Sumenep;;Kec. Pasongsongan;7482; Padangdangan;Aman;Aman;Aman
+;Sumenep;;Kec. Pasongsongan;7483; Panaongan;Aman;Aman;Aman
+;Sumenep;;Kec. Pasongsongan;7484; Pasongsongan;Aman;Aman;Aman
+;Sumenep;;Kec. Pasongsongan;7485; Prancak;Aman;Aman;Aman
+;Sumenep;;Kec. Pasongsongan;7486; Rajun;Aman;Aman;Aman
+;Sumenep;;Kec. Pasongsongan;7487; Sodara;Aman;Aman;Aman
+;Sumenep;22;Kec. Pragaan;7488; Aeng Panas; Aman;Aman;Aman
+;Sumenep;;Kec. Pragaan;7489; Jaddung; Aman;Aman;Aman
+;Sumenep;;Kec. Pragaan;7490; Kaduara Timur; Aman;Aman;Aman
+;Sumenep;;Kec. Pragaan;7491; Karduluk; Aman;Aman;Aman
+;Sumenep;;Kec. Pragaan;7492; Larangn aPerreng; Aman;Aman;Aman
+;Sumenep;;Kec. Pragaan;7493; Pakamban Daya; Aman;Aman;Aman
+;Sumenep;;Kec. Pragaan;7494; Pakamban Laok; Aman;Aman;Aman
+;Sumenep;;Kec. Pragaan;7495; Pragaan Daya; Aman;Aman;Aman
+;Sumenep;;Kec. Pragaan;7496; Pragaan Laok; Aman;Aman;Aman
+;Sumenep;;Kec. Pragaan;7497; Prenduan; Aman;Aman;Aman
+;Sumenep;;Kec. Pragaan;7498; Rombasan; Aman;Aman;Aman
+;Sumenep;;Kec. Pragaan;7499; Sendang; Aman;Aman;Aman
+;Sumenep;;Kec. Pragaan;7500; Sentol Daya; Aman;Aman;Aman
+;Sumenep;;Kec. Pragaan;7501; Sentol Lao'; Aman;Aman;Aman
+;Sumenep;23;Kec. Ra'as;7502; Alasmalang; Aman;Aman;Aman
+;Sumenep;;Kec. Ra'as;7503; Brakas; Aman;Aman;Aman
+;Sumenep;;Kec. Ra'as;7504; Gua-gua; Aman;Aman;Aman
+;Sumenep;;Kec. Ra'as;7505; Jungkat; Aman;Aman;Aman
+;Sumenep;;Kec. Ra'as;7506; Karang nangka; Aman;Aman;Aman
+;Sumenep;;Kec. Ra'as;7507; Ketupak; Aman;Aman;Aman
+;Sumenep;;Kec. Ra'as;7508; Kropak; Aman;Aman;Aman
+;Sumenep;;Kec. Ra'as;7509; Poterran; Aman;Aman;Aman
+;Sumenep;;Kec. Ra'as;7510; Tonduk; Aman;Aman;Aman
+;Sumenep;24;Kec. Rubaru;7511; Banasare;Aman;Aman;Aman
+;Sumenep;;Kec. Rubaru;7512; Basoke;Aman;Aman;Aman
+;Sumenep;;Kec. Rubaru;7513; Bun Barat;Aman;Aman;Aman
+;Sumenep;;Kec. Rubaru;7514; Duko;Aman;Aman;Aman
+;Sumenep;;Kec. Rubaru;7515; Kalebengan;Aman;Aman;Aman
+;Sumenep;;Kec. Rubaru;7516; Karang Nangka;Aman;Aman;Aman
+;Sumenep;;Kec. Rubaru;7517; Mandala;Aman;Aman;Aman
+;Sumenep;;Kec. Rubaru;7518; Matanair;Aman;Aman;Aman
+;Sumenep;;Kec. Rubaru;7519; Pakondang;Aman;Aman;Aman
+;Sumenep;;Kec. Rubaru;7520; Rubaru;Aman;Aman;Aman
+;Sumenep;;Kec. Rubaru;7521; Tambak Sari;Aman;Aman;Aman
+;Sumenep;25;Kec. Sapeken;7522; Pagerrungan Besar; Aman;Aman;Aman
+;Sumenep;;Kec. Sapeken;7523; Pagerrungan Kecil; Aman;Aman;Aman
+;Sumenep;;Kec. Sapeken;7524; Paleyat; Aman;Aman;Aman
+;Sumenep;;Kec. Sapeken;7525; Sadulang; Aman;Aman;Aman
+;Sumenep;;Kec. Sapeken;7526; Sakala; Aman;Aman;Aman
+;Sumenep;;Kec. Sapeken;7527; Sase'er; Aman;Aman;Aman
+;Sumenep;;Kec. Sapeken;7528; Saunter; Aman;Aman;Aman
+;Sumenep;;Kec. Sapeken;7529; SauSaebu; Aman;Aman;Aman
+;Sumenep;;Kec. Sapeken;7530; Sepanjang; Aman;Aman;Aman
+;Sumenep;;Kec. Sapeken;7531; Sepeken; Aman;Aman;Aman
+;Sumenep;;Kec. Sapeken;7532; Tanjung Kiaok; Aman;Aman;Aman
+;Sumenep;26;Kec. Saronggi;7533; AenTong-tong; Aman;Aman;Aman
+;Sumenep;;Kec. Saronggi;7534; Juluk; Aman;Aman;Aman
+;Sumenep;;Kec. Saronggi;7535; Kambingan Timur; Aman;Aman;Aman
+;Sumenep;;Kec. Saronggi;7536; Kebundadap Barat; Aman;Aman;Aman
+;Sumenep;;Kec. Saronggi;7537; Kebundadap Timur; Aman;Aman;Aman
+;Sumenep;;Kec. Saronggi;7538; Langsar; Aman;Aman;Aman
+;Sumenep;;Kec. Saronggi;7539; Muangan; Aman;Aman;Aman
+;Sumenep;;Kec. Saronggi;7540; Nambakor; Aman;Aman;Aman
+;Sumenep;;Kec. Saronggi;7541; Pagarbatu; Aman;Aman;Aman
+;Sumenep;;Kec. Saronggi;7542; Saroka; Aman;Aman;Aman
+;Sumenep;;Kec. Saronggi;7543; Saronggi; Aman;Aman;Aman
+;Sumenep;;Kec. Saronggi;7544; Talango; Aman;Aman;Aman
+;Sumenep;;Kec. Saronggi;7545; TanaMerah; Aman;Aman;Aman
+;Sumenep;;Kec. Saronggi;7546; Tanjung; Aman;Aman;Aman
+;Sumenep;27;Kec. Talango;7547; Cabbiya;Aman;Aman;Aman
+;Sumenep;;Kec. Talango;7548; Essang;Aman;Aman;Aman
+;Sumenep;;Kec. Talango;7549; Jaba'an;Aman;Aman;Aman
+;Sumenep;;Kec. Talango;7550; Kombang;Aman;Aman;Aman
+;Sumenep;;Kec. Talango;7551; Marengan Palasa;Aman;Aman;Aman
+;Sumenep;;Kec. Talango;7552; Padike;Aman;Aman;Aman
+;Sumenep;;Kec. Talango;7553; Poteran;Aman;Aman;Aman
+;Sumenep;;Kec. Talango;7554; Talango;Aman;Aman;Aman
+34;Pamekasan;1;Kec. Batu Marmar;7555; Bangserreh;Aman;Aman;Aman
+;Pamekasan;;Kec. Batu Marmar;7556; Batu Bintang;Aman;Aman;Aman
+;Pamekasan;;Kec. Batu Marmar;7557; Blaban;Aman;Aman;Aman
+;Pamekasan;;Kec. Batu Marmar;7558; Bujur Barat;Aman;Aman;Aman
+;Pamekasan;;Kec. Batu Marmar;7559; Bujur Tengah;Aman;Aman;Aman
+;Pamekasan;;Kec. Batu Marmar;7560; Bujur Timur;Aman;Aman;Aman
+;Pamekasan;;Kec. Batu Marmar;7561; Kapong;Aman;Aman;Aman
+;Pamekasan;;Kec. Batu Marmar;7562; Lessong Daja;Aman;Aman;Aman
+;Pamekasan;;Kec. Batu Marmar;7563; Lessong Laok;Aman;Aman;Aman
+;Pamekasan;;Kec. Batu Marmar;7564; Pangerreman;Aman;Aman;Aman
+;Pamekasan;;Kec. Batu Marmar;7565; Ponjanan Barat;Aman;Aman;Aman
+;Pamekasan;;Kec. Batu Marmar;7566; Ponjanan Timur;Aman;Aman;Aman
+;Pamekasan;;Kec. Batu Marmar;7567; Tamberu;Aman;Aman;Aman
+;Pamekasan;2;Kec. Galis;7568; Artodung; Aman;Aman;Aman
+;Pamekasan;;Kec. Galis;7569; Bulay; Aman;Aman;Aman
+;Pamekasan;;Kec. Galis;7570; Galis; Aman;Aman;Aman
+;Pamekasan;;Kec. Galis;7571; Konang; Aman;Aman;Aman
+;Pamekasan;;Kec. Galis;7572; Lembung; Aman;Aman;Aman
+;Pamekasan;;Kec. Galis;7573; Pagendingan; Aman;Aman;Aman
+;Pamekasan;;Kec. Galis;7574; Pandan; Aman;Aman;Aman
+;Pamekasan;;Kec. Galis;7575; Polagan; Aman;Aman;Aman
+;Pamekasan;;Kec. Galis;7576; Ponteh; Aman;Aman;Aman
+;Pamekasan;;Kec. Galis;7577; Tobungan; Aman;Aman;Aman
+;Pamekasan;3;Kec. Kadur;7578; Bangkes;Aman;Aman;Aman
+;Pamekasan;;Kec. Kadur;7579; Bungbaruh;Aman;Aman;Aman
+;Pamekasan;;Kec. Kadur;7580; Gagah;Aman;Aman;Aman
+;Pamekasan;;Kec. Kadur;7581; Kadur;Aman;Aman;Aman
+;Pamekasan;;Kec. Kadur;7582; Kertagena Dajah;Aman;Aman;Aman
+;Pamekasan;;Kec. Kadur;7583; Kertagena Laok;Aman;Aman;Aman
+;Pamekasan;;Kec. Kadur;7584; Kertagena Tengah;Aman;Aman;Aman
+;Pamekasan;;Kec. Kadur;7585; Pamaroh;Aman;Aman;Aman
+;Pamekasan;;Kec. Kadur;7586; Pamoroh;Aman;Aman;Aman
+;Pamekasan;;Kec. Kadur;7587; Sokalelah;Aman;Aman;Aman
+;Pamekasan;4;Kec. Larangan;7588; Blumbungan;Aman;Aman;Aman
+;Pamekasan;;Kec. Larangan;7589; Duko Timur;Aman;Aman;Aman
+;Pamekasan;;Kec. Larangan;7590; Grujugan;Aman;Aman;Aman
+;Pamekasan;;Kec. Larangan;7591; Kaduara Barat;Aman;Aman;Aman
+;Pamekasan;;Kec. Larangan;7592; Lancar;Aman;Aman;Aman
+;Pamekasan;;Kec. Larangan;7593; Larangan Dalam;Aman;Aman;Aman
+;Pamekasan;;Kec. Larangan;7594; Larangan Luar;Aman;Aman;Aman
+;Pamekasan;;Kec. Larangan;7595; Montok;Aman;Aman;Aman
+;Pamekasan;;Kec. Larangan;7596; Panaguan;Aman;Aman;Aman
+;Pamekasan;;Kec. Larangan;7597; Peltong;Aman;Aman;Aman
+;Pamekasan;;Kec. Larangan;7598; Taraban;Aman;Aman;Aman
+;Pamekasan;;Kec. Larangan;7599; Tentenan Barat;Aman;Aman;Aman
+;Pamekasan;;Kec. Larangan;7600; Tentenan Timur;Aman;Aman;Aman
+;Pamekasan;;Kec. Larangan;7601; Trasak;Aman;Aman;Aman
+;Pamekasan;5;Kec. Pademawu;7602; Baddurih;Aman;Aman;Aman
+;Pamekasan;;Kec. Pademawu;7603; Buddagan;Aman;Aman;Aman
+;Pamekasan;;Kec. Pademawu;7604; Buddih;Aman;Aman;Aman
+;Pamekasan;;Kec. Pademawu;7605; Bunder;Aman;Aman;Aman
+;Pamekasan;;Kec. Pademawu;7606; Dasok;Aman;Aman;Aman
+;Pamekasan;;Kec. Pademawu;7607; Durbuk;Aman;Aman;Aman
+;Pamekasan;;Kec. Pademawu;7608; Jarin;Aman;Aman;Aman
+;Pamekasan;;Kec. Pademawu;7609; Lemper;Aman;Aman;Aman
+;Pamekasan;;Kec. Pademawu;7610; Majungan;Aman;Aman;Aman
+;Pamekasan;;Kec. Pademawu;7611; Murtajih;Aman;Aman;Aman
+;Pamekasan;;Kec. Pademawu;7612; Padelegan;Aman;Aman;Aman
+;Pamekasan;;Kec. Pademawu;7613; Pademawu Barat;Aman;Aman;Aman
+;Pamekasan;;Kec. Pademawu;7614; Pademawu Timur;Aman;Aman;Aman
+;Pamekasan;;Kec. Pademawu;7615; Pagagan;Aman;Aman;Aman
+;Pamekasan;;Kec. Pademawu;7616; Prekbun;Aman;Aman;Aman
+;Pamekasan;;Kec. Pademawu;7617; Sentol;Aman;Aman;Aman
+;Pamekasan;;Kec. Pademawu;7618; Sopa'ah;Aman;Aman;Aman
+;Pamekasan;;Kec. Pademawu;7619; Sumedangan;Aman;Aman;Aman
+;Pamekasan;;Kec. Pademawu;7620; Tambung;Aman;Aman;Aman
+;Pamekasan;;Kec. Pademawu;7621; Tanjung;Aman;Aman;Aman
+;Pamekasan;;Kec. Pademawu;7622; Barurambat Timur;Aman;Aman;Aman
+;Pamekasan;;Kec. Pademawu;7623; Lawangan Daya;Aman;Aman;Aman
+;Pamekasan;6;Kec. Pakong;7624; Bajang;Aman;Aman;Aman
+;Pamekasan;;Kec. Pakong;7625; Ban-ban;Aman;Aman;Aman
+;Pamekasan;;Kec. Pakong;7626; Bandungan;Aman;Aman;Aman
+;Pamekasan;;Kec. Pakong;7627; Bicorong;Aman;Aman;Aman
+;Pamekasan;;Kec. Pakong;7628; Cen Lecen;Aman;Aman;Aman
+;Pamekasan;;Kec. Pakong;7629; Klompang Barat;Aman;Aman;Aman
+;Pamekasan;;Kec. Pakong;7630; Klompang Timur;Aman;Aman;Aman
+;Pamekasan;;Kec. Pakong;7631; Lebbek;Aman;Aman;Aman
+;Pamekasan;;Kec. Pakong;7632; Pakong;Siaga;Siaga;Siaga
+;Pamekasan;;Kec. Pakong;7633; Palalang;Aman;Aman;Aman
+;Pamekasan;;Kec. Pakong;7634; Seddur;Aman;Aman;Aman
+;Pamekasan;;Kec. Pakong;7635; Somalang;Aman;Aman;Aman
+;Pamekasan;7;Kec. Pasean;7636; Batokerbuy;Aman;Aman;Aman
+;Pamekasan;;Kec. Pasean;7637; Bindang;Aman;Aman;Aman
+;Pamekasan;;Kec. Pasean;7638; Dempo Barat;Aman;Aman;Aman
+;Pamekasan;;Kec. Pasean;7639; Dempo Timur;Aman;Aman;Aman
+;Pamekasan;;Kec. Pasean;7640; Sana Daja;Aman;Aman;Aman
+;Pamekasan;;Kec. Pasean;7641; Sana Tengah;Aman;Aman;Aman
+;Pamekasan;;Kec. Pasean;7642; Sotabar;Aman;Aman;Aman
+;Pamekasan;;Kec. Pasean;7643; Tagangser Daja;Aman;Aman;Aman
+;Pamekasan;;Kec. Pasean;7644; Tlontoraja;Aman;Aman;Aman
+;Pamekasan;8;Kec. Palenggaan;7645; Akkor;Aman;Aman;Aman
+;Pamekasan;;Kec. Palenggaan;7646; Angsanah;Aman;Aman;Aman
+;Pamekasan;;Kec. Palenggaan;7647; Banyupelle;Aman;Aman;Aman
+;Pamekasan;;Kec. Palenggaan;7648; Kacok;Aman;Aman;Aman
+;Pamekasan;;Kec. Palenggaan;7649; Larangan Badung;Aman;Aman;Aman
+;Pamekasan;;Kec. Palenggaan;7650; Palenggaan Laok;Aman;Aman;Aman
+;Pamekasan;;Kec. Palenggaan;7651; Palenggaan Dajah;Aman;Aman;Aman
+;Pamekasan;;Kec. Palenggaan;7652; Pana'an;Aman;Aman;Aman
+;Pamekasan;;Kec. Palenggaan;7653; Potoan Laok;Aman;Aman;Aman
+;Pamekasan;;Kec. Palenggaan;7654; Potoan Dajah;Aman;Aman;Aman
+;Pamekasan;;Kec. Palenggaan;7655; Rek Kerrek;Aman;Aman;Aman
+;Pamekasan;;Kec. Palenggaan;7656; Rombuh;Aman;Aman;Aman
+;Pamekasan;9;Kec. Pamekasan;7657; Panempan;Aman;Aman;Aman
+;Pamekasan;;Kec. Pamekasan;7658; Laden;Aman;Aman;Aman
+;Pamekasan;;Kec. Pamekasan;7659; Jalmak;Aman;Aman;Aman
+;Pamekasan;;Kec. Pamekasan;7660; Teja Barat;Aman;Aman;Aman
+;Pamekasan;;Kec. Pamekasan;7661; Teja Timur;Aman;Aman;Aman
+;Pamekasan;;Kec. Pamekasan;7662; Bettet;Aman;Aman;Aman
+;Pamekasan;;Kec. Pamekasan;7663; Nyalabu Laok;Aman;Aman;Aman
+;Pamekasan;;Kec. Pamekasan;7664; Nyalabu Daya;Aman;Aman;Aman
+;Pamekasan;;Kec. Pamekasan;7665; Toronan;Aman;Aman;Aman
+;Pamekasan;;Kec. Pamekasan;7666; Kangenan;Aman;Aman;Aman
+;Pamekasan;;Kec. Pamekasan;7667; Patemon;Siaga;Siaga;Siaga
+;Pamekasan;;Kec. Pamekasan;7668; Bugih;Aman;Aman;Aman
+;Pamekasan;;Kec. Pamekasan;7669; Jungcang Cang;Aman;Aman;Aman
+;Pamekasan;;Kec. Pamekasan;7670; Parteker;Aman;Aman;Aman
+;Pamekasan;;Kec. Pamekasan;7671; Barurambat Kota;Aman;Aman;Aman
+;Pamekasan;;Kec. Pamekasan;7672; Gladak Anyar;Aman;Aman;Aman
+;Pamekasan;;Kec. Pamekasan;7673; Kolpajung;Aman;Aman;Aman
+;Pamekasan;;Kec. Pamekasan;7674; Kowel;Aman;Aman;Aman
+;Pamekasan;10;Kec. Pegantenan;7675; Ambender;;Aman;Aman;Aman
+;Pamekasan;;Kec. Pegantenan;7676; Bulangan Barat;;Aman;Aman;Aman
+;Pamekasan;;Kec. Pegantenan;7677; Bulangan Branta;;Aman;Aman;Aman
+;Pamekasan;;Kec. Pegantenan;7678; Bulangan Haji;;Aman;Aman;Aman
+;Pamekasan;;Kec. Pegantenan;7679; Bulangan Timur;;Aman;Aman;Aman
+;Pamekasan;;Kec. Pegantenan;7680; Palesanggar;;Aman;Aman;Aman
+;Pamekasan;;Kec. Pegantenan;7681; Pasanggar;;Aman;Aman;Aman
+;Pamekasan;;Kec. Pegantenan;7682; Pegantenan;;Aman;Aman;Aman
+;Pamekasan;;Kec. Pegantenan;7683; Plakpak;;Aman;Aman;Aman
+;Pamekasan;;Kec. Pegantenan;7684; Tanjung;;Aman;Aman;Aman
+;Pamekasan;;Kec. Pegantenan;7685; Tebul Barat;;Aman;Aman;Aman
+;Pamekasan;;Kec. Pegantenan;7686; Tebul Timur;;Aman;Aman;Aman
+;Pamekasan;;Kec. Pegantenan;7687; Tlagah;;Aman;Aman;Aman
+;Pamekasan;11;Kec. Proppo;7688; Badung;Aman;Aman;Aman
+;Pamekasan;;Kec. Proppo;7689; Banyubulu;Aman;Aman;Aman
+;Pamekasan;;Kec. Proppo;7690; Batokalangan;Aman;Aman;Aman
+;Pamekasan;;Kec. Proppo;7691; Billa'an;Aman;Aman;Aman
+;Pamekasan;;Kec. Proppo;7692; Campor;Aman;Aman;Aman
+;Pamekasan;;Kec. Proppo;7693; Candi Burung;Aman;Aman;Aman
+;Pamekasan;;Kec. Proppo;7694; Gro'om;Aman;Aman;Aman
+;Pamekasan;;Kec. Proppo;7695; Jambringin;Aman;Aman;Aman
+;Pamekasan;;Kec. Proppo;7696; Karanganyar;Aman;Aman;Aman
+;Pamekasan;;Kec. Proppo;7697; Klampar;Aman;Aman;Aman
+;Pamekasan;;Kec. Proppo;7698; Kodik;Aman;Aman;Aman
+;Pamekasan;;Kec. Proppo;7699; Lenteng;Aman;Aman;Aman
+;Pamekasan;;Kec. Proppo;7700; Mapper;Aman;Aman;Aman
+;Pamekasan;;Kec. Proppo;7701; Panagguan;Aman;Aman;Aman
+;Pamekasan;;Kec. Proppo;7702; Pangbatok;Aman;Aman;Aman
+;Pamekasan;;Kec. Proppo;7703; Panglemah;Aman;Aman;Aman
+;Pamekasan;;Kec. Proppo;7704; Pangorayan;Aman;Aman;Aman
+;Pamekasan;;Kec. Proppo;7705; Pangtonggal;Aman;Aman;Aman
+;Pamekasan;;Kec. Proppo;7706; Proppo;Siaga;Siaga;Siaga
+;Pamekasan;;Kec. Proppo;7707; Rangperang Daja;Aman;Aman;Aman
+;Pamekasan;;Kec. Proppo;7708; Rangperang Laok;Aman;Aman;Aman
+;Pamekasan;;Kec. Proppo;7709; Samatan;Aman;Aman;Aman
+;Pamekasan;;Kec. Proppo;7710; Samiran;Aman;Aman;Aman
+;Pamekasan;;Kec. Proppo;7711; Srambah;Aman;Aman;Aman
+;Pamekasan;;Kec. Proppo;7712; Tattangoh;Aman;Aman;Aman
+;Pamekasan;;Kec. Proppo;7713; Tlangoh;Aman;Aman;Aman
+;Pamekasan;;Kec. Proppo;7714; Toket;Aman;Aman;Aman
+;Pamekasan;12;Kec. Tlanakan;7715; Dabuan; Aman;Aman;Aman
+;Pamekasan;;Kec. Tlanakan;7716; Terrak; Aman;Aman;Aman
+;Pamekasan;;Kec. Tlanakan;7717; Mangar; Aman;Aman;Aman
+;Pamekasan;;Kec. Tlanakan;7718; Bandaran; Aman;Aman;Aman
+;Pamekasan;;Kec. Tlanakan;7719; Kramat; Aman;Aman;Aman
+;Pamekasan;;Kec. Tlanakan;7720; Ambat; Aman;Aman;Aman
+;Pamekasan;;Kec. Tlanakan;7721; Branta Pesisir; Aman;Aman;Aman
+;Pamekasan;;Kec. Tlanakan;7722; Tlanakan; Siaga;Siaga;Siaga
+;Pamekasan;;Kec. Tlanakan;7723; Branta Tinggi; Aman;Aman;Aman
+;Pamekasan;;Kec. Tlanakan;7724; Tlesah; Aman;Aman;Aman
+;Pamekasan;;Kec. Tlanakan;7725; Larangan Tokol; Aman;Aman;Aman
+;Pamekasan;;Kec. Tlanakan;7726; Ceguk; Aman;Aman;Aman
+;Pamekasan;;Kec. Tlanakan;7727; Panglegur; Aman;Aman;Aman
+;Pamekasan;;Kec. Tlanakan;7728; Bukek; Aman;Aman;Aman
+;Pamekasan;;Kec. Tlanakan;7729; Gugul; Aman;Aman;Aman
+;Pamekasan;;Kec. Tlanakan;7730; Larangan Slampar; Aman;Aman;Aman
+;Pamekasan;;Kec. Tlanakan;7731; Taro'an; Aman;Aman;Aman
+;Pamekasan;13;Kec. Waru;7732; Bajur; Aman;Aman;Aman
+;Pamekasan;;Kec. Waru;7733; Ragang; Aman;Aman;Aman
+;Pamekasan;;Kec. Waru;7734; Sana Laok; Aman;Aman;Aman
+;Pamekasan;;Kec. Waru;7735; Sumber Waru; Aman;Aman;Aman
+;Pamekasan;;Kec. Waru;7736; Tagangser Laok; Aman;Aman;Aman
+;Pamekasan;;Kec. Waru;7737; Tampojung Guwa; Aman;Aman;Aman
+;Pamekasan;;Kec. Waru;7738; Tampojung Pregih; Aman;Aman;Aman
+;Pamekasan;;Kec. Waru;7739; Tampojung Tengah; Aman;Aman;Aman
+;Pamekasan;;Kec. Waru;7740; Tampojung Tenggina; Aman;Aman;Aman
+;Pamekasan;;Kec. Waru;7741; Tlonto Ares; Aman;Aman;Aman
+;Pamekasan;;Kec. Waru;7742; Waru Barat; Aman;Aman;Aman
+;Pamekasan;;Kec. Waru;7743; Waru Timur; Aman;Aman;Aman
+;Kota Pasuruan;;Bugul Kidul;7764;Tapaan ;Aman;Aman;Aman
+;Kota Pasuruan;;Panggungrejo;7775;Tambaan ;Waspada;Waspada;Waspada
+;Pasuruan;;Bangil;7790;Kidul Dalem;Siaga;Siaga;Siaga
+;Pasuruan;;Beji;7795; Cangkring Malang;Siaga;Siaga;Siaga
+;Pasuruan;;Beji;7799; Gunung Sari;Siaga;Siaga;Siaga
+;Pasuruan;;Beji;7800; Kedung Boto;Siaga;Siaga;Siaga
+;Pasuruan;;Beji;7801; Kedung Ringin;Siaga;Siaga;Siaga
+;Pasuruan;;Gempol;7817; Sumber Suko ;Aman;Aman;Waspada
+;Pasuruan;4;Gondang Wetan;7822; Bajangan;Aman;Aman;Aman
+;Pasuruan;;Gondang Wetan;7823; Bayeman;Aman;Aman;Aman
+;Pasuruan;;Gondang Wetan;7824; Brambang;Aman;Aman;Aman
+;Pasuruan;;Gondang Wetan;7825; Gayam;Aman;Aman;Aman
+;Pasuruan;;Gondang Wetan;7826; Gondang Rejo;Aman;Aman;Aman
+;Pasuruan;;Gondang Wetan;7827;Gondang Wetan;Siaga;Siaga;Siaga
+;Pasuruan;;Gondang Wetan;7828; Grogol;Aman;Aman;Aman
+;Pasuruan;;Gondang Wetan;7829; Kali Rejo;Aman;Aman;Aman
+;Pasuruan;;Gondang Wetan;7830; Karang Sentul;Siaga;Siaga;Siaga
+;Pasuruan;;Gondang Wetan;7831; Kebon Candi;Siaga;Siaga;Siaga
+;Pasuruan;;Gondang Wetan;7832; Kersikan;Siaga;Siaga;Siaga
+;Pasuruan;;Gondang Wetan;7833; Lajuk;Aman;Aman;Aman
+;Pasuruan;;Gondang Wetan;7834; Pateguhan;Aman;Aman;Aman
+;Pasuruan;;Gondang Wetan;7835; Pekangkungan;Aman;Aman;Aman
+;Pasuruan;;Gondang Wetan;7836; Ranggeh;Siaga;Siaga;Siaga
+;Pasuruan;;Gondang Wetan;7837; Sekar Putih;Aman;Aman;Aman
+;Pasuruan;;Gondang Wetan;7838; Tebas;Aman;Aman;Aman
+;Pasuruan;;Gondang Wetan;7839; Tenggilis Rejo;Aman;Aman;Aman
+;Pasuruan;;Gondang Wetan;7840; Wonojati;Aman;Aman;Aman
+;Pasuruan;;Gondang Wetan;7841; Wonosari;Aman;Aman;Aman
+;Pasuruan;5;Grati;7842; Cukur Gondang ;Siaga;Siaga;Siaga
+;Pasuruan;;Grati;7843;Grati Tunon ;Aman;Aman;Aman
+;Pasuruan;;Grati;7845; Kambingan Rejo ;Siaga;Siaga;Siaga
+;Pasuruan;;Grati;7846; Karang Kliwon ;Siaga;Siaga;Siaga
+;Pasuruan;;Grati;7847; Karang Lo ;Siaga;Siaga;Siaga
+;Pasuruan;;Grati;7848; Kebon Rejo ;Siaga;Siaga;Siaga
+;Pasuruan;;Grati;7849; Kedawung Kulon ;Siaga;Siaga;Siaga
+;Pasuruan;;Grati;7850; Kedawung Wetan ;Siaga;Siaga;Siaga
+;Pasuruan;;Grati;7852; Ranu Klindungan ;Aman;Aman;Aman
+;Pasuruan;;Grati;7854; Sumber Agung ;Aman;Aman;Aman
+;Pasuruan;;Grati;7855; Sumber Dawesari ;Siaga;Siaga;Siaga
+;Pasuruan;;Kejayan;7859; Coban Joyo ;Siaga;Siaga;Siaga
+;Pasuruan;;Kejayan;7861; Kedung Pengaron ;Aman;Aman;Aman
+;Pasuruan;;Kejayan;7864; Ketangi Rejo (Kangirejo) ;Siaga;Siaga;Siaga
+;Pasuruan;;Kejayan;7874; Randu Gong ;Aman;Aman;Aman
+;Pasuruan;;Kejayan;7879; Tundo Soro ;Aman;Aman;Aman
+;Pasuruan;;Kejayan;7880; Wangkal Wetan ;Siaga;Siaga;Siaga
+;Pasuruan;7;Kraton;7882; Asemkandang ;Aman;Aman;Aman
+;Pasuruan;;Kraton;7884; Curah Dukuh ;Aman;Aman;Aman
+;Pasuruan;;Kraton;7886; Gambir Kuning ;Siaga;Siaga;Siaga
+;Pasuruan;;Kraton;7890; Karang Anyar ;Aman;Aman;Aman
+;Pasuruan;;Kraton;7892; Klampis Rejo ;Aman;Aman;Aman
+;Pasuruan;;Kraton;7894; Mulyo Rejo ;Aman;Aman;Aman
+;Pasuruan;;Kraton;7905; Tambakrejo ;Siaga;Siaga;Siaga
+;Pasuruan;;Lekok;7908; Balung Anyar ;Waspada;Waspada;Waspada
+;Pasuruan;;Lekok;7910; Gejug Jati ;Siaga;Siaga;Siaga
+;Pasuruan;;Lekok;7913; Rowo Gempol ;Siaga;Siaga;Siaga
+;Pasuruan;;Lekok;7915; Tambak Lekok ;Siaga;Siaga;Siaga
+;Pasuruan;;Lumbang;7919; Bulukandang ;Aman;Aman;Aman
+;Pasuruan;;Lumbang;7920; Cukurguling ;Siaga;Siaga;Siaga
+;Pasuruan;;Lumbang;7927; Watulumbung ;Siaga;Siaga;Siaga
+;Pasuruan;10;Nguling;7930; Dandang Gendis ;Siaga;Siaga;Siaga
+;Pasuruan;;Nguling;7937; Sang Anom ;Siaga;Siaga;Siaga
+;Pasuruan;;Nguling;7941; Sumber Anyar ;Siaga;Siaga;Siaga
+;Pasuruan;;Nguling;7942; Wates Tani ;Siaga;Siaga;Siaga
+;Pasuruan;;Nguling;7944; Wot Galih ;Siaga;Siaga;Siaga
+;Pasuruan;11;Pandaan;7945; Banjar Kejen ;Aman;Aman;Aman
+;Pasuruan;;Pandaan;7949; Karang Jati ;Siaga;Siaga;Siaga
+;Pasuruan;;Pandaan;7950; Kebon Waris ;Aman;Aman;Aman
+;Pasuruan;;Pandaan;7951; Kemiri Sewu ;Siaga;Siaga;Siaga
+;Pasuruan;;Pandaan;7958; Sumber Gedang ;Siaga;Siaga;Siaga
+;Pasuruan;;Pandaan;7959; Sumber Rejo ;Aman;Aman;Aman
+;Pasuruan;;Pandaan;7960; Tawang Rejo ;Aman;Aman;Aman
+;Pasuruan;;Pandaan;7961; Tunggul Wulung ;Aman;Aman;Aman
+;Pasuruan;12;Pasrepan;7963; Ampelsari ;Waspada;Waspada;Waspada
+;Pasuruan;;Pasrepan;7973; Poh Gading ;Aman;Aman;Aman
+;Pasuruan;;Pasrepan;7974; Poh Gedang ;Aman;Aman;Aman
+;Pasuruan;;Pasrepan;7978; Tambakrejo ;Siaga;Siaga;Siaga
+;Pasuruan;;Pohjentrek;7981; Paras Rejo ;Aman;Aman;Aman
+;Pasuruan;;Pohjentrek;7984; Sungi Kulon ;Aman;Aman;Aman
+;Pasuruan;;Pohjentrek;7985; Sungi Wetan ;Aman;Aman;Aman
+;Pasuruan;;Pohjentrek;7988; Warung Dowo ;Siaga;Siaga;Siaga
+;Pasuruan;;Prigen;7990; Candi Wates ;Siaga;Siaga;Siaga
+;Pasuruan;;Prigen;7996; Lumbang Rejo ;Aman;Siaga;Siaga
+;Pasuruan;;Purwodadi;8005; Dawuhan Sengon;Aman;Aman;Aman
+;Pasuruan;;Purwodadi;8006; Gajah Rejo;Aman;Aman;Aman
+;Pasuruan;;Purwosari;8018; Karang Rejo ;Aman;Aman;Aman
+;Pasuruan;;Purwosari;8023; Pucangsari ;Siaga;Siaga;Siaga
+;Pasuruan;;Purwosari;8025; Sekar Mojo ;Siaga;Siaga;Siaga
+;Pasuruan;;Purwosari;8026; Sengon Agung ;Waspada;Waspada;Waspada
+;Pasuruan;;Purwosari;8028; Sumber Rejo ;Aman;Aman;Aman
+;Pasuruan;;Purwosari;8029; Sumber Suko ;Siaga;Siaga;Siaga
+;Pasuruan;17;Puspo;8031; Jangjangwulung ;Aman;Aman;Aman
+;Pasuruan;;Puspo;8035; Palang Sari ;Siaga;Siaga;Siaga
+;Pasuruan;;Rejoso;8040; Karang Pandan ;Aman;Aman;Aman
+;Pasuruan;;Rejoso;8041; Kawis Rejo ;Aman;Aman;Aman
+;Pasuruan;;Rejoso;8042; Kedung Bako ;Aman;Aman;Aman
+;Pasuruan;;Rejoso;8045; Manik Rejo ;Aman;Aman;Aman
+;Pasuruan;;Rejoso;8046; Pandan Rejo ;Aman;Aman;Aman
+;Pasuruan;;Rejoso;8047; Patuguran ;Aman;Aman;Aman
+;Pasuruan;;Rejoso;8049; Rejosolor ;Aman;Aman;Aman
+;Pasuruan;;Rejoso;8050; Sadeng Rejo ;Aman;Aman;Aman
+;Pasuruan;;Rejoso;8052; Segoro Puro ;Aman;Aman;Aman
+;Pasuruan;19;Rembang;8054; Geneng Waru ;Aman;Aman;Aman
+;Pasuruan;;Rembang;8061; Oroombo Kulon ;Aman;Aman;Aman
+;Pasuruan;;Rembang;8062; Oroombo Wetan ;Aman;Aman;Aman
+;Pasuruan;;Rembang;8069; Sumber Glagah ;Aman;Aman;Aman
+;Pasuruan;20;Sukorejo;8071; Candi Binangun;Siaga;Siaga;Siaga
+;Pasuruan;;Sukorejo;8072; Curah Rejo;Aman;Aman;Aman
+;Pasuruan;;Sukorejo;8073; Dukuh Sari;Aman;Aman;Aman
+;Pasuruan;;Sukorejo;8074; Glagah Sari;Aman;Aman;Aman
+;Pasuruan;;Tutur;8101; Kali Pucang ;Aman;Aman;Aman
+;Pasuruan;;Winongan;8115; Kedung Rejo ;Aman;Aman;Aman
+;Pasuruan;;Winongan;8124; Sumber Rejo ;Aman;Aman;Aman
+;Pasuruan;24;Wonorejo;8128; Coban Blimbing;Siaga;Siaga;Siaga
+;Pasuruan;;Wonorejo;8130; Karang Asem;Siaga;Siaga;Siaga
+;Pasuruan;;Wonorejo;8131; Karang Menggah;Siaga;Siaga;Siaga
+;Pasuruan;;Wonorejo;8132; Karangjati Anyar;Siaga;Siaga;Siaga
+;Pasuruan;;Wonorejo;8134; Kendang Dukuh;Aman;Aman;Aman
+;Pasuruan;;Wonorejo;8136; Lebaksari;Aman;Aman;Aman
+;Kota Probolinggo;;Kademangan;8146;Poh Sangit Kidul ;Siaga;Siaga;Siaga
+;Kota Probolinggo;;Kanigaran;8154;Curah Grinting ;Aman;Aman;Aman
+;Kota Probolinggo;;Wonoasih;8168;Kedung Galeng ;Aman;Aman;Aman
+;Kota Probolinggo;;Wonoasih;8169;Pakis Taji ;Aman;Aman;Aman
+;Probolinggo;;Bantaran;8174; Gunung Tugel;Siaga;Siaga;Siaga
+;Probolinggo;;Bantaran;8175; Karang Anyar;Aman;Aman;Aman
+;Probolinggo;;Bantaran;8177; Kramat Agung;Aman;Aman;Aman
+;Probolinggo;;Banyuanyar;8186; Gading Kulon;Siaga;Siaga;Siaga
+;Probolinggo;;Banyuanyar;8187; Gunung Geni;Siaga;Siaga;Siaga
+;Probolinggo;;Banyuanyar;8188; Klenang Kidul;Aman;Aman;Aman
+;Probolinggo;;Banyuanyar;8189; Klenang Lor;Aman;Aman;Aman
+;Probolinggo;3;Besuk;8196; Alas Kandang;Aman;Aman;Aman
+;Probolinggo;;Besuk;8197; Alas Nyiur;Aman;Aman;Aman
+;Probolinggo;;Besuk;8198; Alas Sumur Lor;Aman;Aman;Aman
+;Probolinggo;;Besuk;8199; Alas Tengah;Aman;Aman;Aman
+;Probolinggo;;Besuk;8201; Besuk Agung;Waspada;Waspada;Waspada
+;Probolinggo;;Besuk;8202; Besuk Kidul;Waspada;Waspada;Waspada
+;Probolinggo;;Besuk;8208; Randu Jalak;Siaga;Siaga;Siaga
+;Probolinggo;;Besuk;8209; Sindet Anyar;Siaga;Siaga;Siaga
+;Probolinggo;;Besuk;8210; Sindet Lami;Siaga;Siaga;Siaga
+;Probolinggo;;Besuk;8212; Sumur Dalam;Siaga;Siaga;Siaga
+;Probolinggo;;Dringu;8217; Mranggon Lawang;Siaga;Siaga;Siaga
+;Probolinggo;;Gading;8229; Bulupandak;Siaga;Siaga;Siaga
+;Probolinggo;;Gading;8233; Gading Wetan;Siaga;Siaga;Siaga
+;Probolinggo;7;Kota Anyar;8259; Curahtemu ;Siaga;Siaga;Siaga
+;Probolinggo;;Kota Anyar;8260; Kedungrejoso ;Siaga;Siaga;Siaga
+;Probolinggo;;Kota Anyar;8261; Kotaanyar ;Siaga;Siaga;Siaga
+;Probolinggo;;Kota Anyar;8262; Pasembon ;Siaga;Siaga;Siaga
+;Probolinggo;;Kota Anyar;8263; Sambirampak Kidul ;Siaga;Siaga;Siaga
+;Probolinggo;;Kota Anyar;8264; Sambirampak Lor ;Siaga;Siaga;Siaga
+;Probolinggo;;Kota Anyar;8265; Sidomulyo ;Waspada;Waspada;Waspada
+;Probolinggo;;Kota Anyar;8266; Sidorejo ;Waspada;Waspada;Waspada
+;Probolinggo;;Kota Anyar;8267; Sukorejo ;Waspada;Waspada;Waspada
+;Probolinggo;;Kota Anyar;8268; Sumbersecang ;Waspada;Waspada;Waspada
+;Probolinggo;;Kota Anyar;8269; Talkandang ;Siaga;Siaga;Siaga
+;Probolinggo;;Kota Anyar;8270; Tambakukir ;Siaga;Siaga;Siaga
+;Probolinggo;;Kota Anyar;8271; Triwungan ;Siaga;Siaga;Siaga
+;Probolinggo;;Kraksaan;8281; Kandangjati Wetan ;Siaga;Siaga;Siaga
+;Probolinggo;;Kraksaan;8288; Kraksan Wetan ;Aman;Aman;Aman
+;Probolinggo;;Kraksaan;8289; Kandangjati Kulon ;Siaga;Siaga;Siaga
+;Probolinggo;;Kraksaan;8290;Alassumur Lor;Siaga;Siaga;Siaga
+;Probolinggo;;Krejengan;8296; Kebuncaruk;Waspada;Waspada;Waspada
+;Probolinggo;;Krejengan;8298; Opo-Opo;Siaga;Siaga;Siaga
+;Probolinggo;;Krejengan;8303; Sokaan;Siaga;Siaga;Siaga
+;Probolinggo;;Krucil;8315; Pandanlaras;Waspada;Waspada;Waspada
+;Probolinggo;;Leces;8333; Malasan Kulon;Waspada;Waspada;Waspada
+;Probolinggo;;Leces;8334; Pondokwuluh;Waspada;Waspada;Waspada
+;Probolinggo;;Paiton;8369; Jabung Candi ;Siaga;Siaga;Siaga
+;Probolinggo;;Paiton;8370; Jabung Sisir ;Siaga;Siaga;Siaga
+;Probolinggo;;Paiton;8379; Pondokkelor ;Siaga;Siaga;Siaga
+;Probolinggo;;Paiton;8385; Sumberrejo ;Siaga;Siaga;Siaga
+;Probolinggo;16;Pakuniran;8387; Alas Panda;Waspada;Waspada;Waspada
+;Probolinggo;;Pakuniran;8400; Patemon Kulon;Siaga;Siaga;Siaga
+;Probolinggo;17;Pajarakan;8404; Gejugan;Siaga;Siaga;Siaga
+;Probolinggo;;Pajarakan;8405; Karangbong;Aman;Aman;Aman
+;Probolinggo;;Pajarakan;8406; Karanggeger;Aman;Aman;Aman
+;Probolinggo;;Pajarakan;8407; Karangpranti;Aman;Aman;Aman
+;Probolinggo;;Pajarakan;8408; Ketompen;Aman;Aman;Aman
+;Probolinggo;;Pajarakan;8409; Pajarakan Kulon;Siaga;Siaga;Siaga
+;Probolinggo;;Pajarakan;8410; Penambangan;Siaga;Siaga;Siaga
+;Probolinggo;;Pajarakan;8411; Selogudig Kulon;Aman;Aman;Aman
+;Probolinggo;;Pajarakan;8412; Selogudig Wetan;Aman;Aman;Aman
+;Probolinggo;;Pajarakan;8413; Sukokerto;Siaga;Siaga;Siaga
+;Probolinggo;;Pajarakan;8414; Sukomulyo;Siaga;Siaga;Siaga
+;Probolinggo;;Pajarakan;8415; Tanjung;Siaga;Siaga;Siaga
+;Probolinggo;;Sumber;8432; Rambaan ;Waspada;Waspada;Waspada
+;Probolinggo;;Sumberasih;8439; Gili Ketapang ;Siaga;Siaga;Siaga
+;Probolinggo;;Sumberasih;8445; Muneng Kidul ;Siaga;Siaga;Siaga
+;Probolinggo;;Sumberasih;8447; Pohsangit Leres ;Siaga;Siaga;Siaga
+;Probolinggo;;Tegalsiwalan;8451; Blado Kulon;Siaga;Siaga;Siaga
+;Probolinggo;;Tegalsiwalan;8452; Bulujaran Kidul;Siaga;Siaga;Siaga
+;Probolinggo;;Tegalsiwalan;8453; Bulujaran Lor;Siaga;Siaga;Siaga
+;Probolinggo;;Tegalsiwalan;8454; Gunung Be;Waspada;Waspada;Waspada
+;Probolinggo;;Tegalsiwalan;8455; Malasan Wetan;Waspada;Waspada;Waspada
+;Probolinggo;22;Tiris;8462; Andungbiru;Waspada;Waspada;Waspada
+;Probolinggo;;Tiris;8463; Andungasari;Siaga;Siaga;Siaga
+;Probolinggo;;Tiris;8476; Tuluparari;Siaga;Siaga;Siaga
+;Probolinggo;;Tongas;8479;Curahdringu;Waspada;Waspada;Waspada
+;Probolinggo;;Tongas;8480;Curahtulis;Waspada;Waspada;Waspada
+;Probolinggo;;Tongas;8489;Tongaskulon;Siaga;Siaga;Siaga
+;Probolinggo;;Tongas;8490;Tongaswetan;Aman;Aman;Aman
+;Probolinggo;;Wonomerto;8499;Sepuhgempol;Siaga;Siaga;Siaga
+;Probolinggo;;Wonomerto;8501;Tunggakcerme;Siaga;Siaga;Siaga

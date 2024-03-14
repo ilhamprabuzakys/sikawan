@@ -1,0 +1,235 @@
+{% load static %}
+<!DOCTYPE html>
+
+<html lang="id" class="light-style layout-menu-fixed layout-compact layout-menu-collapsed" dir="ltr"
+    data-theme="theme-semi-dark" data-assets-path="{% static 'assets/dashboard/' %}"
+    data-template="vertical-menu-template-semi-dark">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport"
+        content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0" />
+
+    <title>{% block title %}{% endblock title %} - Kawasan Rawan (KAWAN)</title>
+
+    <meta name="description" content="Kawasan Rawan" />
+    <meta name="keywords" content="Kawasan Rawan, KAWAN, DAYATIF, BNN" />
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/x-icon" href="{% static 'assets/images/bnn.png' %}" />
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Protest+Riot&family=Staatliches&display=swap"
+        rel="stylesheet" />
+
+    <!-- Icons -->
+    <link rel="stylesheet" href="{% static 'assets/dashboard/vendor/fonts/fontawesome.css' %}" />
+    <link rel="stylesheet" href="{% static 'assets/dashboard/vendor/fonts/tabler-icons.css' %}" />
+    <link rel="stylesheet" href="{% static 'assets/dashboard/vendor/fonts/flag-icons.css' %}" />
+
+    <!-- Core CSS -->
+    <link rel="stylesheet" href="{% static 'assets/css/colors.css' %}" />
+    <link rel="stylesheet" href="{% static 'assets/dashboard/vendor/css/rtl/core.css' %}"
+        class="template-customizer-core-css" />
+    <link rel="stylesheet" href="{% static 'assets/dashboard/css/demo.css' %}" />
+    <link rel="stylesheet" href="{% static 'assets/dashboard/vendor/css/rtl/theme-semi-dark.css' %}"
+        class="template-customizer-theme-css" />
+
+    <!-- Icons -->
+    <link rel="stylesheet" href="{% static 'assets/dashboard/vendor/fonts/fontawesome.css' %}" />
+    <link rel="stylesheet" href="{% static 'assets/dashboard/vendor/fonts/tabler-icons.css' %}" />
+    <link rel="stylesheet" href="{% static 'assets/dashboard/vendor/fonts/flag-icons.css' %}" />
+
+    <!-- Swal -->
+    <script src="{% static 'assets/home/plugins/sweet-alert/all.min.js' %}"></script>
+    <link href="{% static 'assets/home/plugins/sweet-alert/all.min.css' %}" rel="stylesheet" />
+
+    <!-- Toastr -->
+    <link rel="stylesheet" href="{% static 'assets/dashboard/vendor/libs/toastr/toastr.css' %}" />
+
+    <!-- Core CSS -->
+    <link rel="stylesheet" href="{% static 'assets/dashboard/vendor/css/rtl/core.css' %}"
+        class="template-customizer-core-css" />
+    <link rel="stylesheet" href="{% static 'assets/dashboard/vendor/css/rtl/theme-semi-dark.css' %}"
+        class="template-customizer-theme-css" />
+    <link rel="stylesheet" href="{% static 'assets/dashboard/css/demo.css' %}" />
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="{% static 'assets/dashboard/custom/css/custom.css' %}" />
+
+    <!-- Kawasan Rawan -->
+    <link rel="stylesheet" href="{% static 'assets/dashboard/custom/css/kawan.css' %}" />
+
+    <!-- Vendors CSS -->
+    <link rel="stylesheet" href="{% static 'assets/dashboard/vendor/libs/node-waves/node-waves.css' %}" />
+    <link rel="stylesheet" href="{% static 'assets/dashboard/vendor/libs/perfect-scrollbar/perfect-scrollbar.css' %}" />
+    <link rel="stylesheet" href="{% static 'assets/dashboard/vendor/libs/typeahead-js/typeahead.css' %}" />
+    <link rel="stylesheet" href="{% static 'assets/dashboard/vendor/libs/toastr/toastr.css' %}" />
+    <link rel="stylesheet" href="{% static 'assets/dashboard/vendor/css/pages/cards-advance.css' %}" />
+
+    <!-- Datatable -->
+    <link rel="stylesheet"
+        href="{% static 'assets/dashboard/vendor/libs/datatables-bs5/datatables.bootstrap5.css' %}" />
+    <link rel="stylesheet"
+        href="{% static 'assets/dashboard/vendor/libs/datatables-responsive-bs5/responsive.bootstrap5.css' %}" />
+    <link rel="stylesheet"
+        href="{% static 'assets/dashboard/vendor/libs/datatables-checkboxes-jquery/datatables.checkboxes.css' %}" />
+
+    <!-- Select 2 -->
+    <link rel="stylesheet" href="{% static 'assets/dashboard/vendor/libs/select2/select2.css' %}" />
+
+    <!-- Jquery -->
+    <script src="{% static 'assets/dashboard/vendor/libs/jquery/jquery.min.js' %}"></script>
+
+    <!-- Alpine Js -->
+    <script src="//unpkg.com/alpinejs" defer></script>
+
+    <!-- Vue Js -->
+    {% block vue %}
+    <script src="https://unpkg.com/vue@3/dist/vue.global.prod.js"></script>
+    {% endblock vue %}
+
+    <!-- !! Default !! -->
+    <script src="{% static 'assets/dashboard/vendor/js/helpers.js' %}"></script>
+    <script src="{% static 'assets/dashboard/js/bawaan/config.js' %}"></script>
+    {% comment %} <script src="{% static 'assets/dashboard/vendor/js/template-customizer.js' %}"></script>
+    {% endcomment %}
+
+    <!-- Page CSS -->
+    {% if not user.profile.satker %}
+    <style>
+        aside#layout-menu {
+            display: none;
+        }
+
+        #layout-container {
+            padding-left: 0rem;
+        }
+    </style>
+    {% endif %}
+
+    {% block css_tambahan %}
+    {% endblock %}
+</head>
+
+<body>
+    <!-- Layout wrapper -->
+    <div class="layout-wrapper layout-content-navbar">
+        <div class="layout-container">
+            <!-- Sidebar -->
+            {% if user.profile.satker %}
+            {% include 'dashboard/partials/sidebar.html' %}
+            {% endif %}
+            <!-- / Sidebar -->
+
+            <!-- Layout container -->
+            <div class="layout-page" id="layout-container">
+                <!-- Header -->
+                {% include 'dashboard/partials/header.html' %}
+                <!-- / Header -->
+
+                <div id="app">
+                    <!-- Content wrapper -->
+                    <div class="content-wrapper">
+                        <!-- Content -->
+                        <div id="main-content" class="container-fluid flex-grow-1 container-p-y">
+                            {% block content %}
+                            {% endblock %}
+                        </div>
+                        <!-- / Content -->
+
+                        <!-- Footer -->
+                        {% include 'dashboard/partials/footer.html' %}
+                        <!-- / Footer -->
+
+                        <div class="content-backdrop fade"></div>
+                    </div>
+                    <!-- Content wrapper -->
+                </div>
+            </div>
+            <!-- / Layout page -->
+        </div>
+
+        <!-- Overlay -->
+        <div class="layout-overlay layout-menu-toggle"></div>
+
+        <!-- Drag Target Area To SlideIn Menu On Small Screens -->
+        <div class="drag-target"></div>
+    </div>
+    <!-- / Layout wrapper -->
+
+    <!-- Modal -->
+    <section id="additional_modal">
+        {% include 'dashboard/partials/modal.html' %}
+        {% block modal_tambahan %}
+        {% endblock %}
+    </section>
+    <!-- / Modal -->
+
+    <!-- Core JS -->
+    <!-- build:js assets/dashboard/vendor/js/core.js -->
+    <script src="{% static 'assets/dashboard/vendor/libs/popper/popper.js' %}"></script>
+    <script src="{% static 'assets/dashboard/vendor/js/bootstrap.js' %}"></script>
+    <script src="{% static 'assets/dashboard/vendor/libs/node-waves/node-waves.js' %}"></script>
+    <script src="{% static 'assets/dashboard/vendor/libs/perfect-scrollbar/perfect-scrollbar.js' %}"></script>
+    <script src="{% static 'assets/dashboard/vendor/libs/hammer/hammer.js' %}"></script>
+    <script src="{% static 'assets/dashboard/vendor/libs/i18n/i18n.js' %}"></script>
+    <script src="{% static 'assets/dashboard/vendor/libs/typeahead-js/typeahead.js' %}"></script>
+    <script src="{% static 'assets/dashboard/vendor/js/menu.js' %}"></script>
+    <!-- endbuild -->
+
+    <!-- Vendors JS -->
+    <script src="{% static 'assets/dashboard/vendor/libs/select2/select2.js' %}"></script>
+    <script src="{% static 'assets/dashboard/vendor/libs/block-ui/block-ui.js' %}"></script>
+    <script src="{% static 'assets/dashboard/vendor/libs/toastr/toastr.js' %}"></script>
+    <script src="{% static 'assets/dashboard/vendor/libs/datatables-bs5/datatables-bootstrap5.js' %}"></script>
+
+    <!-- Axios -->
+    <script src="{% static 'assets/dashboard/vendor/libs/axios/axios.min.js' %}"></script>
+
+    <!-- Clipboard plugin -->
+    <script src="https://cdn.jsdelivr.net/npm/clipboard@2.0.11/dist/clipboard.min.js"></script>
+
+    <!-- Cleave Input plugin -->
+    <script src="{% static 'assets/dashboard/vendor/libs/cleave/dist/cleave.min.js' %}"></script>
+    <script src="{% static 'assets/dashboard/vendor/libs/cleave/dist/addons/cleave-phone.id.js' %}"></script>
+
+    <!-- Jquery Input Mask plugin -->
+    <script src="{% static 'assets/plugins/jquery/input-masks/input-masks.min.js' %}"></script>
+    <script src="{% static 'assets/plugins/jquery/input-masks/input-masks.binding.js' %}"></script>
+
+    <!-- Bootstrap Max Length plugin -->
+    <script src="{% static 'assets/dashboard/vendor/libs/bootstrap-maxlength/bootstrap-maxlength.js' %}"></script>
+
+    <!-- Moment Js -->
+    <script src="{% static 'assets/dashboard/vendor/libs/moment/moment.js' %}"></script>
+    <script src="{% static 'assets/dashboard/vendor/libs/moment/moment-with-locales.js' %}"></script>
+
+    <!-- Pure Counter Js -->
+    <script src="{% static 'assets/plugins/pure-counter/pure-counter.min.js' %}"></script>
+    <script src="{% static 'assets/dashboard/vendor/libs/moment/moment-with-locales.js' %}"></script>
+
+    <!-- Main JS -->
+    <script src="{% static 'assets/dashboard/js/bawaan/main.js' %}"></script>
+
+    <!-- Custom JS (Override default theme behavior) -->
+    <script src="{% static 'assets/dashboard/custom/js/main.js' %}"></script>
+
+    <!-- Helpers -->
+    <script src="{% static 'assets/js/initialize/select2_dashboard.js' %}"></script>
+    <script src="{% static 'assets/js/fix/select2_fix.js' %}"></script>
+    <script src="{% static 'assets/js/helpers/utils_helpers.js' %}"></script>
+    <script src="{% static 'assets/js/helpers/ajax_helpers.js' %}"></script>
+    <script src="{% static 'assets/js/helpers/alert_helpers.js' %}"></script>
+    <script src="{% static 'assets/js/helpers/datatable_helpers.js' %}"></script>
+    <script src="{% static 'assets/js/helpers/form_helpers.js' %}"></script>
+
+    <!-- Page JS -->
+    {% block js_tambahan %} {% endblock %}
+
+</body>
+
+</html>

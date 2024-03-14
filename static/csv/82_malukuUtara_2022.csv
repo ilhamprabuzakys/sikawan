@@ -1,0 +1,1194 @@
+﻿1;KOTA TERNATE;1;Ternate Selatan;1;Bastiong Talangame;Waspada
+;KOTA TERNATE;;Ternate Selatan;2;Mangga Dua;Waspada
+;KOTA TERNATE;;Ternate Selatan;3;Kayu Merah;Waspada
+;KOTA TERNATE;;Ternate Selatan;4;Kalumata;Siaga
+;KOTA TERNATE;;Ternate Selatan;5;Bastiong karance;Waspada
+;KOTA TERNATE;;Ternate Selatan;6;Tanah Tinggi Barat;Waspada
+;KOTA TERNATE;;Ternate Selatan;7;Jati;Siaga
+;KOTA TERNATE;;Ternate Selatan;8;Jati Perumnas;Siaga
+;KOTA TERNATE;;Ternate Selatan;9;Tabona;Siaga
+;KOTA TERNATE;;Ternate Selatan;10;Toboko;Siaga
+;KOTA TERNATE;;Ternate Selatan;11;Ubu-Ubo;Siaga
+;KOTA TERNATE;;Ternate Selatan;12;Fitu;Siaga
+;KOTA TERNATE;;Ternate Selatan;13;Gambesi;Siaga
+;KOTA TERNATE;;Ternate Selatan;14;Sasa;Siaga
+;KOTA TERNATE;;Ternate Selatan;15;Ngade;Siaga
+;KOTA TERNATE;;Ternate Selatan;16;Mangga Dua Utara;Siaga
+;KOTA TERNATE;;Ternate Selatan;17;Tanah Tinggi ;Siaga
+;KOTA TERNATE;2;Ternate Tengah;1;Gamalama;Waspada
+;KOTA TERNATE;;Ternate Tengah;2;Stadion;Siaga
+;KOTA TERNATE;;Ternate Tengah;3;Muhajirin;Waspada
+;KOTA TERNATE;;Ternate Tengah;4;Makassar Timur;Waspada
+;KOTA TERNATE;;Ternate Tengah;5;Maliaro;Waspada
+;KOTA TERNATE;;Ternate Tengah;6;Tanah Raja;Waspada
+;KOTA TERNATE;;Ternate Tengah;7;Takoma;Waspada
+;KOTA TERNATE;;Ternate Tengah;8;Makassar Barat;Waspada
+;KOTA TERNATE;;Ternate Tengah;9;Salahuddin;Waspada
+;KOTA TERNATE;;Ternate Tengah;10;Marikurubu;Siaga
+;KOTA TERNATE;;Ternate Tengah;11;Santiong;Siaga
+;KOTA TERNATE;;Ternate Tengah;12;Moya;Siaga
+;KOTA TERNATE;;Ternate Tengah;13;Kota Baru;Siaga
+;KOTA TERNATE;;Ternate Tengah;14;Kampung Pisang;Siaga
+;KOTA TERNATE;;Ternate Tengah;15;Kalumpang;Siaga
+;KOTA TERNATE;3;Ternate Utara;1;Dufa-Dufa;Siaga
+;KOTA TERNATE;;Ternate Utara;2;Soa;Waspada
+;KOTA TERNATE;;Ternate Utara;3;Toboleu;Waspada
+;KOTA TERNATE;;Ternate Utara;4;Salero;Waspada
+;KOTA TERNATE;;Ternate Utara;5;Soasio;Waspada
+;KOTA TERNATE;;Ternate Utara;6;Sangadji;Siaga
+;KOTA TERNATE;;Ternate Utara;7;Akehuda;Waspada
+;KOTA TERNATE;;Ternate Utara;8;Tubo;Waspada
+;KOTA TERNATE;;Ternate Utara;9;Kasturian;Waspada
+;KOTA TERNATE;;Ternate Utara;10;Tarau;Siaga
+;KOTA TERNATE;;Ternate Utara;11;Sangaji Utara;Waspada
+;KOTA TERNATE;;Ternate Utara;12;Tafure;Siaga
+;KOTA TERNATE;;Ternate Utara;13;Sango;Siaga
+;KOTA TERNATE;;Ternate Utara;14;Tabam;Aman
+;KOTA TERNATE;4;Ternate Barat;1;Sulamadaha;Siaga
+;KOTA TERNATE;;Ternate Barat;2;Takome;Siaga
+;KOTA TERNATE;;Ternate Barat;3;Tobololo;Siaga
+;KOTA TERNATE;;Ternate Barat;4;Togafo;Siaga
+;KOTA TERNATE;;Ternate Barat;5;Bula;Siaga
+;KOTA TERNATE;;Ternate Barat;6;Loto;Siaga
+;KOTA TERNATE;;Ternate Barat;7;Kulaba;Siaga
+;KOTA TERNATE;5;Pulau Ternate;1;Kastela;Siaga
+;KOTA TERNATE;;Pulau Ternate;2;Rua;Siaga
+;KOTA TERNATE;;Pulau Ternate;3;Jambula;Siaga
+;KOTA TERNATE;;Pulau Ternate;4;Foramadiahi;Aman
+;KOTA TERNATE;;Pulau Ternate;5;Dorpedu;Aman
+;KOTA TERNATE;;Pulau Ternate;6;Afe Taduma;Aman
+;KOTA TERNATE;6;Pulau Moti;1;Moti Kota;Siaga
+;KOTA TERNATE;;Pulau Moti;2;Figur;Aman
+;KOTA TERNATE;;Pulau Moti;3;Tadanes Kota;Aman
+;KOTA TERNATE;;Pulau Moti;4;Tafaga Kota;Aman
+;KOTA TERNATE;;Pulau Moti;5;Tafamutu Kota;Aman
+;KOTA TERNATE;;Pulau Moti;6;Takofii Kota;Aman
+;KOTA TERNATE;7;Batang Dua;1;Bidu;Siaga
+;KOTA TERNATE;;Batang Dua;2;Lelewi;Aman
+;KOTA TERNATE;;Batang Dua;3;Mayau;Aman
+;KOTA TERNATE;;Batang Dua;4;Pantai Sagu;Aman
+;KOTA TERNATE;;Batang Dua;5;Tifure;Aman
+;KOTA TERNATE;;Batang Dua;6;Perum Bersatu;Aman
+;KOTA TERNATE;8;Pulau Hiri;1;Togolobe;siaga
+;KOTA TERNATE;;Pulau Hiri;2;Dorari Isa;Aman
+;KOTA TERNATE;;Pulau Hiri;3;Faudu;Siaga
+;KOTA TERNATE;;Pulau Hiri;4;Mado;Aman
+;KOTA TERNATE;;Pulau Hiri;5;Tomajiko;Aman
+;KOTA TERNATE;;Pulau Hiri;6;Tafraka;Aman
+2;Kota Tidore Kepulauan;1;Tidore;1;Tomagoba ;Siaga
+;Kota Tidore Kepulauan;;Tidore;2;Indonesiana;Siaga
+;Kota Tidore Kepulauan;;Tidore;3;Tuguwaji;Waspada
+;Kota Tidore Kepulauan;;Tidore;4;Gamtufkange;Aman
+;Kota Tidore Kepulauan;;Tidore;5;Goto;Waspada
+;Kota Tidore Kepulauan;;Tidore;6;Gurabunga;Aman
+;Kota Tidore Kepulauan;;Tidore;7;Soasio;Aman
+;Kota Tidore Kepulauan;;Tidore;8;Soadara;Aman
+;Kota Tidore Kepulauan;;Tidore;9;Seli;Aman
+;Kota Tidore Kepulauan;;Tidore;10;Tambula;Aman
+;Kota Tidore Kepulauan;;Tidore;11;Folarora;Aman
+;Kota Tidore Kepulauan;;Tidore;12;Topo;Aman
+;Kota Tidore Kepulauan;;Tidore;13;Topo Tiga;Aman
+;Kota Tidore Kepulauan;2;Tidore Selatan;1;Dokiri;Aman
+;Kota Tidore Kepulauan;;Tidore Selatan;2;Gurabati;Aman
+;Kota Tidore Kepulauan;;Tidore Selatan;3;Toloa;Aman
+;Kota Tidore Kepulauan;;Tidore Selatan;4;Tomalou;Aman
+;Kota Tidore Kepulauan;;Tidore Selatan;5;Tongowai;Siaga
+;Kota Tidore Kepulauan;;Tidore Selatan;6;Tuguiha;Aman
+;Kota Tidore Kepulauan;;Tidore Selatan;7;Mare Gam;Aman
+;Kota Tidore Kepulauan;;Tidore Selatan;8;Mare Kofo;Aman
+;Kota Tidore Kepulauan;3;Tidore Utara;1;Afa-afa;Aman
+;Kota Tidore Kepulauan;;Tidore Utara;2;Bobo;Aman
+;Kota Tidore Kepulauan;;Tidore Utara;3;Fobaharu;Aman
+;Kota Tidore Kepulauan;;Tidore Utara;4;Gubu Kusuma;Aman
+;Kota Tidore Kepulauan;;Tidore Utara;5;Jaya;Aman
+;Kota Tidore Kepulauan;;Tidore Utara;6;Maitara;Aman
+;Kota Tidore Kepulauan;;Tidore Utara;7;Maitara Selatan;Aman
+;Kota Tidore Kepulauan;;Tidore Utara;8;Maitara Tengah;Aman
+;Kota Tidore Kepulauan;;Tidore Utara;9;Maitara Utara;Aman
+;Kota Tidore Kepulauan;;Tidore Utara;10;Mareku;Aman
+;Kota Tidore Kepulauan;;Tidore Utara;11;Ome;Aman
+;Kota Tidore Kepulauan;;Tidore Utara;12;Rum;Waspada
+;Kota Tidore Kepulauan;;Tidore Utara;13;Rum Balibunga;Aman
+;Kota Tidore Kepulauan;;Tidore Utara;14;Sirongo Folaraha;Aman
+;Kota Tidore Kepulauan;4;Tidore Timur;1;Cobodoe;Siaga
+;Kota Tidore Kepulauan;;Tidore Timur;2;Dowora;Aman
+;Kota Tidore Kepulauan;;Tidore Timur;3;Doyado;Aman
+;Kota Tidore Kepulauan;;Tidore Timur;4;Jiko Cobo;Aman
+;Kota Tidore Kepulauan;;Tidore Timur;5;Kalaodi;Aman
+;Kota Tidore Kepulauan;;Tidore Timur;6;Mafututu;Aman
+;Kota Tidore Kepulauan;;Tidore Timur;7;Tosa;Aman
+;Kota Tidore Kepulauan;5;Oba;1;Bale;Aman
+;Kota Tidore Kepulauan;;Oba;2;Gita;Aman
+;Kota Tidore Kepulauan;;Oba;3;Koli;Aman
+;Kota Tidore Kepulauan;;Oba;4;Kosa;Aman
+;Kota Tidore Kepulauan;;Oba;5;Kususinopa;Aman
+;Kota Tidore Kepulauan;;Oba;6;Payahe;Siaga
+;Kota Tidore Kepulauan;;Oba;7;Sigela Yef;Aman
+;Kota Tidore Kepulauan;;Oba;8;Talagamori;Aman
+;Kota Tidore Kepulauan;;Oba;9;Talasi;Aman
+;Kota Tidore Kepulauan;;Oba;10;Todopa;Aman
+;Kota Tidore Kepulauan;;Oba;11;Toseho;Aman
+;Kota Tidore Kepulauan;;Oba;12;Tului;Aman
+;Kota Tidore Kepulauan;;Oba;13;Woda;Aman
+;Kota Tidore Kepulauan;6;Oba Utara;1;Sofifi;Aman
+;Kota Tidore Kepulauan;;Oba Utara;2;Guraping;Aman
+;Kota Tidore Kepulauan;;Oba Utara;3;Somahode;Aman
+;Kota Tidore Kepulauan;;Oba Utara;4;Oba;Aman
+;Kota Tidore Kepulauan;;Oba Utara;5;Kusu;Aman
+;Kota Tidore Kepulauan;;Oba Utara;6;Kaiyasa;Aman
+;Kota Tidore Kepulauan;;Oba Utara;7;Gosale;Aman
+;Kota Tidore Kepulauan;;Oba Utara;8;Garajou;Aman
+;Kota Tidore Kepulauan;;Oba Utara;9;Galala;Aman
+;Kota Tidore Kepulauan;;Oba Utara;10;Bukit Durian;Aman
+;Kota Tidore Kepulauan;;Oba Utara;11;Balbar;Siaga
+;Kota Tidore Kepulauan;;Oba Utara;12;Ampera;Aman
+;Kota Tidore Kepulauan;;Oba Utara;13;Ake Kolano;Aman
+;Kota Tidore Kepulauan;7;Oba Tengah;1;Akelamo;Aman
+;Kota Tidore Kepulauan;;Oba Tengah;2;Akeguraci;Aman
+;Kota Tidore Kepulauan;;Oba Tengah;3;Akedotilou;Aman
+;Kota Tidore Kepulauan;;Oba Tengah;4;Akesai;Aman
+;Kota Tidore Kepulauan;;Oba Tengah;5;Aketobatu;Aman
+;Kota Tidore Kepulauan;;Oba Tengah;6;Aketobololo;Aman
+;Kota Tidore Kepulauan;;Oba Tengah;7;Baringin Jaya;Aman
+;Kota Tidore Kepulauan;;Oba Tengah;8;Fanaha;Aman
+;Kota Tidore Kepulauan;;Oba Tengah;9;Loleo;Siaga
+;Kota Tidore Kepulauan;;Oba Tengah;10;Siokona;Aman
+;Kota Tidore Kepulauan;;Oba Tengah;11;Tadupi;Aman
+;Kota Tidore Kepulauan;;Oba Tengah;12;Tauno;Aman
+;Kota Tidore Kepulauan;;Oba Tengah;13;Togeme;Aman
+;Kota Tidore Kepulauan;;Oba Tengah;14;Yehu;Aman
+;Kota Tidore Kepulauan;8;Oba Selatan;1;Hager;Aman
+;Kota Tidore Kepulauan;;Oba Selatan;2;Lifofa;Aman
+;Kota Tidore Kepulauan;;Oba Selatan;3;Maidi;Aman
+;Kota Tidore Kepulauan;;Oba Selatan;4;Nuku;Aman
+;Kota Tidore Kepulauan;;Oba Selatan;5;Selamalofo;Aman
+;Kota Tidore Kepulauan;;Oba Selatan;6;Tagalaya;Aman
+;Kota Tidore Kepulauan;;Oba Selatan;7;Wama;Aman
+3;KAB. PULAU MOROTAI;1;Morotai Selatan;1;Yayasan;Waspada
+;KAB. PULAU MOROTAI;;Morotai Selatan;2;Gotalamo;Siaga
+;KAB. PULAU MOROTAI;;Morotai Selatan;3;Wawama;Siaga
+;KAB. PULAU MOROTAI;;Morotai Selatan;4;Darame;Siaga
+;KAB. PULAU MOROTAI;;Morotai Selatan;5;Daruba;Siaga
+;KAB. PULAU MOROTAI;;Morotai Selatan;6;Pandanga;Aman
+;KAB. PULAU MOROTAI;;Morotai Selatan;7;Juanga;Aman
+;KAB. PULAU MOROTAI;;Morotai Selatan;8;Totodoku;Aman
+;KAB. PULAU MOROTAI;;Morotai Selatan;9;Momojiu;Aman
+;KAB. PULAU MOROTAI;;Morotai Selatan;10;Sabatai Baru;Aman
+;KAB. PULAU MOROTAI;;Morotai Selatan;11;Sabatai Tua;Aman
+;KAB. PULAU MOROTAI;;Morotai Selatan;12;Daeo;Aman
+;KAB. PULAU MOROTAI;;Morotai Selatan;13;Dehegila;Aman
+;KAB. PULAU MOROTAI;;Morotai Selatan;14;Pilowo;Aman
+;KAB. PULAU MOROTAI;;Morotai Selatan;15;Galo-Galo;Aman
+;KAB. PULAU MOROTAI;;Morotai Selatan;16;Koloray;Aman
+;KAB. PULAU MOROTAI;;Morotai Selatan;17;Joubela;Aman
+;KAB. PULAU MOROTAI;;Morotai Selatan;18;Aha;Aman
+;KAB. PULAU MOROTAI;;Morotai Selatan;19;Muhajirin;Aman
+;KAB. PULAU MOROTAI;;Morotai Selatan;20;Mandiri;Aman
+;KAB. PULAU MOROTAI;;Morotai Selatan;21;Falila;Aman
+;KAB. PULAU MOROTAI;;Morotai Selatan;22;Sabala;Aman
+;KAB. PULAU MOROTAI;;Morotai Selatan;23;Daeo Majiko;Aman
+;KAB. PULAU MOROTAI;;Morotai Selatan;24;Morodadi;Aman
+;KAB. PULAU MOROTAI;;Morotai Selatan;25;Nakamura;Aman
+;KAB. PULAU MOROTAI;2;Morotai Selatan Barat;1;Wayabula;Aman
+;KAB. PULAU MOROTAI;;Morotai Selatan Barat;2;Tiley;Aman
+;KAB. PULAU MOROTAI;;Morotai Selatan Barat;3;Ngele-Ngele Kecil;Aman
+;KAB. PULAU MOROTAI;;Morotai Selatan Barat;4;Cucumare;Aman
+;KAB. PULAU MOROTAI;;Morotai Selatan Barat;5;Aru Irian;Aman
+;KAB. PULAU MOROTAI;;Morotai Selatan Barat;6;Waringin;Aman
+;KAB. PULAU MOROTAI;;Morotai Selatan Barat;7;Tutuhu;Aman
+;KAB. PULAU MOROTAI;;Morotai Selatan Barat;8;Cio Gerong;Aman
+;KAB. PULAU MOROTAI;;Morotai Selatan Barat;9;Ngele-Ngele Besar;Aman
+;KAB. PULAU MOROTAI;;Morotai Selatan Barat;10;Raja;Aman
+;KAB. PULAU MOROTAI;;Morotai Selatan Barat;11;Cio Dalam;Aman
+;KAB. PULAU MOROTAI;;Morotai Selatan Barat;12;Usbar Pantai;Aman
+;KAB. PULAU MOROTAI;;Morotai Selatan Barat;13;Tiley Pantai;Aman
+;KAB. PULAU MOROTAI;;Morotai Selatan Barat;14;Cio Maloleo;Aman
+;KAB. PULAU MOROTAI;;Morotai Selatan Barat;15;Posi-Posi;Aman
+;KAB. PULAU MOROTAI;;Morotai Selatan Barat;16;Aru Burung;Aman
+;KAB. PULAU MOROTAI;;Morotai Selatan Barat;17;Lao Madoro;Aman
+;KAB. PULAU MOROTAI;;Morotai Selatan Barat;18;Leo Leo;Aman
+;KAB. PULAU MOROTAI;;Morotai Selatan Barat;19;Sami Nyamau;Aman
+;KAB. PULAU MOROTAI;;Morotai Selatan Barat;20;Bobula;Aman
+;KAB. PULAU MOROTAI;3;Morotai Jaya;1;Pangeo;Aman
+;KAB. PULAU MOROTAI;;Morotai Jaya;2;Sopi;Aman
+;KAB. PULAU MOROTAI;;Morotai Jaya;3;Bere Bere Kecil;Aman
+;KAB. PULAU MOROTAI;;Morotai Jaya;4;Titigogoli;Aman
+;KAB. PULAU MOROTAI;;Morotai Jaya;5;Hapo;Aman
+;KAB. PULAU MOROTAI;;Morotai Jaya;6;Libano;Aman
+;KAB. PULAU MOROTAI;;Morotai Jaya;7;Aru;Aman
+;KAB. PULAU MOROTAI;;Morotai Jaya;8;Towara;Aman
+;KAB. PULAU MOROTAI;;Morotai Jaya;9;Cendana;Aman
+;KAB. PULAU MOROTAI;;Morotai Jaya;10;Podimor Padange;Aman
+;KAB. PULAU MOROTAI;;Morotai Jaya;11;Sopi Majiko;Aman
+;KAB. PULAU MOROTAI;;Morotai Jaya;12;Gorugo;Aman
+;KAB. PULAU MOROTAI;;Morotai Jaya;13;Loleo;Aman
+;KAB. PULAU MOROTAI;;Morotai Jaya;14;Cempaka;Aman
+;KAB. PULAU MOROTAI;4;Morotai Utara;1;Bere-Bere;Siaga
+;KAB. PULAU MOROTAI;;Morotai Utara;2;Sakita;Aman
+;KAB. PULAU MOROTAI;;Morotai Utara;3;Tawakali;Aman
+;KAB. PULAU MOROTAI;;Morotai Utara;4;Yao;Aman
+;KAB. PULAU MOROTAI;;Morotai Utara;5;Bido;Aman
+;KAB. PULAU MOROTAI;;Morotai Utara;6;Gorua;Aman
+;KAB. PULAU MOROTAI;;Morotai Utara;7;Korago;Aman
+;KAB. PULAU MOROTAI;;Morotai Utara;8;Lusuo;Aman
+;KAB. PULAU MOROTAI;;Morotai Utara;9;Kenari;Aman
+;KAB. PULAU MOROTAI;;Morotai Utara;10;Loleo Jaya;Aman
+;KAB. PULAU MOROTAI;;Morotai Utara;11;Maba;Aman
+;KAB. PULAU MOROTAI;;Morotai Utara;12;Tanjung Saleh;Aman
+;KAB. PULAU MOROTAI;;Morotai Utara;13;Goa Hira;Aman
+;KAB. PULAU MOROTAI;;Morotai Utara;14;Gorua Selatan;Aman
+;KAB. PULAU MOROTAI;5;Morotai Timur;1;Buho-Buho;Aman
+;KAB. PULAU MOROTAI;;Morotai Timur;2;Wewemo;Aman
+;KAB. PULAU MOROTAI;;Morotai Timur;3;Mira;Aman
+;KAB. PULAU MOROTAI;;Morotai Timur;4;Lifao;Aman
+;KAB. PULAU MOROTAI;;Morotai Timur;5;Rahmat;Aman
+;KAB. PULAU MOROTAI;;Morotai Timur;6;Sambiki Tua;Aman
+;KAB. PULAU MOROTAI;;Morotai Timur;7;Sangowo;Aman
+;KAB. PULAU MOROTAI;;Morotai Timur;8;Sambiki Baru;Aman
+;KAB. PULAU MOROTAI;;Morotai Timur;9;Sangowo Barat;Aman
+;KAB. PULAU MOROTAI;;Morotai Timur;10;Sangowo Timur;Aman
+;KAB. PULAU MOROTAI;;Morotai Timur;11;Seseli Jaya;Aman
+;KAB. PULAU MOROTAI;;Morotai Timur;12;Hino;Aman
+;KAB. PULAU MOROTAI;;Morotai Timur;13;Gosoma Maluku;Aman
+;KAB. PULAU MOROTAI;;Morotai Timur;14;Gamlamo;Aman
+;KAB. PULAU MOROTAI;;Morotai Timur;15;Doku Mira;Aman
+;KAB. PULAU MOROTAI;6;Pulau Rao;1;Posi-Posi;Aman
+;KAB. PULAU MOROTAI;;Pulau Rao;2;Aru Burung;Aman
+;KAB. PULAU MOROTAI;;Pulau Rao;3;Loumadoro;Aman
+;KAB. PULAU MOROTAI;;Pulau Rao;4;Leo-Leo;Aman
+;KAB. PULAU MOROTAI;;Pulau Rao;5;Saminyamau;Aman
+3;KAB. HALMAHERA BARAT;1;Jailolo;1;Gufasa;Waspada
+;KAB. HALMAHERA BARAT;;Jailolo;2;Guaemadu;Waspada
+;KAB. HALMAHERA BARAT;;Jailolo;3;Galala;Waspada
+;KAB. HALMAHERA BARAT;;Jailolo;4;Acango;Aman
+;KAB. HALMAHERA BARAT;;Jailolo;5;Akediri;Aman
+;KAB. HALMAHERA BARAT;;Jailolo;6;Bobanehena;Aman
+;KAB. HALMAHERA BARAT;;Jailolo;7;Bobo;Aman
+;KAB. HALMAHERA BARAT;;Jailolo;8;Buku Bualawa;Aman
+;KAB. HALMAHERA BARAT;;Jailolo;9;Bukumatiti;Aman
+;KAB. HALMAHERA BARAT;;Jailolo;10;Gamlamo;Aman
+;KAB. HALMAHERA BARAT;;Jailolo;11;Gamtala;Aman
+;KAB. HALMAHERA BARAT;;Jailolo;12;Guaeria;Aman
+;KAB. HALMAHERA BARAT;;Jailolo;13;Hate Bicara;Aman
+;KAB. HALMAHERA BARAT;;Jailolo;14;Hoku-hoku Kie;Aman
+;KAB. HALMAHERA BARAT;;Jailolo;15;Idamdehe;Aman
+;KAB. HALMAHERA BARAT;;Jailolo;16;Idamdehe Gamsungi;Aman
+;KAB. HALMAHERA BARAT;;Jailolo;17;Jalan Baru;Aman
+;KAB. HALMAHERA BARAT;;Jailolo;18;Lolory;Aman
+;KAB. HALMAHERA BARAT;;Jailolo;19;Marmabati;Aman
+;KAB. HALMAHERA BARAT;;Jailolo;20;Matui;Aman
+;KAB. HALMAHERA BARAT;;Jailolo;21;Payo;Aman
+;KAB. HALMAHERA BARAT;;Jailolo;22;Pornity;Aman
+;KAB. HALMAHERA BARAT;;Jailolo;23;Saria;Aman
+;KAB. HALMAHERA BARAT;;Jailolo;24;Soakonora;Aman
+;KAB. HALMAHERA BARAT;;Jailolo;25;Taboso;Aman
+;KAB. HALMAHERA BARAT;;Jailolo;26;Tedeng;Aman
+;KAB. HALMAHERA BARAT;;Jailolo;27;Tauro;Aman
+;KAB. HALMAHERA BARAT;;Jailolo;28;Todowangi;Aman
+;KAB. HALMAHERA BARAT;;Jailolo;29;Tuada;Aman
+;KAB. HALMAHERA BARAT;;Jailolo;30;Pateng;Aman
+;KAB. HALMAHERA BARAT;;Jailolo;31;Bobo Jiko;Aman
+;KAB. HALMAHERA BARAT;;Jailolo;32;Ulo;Aman
+;KAB. HALMAHERA BARAT;;Jailolo;33;Kuripasai;Aman
+;KAB. HALMAHERA BARAT;;Jailolo;34;Buku Maadu;Aman
+;KAB. HALMAHERA BARAT;2;Jailolo Selatan;1;Ake Jailolo;Aman
+;KAB. HALMAHERA BARAT;;Jailolo Selatan;2;Akeara;Aman
+;KAB. HALMAHERA BARAT;;Jailolo Selatan;3;Akelaha ;Aman
+;KAB. HALMAHERA BARAT;;Jailolo Selatan;4;Bangkit Rahmat;Aman
+;KAB. HALMAHERA BARAT;;Jailolo Selatan;5;Biamaahi;Aman
+;KAB. HALMAHERA BARAT;;Jailolo Selatan;6;Braha;Aman
+;KAB. HALMAHERA BARAT;;Jailolo Selatan;7;Dodinga;Aman
+;KAB. HALMAHERA BARAT;;Jailolo Selatan;8;Domato;Aman
+;KAB. HALMAHERA BARAT;;Jailolo Selatan;9;Gamlenge;Aman
+;KAB. HALMAHERA BARAT;;Jailolo Selatan;10;Moiso;Aman
+;KAB. HALMAHERA BARAT;;Jailolo Selatan;11;Rioribati;Aman
+;KAB. HALMAHERA BARAT;;Jailolo Selatan;12;Sidangoli Dehe;Aman
+;KAB. HALMAHERA BARAT;;Jailolo Selatan;13;Sidangoli Gam;Aman
+;KAB. HALMAHERA BARAT;;Jailolo Selatan;14;Taba Damai;Aman
+;KAB. HALMAHERA BARAT;;Jailolo Selatan;15;Tataleka;Aman
+;KAB. HALMAHERA BARAT;;Jailolo Selatan;16;Tewe;Aman
+;KAB. HALMAHERA BARAT;;Jailolo Selatan;17;Toniku;Aman
+;KAB. HALMAHERA BARAT;;Jailolo Selatan;18;Tuguraci;Aman
+;KAB. HALMAHERA BARAT;3;Jailolo Timur;1;Akelamo Raya;Siaga
+;KAB. HALMAHERA BARAT;;Jailolo Timur;2;Bobane Igo;Siaga
+;KAB. HALMAHERA BARAT;;Jailolo Timur;3;Dum-Dum;Siaga
+;KAB. HALMAHERA BARAT;;Jailolo Timur;4;Gamsungi;Aman
+;KAB. HALMAHERA BARAT;;Jailolo Timur;5;Pasir Putih;Aman
+;KAB. HALMAHERA BARAT;;Jailolo Timur;6;Tetewang;Aman
+;KAB. HALMAHERA BARAT;4;Ibu;1;Akesibu;Aman
+;KAB. HALMAHERA BARAT;;Ibu;2;Gam Ici;Aman
+;KAB. HALMAHERA BARAT;;Ibu;3;Gam Lamo;Aman
+;KAB. HALMAHERA BARAT;;Ibu;4;Kie Ici;Aman
+;KAB. HALMAHERA BARAT;;Ibu;5;Maritango;Aman
+;KAB. HALMAHERA BARAT;;Ibu;6;Naga;Aman
+;KAB. HALMAHERA BARAT;;Ibu;7;Tahafo;Aman
+;KAB. HALMAHERA BARAT;;Ibu;8;Tabaol;Aman
+;KAB. HALMAHERA BARAT;;Ibu;9;Tagola Sanger;Aman
+;KAB. HALMAHERA BARAT;;Ibu;10;Tagola Wayolo;Aman
+;KAB. HALMAHERA BARAT;;Ibu;11;Tongute Goin;Aman
+;KAB. HALMAHERA BARAT;;Ibu;12;Tongute Sungi;Aman
+;KAB. HALMAHERA BARAT;;Ibu;13;Tosoa ;Siaga
+;KAB. HALMAHERA BARAT;;Ibu;14;Soasana Masungi;Aman
+;KAB. HALMAHERA BARAT;;Ibu;15;Ake Boso;Aman
+;KAB. HALMAHERA BARAT;;Ibu;16;Kampung baru;Aman
+;KAB. HALMAHERA BARAT;;Ibu;17;Tongute Ternate Selatan;Aman
+;KAB. HALMAHERA BARAT;5;Ibu Selatan;1;Adu;Aman
+;KAB. HALMAHERA BARAT;;Ibu Selatan;2;Baru;Aman
+;KAB. HALMAHERA BARAT;;Ibu Selatan;3;Bataka;Aman
+;KAB. HALMAHERA BARAT;;Ibu Selatan;4;Gamkonora;Aman
+;KAB. HALMAHERA BARAT;;Ibu Selatan;5;Gamsungi;Aman
+;KAB. HALMAHERA BARAT;;Ibu Selatan;6;Jere;Aman
+;KAB. HALMAHERA BARAT;;Ibu Selatan;7;Nanas;Aman
+;KAB. HALMAHERA BARAT;;Ibu Selatan;8;Ngawet;Aman
+;KAB. HALMAHERA BARAT;;Ibu Selatan;9;Sarau;Aman
+;KAB. HALMAHERA BARAT;;Ibu Selatan;10;Talaga;Aman
+;KAB. HALMAHERA BARAT;;Ibu Selatan;11;Tobelos;Aman
+;KAB. HALMAHERA BARAT;;Ibu Selatan;12;Tobobol;Aman
+;KAB. HALMAHERA BARAT;;Ibu Selatan;13;Gamsida;Aman
+;KAB. HALMAHERA BARAT;;Ibu Selatan;14;Ngalo Ngalo;Aman
+;KAB. HALMAHERA BARAT;;Ibu Selatan;15;Tuguaer;Aman
+;KAB. HALMAHERA BARAT;;Ibu Selatan;16;Tosoa;Aman
+;KAB. HALMAHERA BARAT;6;Ibu Utara;1;Borona;Aman
+;KAB. HALMAHERA BARAT;;Ibu Utara;2;Duono;Aman
+;KAB. HALMAHERA BARAT;;Ibu Utara;3;Goin;Aman
+;KAB. HALMAHERA BARAT;;Ibu Utara;4;Pasalulu;Aman
+;KAB. HALMAHERA BARAT;;Ibu Utara;5;Podol;Aman
+;KAB. HALMAHERA BARAT;;Ibu Utara;6;Sangaji Nyeku;Aman
+;KAB. HALMAHERA BARAT;;Ibu Utara;7;Tengowango;Aman
+;KAB. HALMAHERA BARAT;;Ibu Utara;8;Todoke;Aman
+;KAB. HALMAHERA BARAT;;Ibu Utara;9;Togoreba Tua;Aman
+;KAB. HALMAHERA BARAT;;Ibu Utara;10;Togoreba Sungi;Aman
+;KAB. HALMAHERA BARAT;;Ibu Utara;11;Togowo;Aman
+;KAB. HALMAHERA BARAT;;Ibu Utara;12;Tolisaor;Aman
+;KAB. HALMAHERA BARAT;;Ibu Utara;13;Tuguis;Aman
+;KAB. HALMAHERA BARAT;;Ibu Utara;14;Tukuoku;Aman
+;KAB. HALMAHERA BARAT;;Ibu Utara;15;Soasangaji;Aman
+;KAB. HALMAHERA BARAT;;Ibu Utara;16;Aru Jaya;Aman
+;KAB. HALMAHERA BARAT;7;Loloda;1;Baja;Aman
+;KAB. HALMAHERA BARAT;;Loloda;2;Bakun;Aman
+;KAB. HALMAHERA BARAT;;Loloda;3;Bakun Pantai;Aman
+;KAB. HALMAHERA BARAT;;Loloda;4;Barataku;Aman
+;KAB. HALMAHERA BARAT;;Loloda;5;Bosala;Aman
+;KAB. HALMAHERA BARAT;;Loloda;6;Buo;Aman
+;KAB. HALMAHERA BARAT;;Loloda;7;Gam Kahe;Aman
+;KAB. HALMAHERA BARAT;;Loloda;8;Jangailulu;Aman
+;KAB. HALMAHERA BARAT;;Loloda;9;Jano;Aman
+;KAB. HALMAHERA BARAT;;Loloda;10;Kahatola;Aman
+;KAB. HALMAHERA BARAT;;Loloda;11;Kedi;Aman
+;KAB. HALMAHERA BARAT;;Loloda;12;Laba Besar;Aman
+;KAB. HALMAHERA BARAT;;Loloda;13;Laba Kecil;Aman
+;KAB. HALMAHERA BARAT;;Loloda;14;Puma Dadar;Aman
+;KAB. HALMAHERA BARAT;;Loloda;15;Salu;Aman
+;KAB. HALMAHERA BARAT;;Loloda;16;Soasio;Aman
+;KAB. HALMAHERA BARAT;;Loloda;17;Tasye;Aman
+;KAB. HALMAHERA BARAT;;Loloda;18;Tolofuo;Aman
+;KAB. HALMAHERA BARAT;;Loloda;19;Tosomolo;Aman
+;KAB. HALMAHERA BARAT;;Loloda;20;Totala Jaya;Aman
+;KAB. HALMAHERA BARAT;;Loloda;21;Tuakara;Aman
+;KAB. HALMAHERA BARAT;;Loloda;22;Tuguis;Aman
+;KAB. HALMAHERA BARAT;;Loloda;23;Jange Lili;Aman
+;KAB. HALMAHERA BARAT;;Loloda;24;Bantoli;Aman
+;KAB. HALMAHERA BARAT;;Loloda;25;Linggua;Aman
+;KAB. HALMAHERA BARAT;;Loloda;26;Tomodo;Aman
+;KAB. HALMAHERA BARAT;;Loloda;27;Aruku;Aman
+;KAB. HALMAHERA BARAT;8;Sahu;1;Balisoang;Aman
+;KAB. HALMAHERA BARAT;;Sahu;2;Golo;Aman
+;KAB. HALMAHERA BARAT;;Sahu;3;Goro-Goro;Aman
+;KAB. HALMAHERA BARAT;;Sahu;4;Jara Kore;Aman
+;KAB. HALMAHERA BARAT;;Sahu;5;Lako Akediri;Aman
+;KAB. HALMAHERA BARAT;;Sahu;6;Lako Akelamo;Aman
+;KAB. HALMAHERA BARAT;;Sahu;7;Peot;Aman
+;KAB. HALMAHERA BARAT;;Sahu;8;Ropu Tengah Balu;Aman
+;KAB. HALMAHERA BARAT;;Sahu;9;Sasur;Aman
+;KAB. HALMAHERA BARAT;;Sahu;10;Susupu;Aman
+;KAB. HALMAHERA BARAT;;Sahu;11;Tacim;Aman
+;KAB. HALMAHERA BARAT;;Sahu;12;Taraudu;Aman
+;KAB. HALMAHERA BARAT;;Sahu;13;Taruba;Aman
+;KAB. HALMAHERA BARAT;;Sahu;14;Todahe;Aman
+;KAB. HALMAHERA BARAT;;Sahu;15;Tacici;Aman
+;KAB. HALMAHERA BARAT;;Sahu;16;Worat-Worat;Aman
+;KAB. HALMAHERA BARAT;;Sahu;17;Dere;Aman
+;KAB. HALMAHERA BARAT;;Sahu;18;Balisoan Utara;Aman
+;KAB. HALMAHERA BARAT;;Sahu;19;Sasur Pantai;Aman
+;KAB. HALMAHERA BARAT;9;Sahu Timur;1;Akelamo;Aman
+;KAB. HALMAHERA BARAT;;Sahu Timur;2;Aketola;Aman
+;KAB. HALMAHERA BARAT;;Sahu Timur;3;Awer;Aman
+;KAB. HALMAHERA BARAT;;Sahu Timur;4;Campaka;Aman
+;KAB. HALMAHERA BARAT;;Sahu Timur;5;Gamiyel;Aman
+;KAB. HALMAHERA BARAT;;Sahu Timur;6;Gamomeng;Aman
+;KAB. HALMAHERA BARAT;;Sahu Timur;7;Gamsungi ;Aman
+;KAB. HALMAHERA BARAT;;Sahu Timur;8;Goal;Aman
+;KAB. HALMAHERA BARAT;;Sahu Timur;9;Golago Kusuma;Aman
+;KAB. HALMAHERA BARAT;;Sahu Timur;10;Hoku-Hoku Gam;Aman
+;KAB. HALMAHERA BARAT;;Sahu Timur;11;Idamgamlango;Aman
+;KAB. HALMAHERA BARAT;;Sahu Timur;12;Loce;Aman
+;KAB. HALMAHERA BARAT;;Sahu Timur;13;Ngaon;Aman
+;KAB. HALMAHERA BARAT;;Sahu Timur;14;Taba Campaka;Aman
+;KAB. HALMAHERA BARAT;;Sahu Timur;15;Taraudu Kusu;Aman
+;KAB. HALMAHERA BARAT;;Sahu Timur;16;Tibobo;Aman
+;KAB. HALMAHERA BARAT;;Sahu Timur;17;Sidodadi;Aman
+;KAB. HALMAHERA BARAT;;Sahu Timur;18;Air Panas;Aman
+6;Halmahera Utara;1;Tobelo;1;Gosoma;Siaga
+;Halmahera Utara;;Tobelo;2;Desa Gamsungi;Waspada
+;Halmahera Utara;;Tobelo;3;Desa Gura;Aman
+;Halmahera Utara;;Tobelo;4;Desa Kakara;Aman
+;Halmahera Utara;;Tobelo;5;Desa Kumo;Aman
+;Halmahera Utara;;Tobelo;6;MKCM;Aman
+;Halmahera Utara;;Tobelo;7;Rawajaya;Siaga
+;Halmahera Utara;;Tobelo;8;Tagalaya;Aman
+;Halmahera Utara;;Tobelo;9;Wari;Aman
+;Halmahera Utara;;Tobelo;10;Wari Ino;Aman
+;Halmahera Utara;2;Tobelo Tengah;1;Kali Upa;Aman
+;Halmahera Utara;;Tobelo Tengah;2;Kalipitu;Aman
+;Halmahera Utara;;Tobelo Tengah;3;Lina Ino;Aman
+;Halmahera Utara;;Tobelo Tengah;4;Mahia;Aman
+;Halmahera Utara;;Tobelo Tengah;5;Pitu;Aman
+;Halmahera Utara;;Tobelo Tengah;6;Tanjung Niara;Aman
+;Halmahera Utara;;Tobelo Tengah;7;Upa;Aman
+;Halmahera Utara;;Tobelo Tengah;8;WKO;Aman
+;Halmahera Utara;;Tobelo Tengah;9;Wosia;Aman
+;Halmahera Utara;3;Tobelo Selatan;1;Efi-Efi;Aman
+;Halmahera Utara;;Tobelo Selatan;2;Gamhoku;Aman
+;Halmahera Utara;;Tobelo Selatan;3;Kakara;Aman
+;Halmahera Utara;;Tobelo Selatan;4;Kupa-Kupa;Aman
+;Halmahera Utara;;Tobelo Selatan;5;Kupa-Kupa Selatan;Aman
+;Halmahera Utara;;Tobelo Selatan;6;Leleoto;Aman
+;Halmahera Utara;;Tobelo Selatan;7;Lemah Ino;Aman
+;Halmahera Utara;;Tobelo Selatan;8;Paca;Aman
+;Halmahera Utara;;Tobelo Selatan;9;Pale;Aman
+;Halmahera Utara;;Tobelo Selatan;10;;Talaga Paca;Aman
+;Halmahera Utara;;Tobelo Selatan;11;Tioua;Aman
+;Halmahera Utara;;Tobelo Selatan;12;Tobe;Aman
+;Halmahera Utara;;Tobelo Selatan;13;Tomahalu;Aman
+;Halmahera Utara;4;Tobelo Utara;1;Gorua;Siaga
+;Halmahera Utara;;Tobelo Utara;2;Gorua Utara;Aman
+;Halmahera Utara;;Tobelo Utara;3;Gorua Selatan;Aman
+;Halmahera Utara;;Tobelo Utara;4;Kokota Jaya;Aman
+;Halmahera Utara;;Tobelo Utara;5;Luari;Aman
+;Halmahera Utara;;Tobelo Utara;6;Popilo;Aman
+;Halmahera Utara;;Tobelo Utara;7;Popilo Utara;Aman
+;Halmahera Utara;;Tobelo Utara;8;Ruko;Aman
+;Halmahera Utara;;Tobelo Utara;9;Tolonua Selatan;Aman
+;Halmahera Utara;;Tobelo Utara;10;Tolonuo;Aman
+;Halmahera Utara;5;Tobelo Timur;1;Gonga;Aman
+;Halmahera Utara;;Tobelo Timur;2;Mawea;Aman
+;Halmahera Utara;;Tobelo Timur;3;Katana;Aman
+;Halmahera Utara;;Tobelo Timur;4;Meti;Aman
+;Halmahera Utara;;Tobelo Timur;5;Todokuiha;Aman
+;Halmahera Utara;;Tobelo Timur;6;Yaro;Aman
+;Halmahera Utara;6;Tobelo Barat;1;Birinoa;Aman
+;Halmahera Utara;;Tobelo Barat;2;Kusuri;Aman
+;Halmahera Utara;;Tobelo Barat;3;Sukamaju;Aman
+;Halmahera Utara;;Tobelo Barat;4;Togoliua;Aman
+;Halmahera Utara;;Tobelo Barat;5;Wangongira;Aman
+;Halmahera Utara;7;Galela;1;Barataku;Aman
+;Halmahera Utara;;Galela;2;Mamuya;Aman
+;Halmahera Utara;;Galela;3;Pune;Aman
+;Halmahera Utara;;Galela;4;Simau;Aman
+;Halmahera Utara;;Galela;5;Soa-sio;Siaga
+;Halmahera Utara;;Galela;6;Towara;Aman
+;Halmahera Utara;;Galela;7;Toweka;Aman
+;Halmahera Utara;8;Galela Barat;1;Dokulamo;Siaga
+;Halmahera Utara;;Galela Barat;2;Duma;Aman
+;Halmahera Utara;;Galela Barat;3;Gotalamo;Aman
+;Halmahera Utara;;Galela Barat;4;Kira;Aman
+;Halmahera Utara;;Galela Barat;5;Makete;Aman
+;Halmahera Utara;;Galela Barat;6;Ngidiho;Aman
+;Halmahera Utara;;Galela Barat;7;Roko;Aman
+;Halmahera Utara;;Galela Barat;8;Samuda;Aman
+;Halmahera Utara;;Galela Barat;9;Soatobaru;Aman
+;Halmahera Utara;9;Galela Utara;1;Beringin Jaya;Aman
+;Halmahera Utara;;Galela Utara;2;Bobisingo;Aman
+;Halmahera Utara;;Galela Utara;3;Dodowo;Aman
+;Halmahera Utara;;Galela Utara;4;Jere;Aman
+;Halmahera Utara;;Galela Utara;5;Jere Tua;Aman
+;Halmahera Utara;;Galela Utara;6;Lalonga;Aman
+;Halmahera Utara;;Galela Utara;7;Limau;Aman
+;Halmahera Utara;;Galela Utara;8;Pelita;Aman
+;Halmahera Utara;;Galela Utara;9;Salimuli;Aman
+;Halmahera Utara;;Galela Utara;10;Saluta;Aman
+;Halmahera Utara;;Galela Utara;11;Togasa;Aman
+;Halmahera Utara;;Galela Utara;12;Tutumaloleo;Aman
+;Halmahera Utara;10;Galela Selatan;1;Bale;Aman
+;Halmahera Utara;;Galela Selatan;2;Igobula;Aman
+;Halmahera Utara;;Galela Selatan;3;Ori;Aman
+;Halmahera Utara;;Galela Selatan;4;Seki;Aman
+;Halmahera Utara;;Galela Selatan;5;Soakonora;Aman
+;Halmahera Utara;;Galela Selatan;6;Togawa;Aman
+;Halmahera Utara;;Galela Selatan;7;Togawabesi;Aman
+;Halmahera Utara;11;Loloda Utara;1;Apule;Aman
+;Halmahera Utara;;Loloda Utara;2;Asimiro;Aman
+;Halmahera Utara;;Loloda Utara;3;Doitia;Aman
+;Halmahera Utara;;Loloda Utara;4;Dorume;Aman
+;Halmahera Utara;;Loloda Utara;5;Galao;Aman
+;Halmahera Utara;;Loloda Utara;6;Gisik;Aman
+;Halmahera Utara;;Loloda Utara;7;Igo;Aman
+;Halmahera Utara;;Loloda Utara;8;Kailupa;Aman
+;Halmahera Utara;;Loloda Utara;9;Kapa Kapa;Aman
+;Halmahera Utara;;Loloda Utara;10;Momojiu;Aman
+;Halmahera Utara;;Loloda Utara;11;Ngajam;Aman
+;Halmahera Utara;;Loloda Utara;12;Pacao;Aman
+;Halmahera Utara;;Loloda Utara;13;Podol;Aman
+;Halmahera Utara;;Loloda Utara;14;Posi-Posi;Aman
+;Halmahera Utara;;Loloda Utara;15;Supu;Aman
+;Halmahera Utara;;Loloda Utara;16;Tate;Aman
+;Halmahera Utara;;Loloda Utara;17;Teru-Teru;Aman
+;Halmahera Utara;;Loloda Utara;18;Wori Moi;Aman
+;Halmahera Utara;12;Loloda Kepulauan;1;Cera;Aman
+;Halmahera Utara;;Loloda Kepulauan;2;Dagasuli;Aman
+;Halmahera Utara;;Loloda Kepulauan;3;Dama;Aman
+;Halmahera Utara;;Loloda Kepulauan;4;Dedeta;Aman
+;Halmahera Utara;;Loloda Kepulauan;5;Dowonggila;Aman
+;Halmahera Utara;;Loloda Kepulauan;6;Fitako;Aman
+;Halmahera Utara;;Loloda Kepulauan;7;Jikolamo;Aman
+;Halmahera Utara;;Loloda Kepulauan;8;Salube;Aman
+;Halmahera Utara;;Loloda Kepulauan;9;Tobo Tobo;Aman
+;Halmahera Utara;;Loloda Kepulauan;10;Tuakara;Aman
+;Halmahera Utara;13;Malifut;1;Balisosang;Aman
+;Halmahera Utara;;Malifut;2;Desa Bobawa;Aman
+;Halmahera Utara;;Malifut;3;Bukit Tinggi;Aman
+;Halmahera Utara;;Malifut;4;Gayok;Aman
+;Halmahera Utara;;Malifut;5;Mailoa;Aman
+;Halmahera Utara;;Malifut;6;Malapa;Aman
+;Halmahera Utara;;Malifut;7;Matsa;Aman
+;Halmahera Utara;;Malifut;8;Ngofa Bobawa;Aman
+;Halmahera Utara;;Malifut;9;Ngofa Gita;Aman
+;Halmahera Utara;;Malifut;10;Ngofa Kiaha;Aman
+;Halmahera Utara;;Malifut;11;Peleri;Aman
+;Halmahera Utara;;Malifut;12;Sabaleh;Aman
+;Halmahera Utara;;Malifut;13;Samsuma;Aman
+;Halmahera Utara;;Malifut;14;Soma;Aman
+;Halmahera Utara;;Malifut;15;Sosol/Malifut;Aman
+;Halmahera Utara;;Malifut;16;Tabobo;Aman
+;Halmahera Utara;;Malifut;17;Tafasoho;Aman
+;Halmahera Utara;;Malifut;18;Tagono;Aman
+;Halmahera Utara;;Malifut;19;Tahane;Aman
+;Halmahera Utara;;Malifut;20;Talapao;Aman
+;Halmahera Utara;;Malifut;21;Terpadu;Aman
+;Halmahera Utara;;Malifut;22;Wangeotek;Aman
+;Halmahera Utara;14;Kao;1;Biang;Aman
+;Halmahera Utara;;Kao;2;Goruang;Aman
+;Halmahera Utara;;Kao;3;Jati;Aman
+;Halmahera Utara;;Kao;4;Kao;Aman
+;Halmahera Utara;;Kao;5;Kukumutuk;Aman
+;Halmahera Utara;;Kao;6;Kusu;Aman
+;Halmahera Utara;;Kao;7;Kusu Lofra;Aman
+;Halmahera Utara;;Kao;8;Patang;Aman
+;Halmahera Utara;;Kao;9;Popon;Aman
+;Halmahera Utara;;Kao;10;Sasur;Aman
+;Halmahera Utara;;Kao;11;Soa Sangaji Dim-Dim;Aman
+;Halmahera Utara;;Kao;12;Sumber Agung;Aman
+;Halmahera Utara;;Kao;13;Waringin Lamo;Aman
+;Halmahera Utara;;Kao;14;Waringin Lelewi;Aman
+;Halmahera Utara;15;Kao Utara;1;Bobale;Aman
+;Halmahera Utara;;Kao Utara;2;Bori;Aman
+;Halmahera Utara;;Kao Utara;3;Boulamo;Aman
+;Halmahera Utara;;Kao Utara;4;Daru;Aman
+;Halmahera Utara;;Kao Utara;5;Doro;Aman
+;Halmahera Utara;;Kao Utara;6;Dowongimaiti;Aman
+;Halmahera Utara;;Kao Utara;7;Gamlaha;Aman
+;Halmahera Utara;;Kao Utara;8;Gulo;Aman
+;Halmahera Utara;;Kao Utara;9;Pediwang;Aman
+;Halmahera Utara;;Kao Utara;10;Tunuo;Aman
+;Halmahera Utara;;Kao Utara;11;Warudu;Aman
+;Halmahera Utara;;Kao Utara;12;Wateto;Aman
+;Halmahera Utara;16;Kao Barat;1;Bailengit;Aman
+;Halmahera Utara;;Kao Barat;2;Beringin Agung;Aman
+;Halmahera Utara;;Kao Barat;3;Gaga Apok;Aman
+;Halmahera Utara;;Kao Barat;4;Kai;Aman
+;Halmahera Utara;;Kao Barat;5;Leleseng;Aman
+;Halmahera Utara;;Kao Barat;6;Makarti;Aman
+;Halmahera Utara;;Kao Barat;7;Margomulyo;Aman
+;Halmahera Utara;;Kao Barat;8;Momoda;Aman
+;Halmahera Utara;;Kao Barat;9;Ngoali;Aman
+;Halmahera Utara;;Kao Barat;10;Parseba;Aman
+;Halmahera Utara;;Kao Barat;11;Pitago;Aman
+;Halmahera Utara;;Kao Barat;12;Sangaji Jaya;Aman
+;Halmahera Utara;;Kao Barat;13;Soa Hukum;Aman
+;Halmahera Utara;;Kao Barat;14;Soa Maetek;Aman
+;Halmahera Utara;;Kao Barat;15;Takimo;Aman
+;Halmahera Utara;;Kao Barat;16;Toboulamo;Aman
+;Halmahera Utara;;Kao Barat;17;Tolabit;Aman
+;Halmahera Utara;;Kao Barat;18;Toliwang;Aman
+;Halmahera Utara;;Kao Barat;19;Torawat;Aman
+;Halmahera Utara;;Kao Barat;20;Tuguis;Aman
+;Halmahera Utara;;Kao Barat;21;Wonosari;Aman
+;Halmahera Utara;17;Kao Teluk;1;Akelamo Kao;Aman
+;Halmahera Utara;;Kao Teluk;2;Barumadehe;Aman
+;Halmahera Utara;;Kao Teluk;3;Bobaneigo;Aman
+;Halmahera Utara;;Kao Teluk;4;Dum-Dum;Aman
+;Halmahera Utara;;Kao Teluk;5;Gamsungi;Aman
+;Halmahera Utara;;Kao Teluk;6;Kuntum Mekar;Aman
+;Halmahera Utara;;Kao Teluk;7;Makaeling;Aman
+;Halmahera Utara;;Kao Teluk;8;Pasir Putih;Aman
+;Halmahera Utara;;Kao Teluk;9;Tetewang;Aman
+;Halmahera Utara;;Kao Teluk;10;Tiowor;Aman
+;Halmahera Utara;;Kao Teluk;11;Tobanoma;Aman
+5;KAB. HALMAHERA TENGAH;1;Weda;1;Were;Siaga
+;KAB. HALMAHERA TENGAH;;Weda;2;Fidy Jaya;Siaga
+;KAB. HALMAHERA TENGAH;;Weda;3;Wedana;Siaga
+;KAB. HALMAHERA TENGAH;;Weda;4;Sidanga;Aman
+;KAB. HALMAHERA TENGAH;;Weda;5;Nurweda;Aman
+;KAB. HALMAHERA TENGAH;;Weda;6;Goeng;Aman
+;KAB. HALMAHERA TENGAH;;Weda;7;Nusliko;Aman
+;KAB. HALMAHERA TENGAH;2;Weda Selatan;1;Kluting Jaya;Aman
+;KAB. HALMAHERA TENGAH;;Weda Selatan;2;Loleo;Aman
+;KAB. HALMAHERA TENGAH;;Weda Selatan;3;Sosowomo;Aman
+;KAB. HALMAHERA TENGAH;;Weda Selatan;4;Tilope;Aman
+;KAB. HALMAHERA TENGAH;;Weda Selatan;5;Wairoro Indah;Aman
+;KAB. HALMAHERA TENGAH;;Weda Selatan;6;Lembah Asri;Aman
+;KAB. HALMAHERA TENGAH;;Weda Selatan;7;Sumber Sari;Aman
+;KAB. HALMAHERA TENGAH;;Weda Selatan;8;Air Salobar;Aman
+;KAB. HALMAHERA TENGAH;3;Weda Utara;1;Fritu;Aman
+;KAB. HALMAHERA TENGAH;;Weda Utara;2;Gemaf;Aman
+;KAB. HALMAHERA TENGAH;;Weda Utara;3;Kiya;Aman
+;KAB. HALMAHERA TENGAH;;Weda Utara;4;Sagea;Aman
+;KAB. HALMAHERA TENGAH;;Weda Utara;5;Waleh;Aman
+;KAB. HALMAHERA TENGAH;4;Patani;1;Baka Jaya;Aman
+;KAB. HALMAHERA TENGAH;;Patani;2;Kipai;Aman
+;KAB. HALMAHERA TENGAH;;Patani;3;Moreala;Aman
+;KAB. HALMAHERA TENGAH;;Patani;4;Wailegi;Aman
+;KAB. HALMAHERA TENGAH;;Patani;5;Yondeleu;Aman
+;KAB. HALMAHERA TENGAH;5;Patani Utara;1;Gemia;Aman
+;KAB. HALMAHERA TENGAH;;Patani Utara;2;Tepeleo;Aman
+;KAB. HALMAHERA TENGAH;;Patani Utara;3;Blifitu;Aman
+;KAB. HALMAHERA TENGAH;;Patani Utara;4;Tepeleo Batudua;Aman
+;KAB. HALMAHERA TENGAH;;Patani Utara;5;Pantura Jaya;Aman
+;KAB. HALMAHERA TENGAH;;Patani Utara;6;Maliforo;Aman
+;KAB. HALMAHERA TENGAH;6;Pulau Gebe;1;Kacepi;Aman
+;KAB. HALMAHERA TENGAH;;Pulau Gebe;2;Kapaleo;Aman
+;KAB. HALMAHERA TENGAH;;Pulau Gebe;3;Sanafi;Aman
+;KAB. HALMAHERA TENGAH;;Pulau Gebe;4;Umera;Aman
+;KAB. HALMAHERA TENGAH;;Pulau Gebe;5;Umiyal;Aman
+;KAB. HALMAHERA TENGAH;;Pulau Gebe;6;Sonof Kacepo;Aman
+;KAB. HALMAHERA TENGAH;;Pulau Gebe;7;Elfanun;Aman
+;KAB. HALMAHERA TENGAH;;Pulau Gebe;8;Yang;Aman
+;KAB. HALMAHERA TENGAH;7;Weda Tengah;1;Lelief Waibulan;Waspada
+;KAB. HALMAHERA TENGAH;;Weda Tengah;2;Lelief Sawai;Siaga
+;KAB. HALMAHERA TENGAH;;Weda Tengah;3;Sawai Itepo;Aman
+;KAB. HALMAHERA TENGAH;;Weda Tengah;4;Kobe;Aman
+;KAB. HALMAHERA TENGAH;;Weda Tengah;5;Woekob;Aman
+;KAB. HALMAHERA TENGAH;;Weda Tengah;6;Woejerana;Aman
+;KAB. HALMAHERA TENGAH;;Weda Tengah;7;Kulo Jaya;Aman
+;KAB. HALMAHERA TENGAH;8;Patani Barat;1;Banemo;Aman
+;KAB. HALMAHERA TENGAH;;Patani Barat;2;Banemo Jaya;Aman
+;KAB. HALMAHERA TENGAH;;Patani Barat;3;Banemo Indah;Aman
+;KAB. HALMAHERA TENGAH;;Patani Barat;4;Mareala;Aman
+;KAB. HALMAHERA TENGAH;;Patani Barat;5;Sibenpope;Aman
+;KAB. HALMAHERA TENGAH;9;Weda Timur;1;Dotte;Aman
+;KAB. HALMAHERA TENGAH;;Weda Timur;2;Messa;Aman
+;KAB. HALMAHERA TENGAH;;Weda Timur;3;Kotalo;Aman
+;KAB. HALMAHERA TENGAH;;Weda Timur;4;Yeke;Aman
+;KAB. HALMAHERA TENGAH;10;Patani Timur;1;Sakam;Aman
+;KAB. HALMAHERA TENGAH;;Patani Timur;2;Nursifa;Aman
+;KAB. HALMAHERA TENGAH;;Patani Timur;3;Damuli;Aman
+;KAB. HALMAHERA TENGAH;;Patani Timur;4;Peniti;Aman
+;KAB. HALMAHERA TENGAH;;Patani Timur;5;Masure;Aman
+;KAB. HALMAHERA TENGAH;;Patani Timur;6;Palo;Aman
+6;KAB. HALMAHERA TIMUR;1;Kota Maba;1;Soa Gimalaha;Siaga
+;KAB. HALMAHERA TIMUR;;Kota Maba;2;Maba Sangaji;Siaga
+;KAB. HALMAHERA TIMUR;;Kota Maba;3;Soa Sangaji;Aman
+;KAB. HALMAHERA TIMUR;;Kota Maba;4;Soa Laipoh;Aman
+;KAB. HALMAHERA TIMUR;;Kota Maba;5;Wailukum;Aman
+;KAB. HALMAHERA TIMUR;;Kota Maba;6;Tewil;Aman
+;KAB. HALMAHERA TIMUR;2;Maba;1;Buli;Siaga
+;KAB. HALMAHERA TIMUR;;Maba;2;Buli Asal;Siaga
+;KAB. HALMAHERA TIMUR;;Maba;3;Buli Karya;Aman
+;KAB. HALMAHERA TIMUR;;Maba;4;Geltoli;Waspada
+;KAB. HALMAHERA TIMUR;;Maba;5;Pekaulan;Aman
+;KAB. HALMAHERA TIMUR;;Maba;6;Sailai;Aman
+;KAB. HALMAHERA TIMUR;;Maba;7;Wayafli;Aman
+;KAB. HALMAHERA TIMUR;;Maba;8;Teluk Buli;Aman
+;KAB. HALMAHERA TIMUR;;Maba;9;Gamesa;Aman
+;KAB. HALMAHERA TIMUR;;Maba;10;Baburino;Aman
+;KAB. HALMAHERA TIMUR;3;Maba Selatan;1;Bicoli;Aman
+;KAB. HALMAHERA TIMUR;;Maba Selatan;2;Gotowasi;Aman
+;KAB. HALMAHERA TIMUR;;Maba Selatan;3;Kasuba;Aman
+;KAB. HALMAHERA TIMUR;;Maba Selatan;4;Loloelamo;Aman
+;KAB. HALMAHERA TIMUR;;Maba Selatan;5;Pateley;Aman
+;KAB. HALMAHERA TIMUR;;Maba Selatan;6;Waci;Aman
+;KAB. HALMAHERA TIMUR;;Maba Selatan;7;Momole;Aman
+;KAB. HALMAHERA TIMUR;;Maba Selatan;8;Sil;Aman
+;KAB. HALMAHERA TIMUR;;Maba Selatan;9;Sowoli;Aman
+;KAB. HALMAHERA TIMUR;4;Maba Tengah;1;Bangul;Aman
+;KAB. HALMAHERA TIMUR;;Maba Tengah;2;Bebsili;Aman
+;KAB. HALMAHERA TIMUR;;Maba Tengah;3;Beringin Lamo;Aman
+;KAB. HALMAHERA TIMUR;;Maba Tengah;4;Dorolamo;Aman
+;KAB. HALMAHERA TIMUR;;Maba Tengah;5;Marasipno;Aman
+;KAB. HALMAHERA TIMUR;;Maba Tengah;6;Maratana;Aman
+;KAB. HALMAHERA TIMUR;;Maba Tengah;7;Miaf;Aman
+;KAB. HALMAHERA TIMUR;;Maba Tengah;8;Bebsili;Aman
+;KAB. HALMAHERA TIMUR;;Maba Tengah;9;Yawanli;Aman
+;KAB. HALMAHERA TIMUR;;Maba Tengah;10;Gaifoli;Aman
+;KAB. HALMAHERA TIMUR;;Maba Tengah;11;Babasaram;Aman
+;KAB. HALMAHERA TIMUR;;Maba Tengah;12;Tatangapu;Aman
+;KAB. HALMAHERA TIMUR;5;Maba Utara;1;Dorosago;Aman
+;KAB. HALMAHERA TIMUR;;Maba Utara;2;Jarajara;Aman
+;KAB. HALMAHERA TIMUR;;Maba Utara;3;Lolasita;Aman
+;KAB. HALMAHERA TIMUR;;Maba Utara;4;Patlean;Aman
+;KAB. HALMAHERA TIMUR;;Maba Utara;5;Pumlanga;Aman
+;KAB. HALMAHERA TIMUR;;Maba Utara;6;Sosolat;Aman
+;KAB. HALMAHERA TIMUR;;Maba Utara;7;Wasileo;Aman
+;KAB. HALMAHERA TIMUR;;Maba Utara;8;Doromoi;Aman
+;KAB. HALMAHERA TIMUR;;Maba Utara;9;Lili;Aman
+;KAB. HALMAHERA TIMUR;;Maba Utara;10;Desa Patlean Jaya;Aman
+;KAB. HALMAHERA TIMUR;6;Wasile;1;Subaim;Siaga
+;KAB. HALMAHERA TIMUR;;Wasile;2;Batu Raja;Aman
+;KAB. HALMAHERA TIMUR;;Wasile;3;Bumi Restu;Aman
+;KAB. HALMAHERA TIMUR;;Wasile;4;Cemara Jaya;Aman
+;KAB. HALMAHERA TIMUR;;Wasile;5;Gulapapo;Aman
+;KAB. HALMAHERA TIMUR;;Wasile;6;Mekarsari;Aman
+;KAB. HALMAHERA TIMUR;;Wasile;7;Bulapopo;Aman
+;KAB. HALMAHERA TIMUR;7;Wasile Selatan;1;Bina Gara;Aman
+;KAB. HALMAHERA TIMUR;;Wasile Selatan;2;Fayaul;Aman
+;KAB. HALMAHERA TIMUR;;Wasile Selatan;3;Loleba;Aman
+;KAB. HALMAHERA TIMUR;;Wasile Selatan;4;Minamin;Aman
+;KAB. HALMAHERA TIMUR;;Wasile Selatan;5;Nanas;Aman
+;KAB. HALMAHERA TIMUR;;Wasile Selatan;6;Nusa Ambu;Aman
+;KAB. HALMAHERA TIMUR;;Wasile Selatan;7;Nusa Jaya;Aman
+;KAB. HALMAHERA TIMUR;;Wasile Selatan;8;Pintatu;Aman
+;KAB. HALMAHERA TIMUR;;Wasile Selatan;9;Saolat;Aman
+;KAB. HALMAHERA TIMUR;;Wasile Selatan;10;Saramake;Aman
+;KAB. HALMAHERA TIMUR;;Wasile Selatan;11;Tabanalou;Aman
+;KAB. HALMAHERA TIMUR;;Wasile Selatan;12;Tomares;Aman
+;KAB. HALMAHERA TIMUR;;Wasile Selatan;13;Waijoi;Aman
+;KAB. HALMAHERA TIMUR;;Wasile Selatan;14;Wasilei;Aman
+;KAB. HALMAHERA TIMUR;;Wasile Selatan;15;Talaga Jaya;Aman
+;KAB. HALMAHERA TIMUR;;Wasile Selatan;16;Sondo Sondo;Aman
+;KAB. HALMAHERA TIMUR;;Wasile Selatan;17;Ino Jaya;Aman
+;KAB. HALMAHERA TIMUR;;Wasile Selatan;18;Ake Jawi;Aman
+;KAB. HALMAHERA TIMUR;;Wasile Selatan;19;Ekor;Aman
+;KAB. HALMAHERA TIMUR;;Wasile Selatan;20;Ekorino;Aman
+;KAB. HALMAHERA TIMUR;;Wasile Selatan;21;Jiko Moi;Aman
+;KAB. HALMAHERA TIMUR;;Wasile Selatan;22;Tanure;Aman
+;KAB. HALMAHERA TIMUR;;Wasile Selatan;23;Yamal;Aman
+;KAB. HALMAHERA TIMUR;;Wasile Selatan;24;Bukutio;Aman
+;KAB. HALMAHERA TIMUR;8;Wasile Tengah;1;Boki Miake;Aman
+;KAB. HALMAHERA TIMUR;;Wasile Tengah;2;Foly;Aman
+;KAB. HALMAHERA TIMUR;;Wasile Tengah;3;Hatetabako;Aman
+;KAB. HALMAHERA TIMUR;;Wasile Tengah;4;Kakaraino;Aman
+;KAB. HALMAHERA TIMUR;;Wasile Tengah;5;Lolobata;Aman
+;KAB. HALMAHERA TIMUR;;Wasile Tengah;6;Nyaolako;Aman
+;KAB. HALMAHERA TIMUR;;Wasile Tengah;7;Puao;Aman
+;KAB. HALMAHERA TIMUR;;Wasile Tengah;8;Silalaysang;Aman
+;KAB. HALMAHERA TIMUR;9;Wasile Timur;1;Ake Daga;Aman
+;KAB. HALMAHERA TIMUR;;Wasile Timur;2;Daga Ino;Aman
+;KAB. HALMAHERA TIMUR;;Wasile Timur;3;Dodaga;Aman
+;KAB. HALMAHERA TIMUR;;Wasile Timur;4;Toboino;Aman
+;KAB. HALMAHERA TIMUR;;Wasile Timur;5;Tutuling Jaya;Aman
+;KAB. HALMAHERA TIMUR;;Wasile Timur;6;Woka Jaya;Aman
+;KAB. HALMAHERA TIMUR;;Wasile Timur;7;Rawamangun;Aman
+;KAB. HALMAHERA TIMUR;;Wasile Timur;8;Sidomulyo;Aman
+;KAB. HALMAHERA TIMUR;10;Wasile Utara;1;Bololo;Aman
+;KAB. HALMAHERA TIMUR;;Wasile Utara;2;Helaitetor;Aman
+;KAB. HALMAHERA TIMUR;;Wasile Utara;3;Iga;Aman
+;KAB. HALMAHERA TIMUR;;Wasile Utara;4;Labi Labi;Aman
+;KAB. HALMAHERA TIMUR;;Wasile Utara;5;Marimoi;Aman
+;KAB. HALMAHERA TIMUR;;Wasile Utara;6;Tatam;Aman
+;KAB. HALMAHERA TIMUR;;Wasile Utara;7;Dowongi Jaya;Aman
+;KAB. HALMAHERA TIMUR;;Wasile Utara;8;Majiko Tongone;Aman
+7;KAB. HALMAHERA SELATAN;1;Bacan;1;Labuha;Waspada
+;KAB. HALMAHERA SELATAN;;Bacan;2;Amasing Kali;siaga
+;KAB. HALMAHERA SELATAN;;Bacan;3;Amasing Kota;aman
+;KAB. HALMAHERA SELATAN;;Bacan;4;Amasing Kota Barat;aman
+;KAB. HALMAHERA SELATAN;;Bacan;5;Amasing Kota Utara;aman
+;KAB. HALMAHERA SELATAN;;Bacan;6;Awanggoa;aman
+;KAB. HALMAHERA SELATAN;;Bacan;7;Belang-Belang;aman
+;KAB. HALMAHERA SELATAN;;Bacan;8;Hidayat;aman
+;KAB. HALMAHERA SELATAN;;Bacan;9;Indomut;aman
+;KAB. HALMAHERA SELATAN;;Bacan;10;Keputusan;aman
+;KAB. HALMAHERA SELATAN;;Bacan;11;Marabose;aman
+;KAB. HALMAHERA SELATAN;;Bacan;12;Suma Tinggi;aman
+;KAB. HALMAHERA SELATAN;;Bacan;13;Sumae;aman
+;KAB. HALMAHERA SELATAN;;Bacan;14;Tomori;aman
+;KAB. HALMAHERA SELATAN;2;Bacan Barat;1;Indari;aman
+;KAB. HALMAHERA SELATAN;;Bacan Barat;2;Kokotu;aman
+;KAB. HALMAHERA SELATAN;;Bacan Barat;3;Kotunang;aman
+;KAB. HALMAHERA SELATAN;;Bacan Barat;4;Kusubibi;aman
+;KAB. HALMAHERA SELATAN;;Bacan Barat;5;Nondang;aman
+;KAB. HALMAHERA SELATAN;;Bacan Barat;6;Tawabi;aman
+;KAB. HALMAHERA SELATAN;;Bacan Barat;7;Wiring;aman
+;KAB. HALMAHERA SELATAN;3;Bacan Barat Utara;1;Geti Baru;aman
+;KAB. HALMAHERA SELATAN;;Bacan Barat Utara;2;Geti Lama;aman
+;KAB. HALMAHERA SELATAN;;Bacan Barat Utara;3;Gilalang;aman
+;KAB. HALMAHERA SELATAN;;Bacan Barat Utara;4;Gorua Lolaro;aman
+;KAB. HALMAHERA SELATAN;;Bacan Barat Utara;5;Jojame;aman
+;KAB. HALMAHERA SELATAN;;Bacan Barat Utara;6;Nusa Babullah;aman
+;KAB. HALMAHERA SELATAN;;Bacan Barat Utara;7;Sidopo;aman
+;KAB. HALMAHERA SELATAN;;Bacan Barat Utara;8;Yaba;aman
+;KAB. HALMAHERA SELATAN;4;Bacan Selatan;1;Dgandasuli;aman
+;KAB. HALMAHERA SELATAN;;Bacan Selatan;2;Kubung;aman
+;KAB. HALMAHERA SELATAN;;Bacan Selatan;3;Kupal;aman
+;KAB. HALMAHERA SELATAN;;Bacan Selatan;4;Makian;aman
+;KAB. HALMAHERA SELATAN;;Bacan Selatan;5;Mandawong;aman
+;KAB. HALMAHERA SELATAN;;Bacan Selatan;6;Panmboang;aman
+;KAB. HALMAHERA SELATAN;;Bacan Selatan;7;Papaloang;aman
+;KAB. HALMAHERA SELATAN;;Bacan Selatan;8;Sawadai;aman
+;KAB. HALMAHERA SELATAN;;Bacan Selatan;9;Tembal;aman
+;KAB. HALMAHERA SELATAN;;Bacan Selatan;10;Tuwokona;aman
+;KAB. HALMAHERA SELATAN;5;Bacan Timur;1;Babang;siaga
+;KAB. HALMAHERA SELATAN;;Bacan Timur;2;Bori;Aman
+;KAB. HALMAHERA SELATAN;;Bacan Timur;3;Goro Goro;Aman
+;KAB. HALMAHERA SELATAN;;Bacan Timur;4;Kaireu;Aman
+;KAB. HALMAHERA SELATAN;;Bacan Timur;5;Nyonyifi;Aman
+;KAB. HALMAHERA SELATAN;;Bacan Timur;6;Sabatang;Aman
+;KAB. HALMAHERA SELATAN;;Bacan Timur;7;Sali Kecil;Aman
+;KAB. HALMAHERA SELATAN;;Bacan Timur;8;Sayoang;Aman
+;KAB. HALMAHERA SELATAN;;Bacan Timur;9;Timlonga;Aman
+;KAB. HALMAHERA SELATAN;;Bacan Timur;10;Wayamiga;Aman
+;KAB. HALMAHERA SELATAN;6;Bacan Timur Selatan;1;Liaro;Aman
+;KAB. HALMAHERA SELATAN;;Bacan Timur Selatan;2;Pigaraja;Aman
+;KAB. HALMAHERA SELATAN;;Bacan Timur Selatan;3;Silang;Aman
+;KAB. HALMAHERA SELATAN;;Bacan Timur Selatan;4;Tabajaya;Aman
+;KAB. HALMAHERA SELATAN;;Bacan Timur Selatan;5;Tabangame;Aman
+;KAB. HALMAHERA SELATAN;;Bacan Timur Selatan;6;Wayakuba;Aman
+;KAB. HALMAHERA SELATAN;;Bacan Timur Selatan;7;Wayaua;Aman
+;KAB. HALMAHERA SELATAN;7;Bacan Timur Tengah;1;Bibinoi;Aman
+;KAB. HALMAHERA SELATAN;;Bacan Timur Tengah;2;Songa;Aman
+;KAB. HALMAHERA SELATAN;;Bacan Timur Tengah;3;Tobapoma;Aman
+;KAB. HALMAHERA SELATAN;;Bacan Timur Tengah;4;Tawa;Aman
+;KAB. HALMAHERA SELATAN;;Bacan Timur Tengah;5;Tomara;Aman
+;KAB. HALMAHERA SELATAN;;Bacan Timur Tengah;6;Tutupa;Aman
+;KAB. HALMAHERA SELATAN;;Bacan Timur Tengah;7;Wayatim;Aman
+;KAB. HALMAHERA SELATAN;8;Gane Barat;1;Balitata;Aman
+;KAB. HALMAHERA SELATAN;;Gane Barat;2;Bumi Rahmat;Aman
+;KAB. HALMAHERA SELATAN;;Gane Barat;3;Cango;Aman
+;KAB. HALMAHERA SELATAN;;Gane Barat;4;Doro;Aman
+;KAB. HALMAHERA SELATAN;;Gane Barat;5;Koititi;Aman
+;KAB. HALMAHERA SELATAN;;Gane Barat;6;Lemo-lemo;Aman
+;KAB. HALMAHERA SELATAN;;Gane Barat;7;Oha;Aman
+;KAB. HALMAHERA SELATAN;;Gane Barat;8;Papaceda;Aman
+;KAB. HALMAHERA SELATAN;;Gane Barat;9;Saketa;Aman
+;KAB. HALMAHERA SELATAN;;Gane Barat;10;Tabamasa;Aman
+;KAB. HALMAHERA SELATAN;9;Gane Barat Selatan;1;Awis;Aman
+;KAB. HALMAHERA SELATAN;;Gane Barat Selatan;2;Dowora;Aman
+;KAB. HALMAHERA SELATAN;;Gane Barat Selatan;3;Gane Dalam;Aman
+;KAB. HALMAHERA SELATAN;;Gane Barat Selatan;4;Jibubu;Aman
+;KAB. HALMAHERA SELATAN;;Gane Barat Selatan;5;Pasi Palele;Aman
+;KAB. HALMAHERA SELATAN;;Gane Barat Selatan;6;Sakely;Aman
+;KAB. HALMAHERA SELATAN;;Gane Barat Selatan;7;Tawa;Aman
+;KAB. HALMAHERA SELATAN;;Gane Barat Selatan;8;Yamly;Aman
+;KAB. HALMAHERA SELATAN;10;Gane Barat Utara;1;Batulak;Aman
+;KAB. HALMAHERA SELATAN;;Gane Barat Utara;2;Boso;Aman
+;KAB. HALMAHERA SELATAN;;Gane Barat Utara;3;Dolik;Aman
+;KAB. HALMAHERA SELATAN;;Gane Barat Utara;4;Fulai;Aman
+;KAB. HALMAHERA SELATAN;;Gane Barat Utara;5;Gumirah;Aman
+;KAB. HALMAHERA SELATAN;;Gane Barat Utara;6;Moloku;Aman
+;KAB. HALMAHERA SELATAN;;Gane Barat Utara;7;Nurjihat;Aman
+;KAB. HALMAHERA SELATAN;;Gane Barat Utara;8;Posi Posi;Aman
+;KAB. HALMAHERA SELATAN;;Gane Barat Utara;9;Samat;Aman
+;KAB. HALMAHERA SELATAN;;Gane Barat Utara;10;Samo;Aman
+;KAB. HALMAHERA SELATAN;;Gane Barat Utara;11;Suka Damai;Aman
+;KAB. HALMAHERA SELATAN;;Gane Barat Utara;12;Tokaka;Aman
+;KAB. HALMAHERA SELATAN;10;Gane Timur;1;Akelamo;Aman
+;KAB. HALMAHERA SELATAN;;Gane Timur;2;Foya;Aman
+;KAB. HALMAHERA SELATAN;;Gane Timur;3;Foya Tobaru;Aman
+;KAB. HALMAHERA SELATAN;;Gane Timur;4;Kebun Raja;Aman
+;KAB. HALMAHERA SELATAN;;Gane Timur;5;Kotalou;Aman
+;KAB. HALMAHERA SELATAN;;Gane Timur;6;Lalubi;Aman
+;KAB. HALMAHERA SELATAN;;Gane Timur;7;Maffa;Aman
+;KAB. HALMAHERA SELATAN;;Gane Timur;8;Sakita;Aman
+;KAB. HALMAHERA SELATAN;;Gane Timur;9;Sumber Makmur;Aman
+;KAB. HALMAHERA SELATAN;;Gane Timur;10;Tanjung Jere;Aman
+;KAB. HALMAHERA SELATAN;;Gane Timur;11;Tobaru;Aman
+;KAB. HALMAHERA SELATAN;;Gane Timur;12;Wosi;Aman
+;KAB. HALMAHERA SELATAN;12;Gane Timur Selatan;1;Gaimu;Aman
+;KAB. HALMAHERA SELATAN;;Gane Timur Selatan;2;Gane Luar;Aman
+;KAB. HALMAHERA SELATAN;;Gane Timur Selatan;3;Kuwo;Aman
+;KAB. HALMAHERA SELATAN;;Gane Timur Selatan;4;Ranga Ranga;Aman
+;KAB. HALMAHERA SELATAN;;Gane Timur Selatan;5;Sawat;Aman
+;KAB. HALMAHERA SELATAN;13;Gane Timur Tengah;1;Bisui;Aman
+;KAB. HALMAHERA SELATAN;;Gane Timur Tengah;2;Lelewi;Aman
+;KAB. HALMAHERA SELATAN;;Gane Timur Tengah;3;Luim;Aman
+;KAB. HALMAHERA SELATAN;;Gane Timur Tengah;4;Matuting;Aman
+;KAB. HALMAHERA SELATAN;;Gane Timur Tengah;5;Matuting Tanjung;Aman
+;KAB. HALMAHERA SELATAN;;Gane Timur Tengah;6;Tabahidayah;Aman
+;KAB. HALMAHERA SELATAN;;Gane Timur Tengah;7;Tabahijrah;Aman
+;KAB. HALMAHERA SELATAN;;Gane Timur Tengah;8;Tagea;Aman
+;KAB. HALMAHERA SELATAN;14;Kasiruta Barat;1;Arumamang;Aman
+;KAB. HALMAHERA SELATAN;;Kasiruta Barat;2;Bisori;Aman
+;KAB. HALMAHERA SELATAN;;Kasiruta Barat;3;Doko;Aman
+;KAB. HALMAHERA SELATAN;;Kasiruta Barat;4;Imbu Imbu;Aman
+;KAB. HALMAHERA SELATAN;;Kasiruta Barat;5;Kukupang;Aman
+;KAB. HALMAHERA SELATAN;;Kasiruta Barat;6;Lata Lata;Aman
+;KAB. HALMAHERA SELATAN;;Kasiruta Barat;7;Marikapai;Aman
+;KAB. HALMAHERA SELATAN;;Kasiruta Barat;8;Palamea;Aman
+;KAB. HALMAHERA SELATAN;;Kasiruta Barat;9;Sengga Baru;Aman
+;KAB. HALMAHERA SELATAN;;Kasiruta Barat;10;Sidanga;Aman
+;KAB. HALMAHERA SELATAN;15;Kasiruta Timur;1;Jeret;Aman
+;KAB. HALMAHERA SELATAN;;Kasiruta Timur;2;Kasiruta Dalam;Aman
+;KAB. HALMAHERA SELATAN;;Kasiruta Timur;3;Koubalabala;Aman
+;KAB. HALMAHERA SELATAN;;Kasiruta Timur;4;Loleo Jaya;Aman
+;KAB. HALMAHERA SELATAN;;Kasiruta Timur;5;Loleomekar;Aman
+;KAB. HALMAHERA SELATAN;;Kasiruta Timur;6;Marituso;Aman
+;KAB. HALMAHERA SELATAN;;Kasiruta Timur;7;Tawa;Aman
+;KAB. HALMAHERA SELATAN;;Kasiruta Timur;8;Tutuha;Aman
+;KAB. HALMAHERA SELATAN;16;Kayoa;1;Bajo;Aman
+;KAB. HALMAHERA SELATAN;;Kayoa;2;Buli;Aman
+;KAB. HALMAHERA SELATAN;;Kayoa;3;Dorolamo;Aman
+;KAB. HALMAHERA SELATAN;;Kayoa;4;Gafi;Aman
+;KAB. HALMAHERA SELATAN;;Kayoa;5;Gunange;Aman
+;KAB. HALMAHERA SELATAN;;Kayoa;6;Guruapin;Aman
+;KAB. HALMAHERA SELATAN;;Kayoa;7;Karamat;Aman
+;KAB. HALMAHERA SELATAN;;Kayoa;8;Laigoma;Aman
+;KAB. HALMAHERA SELATAN;;Kayoa;9;Lelei;Aman
+;KAB. HALMAHERA SELATAN;;Kayoa;10;Ligua;Aman
+;KAB. HALMAHERA SELATAN;;Kayoa;11;Siko;Aman
+;KAB. HALMAHERA SELATAN;;Kayoa;12;Talimau;Aman
+;KAB. HALMAHERA SELATAN;;Kayoa;13;Kida;Aman
+;KAB. HALMAHERA SELATAN;;Kayoa;14;Tawabi;Aman
+;KAB. HALMAHERA SELATAN;17;Kayoa Barat;1;Bukimiake;Aman
+;KAB. HALMAHERA SELATAN;;Kayoa Barat;2;Busua;Aman
+;KAB. HALMAHERA SELATAN;;Kayoa Barat;3;Fofao;Aman
+;KAB. HALMAHERA SELATAN;;Kayoa Barat;4;Hatejawa;Aman
+;KAB. HALMAHERA SELATAN;18;Kayoa Selatan;1;Laluin;Aman
+;KAB. HALMAHERA SELATAN;;Kayoa Selatan;2;Ngute Ngute;Aman
+;KAB. HALMAHERA SELATAN;;Kayoa Selatan;3;Orimakurunga;Aman
+;KAB. HALMAHERA SELATAN;;Kayoa Selatan;4;Pasir Puti;Aman
+;KAB. HALMAHERA SELATAN;;Kayoa Selatan;5;Posi Posi;Aman
+;KAB. HALMAHERA SELATAN;;Kayoa Selatan;6;Sagawele;Aman
+;KAB. HALMAHERA SELATAN;19;Kayoa Utara;1;Ake Jailolo;Aman
+;KAB. HALMAHERA SELATAN;;Kayoa Utara;2;Gayap;Aman
+;KAB. HALMAHERA SELATAN;;Kayoa Utara;3;Laromabati;Aman
+;KAB. HALMAHERA SELATAN;;Kayoa Utara;4;Modayama;Aman
+;KAB. HALMAHERA SELATAN;;Kayoa Utara;5;Ngokomalako;Aman
+;KAB. HALMAHERA SELATAN;;Kayoa Utara;6;Wayasipang;Aman
+;KAB. HALMAHERA SELATAN;20;Kep. Botanglomang;1;Bajo;Aman
+;KAB. HALMAHERA SELATAN;;Kep. Botanglomang;2;Batutaga;Aman
+;KAB. HALMAHERA SELATAN;;Kep. Botanglomang;3;Kampung Baru;Aman
+;KAB. HALMAHERA SELATAN;;Kep. Botanglomang;4;Pasimbaos;Aman
+;KAB. HALMAHERA SELATAN;;Kep. Botanglomang;5;Prapakanda;Aman
+;KAB. HALMAHERA SELATAN;;Kep. Botanglomang;6;Sawanakar;Aman
+;KAB. HALMAHERA SELATAN;;Kep. Botanglomang;7;Tanjung Obit;Aman
+;KAB. HALMAHERA SELATAN;;Kep. Botanglomang;8;Toin;Aman
+;KAB. HALMAHERA SELATAN;21;Kep. Joronga;1;Gonone;Aman
+;KAB. HALMAHERA SELATAN;;Kep. Joronga;2;Kukupang;Aman
+;KAB. HALMAHERA SELATAN;;Kep. Joronga;3;Kurunga;Aman
+;KAB. HALMAHERA SELATAN;;Kep. Joronga;4;Liboba;Aman
+;KAB. HALMAHERA SELATAN;;Kep. Joronga;5;Pulau Gala;Aman
+;KAB. HALMAHERA SELATAN;;Kep. Joronga;6;Tawabi;Aman
+;KAB. HALMAHERA SELATAN;;Kep. Joronga;7;Yomen;Aman
+;KAB. HALMAHERA SELATAN;21;Makian;1;Dauri;Aman
+;KAB. HALMAHERA SELATAN;;Makian;2;Dalam;Aman
+;KAB. HALMAHERA SELATAN;;Makian;3;Gitang;Aman
+;KAB. HALMAHERA SELATAN;;Makian;4;Gorup;Aman
+;KAB. HALMAHERA SELATAN;;Makian;5;Gorua;Aman
+;KAB. HALMAHERA SELATAN;;Makian;6;Kiowor;Aman
+;KAB. HALMAHERA SELATAN;;Makian;7;Kota;Aman
+;KAB. HALMAHERA SELATAN;;Makian;8;Ploly;Aman
+;KAB. HALMAHERA SELATAN;;Makian;9;Rabutdaiyo;Aman
+;KAB. HALMAHERA SELATAN;;Makian;10;Samsuma;Aman
+;KAB. HALMAHERA SELATAN;;Makian;11;Sangapati;Aman
+;KAB. HALMAHERA SELATAN;;Makian;12;Soma;Aman
+;KAB. HALMAHERA SELATAN;;Makian;13;Waigitang;Aman
+;KAB. HALMAHERA SELATAN;;Makian;14;Wailoa;Aman
+;KAB. HALMAHERA SELATAN;;Makian;15;Matentengan;Aman
+;KAB. HALMAHERA SELATAN;23;Makian Barat;1;Bobawa;Aman
+;KAB. HALMAHERA SELATAN;;Makian Barat;2;Malapat;Aman
+;KAB. HALMAHERA SELATAN;;Makian Barat;3;Mateketen;Aman
+;KAB. HALMAHERA SELATAN;;Makian Barat;4;Ombawa;Aman
+;KAB. HALMAHERA SELATAN;;Makian Barat;5;Sabalei;Aman
+;KAB. HALMAHERA SELATAN;;Makian Barat;6;Talapao;Aman
+;KAB. HALMAHERA SELATAN;;Makian Barat;7;Tegono;Aman
+;KAB. HALMAHERA SELATAN;24;Mandioli Selatan;1;Bahu;Aman
+;KAB. HALMAHERA SELATAN;;Mandioli Selatan;2;Galala;Aman
+;KAB. HALMAHERA SELATAN;;Mandioli Selatan;3;Jiko;Aman
+;KAB. HALMAHERA SELATAN;;Mandioli Selatan;4;Lele;Aman
+;KAB. HALMAHERA SELATAN;;Mandioli Selatan;5;Tabalema;Aman
+;KAB. HALMAHERA SELATAN;;Mandioli Selatan;6;Yoyok;Aman
+;KAB. HALMAHERA SELATAN;25;Mandioli Utara;1;Akedabo;Aman
+;KAB. HALMAHERA SELATAN;;Mandioli Utara;2;Indong;Aman
+;KAB. HALMAHERA SELATAN;;Mandioli Utara;3;Loleongusu;Aman
+;KAB. HALMAHERA SELATAN;;Mandioli Utara;4;Pelita;Aman
+;KAB. HALMAHERA SELATAN;;Mandioli Utara;5;Waya;Aman
+;KAB. HALMAHERA SELATAN;;Mandioli Utara;6;Bobo;Aman
+;KAB. HALMAHERA SELATAN;26;Obi;1;Air Mangga Indah;Aman
+;KAB. HALMAHERA SELATAN;;Obi;2;Akegulah;Aman
+;KAB. HALMAHERA SELATAN;;Obi;3;Anggai;Aman
+;KAB. HALMAHERA SELATAN;;Obi;4;Baru;Aman
+;KAB. HALMAHERA SELATAN;;Obi;5;Buton;Aman
+;KAB. HALMAHERA SELATAN;;Obi;6;Jikotamo;Aman
+;KAB. HALMAHERA SELATAN;;Obi;7;Kawasaki;Aman
+;KAB. HALMAHERA SELATAN;;Obi;8;Laiwui;Aman
+;KAB. HALMAHERA SELATAN;;Obi;9;Sambiki;Aman
+;KAB. HALMAHERA SELATAN;27;Obi Barat;1;Alam Kenanga;Aman
+;KAB. HALMAHERA SELATAN;;Obi Barat;2;Alam Pelita;Aman
+;KAB. HALMAHERA SELATAN;;Obi Barat;3;Jikohai;Aman
+;KAB. HALMAHERA SELATAN;;Obi Barat;4;Manahatan;Aman
+;KAB. HALMAHERA SELATAN;;Obi Barat;5;Soasangaji;Aman
+;KAB. HALMAHERA SELATAN;;Obi Barat;6;Tapa;Aman
+;KAB. HALMAHERA SELATAN;28;Obi Selatan;1;Bobo;Aman
+;KAB. HALMAHERA SELATAN;;Obi Selatan;2;Fluks;Aman
+;KAB. HALMAHERA SELATAN;;Obi Selatan;3;Gambaru;Aman
+;KAB. HALMAHERA SELATAN;;Obi Selatan;4;Loleo;Aman
+;KAB. HALMAHERA SELATAN;;Obi Selatan;5;Mano;Aman
+;KAB. HALMAHERA SELATAN;;Obi Selatan;6;Ocimaloleo;Aman
+;KAB. HALMAHERA SELATAN;;Obi Selatan;7;Soligi;Aman
+;KAB. HALMAHERA SELATAN;;Obi Selatan;8;Wayaloar;Aman
+;KAB. HALMAHERA SELATAN;29;Obi Timur;1;Kello;Aman
+;KAB. HALMAHERA SELATAN;;Obi Timur;2;Sosepe;Aman
+;KAB. HALMAHERA SELATAN;;Obi Timur;3;Sum;Aman
+;KAB. HALMAHERA SELATAN;;Obi Timur;4;Wooi;Aman
+;KAB. HALMAHERA SELATAN;30;Obi Utara;1;Cap;Aman
+;KAB. HALMAHERA SELATAN;;Obi Utara;2;Galala;Aman
+;KAB. HALMAHERA SELATAN;;Obi Utara;3;Madapolo;Aman
+;KAB. HALMAHERA SELATAN;;Obi Utara;4;Madapolo Barat;Aman
+;KAB. HALMAHERA SELATAN;;Obi Utara;5;Madapolo Timur;Aman
+;KAB. HALMAHERA SELATAN;;Obi Utara;6;Pasir Putih;Aman
+;KAB. HALMAHERA SELATAN;;Obi Utara;7;Waringi;Aman
+9;KAB. KEPULAUAN SULA;1;Sanana;1;Desa Fagudu;Waspada
+;KAB. KEPULAUAN SULA;;Sanana;2;Desa Falahu;Siaga
+;KAB. KEPULAUAN SULA;;Sanana;3;Desa Fatce;Siaga
+;KAB. KEPULAUAN SULA;;Sanana;4;Desa Fogi;Aman
+;KAB. KEPULAUAN SULA;;Sanana;5;Desa Mangon;Aman
+;KAB. KEPULAUAN SULA;;Sanana;6;Desa Pastina;Aman
+;KAB. KEPULAUAN SULA;;Sanana;7;Desa Umaloya;Aman
+;KAB. KEPULAUAN SULA;;Sanana;8;Desa Wai Hama;Aman
+;KAB. KEPULAUAN SULA;;Sanana;9;Desa Wai Ifa;Aman
+;KAB. KEPULAUAN SULA;;Sanana;10;Desa Waibau;Aman
+;KAB. KEPULAUAN SULA;;Sanana;11;Desa Wailau;Aman
+;KAB. KEPULAUAN SULA;2;Sulabesi Barat;1;Desa Wai Ina;Aman
+;KAB. KEPULAUAN SULA;;Sulabesi Barat;2;Desa Kabau Darat;Aman
+;KAB. KEPULAUAN SULA;;Sulabesi Barat;3;Desa Ona;Aman
+;KAB. KEPULAUAN SULA;;Sulabesi Barat;4;Desa Kabau Pantai;Aman
+;KAB. KEPULAUAN SULA;;Sulabesi Barat;5;Desa Nahi;Aman
+;KAB. KEPULAUAN SULA;;Sulabesi Barat;6;Desa Paratina;Aman
+;KAB. KEPULAUAN SULA;3;Sulabesi Selatan;1;Desa Wai Gai;Aman
+;KAB. KEPULAUAN SULA;;Sulabesi Selatan;2;Desa Fuata;Aman
+;KAB. KEPULAUAN SULA;;Sulabesi Selatan;3;Desa Sekom;Aman
+;KAB. KEPULAUAN SULA;;Sulabesi Selatan;4;Desa Wanib;Aman
+;KAB. KEPULAUAN SULA;;Sulabesi Selatan;5;Desa Wai Tamaua;Aman
+;KAB. KEPULAUAN SULA;4;Sulabesi Tengah;1;Desa Bega;Aman
+;KAB. KEPULAUAN SULA;;Sulabesi Tengah;2;Desa Fat Iba;Aman
+;KAB. KEPULAUAN SULA;;Sulabesi Tengah;3;Desa Waiman;Aman
+;KAB. KEPULAUAN SULA;;Sulabesi Tengah;4;Desa Soamole;Aman
+;KAB. KEPULAUAN SULA;;Sulabesi Tengah;5;Desa Wai Boga;Aman
+;KAB. KEPULAUAN SULA;;Sulabesi Tengah;6;Desa Manaf;Aman
+;KAB. KEPULAUAN SULA;5;Sulabesi Timur;1;Desa Wailia;Aman
+;KAB. KEPULAUAN SULA;;Sulabesi Timur;2;Desa Fatkauyon;Aman
+;KAB. KEPULAUAN SULA;;Sulabesi Timur;3;Desa Baleha;Aman
+;KAB. KEPULAUAN SULA;;Sulabesi Timur;4;Desa Wai Gofoya;Aman
+;KAB. KEPULAUAN SULA;;Sulabesi Timur;5;Desa Sama;Aman
+;KAB. KEPULAUAN SULA;;Sulabesi Timur;6;Desa Waisepa;Aman
+;KAB. KEPULAUAN SULA;6;Sanana Utara;1;Desa Pohea;Aman
+;KAB. KEPULAUAN SULA;;Sanana Utara;2;Desa Fukweu;Aman
+;KAB. KEPULAUAN SULA;;Sanana Utara;3;Desa Malibufa;Aman
+;KAB. KEPULAUAN SULA;;Sanana Utara;4;Desa Bajo;Aman
+;KAB. KEPULAUAN SULA;;Sanana Utara;5;Desa Man Gega;Aman
+;KAB. KEPULAUAN SULA;;Sanana Utara;6;Desa Wainin;Aman
+;KAB. KEPULAUAN SULA;;Sanana Utara;7;Desa Fokalik;Aman
+;KAB. KEPULAUAN SULA;7;Mangoli Timur;1;Desa Waitina;Aman
+;KAB. KEPULAUAN SULA;;Mangoli Timur;2;Desa Kow;Aman
+;KAB. KEPULAUAN SULA;;Mangoli Timur;3;Desa Wai Tamela;Aman
+;KAB. KEPULAUAN SULA;;Mangoli Timur;4;Desa Naflow;Aman
+;KAB. KEPULAUAN SULA;;Mangoli Timur;5;Desa Karamat Titdoy;Aman
+;KAB. KEPULAUAN SULA;8;Mangoli Tengah;1;Desa Baru Akol;Aman
+;KAB. KEPULAUAN SULA;;Mangoli Tengah;2;Desa Capalulu Akol;Aman
+;KAB. KEPULAUAN SULA;;Mangoli Tengah;3;Desa Orifoal;Aman
+;KAB. KEPULAUAN SULA;;Mangoli Tengah;4;Desa Wailoba;Aman
+;KAB. KEPULAUAN SULA;;Mangoli Tengah;5;Desa Mangoli;Aman
+;KAB. KEPULAUAN SULA;;Mangoli Tengah;6;Desa Waitulia;Aman
+;KAB. KEPULAUAN SULA;;Mangoli Tengah;7;Desa Waiu;Aman
+;KAB. KEPULAUAN SULA;;Mangoli Tengah;8;Desa Paslal;Aman
+;KAB. KEPULAUAN SULA;;Mangoli Tengah;9;Desa Jere;Aman
+;KAB. KEPULAUAN SULA;9;Mangoli Utara Timur;1;Desa Kawata;Aman
+;KAB. KEPULAUAN SULA;;Mangoli Utara Timur;2;Desa Pelita Jaya;Aman
+;KAB. KEPULAUAN SULA;;Mangoli Utara Timur;3;Desa Waisakai;Aman
+;KAB. KEPULAUAN SULA;;Mangoli Utara Timur;4;Desa Waisum;Aman
+;KAB. KEPULAUAN SULA;10;Mangoli Barat;1;Desa Pas Ipa;Aman
+;KAB. KEPULAUAN SULA;;Mangoli Barat;2;Desa Dofa;Aman
+;KAB. KEPULAUAN SULA;;Mangoli Barat;3;Desa Loko Kadai;Aman
+;KAB. KEPULAUAN SULA;;Mangoli Barat;4;Desa Lekosula;Aman
+;KAB. KEPULAUAN SULA;;Mangoli Barat;5;Desa Pelita;Aman
+;KAB. KEPULAUAN SULA;;Mangoli Barat;6;Desa Johor;Aman
+;KAB. KEPULAUAN SULA;;Mangoli Barat;7;Desa Lelyaba;Aman
+;KAB. KEPULAUAN SULA;;Mangoli Barat;8;Desa Falabisahaya;Aman
+;KAB. KEPULAUAN SULA;;Mangoli Barat;9;Desa Madapuhi;Aman
+;KAB. KEPULAUAN SULA;;Mangoli Barat;10;Desa Pastabulu;Aman
+;KAB. KEPULAUAN SULA;;Mangoli Barat;11;Desa Modapia;Aman
+;KAB. KEPULAUAN SULA;;Mangoli Barat;12;Desa Minaluli;Aman
+;KAB. KEPULAUAN SULA;;Mangoli Barat;13;Desa Saniahaya;Aman
+;KAB. KEPULAUAN SULA;;Mangoli Barat;14;Desa Madapuhi Trans;Aman
+;KAB. KEPULAUAN SULA;;Mangoli Barat;15;Desa Pastubulu;Aman
+;KAB. KEPULAUAN SULA;;Mangoli Barat;16;Desa Madapuhi Trans;Aman
+;KAB. KEPULAUAN SULA;11;Mangoli Selatan;1;Desa Auponhia;Aman
+;KAB. KEPULAUAN SULA;;Mangoli Selatan;2;Desa Buya;Aman
+;KAB. KEPULAUAN SULA;;Mangoli Selatan;3;Desa Wai Kafia;Aman
+;KAB. KEPULAUAN SULA;;Mangoli Selatan;4;Desa Koporo;Aman
+;KAB. KEPULAUAN SULA;;Mangoli Selatan;5;Desa wailab;Aman
+10;KAB. PULAU TALIABU;1;Taliabu Barat;1;Bobong;Waspada
+;KAB. PULAU TALIABU;;Taliabu Barat;2;Pancoran;Siaga
+;KAB. PULAU TALIABU;;Taliabu Barat;3;Tallo;Aman
+;KAB. PULAU TALIABU;;Taliabu Barat;4;Ratahaya;Aman
+;KAB. PULAU TALIABU;;Taliabu Barat;5;Wayo;Aman
+;KAB. PULAU TALIABU;;Taliabu Barat;6;Maranti Jaya;Aman
+;KAB. PULAU TALIABU;;Taliabu Barat;7;Kilong;Aman
+;KAB. PULAU TALIABU;;Taliabu Barat;8;Karamat;Aman
+;KAB. PULAU TALIABU;;Taliabu Barat;9;Hobota;Aman
+;KAB. PULAU TALIABU;;Taliabu Barat;10;Kawalo;Aman
+;KAB. PULAU TALIABU;;Taliabu Barat;11;Woyo;Aman
+;KAB. PULAU TALIABU;;Taliabu Barat;12;Lohobuba;Aman
+;KAB. PULAU TALIABU;;Taliabu Barat;13;Limbu;Aman
+;KAB. PULAU TALIABU;2;Taliabu Selatan;1;Nggoli;Aman
+;KAB. PULAU TALIABU;;Taliabu Selatan;2;Bahu;Aman
+;KAB. PULAU TALIABU;;Taliabu Selatan;3;Bapenu;Aman
+;KAB. PULAU TALIABU;;Taliabu Selatan;4;Galebo;Aman
+;KAB. PULAU TALIABU;;Taliabu Selatan;5;Kilo;Aman
+;KAB. PULAU TALIABU;;Taliabu Selatan;6;Sumbongi;Aman
+;KAB. PULAU TALIABU;;Taliabu Selatan;7;Nggaki;Aman
+;KAB. PULAU TALIABU;;Taliabu Selatan;8;Pencado;Aman
+;KAB. PULAU TALIABU;;Taliabu Selatan;9;Maluli;Aman
+;KAB. PULAU TALIABU;3;Tabona;1;Tabona;Aman
+;KAB. PULAU TALIABU;;Tabona;2;Habunuha;Aman
+;KAB. PULAU TALIABU;;Tabona;3;Fayaunana;Aman
+;KAB. PULAU TALIABU;;Tabona;4;Peleng;Aman
+;KAB. PULAU TALIABU;;Tabona;5;Wolio;Aman
+;KAB. PULAU TALIABU;;Tabona;6;Kataga;Aman
+;KAB. PULAU TALIABU;;Tabona;7;Kabunu;Aman
+;KAB. PULAU TALIABU;4;Taliabu Timur Selatan;1;Sofan;Aman
+;KAB. PULAU TALIABU;;Taliabu Timur Selatan;2;Kawadang;Aman
+;KAB. PULAU TALIABU;;Taliabu Timur Selatan;3;Losseng;Aman
+;KAB. PULAU TALIABU;;Taliabu Timur Selatan;4;Mantarara;Aman
+;KAB. PULAU TALIABU;;Taliabu Timur Selatan;5;Belo;Aman
+;KAB. PULAU TALIABU;;Taliabu Timur Selatan;6;Wai Kadai;Aman
+;KAB. PULAU TALIABU;;Taliabu Timur Selatan;7;Wai Kadai Sula;Aman
+;KAB. PULAU TALIABU;;Taliabu Timur Selatan;8;Kamaya;Aman
+;KAB. PULAU TALIABU;;Taliabu Timur Selatan;9;Waikoka;Aman
+;KAB. PULAU TALIABU;;Taliabu Timur Selatan;10;Sofan;Aman
+;KAB. PULAU TALIABU;;Taliabu Timur Selatan;11;Kawali;Aman
+;KAB. PULAU TALIABU;;Taliabu Timur Selatan;12;Kubunu;Aman
+;KAB. PULAU TALIABU;;Taliabu Timur Selatan;13;Belo;Aman
+;KAB. PULAU TALIABU;4;Taliabu Timur;1;Tubang;Aman
+;KAB. PULAU TALIABU;;Taliabu Timur;2;Penu;Aman
+;KAB. PULAU TALIABU;;Taliabu Timur;3;Parigi;Aman
+;KAB. PULAU TALIABU;;Taliabu Timur;4;Samuya;Aman
+;KAB. PULAU TALIABU;5;Taliabu Utara;1;Ufung;Aman
+;KAB. PULAU TALIABU;;Taliabu Utara;2;Natang Kuning;Aman
+;KAB. PULAU TALIABU;;Taliabu Utara;3;Nunu;Aman
+;KAB. PULAU TALIABU;;Taliabu Utara;4;Padang;Aman
+;KAB. PULAU TALIABU;;Taliabu Utara;5;Tikong;Aman
+;KAB. PULAU TALIABU;;Taliabu Utara;6;Sahu;Aman
+;KAB. PULAU TALIABU;;Taliabu Utara;7;Air Bulan;Aman
+;KAB. PULAU TALIABU;;Taliabu Utara;8;Nunca;Aman
+;KAB. PULAU TALIABU;;Taliabu Utara;9;Minton;Aman
+;KAB. PULAU TALIABU;;Taliabu Utara;10;Gela;Aman
+;KAB. PULAU TALIABU;;Taliabu Utara;11;Hai;Aman
+;KAB. PULAU TALIABU;;Taliabu Utara;12;Dege;Aman
+;KAB. PULAU TALIABU;;Taliabu Utara;13;Air Kalimat;Aman
+;KAB. PULAU TALIABU;;Taliabu Utara;14;Jorjoga;Aman
+;KAB. PULAU TALIABU;;Taliabu Utara;15;Tanjung Una;Aman
+;KAB. PULAU TALIABU;;Taliabu Utara;16;Mananga;Aman
+;KAB. PULAU TALIABU;;Taliabu Utara;17;Wahe;Aman
+;KAB. PULAU TALIABU;;Taliabu Utara;18;Mbono;Aman
+;KAB. PULAU TALIABU;;Taliabu Utara;19;London;Aman
+;KAB. PULAU TALIABU;;Taliabu Utara;20;Tikong;Aman
+;KAB. PULAU TALIABU;6;Lede;1;Lede;Aman
+;KAB. PULAU TALIABU;;Lede;2;Langganu;Aman
+;KAB. PULAU TALIABU;;Lede;3;Balohang;Aman
+;KAB. PULAU TALIABU;;Lede;4;Tolong;Aman
+;KAB. PULAU TALIABU;;Lede;5;Todoli;Aman
+;KAB. PULAU TALIABU;7;Taliabu Barat Laut;1;Kasango;Aman
+;KAB. PULAU TALIABU;;Taliabu Barat Laut;2;Beringin Jaya;Aman
+;KAB. PULAU TALIABU;;Taliabu Barat Laut;3;Salati;Aman
+;KAB. PULAU TALIABU;;Taliabu Barat Laut;4;One May;Aman
+;KAB. PULAU TALIABU;;Taliabu Barat Laut;5;Nggele;Aman

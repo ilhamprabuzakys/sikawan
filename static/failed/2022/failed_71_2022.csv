@@ -1,0 +1,1140 @@
+;KEPULAUAN SANGIHE;;Tabukan Tengah;17;Palelangen;AMAN
+;KEPULAUAN SANGIHE;;Tabukan Selatan;4;Malamenggu;AMAN
+;KEPULAUAN SANGIHE;;Tabukan Selatan Tengah;4;Beeng Darat;AMAN
+;KEPULAUAN SANGIHE;;Tabukan Selatan Tengah;9;Ahapatung;AMAN
+;KEPULAUAN SANGIHE;;Tabukan Selatan Tenggara;2;Kahakitang;SIAGA
+;KEPULAUAN SANGIHE;;Tabukan Selatan Tenggara;3;Mahengetang;AMAN
+;KEPULAUAN SANGIHE;;Tabukan Selatan Tenggara;4;Para;SIAGA
+;KEPULAUAN SANGIHE;;Tabukan Selatan Tenggara;5;Para I;AMAN
+;KEPULAUAN SANGIHE;;Tabukan Selatan Tenggara;6;Dalako Bembanehe;AMAN
+;KEPULAUAN SANGIHE;;Tabukan Selatan Tenggara;7;Taleko Batusaiki;AMAN
+;KEPULAUAN SANGIHE;;Manganitu;18;Pinabentengang;AMAN
+;Manado;;Bunaken Kepulauan;3;Manado Tua I;Aman
+;Manado;;Bunaken Kepulauan;4;Manado Tua II;Aman
+;Manado;;Malalayang;4;Malalayang I;Waspada
+;Manado;;Malalayang;5;Malalayang I Barat;Waspada
+;Manado;;Malalayang;6;Malalayang I Timur;Waspada
+;Manado;;Malalayang;7;Malalayang II;Waspada
+;Manado;;Malalayang;8;Winangun I;Waspada
+;Manado;;Malalayang;9;Winangun II;Waspada
+;Manado;;Mapanget;3;Kairagi I;Bahaya
+;Manado;;Mapanget;4;Kairagi II;Waspada
+;Manado;;Mapanget;9;Paniki I;Siaga
+;Manado;;Mapanget;10;Paniki II;Siaga
+;Manado;;Paal Dua;5;Paal II;Siaga
+;Manado;;Sario;3;Sario Kota Baru;Bahaya
+;Manado;;Sario;6;Titiwugen Selatan;Waspada
+;Manado;;Sario;7;Titiwungen Utara;Bahaya
+;Manado;;Singkil;5;Singkil I;Waspada
+;Manado;;Singkil;6;Singkil II;Waspada
+;Manado;9;Tuminting;1;Bitung karangria;Siaga
+;Manado;;Tuminting;2;Islam;Siaga
+;Manado;;Tuminting;3;Maasing;Siaga
+;Manado;;Tuminting;4;Mahawu;Siaga
+;Manado;;Tuminting;5;Sindulang I;Siaga
+;Manado;;Tuminting;6;Sindulang II;Siaga
+;Manado;;Tuminting;7;Sumompo;Siaga
+;Manado;;Tuminting;8;Tuminting;Siaga
+;Manado;;Tuminting;9;Tumumpa I;Siaga
+;Manado;;Tuminting;10;Tumumpa II;Siaga
+;Minahasa Selatan;;Amurang;3;Kilometer Tiga;Aman
+;Minahasa Selatan;;Amurang;7;Uwuran Dua;Aman
+;Minahasa Selatan;;Amurang;8;Uwuran Satu;Aman
+;Minahasa Selatan;;Amurang Barat;5;Rumong Barat;Aman
+;Minahasa Selatan;;Amurang Timur;3;Lopana I;Aman
+;Minahasa Selatan;;Amurang Timur;6;Maliku I;Aman
+;Minahasa Selatan;;Kumelembuai;7;Malola Satu;Aman
+;Minahasa Selatan;;Maesaan;3;Kinamang I;Aman
+;Minahasa Selatan;;Maesaan;7;Lowian I;Aman
+;Minahasa Selatan;;Motoling;3;Motoling Dua;Aman
+;Minahasa Selatan;;Motoling;5;Motoling Satu;Aman
+;Minahasa Selatan;;Motoling Barat;2;Raanan Baru Dua;Aman
+;Minahasa Selatan;;Motoling Barat;3;Raanan Baru Satu;Aman
+;Minahasa Selatan;;Motoling Barat;4;Tondey;Aman
+;Minahasa Selatan;;Motoling Barat;5;Tondey Dua;Aman
+;Minahasa Selatan;;Motoling Barat;6;Tondey Satu;Aman
+;Minahasa Selatan;;Ranoyapo;11;Ranoyapo (Ranoiapo);Aman
+;Minahasa Selatan;;Sinonsayang;3;Boyong Pante;Aman
+;Minahasa Selatan;;Sinonsayang;6;Ongkaw Dua;Aman
+;Minahasa Selatan;;Sinonsayang;7;Ongkaw Satu;Aman
+;Minahasa Selatan;;Sinonsayang;8;Poigar Dua;Siaga
+;Minahasa Selatan;;Sinonsayang;9;Poigar Satu;Siaga
+;Minahasa Selatan;;Sinonsayang;12;Boyong Pante Dua;Aman
+;Minahasa Selatan;;Sinonsayang;13;Tiniwangko;Aman
+;Minahasa Selatan;;Suluun Tareran;2;Kapoya I;Aman
+;Minahasa Selatan;;Tareran;5;Romoong Atas;Aman
+;Minahasa Selatan;;Tareran;6;Romoong Atas Dua;Aman
+;Minahasa Selatan;;Tareran;11;Tumaluntung I;Aman
+;Minahasa Selatan;;Tenga;4;Pakuure Dua;Aman
+;Minahasa Selatan;;Tenga;5;Pakuure Kinamang;Aman
+;Minahasa Selatan;;Tenga;8;Pakuure Tinanian;Aman
+;Minahasa Selatan;;Tompaso Baru;8;Tompaso Baru Dua;Waspada
+;Minahasa Selatan;;Tompaso Baru;9;Tompaso Baru Satu;Bahaya
+;Minahasa Selatan;;Tumpaan;6;Tangkuney;Aman
+;Minahasa Selatan;;Tumpaan;9;Tumpaan Dua;Aman
+1;Boltim;1;Kotabunan;1;Kotabunan;Waspada
+;Boltim;;Kotabunan;2;Kotabunan Selatan;Waspada
+;Boltim;;Kotabunan;3;Kotabunan Barat;Waspada
+;Boltim;;Kotabunan;4;Bukaka;Aman
+;Boltim;;Kotabunan;5;Bulawan;Aman
+;Boltim;;Kotabunan;6;Bulawan 1;Aman
+;Boltim;;Kotabunan;7;Bulawan 2;Aman
+;Boltim;;Kotabunan;8;Buyat;Siaga
+;Boltim;;Kotabunan;9;Buyat 1;Siaga
+;Boltim;;Kotabunan;10;Buyat 2;Siaga
+;Boltim;;Kotabunan;11;Buyat Barat;Siaga
+;Boltim;;Kotabunan;12;Buyat Selatan;Siaga
+;Boltim;;Kotabunan;13;Buyat Tengah;Siaga
+;Boltim;;Kotabunan;14;Paret;Aman
+;Boltim;;Kotabunan;15;Paret Timur;Aman
+;Boltim;2;Tutuyan;1;Tutuyan;Waspada
+;Boltim;;Tutuyan;2;Tutuyan II;Waspada
+;Boltim;;Tutuyan;3;Tutuyan III;Waspada
+;Boltim;;Tutuyan;4;Tombolikat;Aman
+;Boltim;;Tutuyan;5;Tombolikat Selatan;Aman
+;Boltim;;Tutuyan;6;Kayumoyondi;Aman
+;Boltim;;Tutuyan;7;Togid;Aman
+;Boltim;;Tutuyan;8;Dodap;Aman
+;Boltim;;Tutuyan;9;Dodap Pantai;Aman
+;Boltim;;Tutuyan;10;Dodap Mikasa;Aman
+;Boltim;3;Motongkad;1;Motongkad;Aman
+;Boltim;;Motongkad;2;Motongkad Utara;Aman
+;Boltim;;Motongkad;3;Motongkad Tengah;Aman
+;Boltim;;Motongkad;4;Motongkad Selatan;Aman
+;Boltim;;Motongkad;5;Atoga;Aman
+;Boltim;;Motongkad;6;Atoga Timur;Aman
+;Boltim;;Motongkad;7;Molobog;Aman
+;Boltim;;Motongkad;8;Molobog Barat;Aman
+;Boltim;;Motongkad;9;Molobong Timur;Aman
+;Boltim;;Motongkad;10;Jiko;Aman
+;Boltim;;Motongkad;11;Jiko Utara;Aman
+;Boltim;4;Nuangan;1;Nuangan;Aman
+;Boltim;;Nuangan;2;Nuangan 1;Aman
+;Boltim;;Nuangan;3;Nuangan Barat;Aman
+;Boltim;;Nuangan;4;Nuangan Selatan;Aman
+;Boltim;;Nuangan;5;Iyok;Aman
+;Boltim;;Nuangan;6;Loyow;Aman
+;Boltim;;Nuangan;7;Idumun;Aman
+;Boltim;;Nuangan;8;Bai;Aman
+;Boltim;;Nuangan;9;Matabulu;Aman
+;Boltim;;Nuangan;10;Matabulu Timur;Aman
+;Boltim;;Nuangan;11;Jiko Belanga;Aman
+;Boltim;5;Mooat;1;Mooat;Aman
+;Boltim;;Mooat;2;Bongkudai Selatan;Aman
+;Boltim;;Mooat;3;Bongkudai Baru;Aman
+;Boltim;;Mooat;4;Bongkudai Utara;Aman
+;Boltim;;Mooat;5;Bongkudai Timur;Aman
+;Boltim;;Mooat;6;Guaan;Aman
+;Boltim;;Mooat;7;Mototompiaan;Aman
+;Boltim;;Mooat;8;Mokitompia;Aman
+;Boltim;;Mooat;9;Kokapoi;Aman
+;Boltim;;Mooat;10;Kokapoi Timur;Aman
+;Boltim;6;Modayag;1;Modayag;Aman
+;Boltim;;Modayag;2;Modayag II;Aman
+;Boltim;;Modayag;3;Modayag III;Aman
+;Boltim;;Modayag;4;Tobongon;Aman
+;Boltim;;Modayag;5;Purworejo;Aman
+;Boltim;;Modayag;6;Purworejo Tengah;Aman
+;Boltim;;Modayag;7;Purworejo Timur;Aman
+;Boltim;;Modayag;8;Sumber Rejo;Aman
+;Boltim;;Modayag;9;Liberia;Aman
+;Boltim;;Modayag;10;Liberia Timur;Aman
+;Boltim;;Modayag;11;Candi Rejo;Aman
+;Boltim;;Modayag;12;Badaro;Aman
+;Boltim;;Modayag;13;Lanut;Aman
+;Boltim;;Modayag;14;Buyandi;Aman
+;Boltim;7;Modayag Barat;1;Moyongkota Baru;Aman
+;Boltim;;Modayag Barat;2;Tangaton;Aman
+;Boltim;;Modayag Barat;3;Moyongkota;Aman
+;Boltim;;Modayag Barat;4;Pinonombatuan;Aman
+;Boltim;;Modayag Barat;5;Bangunan Wuwuk;Aman
+;Boltim;;Modayag Barat;6;Bangunan Wuwuk Timur;Aman
+;Boltim;;Modayag Barat;7;Inaton;Aman
+;Boltim;;Modayag Barat;8;Bongkudai;Aman
+;Boltim;;Modayag Barat;9;Bongkudai Baru;Aman
+;Boltim;;Modayag Barat;10;Moonow;Aman
+1;Minahasa Utara;1;Airmadidi;1;Sukur;Waspada
+;Minahasa Utara;;Airmadidi;2;Sarongsong II;Aman
+;Minahasa Utara;;Kalawat;10;Watutumou II;Siaga
+;Minahasa Utara;;Kalawat;11;Watutumou III;Siaga
+;Minahasa Utara;;Kauditan;4;Dea kaasar;Siaga
+;Minahasa Utara;;Kauditan;12;Watudambo II;Aman
+;Minahasa Utara;;Kema;8;Waleo II;Aman
+;Minahasa Utara;;Kema;10;Tontalete Rok-Rok;Siaga
+;Minahasa Utara;;Likupang Selatan;3;Kokole II;Aman
+;Minahasa Utara;;Likupang Selatan;4;Kokole I;Aman
+;Minahasa Utara;;Likupang Timur;3;Sarawet;Aman
+;Minahasa Utara;;Likupang Timur;11;Kalinaung;Aman
+;Minahasa Utara;;Likupang Timur;15;Ehe (Pulau);Aman
+;Minahasa Utara;;Likupang Timur;16;Libas (Pulau);Siaga
+;Minahasa Utara;;Likupang Timur;17;Kahuku (Pulau);Aman
+;Minahasa Utara;;Likupang Timur;18;Lihunu (Pulau);Aman
+;Minahasa Utara;;Likupang Barat;3;Teremaal;Aman
+;Minahasa Utara;;Likupang Barat;14;Gangga I (Pulau);Aman
+;Minahasa Utara;;Likupang Barat;15;Gangga II (Pulau);Aman
+;Minahasa Utara;;Likupang Barat;16;Libas (Pulau);Aman
+;Minahasa Utara;;Likupang Barat;17;Tambun (Pulau);Aman
+;Minahasa Utara;;Likupang Barat;18;Wawunian (Pulau);Aman
+;Minahasa Utara;;Likupang Barat;19;Talise (Pulau);Siaga
+;Minahasa Utara;;Likupang Barat;20;Airbanua (Pulau);Aman
+;Minahasa Utara;;Wori;14;Nain (Pulau);Siaga
+;Minahasa Utara;;Wori;15;Nain I (Pulau);Aman
+;Minahasa Utara;;Wori;16;Nain Tatampi (Pulau);Aman
+;Minahasa Utara;;Wori;17;Buhias (Pulau);Aman
+;Minahasa Utara;;Wori;18;Tinongko (Pulau);Aman
+;Minahasa Utara;;Wori;19;Bango (Pulau);Aman
+;Minahasa Utara;;Wori;20;Tangkasi (Pulau);Aman
+1;SITARO;1;BIARO;1;KARUNGO;Aman
+;SITARO;;BIARO;2;DALINSAHENG;Aman
+;SITARO;;BIARO;3;LAMANGGO;Aman
+;SITARO;;BIARO;4;TOPE;Aman
+;SITARO;;BIARO;5;BUANG;Aman
+;SITARO;2;TAGULANDANG;1;LAINGPATEHI;Aman
+;SITARO;;TAGULANDANG;2;PUMPENTE;Aman
+;SITARO;;TAGULANDANG;3;MOHONGSAWANG;Aman
+;SITARO;;TAGULANDANG;4;MULENGEN;Aman
+;SITARO;;TAGULANDANG;5;APENGSALA;Aman
+;SITARO;;TAGULANDANG;6;MAHANGIANG;Aman
+;SITARO;;TAGULANDANG;7;TULUSAN;Aman
+;SITARO;;TAGULANDANG;8;HAASI;Aman
+;SITARO;;TAGULANDANG;9;BARANGKAPEHE;Aman
+;SITARO;;TAGULANDANG;10;LESAHRENDE;Aman
+;SITARO;;TAGULANDANG;11;LESAH;Aman
+;SITARO;;TAGULANDANG;12;BOTTO;Aman
+;SITARO;;TAGULANDANG;13;PAHIAMA;Aman
+;SITARO;;TAGULANDANG;14;BALEHUMARA;Aman
+;SITARO;;TAGULANDANG;15;BAHOI;Aman
+;SITARO;3;TAGULANDANG SELATAN;1;HUMBIA;Aman
+;SITARO;;TAGULANDANG SELATAN;2;KISIHANG;Aman
+;SITARO;;TAGULANDANG SELATAN;3;BIRAKIAMA;Aman
+;SITARO;;TAGULANDANG SELATAN;4;BUHA;Aman
+;SITARO;;TAGULANDANG SELATAN;5;BATUMAWIRA;Aman
+;SITARO;;TAGULANDANG SELATAN;6;BIRARIKEI;Aman
+;SITARO;4;TAGULANDANG UTARA;1;BAWOLEU;Aman
+;SITARO;;TAGULANDANG UTARA;2;MINANGA;Aman
+;SITARO;;TAGULANDANG UTARA;3;BULANGAN;Aman
+;SITARO;;TAGULANDANG UTARA;4;WO;Aman
+;SITARO;;TAGULANDANG UTARA;5;BAWO;Aman
+;SITARO;;TAGULANDANG UTARA;6;LUMBO;Aman
+;SITARO;5;SIAU TIMUR;1;BUKIDE;Aman
+;SITARO;;SIAU TIMUR;2;APELAWO;Aman
+;SITARO;;SIAU TIMUR;3;DEAHE;Aman
+;SITARO;;SIAU TIMUR;4;LIA;Aman
+;SITARO;;SIAU TIMUR;5;KANANG;Aman
+;SITARO;;SIAU TIMUR;6;BUISE;Aman
+;SITARO;;SIAU TIMUR;7;KARALUNG;Aman
+;SITARO;;SIAU TIMUR;8;DAME;Aman
+;SITARO;;SIAU TIMUR;9;DAME 1;Aman
+;SITARO;;SIAU TIMUR;10;KARALUNG 1;Aman
+;SITARO;;SIAU TIMUR;11;LIA 1;Aman
+;SITARO;;SIAU TIMUR;12;TATAHADENG;Aman
+;SITARO;;SIAU TIMUR;13;TARORANE;Aman
+;SITARO;;SIAU TIMUR;14;BAHU;Aman
+;SITARO;;SIAU TIMUR;15;BEBALI;Aman
+;SITARO;;SIAU TIMUR;16;AKESIMBEKA;Aman
+;SITARO;6;SIAU TIMUR SELATAN;1;LAHOPANG;Aman
+;SITARO;;SIAU TIMUR SELATAN;2;MALA;Aman
+;SITARO;;SIAU TIMUR SELATAN;3;PANGIROLONG;Aman
+;SITARO;;SIAU TIMUR SELATAN;4;SAWANG;Aman
+;SITARO;;SIAU TIMUR SELATAN;5;BIAU;Aman
+;SITARO;;SIAU TIMUR SELATAN;6;BINALU;Aman
+;SITARO;;SIAU TIMUR SELATAN;7;KALAHIANG;Aman
+;SITARO;;SIAU TIMUR SELATAN;8;BALIRANGENG;Aman
+;SITARO;;SIAU TIMUR SELATAN;9;BANDIL;Aman
+;SITARO;;SIAU TIMUR SELATAN;10;BUHIAS;Siaga
+;SITARO;;SIAU TIMUR SELATAN;11;TAPILE;Aman
+;SITARO;;SIAU TIMUR SELATAN;12;PAHEPA;Aman
+;SITARO;;SIAU TIMUR SELATAN;13;BIAU SEHA;Aman
+;SITARO;;SIAU TIMUR SELATAN;14;MATOLE;Aman
+;SITARO;7;SIAU TENGAH;1;SALILI;Aman
+;SITARO;;SIAU TENGAH;2;BEONG;Aman
+;SITARO;;SIAU TENGAH;3;LAI;Aman
+;SITARO;;SIAU TENGAH;4;DOMPASE;Aman
+;SITARO;8;SIAU BARAT;1;PELING SAWANG;Aman
+;SITARO;;SIAU BARAT;2;PELING;Aman
+;SITARO;;SIAU BARAT;3;BUMBIHA;Aman
+;SITARO;;SIAU BARAT;4;KANAWONG;Aman
+;SITARO;;SIAU BARAT;5;LEHI;Aman
+;SITARO;;SIAU BARAT;6;MAKALEHI;Aman
+;SITARO;;SIAU BARAT;7;PEHE;Aman
+;SITARO;;SIAU BARAT;8;MAKALEHI UTARA;Aman
+;SITARO;;SIAU BARAT;9;MAKALEHI TIMUR;Aman
+;SITARO;;SIAU BARAT;10;PANIKI;Aman
+;SITARO;;SIAU BARAT;11;ONDONG;Siaga
+;SITARO;;SIAU BARAT;12;PASENG;Aman
+;SITARO;9;SIAU BARAT UTARA;1;NAMENG;Aman
+;SITARO;;SIAU BARAT UTARA;2;BATUBULAN;Aman
+;SITARO;;SIAU BARAT UTARA;3;KAWAHANG;Aman
+;SITARO;;SIAU BARAT UTARA;4;KIAWANG;Aman
+;SITARO;;SIAU BARAT UTARA;5;HIUNG;Aman
+;SITARO;;SIAU BARAT UTARA;6;KINALI;Aman
+;SITARO;;SIAU BARAT UTARA;7;MINI;Aman
+;SITARO;;SIAU BARAT UTARA;8;WINANGUN;Aman
+;SITARO;10;SIAU BARAT SELATAN;1;TANAKI;Aman
+;SITARO;;SIAU BARAT SELATAN;2;KAPETA;Aman
+;SITARO;;SIAU BARAT SELATAN;3;TALAWID;Aman
+;SITARO;;SIAU BARAT SELATAN;4;LAGHAENG;Aman
+;SITARO;;SIAU BARAT SELATAN;5;BATU SENGGO;Aman
+;SITARO;;SIAU BARAT SELATAN;6;MAKOA;Aman
+;SITARO;;SIAU BARAT SELATAN;7;MAHUNENI;Aman
+;BITUNG;2;Maesa;1;Bitung Barat I;Waspada
+;BITUNG;;Maesa;2;Bitung Barat II;Waspada
+;BITUNG;;Maesa;5;Kakenturan I;Aman
+;BITUNG;;Maesa;6;Kakenturan II;Waspada
+;BITUNG;;Maesa;8;Pateten III;Siaga
+;BITUNG;;Girian;5;Girian Weru I;Waspada
+;BITUNG;;Girian;6;Girian Weru II;Aman
+;BITUNG;;Matuari;5;Sagerat Weru I;Siaga
+;BITUNG;;Matuari;6;Sagerat Weru II;Aman
+;BITUNG;6;Ranowulu;1;Apela I;Aman
+;BITUNG;;Ranowulu;2;Apela II;Aman
+;BITUNG;7;Lembe Selatan;1;Batulubang;Aman
+;BITUNG;;Lembe Selatan;2;Dorbolaang;Aman
+;BITUNG;;Lembe Selatan;3;Kelapa Dua;Aman
+;BITUNG;;Lembe Selatan;4;Pancuran;Aman
+;BITUNG;;Lembe Selatan;5;Papusungan;Aman
+;BITUNG;;Lembe Selatan;6;Pasir Panjang;Aman
+;BITUNG;;Lembe Selatan;7;Paudean;Aman
+;TOMOHON;;Tomohon Tengah;9;Matani Satu /Kaaten;Waspada
+;TOMOHON;;Tomohon Timur;5;Kumelembuai;Aman
+1;Bolang Mongondow Utara;1;Bintauna;1;Batulintik;Aman
+;Bolang Mongondow Utara;;Bintauna;2;Voa'a;Aman
+;Bolang Mongondow Utara;;Bintauna;3;Bintauna Pantai;Waspada
+;Bolang Mongondow Utara;;Bintauna;4;Bunia;Aman
+;Bolang Mongondow Utara;;Bintauna;5;Bunong;Aman
+;Bolang Mongondow Utara;;Bintauna;6;Huntuk;Aman
+;Bolang Mongondow Utara;;Bintauna;7;Kopi;Aman
+;Bolang Mongondow Utara;;Bintauna;8;Kuhanaga;Aman
+;Bolang Mongondow Utara;;Bintauna;9;Minanaga;Aman
+;Bolang Mongondow Utara;;Bintauna;10;Mome;Aman
+;Bolang Mongondow Utara;;Bintauna;11;Padang;Aman
+;Bolang Mongondow Utara;;Bintauna;12;Padang Barat;Aman
+;Bolang Mongondow Utara;;Bintauna;13;Pimpi;Aman
+;Bolang Mongondow Utara;;Bintauna;14;Talaga;Waspada
+;Bolang Mongondow Utara;;Bintauna;15;Vahuta;Aman
+;Bolang Mongondow Utara;2;Bolang Itang Barat;1;Bolangitang;Siaga
+;Bolang Mongondow Utara;;Bolang Itang Barat;2;Bolangitang I;Aman
+;Bolang Mongondow Utara;;Bolang Itang Barat;3;Bolangitang II;Aman
+;Bolang Mongondow Utara;;Bolang Itang Barat;4;Iyok;Aman
+;Bolang Mongondow Utara;;Bolang Itang Barat;5;Jambusarang;Aman
+;Bolang Mongondow Utara;;Bolang Itang Barat;6;Langi;Aman
+;Bolang Mongondow Utara;;Bolang Itang Barat;7;Ollot;Aman
+;Bolang Mongondow Utara;;Bolang Itang Barat;8;Ollot I;Aman
+;Bolang Mongondow Utara;;Bolang Itang Barat;9;Ollot II;Aman
+;Bolang Mongondow Utara;;Bolang Itang Barat;10;Paku;Aman
+;Bolang Mongondow Utara;;Bolang Itang Barat;11;Sonuo;Aman
+;Bolang Mongondow Utara;;Bolang Itang Barat;12;Talaga;Aman
+;Bolang Mongondow Utara;;Bolang Itang Barat;13;Talaga Tumoagu;Aman
+;Bolang Mongondow Utara;;Bolang Itang Barat;14;Tote;Aman
+;Bolang Mongondow Utara;;Bolang Itang Barat;15;Wakat;Aman
+;Bolang Mongondow Utara;;Bolang Itang Barat;16;Paku Selatan;Aman
+;Bolang Mongondow Utara;;Bolang Itang Barat;17;Tanjung Buaya;Aman
+;Bolang Mongondow Utara;;Bolang Itang Barat;18;Keimanga;Aman
+;Bolang Mongondow Utara;3;Bolang Itang Timur;1;Binjeita;Aman
+;Bolang Mongondow Utara;;Bolang Itang Timur;2;Binjeita I;Aman
+;Bolang Mongondow Utara;;Bolang Itang Timur;3;Binjeita II;Aman
+;Bolang Mongondow Utara;;Bolang Itang Timur;4;Binuanga;Aman
+;Bolang Mongondow Utara;;Bolang Itang Timur;5;Biontong;Aman
+;Bolang Mongondow Utara;;Bolang Itang Timur;6;Biontong I;Aman
+;Bolang Mongondow Utara;;Bolang Itang Timur;7;Biontong II;Aman
+;Bolang Mongondow Utara;;Bolang Itang Timur;8;Bohabak I;Aman
+;Bolang Mongondow Utara;;Bolang Itang Timur;9;Bohabak II;Aman
+;Bolang Mongondow Utara;;Bolang Itang Timur;10;Bohabak III;Aman
+;Bolang Mongondow Utara;;Bolang Itang Timur;11;Bohabak IV;Aman
+;Bolang Mongondow Utara;;Bolang Itang Timur;12;Mokoditek;Aman
+;Bolang Mongondow Utara;;Bolang Itang Timur;13;Mokoditek I;Aman
+;Bolang Mongondow Utara;;Bolang Itang Timur;14;Nunuka;Aman
+;Bolang Mongondow Utara;;Bolang Itang Timur;15;Saleo;Aman
+;Bolang Mongondow Utara;;Bolang Itang Timur;16;Saleo Satu;Aman
+;Bolang Mongondow Utara;;Bolang Itang Timur;17;Lipu Bogu;Aman
+;Bolang Mongondow Utara;;Bolang Itang Timur;18;Binuni;Aman
+;Bolang Mongondow Utara;;Bolang Itang Timur;19;Tanjung Labuo;Aman
+;Bolang Mongondow Utara;;Bolang Itang Timur;20;Nagara;Aman
+;Bolang Mongondow Utara;4;Kaidipang;1;Bigo;Aman
+;Bolang Mongondow Utara;;Kaidipang;2;Boroko;Siaga
+;Bolang Mongondow Utara;;Kaidipang;3;Boroko Timur;Aman
+;Bolang Mongondow Utara;;Kaidipang;4;Inomunga;Aman
+;Bolang Mongondow Utara;;Kaidipang;5;Komus Dua (II);Aman
+;Bolang Mongondow Utara;;Kaidipang;6;Kuala;Aman
+;Bolang Mongondow Utara;;Kaidipang;7;Kuala Utara;Aman
+;Bolang Mongondow Utara;;Kaidipang;8;Pontak;Siaga
+;Bolang Mongondow Utara;;Kaidipang;9;Solo;Aman
+;Bolang Mongondow Utara;;Kaidipang;10;Bigo Selatan;Aman
+;Bolang Mongondow Utara;;Kaidipang;11;Soligir;Aman
+;Bolang Mongondow Utara;;Kaidipang;12;Inomunga Utara;Aman
+;Bolang Mongondow Utara;;Kaidipang;13;Komus Dua Timur;Aman
+;Bolang Mongondow Utara;;Kaidipang;14;Gihang;Aman
+;Bolang Mongondow Utara;;Kaidipang;15;Boroko Utara;Aman
+;Bolang Mongondow Utara;5;Pinogaluman;1;Batu Bantayo;Aman
+;Bolang Mongondow Utara;;Pinogaluman;2;Batutajam;Aman
+;Bolang Mongondow Utara;;Pinogaluman;3;Buko;Aman
+;Bolang Mongondow Utara;;Pinogaluman;4;Buko Selatan;Aman
+;Bolang Mongondow Utara;;Pinogaluman;5;Busato;Aman
+;Bolang Mongondow Utara;;Pinogaluman;6;Dalapuli;Aman
+;Bolang Mongondow Utara;;Pinogaluman;7;Dengi;Aman
+;Bolang Mongondow Utara;;Pinogaluman;8;Kayuogu;Aman
+;Bolang Mongondow Utara;;Pinogaluman;9;Komus Satu;Aman
+;Bolang Mongondow Utara;;Pinogaluman;10;Tanjung Sidupa;Aman
+;Bolang Mongondow Utara;;Pinogaluman;11;Tombulang;Aman
+;Bolang Mongondow Utara;;Pinogaluman;12;Tontulow;Aman
+;Bolang Mongondow Utara;;Pinogaluman;13;Tuntung;Aman
+;Bolang Mongondow Utara;;Pinogaluman;14;Buko Utara;Aman
+;Bolang Mongondow Utara;;Pinogaluman;15;Tontulow Utara;Aman
+;Bolang Mongondow Utara;;Pinogaluman;16;Tombulang Timur;Aman
+;Bolang Mongondow Utara;;Pinogaluman;17;Tombulang Pantai;Aman
+;Bolang Mongondow Utara;;Pinogaluman;18;Dalapuli Barat;Aman
+;Bolang Mongondow Utara;;Pinogaluman;19;Dalapuli Timur;Aman
+;Bolang Mongondow Utara;;Pinogaluman;20;Duini;Aman
+;Bolang Mongondow Utara;;Pinogaluman;21;Tuntung Timur;Aman
+;Bolang Mongondow Utara;;Pinogaluman;22;Padango;Aman
+;Bolang Mongondow Utara;6;Sangkub;1;Busisingo;Aman
+;Bolang Mongondow Utara;;Sangkub;2;Busisingo Utara;Aman
+;Bolang Mongondow Utara;;Sangkub;3;Pangkusa;Aman
+;Bolang Mongondow Utara;;Sangkub;4;Sompiro;Aman
+;Bolang Mongondow Utara;;Sangkub;5;Sangkub I;Aman
+;Bolang Mongondow Utara;;Sangkub;6;Sangkub II;Aman
+;Bolang Mongondow Utara;;Sangkub;7;Sangkub III;Aman
+;Bolang Mongondow Utara;;Sangkub;8;Sangtombolang;Aman
+;Bolang Mongondow Utara;;Sangkub;9;Sidodadi;Aman
+;Bolang Mongondow Utara;;Sangkub;10;Tombolango;Aman
+;Bolang Mongondow Utara;;Sangkub;11;Mokusalo;Aman
+;Bolang Mongondow Utara;;Sangkub;12;Sangkub Timur;Aman
+;Bolang Mongondow Utara;;Sangkub;13;Sangkub IV;Aman
+;Bolang Mongondow Utara;;Sangkub;14;Monompia;Aman
+;Bolang Mongondow Utara;;Sangkub;15;Apeng Sembeka;Aman
+;Bolang Mongondow Utara;;Sangkub;16;Suka Makmur;Aman
+;Bolaang Mongondow;1;Dumoga Tengah;1;Ibolian;Siaga
+;Bolaang Mongondow;;Dumoga Tengah;2;Werdhi agung;Aman
+;Bolaang Mongondow;;Dumoga Tengah;3;Kinomaligan;Aman
+;Bolaang Mongondow;;Dumoga Tengah;4;Werddhi agung selatan;Aman
+;Bolaang Mongondow;;Dumoga Tengah;5;Kosio Timur;Aman
+;Bolaang Mongondow;;Dumoga Tengah;6;Werdhi Agung Timur;Aman
+;Bolaang Mongondow;;Dumoga Tengah;7;Kosio Barat;Aman
+;Bolaang Mongondow;;Dumoga Tengah;8;Ibolian I;Aman
+;Bolaang Mongondow;;Dumoga Tengah;9;Kosio;Siaga
+;Bolaang Mongondow;;Dumoga Tengah;10;Werdhi agung utara;Aman
+;Bolaang Mongondow;2;Dumoga Tenggara;1;Tapadaka I;Aman
+;Bolaang Mongondow;;Dumoga Tenggara;2;Tapadaka Utara;Aman
+;Bolaang Mongondow;;Dumoga Tenggara;3;Tapadaka Timur;Aman
+;Bolaang Mongondow;;Dumoga Tenggara;4;Konarom;Aman
+;Bolaang Mongondow;;Dumoga Tenggara;5;Konarom Barat;Aman
+;Bolaang Mongondow;;Dumoga Tenggara;6;Konarom Utara;Aman
+;Bolaang Mongondow;;Dumoga Tenggara;7;Osion;Aman
+;Bolaang Mongondow;;Dumoga Tenggara;8;Dumara;Aman
+;Bolaang Mongondow;;Dumoga Tenggara;9;Ikuna;Aman
+;Bolaang Mongondow;;Dumoga Tenggara;10;Bonawang;Aman
+;Bolaang Mongondow;3;Dumoga Barat;1;Toraut utara;Aman
+;Bolaang Mongondow;;Dumoga Barat;2;Toraut Tengah;Aman
+;Bolaang Mongondow;;Dumoga Barat;3;Toraut;Aman
+;Bolaang Mongondow;;Dumoga Barat;4;Matayangan;Aman
+;Bolaang Mongondow;;Dumoga Barat;5;Mekaruo;Aman
+;Bolaang Mongondow;;Dumoga Barat;6;Uuwan;Siaga
+;Bolaang Mongondow;;Dumoga Barat;7;Ikhwan;Aman
+;Bolaang Mongondow;;Dumoga Barat;8;Doloduo 3;Aman
+;Bolaang Mongondow;;Dumoga Barat;9;Doloduo;Aman
+;Bolaang Mongondow;;Dumoga Barat;10;Doloduo I;Aman
+;Bolaang Mongondow;;Dumoga Barat;11;Doloduo II;Aman
+;Bolaang Mongondow;;Dumoga Barat;12;Wangga Baru;Aman
+;Bolaang Mongondow;4;Dumoga Utara;1;Tumokang Baru;Aman
+;Bolaang Mongondow;;Dumoga Utara;2;Mopugad Utara;Aman
+;Bolaang Mongondow;;Dumoga Utara;3;Mopugad Selatan;Aman
+;Bolaang Mongondow;;Dumoga Utara;4;Mopuya Utara;Aman
+;Bolaang Mongondow;;Dumoga Utara;5;Mopuya Selatan;Aman
+;Bolaang Mongondow;;Dumoga Utara;6;Dondomon;Waspada
+;Bolaang Mongondow;;Dumoga Utara;7;Mopugad Selatan I;Aman
+;Bolaang Mongondow;;Dumoga Utara;8;Mopugad Utara II;Aman
+;Bolaang Mongondow;;Dumoga Utara;9;Mopugad Utara I;Aman
+;Bolaang Mongondow;;Dumoga Utara;10;Tumokang Timur;Aman
+;Bolaang Mongondow;;Dumoga Utara;11;Mopuya Utara I;Aman
+;Bolaang Mongondow;;Dumoga Utara;12;Mopuya Utara II;Aman
+;Bolaang Mongondow;;Dumoga Utara;13;Mopuya Selatan I;Siaga
+;Bolaang Mongondow;;Dumoga Utara;14;Mopuya Selatan II;Siaga
+;Bolaang Mongondow;;Dumoga Utara;15;Dondomon Utara;Aman
+;Bolaang Mongondow;;Dumoga Utara;16;Dondomon Selatan;Aman
+;Bolaang Mongondow;5;Dumoga Timur;1;Tonom;Aman
+;Bolaang Mongondow;;Dumoga Timur;2;Mogoyunggung Dua;Aman
+;Bolaang Mongondow;;Dumoga Timur;3;Mogoyunggung;Aman
+;Bolaang Mongondow;;Dumoga Timur;4;Mogoyunggung Satu;Aman
+;Bolaang Mongondow;;Dumoga Timur;5;Imandi;Waspada
+;Bolaang Mongondow;;Dumoga Timur;6;Pinonobatuan;Aman
+;Bolaang Mongondow;;Dumoga Timur;7;Pinonobatuan barat;Aman
+;Bolaang Mongondow;;Dumoga Timur;8;Modomang;Siaga
+;Bolaang Mongondow;;Dumoga Timur;9;Dumoga;Aman
+;Bolaang Mongondow;;Dumoga Timur;10;Dumoga Empat;Aman
+;Bolaang Mongondow;;Dumoga Timur;11;Dumoga Tiga;Aman
+;Bolaang Mongondow;;Dumoga Timur;12;Kembang Mertha;Aman
+;Bolaang Mongondow;;Dumoga Timur;13;Kembang Sari;Aman
+;Bolaang Mongondow;;Dumoga Timur;14;Amerta Buana;Aman
+;Bolaang Mongondow;;Dumoga Timur;15;Amerta Sari;Aman
+;Bolaang Mongondow;;Dumoga Timur;16;Dumoga Dua;Aman
+;Bolaang Mongondow;6;Dumoga;1;Siniyung;Aman
+;Bolaang Mongondow;;Dumoga;2;Siniyung I;Aman
+;Bolaang Mongondow;;Dumoga;3;Bumbungon;Aman
+;Bolaang Mongondow;;Dumoga;4;Mototabian;Aman
+;Bolaang Mongondow;;Dumoga;5;Ponompiaan;Aman
+;Bolaang Mongondow;;Dumoga;6;Pusian;Aman
+;Bolaang Mongondow;;Dumoga;7;Pusian Barat;Aman
+;Bolaang Mongondow;;Dumoga;8;Pusian Selatan;Aman
+;Bolaang Mongondow;;Dumoga;9;Kanaan;Aman
+;Bolaang Mongondow;;Dumoga;10;Toruakat;Aman
+;Bolaang Mongondow;;Dumoga;11;Serasi;Aman
+;Bolaang Mongondow;;Dumoga;12;Dumoga I;Aman
+;Bolaang Mongondow;7;LOLAK;1;Bumbung;Aman
+;Bolaang Mongondow;;LOLAK;2;Buntalo;Aman
+;Bolaang Mongondow;;LOLAK;3;Totabuan;Aman
+;Bolaang Mongondow;;LOLAK;4;Solog;Aman
+;Bolaang Mongondow;;LOLAK;5;Tandu;Aman
+;Bolaang Mongondow;;LOLAK;6;Tuyat;Aman
+;Bolaang Mongondow;;LOLAK;7;Lalow;Aman
+;Bolaang Mongondow;;LOLAK;8;Lolak;Siaga
+;Bolaang Mongondow;;LOLAK;9;Motabang;Aman
+;Bolaang Mongondow;;LOLAK;10;Mongkoinit;Aman
+;Bolaang Mongondow;;LOLAK;11;Pinogaluman;Aman
+;Bolaang Mongondow;;LOLAK;12;Baturapa;Aman
+;Bolaang Mongondow;;LOLAK;13;Labuan Uki;Aman
+;Bolaang Mongondow;;LOLAK;14;Sauk;Aman
+;Bolaang Mongondow;;LOLAK;15;Pindol;Aman
+;Bolaang Mongondow;;LOLAK;16;Pindolili;Aman
+;Bolaang Mongondow;;LOLAK;17;Lolak Tombolango;Aman
+;Bolaang Mongondow;;LOLAK;18;Lolak II;Aman
+;Bolaang Mongondow;;LOLAK;19;Baturapa II;Aman
+;Bolaang Mongondow;;LOLAK;20;Buntalo Timur;Aman
+;Bolaang Mongondow;;LOLAK;21;Buntalo Selatan;Aman
+;Bolaang Mongondow;;LOLAK;22;Diat;Aman
+;Bolaang Mongondow;;LOLAK;23;Pinogaluman Timur;Aman
+;Bolaang Mongondow;;LOLAK;24;Padang Lalow;Aman
+;Bolaang Mongondow;;LOLAK;25;Dulangon;Aman
+;Bolaang Mongondow;;LOLAK;26;Mongkoinit Barat;Aman
+;Bolaang Mongondow;8;LOLAYAN;1;Mopusi;Aman
+;Bolaang Mongondow;;LOLAYAN;2;Matali Baru;Aman
+;Bolaang Mongondow;;LOLAYAN;3;Bakan;Siaga
+;Bolaang Mongondow;;LOLAYAN;4;Tanoyan Selatan;Siaga
+;Bolaang Mongondow;;LOLAYAN;5;Tanoyan Utara;Aman
+;Bolaang Mongondow;;LOLAYAN;6;Lolayan;Siaga
+;Bolaang Mongondow;;LOLAYAN;7;Tungoi I;Aman
+;Bolaang Mongondow;;LOLAYAN;8;Tungoi II;Aman
+;Bolaang Mongondow;;LOLAYAN;9;Tapa Aog;Aman
+;Bolaang Mongondow;;LOLAYAN;10;Abak;Aman
+;Bolaang Mongondow;;LOLAYAN;11;Bombanon;Aman
+;Bolaang Mongondow;;LOLAYAN;12;Mopait;Aman
+;Bolaang Mongondow;;LOLAYAN;13;Kopandakan II;Aman
+;Bolaang Mongondow;;LOLAYAN;14;Mengkang;Aman
+;Bolaang Mongondow;9;PASSI BARAT;1;Muntoi;Aman
+;Bolaang Mongondow;;PASSI BARAT;2;Inuai;Aman
+;Bolaang Mongondow;;PASSI BARAT;3;Poyuyanan;Aman
+;Bolaang Mongondow;;PASSI BARAT;4;Lobong;Aman
+;Bolaang Mongondow;;PASSI BARAT;5;Passi;Aman
+;Bolaang Mongondow;;PASSI BARAT;6;Wangga;Aman
+;Bolaang Mongondow;;PASSI BARAT;7;Otam;Aman
+;Bolaang Mongondow;;PASSI BARAT;8;Bulud;Aman
+;Bolaang Mongondow;;PASSI BARAT;9;Bintau;Aman
+;Bolaang Mongondow;;PASSI BARAT;10;Passi II;Aman
+;Bolaang Mongondow;;PASSI BARAT;11;Muntoi Timur;Aman
+;Bolaang Mongondow;;PASSI BARAT;12;Wangga I;Aman
+;Bolaang Mongondow;;PASSI BARAT;13;Otam Barat;Aman
+;Bolaang Mongondow;10;PASSI TIMUR;1;Pangian;Aman
+;Bolaang Mongondow;;PASSI TIMUR;2;poopo;Aman
+;Bolaang Mongondow;;PASSI TIMUR;3;Manembo;Aman
+;Bolaang Mongondow;;PASSI TIMUR;4;Sinsingon;Aman
+;Bolaang Mongondow;;PASSI TIMUR;5;Mobuya;Aman
+;Bolaang Mongondow;;PASSI TIMUR;6;Insil;Aman
+;Bolaang Mongondow;;PASSI TIMUR;7;Insil Baru;Aman
+;Bolaang Mongondow;;PASSI TIMUR;8;Pangian Tengah;Aman
+;Bolaang Mongondow;;PASSI TIMUR;9;Pangian Barat;Aman
+;Bolaang Mongondow;;PASSI TIMUR;10;Poopo Barat;Aman
+;Bolaang Mongondow;;PASSI TIMUR;11;Poopo Selatan;Aman
+;Bolaang Mongondow;;PASSI TIMUR;12;Sinsingon Barat;Aman
+;Bolaang Mongondow;;PASSI TIMUR;13;Sinsingon Timur;Aman
+;Bolaang Mongondow;11;POIGAR;1;Mariri Dua;Aman
+;Bolaang Mongondow;;POIGAR;2;Mariri Lama;Aman
+;Bolaang Mongondow;;POIGAR;3;Mariri Baru;Aman
+;Bolaang Mongondow;;POIGAR;4;Nonapan Dua;Aman
+;Bolaang Mongondow;;POIGAR;5;Nonapan Satu;Aman
+;Bolaang Mongondow;;POIGAR;6;Wineru;Aman
+;Bolaang Mongondow;;POIGAR;7;Gogaluman;Aman
+;Bolaang Mongondow;;POIGAR;8;Tiberias;Aman
+;Bolaang Mongondow;;POIGAR;9;Poigar I;Aman
+;Bolaang Mongondow;;POIGAR;10;Poigar II;Aman
+;Bolaang Mongondow;;POIGAR;11;Poigar III;Aman
+;Bolaang Mongondow;;POIGAR;12;Pomoman;Aman
+;Bolaang Mongondow;;POIGAR;13;Nanasi;Aman
+;Bolaang Mongondow;;POIGAR;14;Mondatong;Aman
+;Bolaang Mongondow;;POIGAR;15;Mariri I;Aman
+;Bolaang Mongondow;;POIGAR;16;Nonapan Baru;Aman
+;Bolaang Mongondow;;POIGAR;17;Nanasi Timur;Aman
+;Bolaang Mongondow;;POIGAR;18;Tanjung Mariri;Aman
+;Bolaang Mongondow;;POIGAR;19;Nonapan;Aman
+;Bolaang Mongondow;;POIGAR;20;Mondatong Baru;Aman
+;Bolaang Mongondow;12;SANGTOMBOLANG;1;Pangi;Siaga
+;Bolaang Mongondow;;SANGTOMBOLANG;2;Domisil Moonow;Aman
+;Bolaang Mongondow;;SANGTOMBOLANG;3;Maelang;Aman
+;Bolaang Mongondow;;SANGTOMBOLANG;4;Lolanan;Aman
+;Bolaang Mongondow;;SANGTOMBOLANG;5;Bolangat;Aman
+;Bolaang Mongondow;;SANGTOMBOLANG;6;Babo;Aman
+;Bolaang Mongondow;;SANGTOMBOLANG;7;Ayong;Aman
+;Bolaang Mongondow;;SANGTOMBOLANG;8;Cempaka;Siaga
+;Bolaang Mongondow;;SANGTOMBOLANG;9;Batu Merah;Aman
+;Bolaang Mongondow;;SANGTOMBOLANG;10;Pasir Putih;Aman
+;Bolaang Mongondow;;SANGTOMBOLANG;11;Pangi Timur;Aman
+;Bolaang Mongondow;;SANGTOMBOLANG;12;Bolangat Timur;Aman
+;Bolaang Mongondow;13;BILALANG;1;Bilalang III;Aman
+;Bolaang Mongondow;;BILALANG;2;Bilalang III Utara;Aman
+;Bolaang Mongondow;;BILALANG;3;Kolingangaan;Aman
+;Bolaang Mongondow;;BILALANG;4;Bilalang IV;Aman
+;Bolaang Mongondow;;BILALANG;5;Tuduaog Baru;Aman
+;Bolaang Mongondow;;BILALANG;6;Bilalang Baru;Aman
+;Bolaang Mongondow;;BILALANG;7;Tudu Aog;Aman
+;Bolaang Mongondow;;BILALANG;8;Apado;Aman
+;Bolaang Mongondow;14;BOLAANG;1;Komangaan;Aman
+;Bolaang Mongondow;;BOLAANG;2;Solimandungan Dua;Aman
+;Bolaang Mongondow;;BOLAANG;3;Solimandungan Satu;Aman
+;Bolaang Mongondow;;BOLAANG;4;Bangomolunow;Aman
+;Bolaang Mongondow;;BOLAANG;5;Langagon;Aman
+;Bolaang Mongondow;;BOLAANG;6;Inobonto;Waspada
+;Bolaang Mongondow;;BOLAANG;7;Inobonto Dua;Aman
+;Bolaang Mongondow;;BOLAANG;8;Inobonto;Waspada
+;Bolaang Mongondow;;BOLAANG;9;Solimandungan Baru;Aman
+;Bolaang Mongondow;;BOLAANG;10;Langagon II;Aman
+;Bolaang Mongondow;;BOLAANG;11;Langagon I;Aman
+;Bolaang Mongondow;15;BOLAANG TIMUR;1;Ambang 2;Aman
+;Bolaang Mongondow;;BOLAANG TIMUR;2;Ambang 1;Aman
+;Bolaang Mongondow;;BOLAANG TIMUR;4;Tadoy 1;Aman
+;Bolaang Mongondow;;BOLAANG TIMUR;8;Bolaang I;Aman
+;Bolaang Mongondow;;BOLAANG TIMUR;9;Lolan II;Aman
+1;Bolsel;1;Bolaang Uki;1;Dudepo;Aman
+;Bolsel;;Bolaang Uki;2;Dudepo Barat;Aman
+;Bolsel;;Bolaang Uki;3;Molibagu;Waspada
+;Bolsel;;Bolaang Uki;4;Pinolantungan;Aman
+;Bolsel;;Bolaang Uki;5;Pintadia;Aman
+;Bolsel;;Bolaang Uki;6;Popodu;Aman
+;Bolsel;;Bolaang Uki;7;Salongo;Aman
+;Bolsel;;Bolaang Uki;8;Salongo Barat;Aman
+;Bolsel;;Bolaang Uki;9;Salongo Timur;Aman
+;Bolsel;;Bolaang Uki;10;Soguo;Aman
+;Bolsel;;Bolaang Uki;11;Sondana;Aman
+;Bolsel;;Bolaang Uki;12;Tabilaa;Aman
+;Bolsel;;Bolaang Uki;13;Tangagah;Aman
+;Bolsel;;Bolaang Uki;14;Tolondadu;Aman
+;Bolsel;;Bolaang Uki;15;Tolondadu I;Aman
+;Bolsel;;Bolaang Uki;16;Tolondadu II;Aman
+;Bolsel;;Bolaang Uki;17;Toluaya;Aman
+;Bolsel;2;Pinolosian;1;Ilomata;Aman
+;Bolsel;;Pinolosian;2;Kombot;Aman
+;Bolsel;;Pinolosian;3;Kombot Timur;Aman
+;Bolsel;;Pinolosian;4;Linawan;Aman
+;Bolsel;;Pinolosian;5;Linawan I;Aman
+;Bolsel;;Pinolosian;6;Lungkap;Aman
+;Bolsel;;Pinolosian;7;Nunuk;Aman
+;Bolsel;;Pinolosian;8;Pinolosian;Aman
+;Bolsel;;Pinolosian;9;Pinolosian Selatan;Aman
+;Bolsel;;Pinolosian;10;Tolotoyon;Aman
+;Bolsel;3;Pinolosian Tengah;1;Adow;Aman
+;Bolsel;;Pinolosian Tengah;2;Adow Selatan;Aman
+;Bolsel;;Pinolosian Tengah;3;Deaga;Aman
+;Bolsel;;Pinolosian Tengah;4;Mataindo;Aman
+;Bolsel;;Pinolosian Tengah;5;Mataindo Utara;Aman
+;Bolsel;;Pinolosian Tengah;6;Tobayagan;Aman
+;Bolsel;;Pinolosian Tengah;7;Tobayagan Selatan;Aman
+;Bolsel;;Pinolosian Tengah;8;Torosik;Aman
+;Bolsel;4;Pinolosian Timur;1;Dayow;Aman
+;Bolsel;;Pinolosian Timur;2;Dumagin A;Aman
+;Bolsel;;Pinolosian Timur;3;Dumagin B;Aman
+;Bolsel;;Pinolosian Timur;4;Iligon;Aman
+;Bolsel;;Pinolosian Timur;5;Matandoi;Aman
+;Bolsel;;Pinolosian Timur;6;Matandoi Selatan;Aman
+;Bolsel;;Pinolosian Timur;7;Modisi;Aman
+;Bolsel;;Pinolosian Timur;8;Onggunoi;Aman
+;Bolsel;;Pinolosian Timur;9;Onggunoi Selatan;Aman
+;Bolsel;;Pinolosian Timur;10;Perjuangan;Aman
+;Bolsel;;Pinolosian Timur;11;Pidung;Aman
+;Bolsel;;Pinolosian Timur;12;Posilagon;Aman
+;Bolsel;5;Posigadan;1;Batuliodu;Aman
+;Bolsel;;Posigadan;2;Lion;Aman
+;Bolsel;;Posigadan;3;Luwoo;Aman
+;Bolsel;;Posigadan;4;Manggadaa;Aman
+;Bolsel;;Posigadan;5;Meyambanga;Aman
+;Bolsel;;Posigadan;6;Milangodaa;Aman
+;Bolsel;;Posigadan;7;Milangodaa Barat;Aman
+;Bolsel;;Posigadan;8;Momalia I;Aman
+;Bolsel;;Posigadan;9;Momalia II;Aman
+;Bolsel;;Posigadan;10;Pilolahunga;Aman
+;Bolsel;;Posigadan;11;Saibuah;Aman
+;Bolsel;;Posigadan;12;Sakti;Aman
+;Bolsel;;Posigadan;13;Sinombayuga;Aman
+;Bolsel;;Posigadan;14;Tolutu;Aman
+;Bolsel;;Posigadan;15;Tonala;Aman
+;Bolsel;;Posigadan;16;Inosota;Aman
+;Bolsel;6;Helumo;1;Bakida;Aman
+;Bolsel;;Helumo;2;Biniha;Aman
+;Bolsel;;Helumo;3;Biniha Selatan;Aman
+;Bolsel;;Helumo;4;Biniha Timur;Aman
+;Bolsel;;Helumo;5;Duminanga;Aman
+;Bolsel;;Helumo;6;Halabolu;Aman
+;Bolsel;;Helumo;7;Motolonu;Aman
+;Bolsel;;Helumo;8;Pangia;Aman
+;Bolsel;;Helumo;9;Sinandaka;Aman
+;Bolsel;;Helumo;10;Soputa;Aman
+;Bolsel;;Helumo;11;Trans Patoa;Aman
+;Bolsel;7;Tomini;1;Botuliodu;Aman
+;Bolsel;;Tomini;2;Milangodaa;Aman
+;Bolsel;;Tomini;3;Milangodaa Barat;Aman
+;Bolsel;;Tomini;4;Milangodaa Utara;Aman
+;Bolsel;;Tomini;5;Nunuka Raya;Aman
+;Bolsel;;Tomini;6;Pakuku Jaya;Aman
+;Bolsel;;Tomini;7;Tolutu;Aman
+1;Kotamobagu;1;Kotamobagu Barat;1;Kotamobagu;Bahaya
+;Kotamobagu;;Kotamobagu Barat;2;Gogagoman;Bahaya
+;Kotamobagu;;Kotamobagu Barat;3;Mogolaing;Siaga
+;Kotamobagu;;Kotamobagu Barat;4;Molinow;Aman
+;Kotamobagu;;Kotamobagu Barat;5;Mongkonai;Bahaya
+;Kotamobagu;;Kotamobagu Barat;6;Mongkonai Barat;Siaga
+;Kotamobagu;2;Kotamobagu Selatan;1;Bungko;Waspada
+;Kotamobagu;;Kotamobagu Selatan;2;Kopandakan I;Waspada
+;Kotamobagu;;Kotamobagu Selatan;3;Mongondow;Waspada
+;Kotamobagu;;Kotamobagu Selatan;4;Motoboi Kecil;Waspada
+;Kotamobagu;;Kotamobagu Selatan;5;Pobundayan;Bahaya
+;Kotamobagu;;Kotamobagu Selatan;6;Poyowa Besar I;Waspada
+;Kotamobagu;;Kotamobagu Selatan;7;Poyowa Besar II;Bahaya
+;Kotamobagu;;Kotamobagu Selatan;8;Poyowa Kecil;Waspada
+;Kotamobagu;;Kotamobagu Selatan;9;Tabang;Waspada
+;Kotamobagu;3;Kotamobagu Timur;1;Kotabangon;Bahaya
+;Kotamobagu;;Kotamobagu Timur;2;Tumobuy;Waspada
+;Kotamobagu;;Kotamobagu Timur;3;Matali;Aman
+;Kotamobagu;;Kotamobagu Timur;4;Sinindian;Aman
+;Kotamobagu;;Kotamobagu Timur;5;Kobo Besar;Aman
+;Kotamobagu;;Kotamobagu Timur;6;Kobo Kecil;Aman
+;Kotamobagu;;Kotamobagu Timur;7;Motoboi Besar;Waspada
+;Kotamobagu;;Kotamobagu Timur;8;Moyag;Aman
+;Kotamobagu;;Kotamobagu Timur;9;Moyag Tampoan;Aman
+;Kotamobagu;;Kotamobagu Timur;10;Moyag Todulan;Aman
+;Kotamobagu;4;Kotamobagu Utara;1;Biga;Bahaya
+;Kotamobagu;;Kotamobagu Utara;2;Bilalang I;Aman
+;Kotamobagu;;Kotamobagu Utara;3;Bilalang II;Aman
+;Kotamobagu;;Kotamobagu Utara;4;Genggulang /Sampana;Bahaya
+;Kotamobagu;;Kotamobagu Utara;5;Pontodon;Aman
+;Kotamobagu;;Kotamobagu Utara;6;Sia;Aman
+;Kotamobagu;;Kotamobagu Utara;7;Upai;Aman
+1;Talaud;1;Beo;1;Bantik Lama;Aman
+;Talaud;;Beo;2;Bengel;Aman
+;Talaud;;Beo;3;Beo;Aman
+;Talaud;;Beo;4;Beo Bantik;Aman
+;Talaud;;Beo;5;Beo Barat;Aman
+;Talaud;;Beo;6;Beo Timur;Aman
+;Talaud;2;Beo Selatan;1;Matahit;Aman
+;Talaud;;Beo Selatan;2;Niampak;Aman
+;Talaud;;Beo Selatan;3;Niampak Utara;Aman
+;Talaud;;Beo Selatan;4;Pampalu (Papmpalu);Aman
+;Talaud;;Beo Selatan;5;Rusoh (RussohRuso);Aman
+;Talaud;;Beo Selatan;6;Tarohan;Aman
+;Talaud;;Beo Selatan;7;Tarohan Selatan;Aman
+;Talaud;3;Beo Utara;1;Awit;Aman
+;Talaud;;Beo Utara;2;Awit Selatan;Aman
+;Talaud;;Beo Utara;3;Lobbo;Aman
+;Talaud;;Beo Utara;4;Lobbo I;Aman
+;Talaud;;Beo Utara;5;Makatara;Aman
+;Talaud;;Beo Utara;6;Makatara Timur;Aman
+;Talaud;;Beo Utara;7;Rae;Aman
+;Talaud;;Beo Utara;8;Rae Selatan;Aman
+;Talaud;4;Damao;1;Akas;Aman
+;Talaud;;Damao;2;Akas Balane;Aman
+;Talaud;;Damao;3;Birang;Aman
+;Talaud;;Damao;4;Damau;Aman
+;Talaud;;Damao;5;Damau Bawone;Aman
+;Talaud;;Damao;6;Ighik;Aman
+;Talaud;;Damao;7;Peret;Aman
+;Talaud;;Damao;8;Taduwale;Aman
+;Talaud;5;Essang;1;Bulude;Aman
+;Talaud;;Essang;2;Bulude Selatan;Aman
+;Talaud;;Essang;3;Essang;Aman
+;Talaud;;Essang;4;Essang Selatan;Aman
+;Talaud;;Essang;5;Lalue;Aman
+;Talaud;;Essang;6;Lalue Tengah;Aman
+;Talaud;;Essang;7;Lalue Utara;Aman
+;Talaud;;Essang;8;Maririk;Aman
+;Talaud;6;Essang Selatan;1;Ambia;Aman
+;Talaud;;Essang Selatan;2;Ambia Utara;Aman
+;Talaud;;Essang Selatan;3;Batumbalango;Aman
+;Talaud;;Essang Selatan;4;Ensem;Aman
+;Talaud;;Essang Selatan;5;Ensem Timur;Aman
+;Talaud;;Essang Selatan;6;Kuma;Aman
+;Talaud;;Essang Selatan;7;Kuma Selatan;Aman
+;Talaud;;Essang Selatan;8;Sambuara;Aman
+;Talaud;;Essang Selatan;9;Sambuara Satu;Aman
+;Talaud;7;Gemeh;1;Apan;Aman
+;Talaud;;Gemeh;2;Arangkaa;Aman
+;Talaud;;Gemeh;3;Bambung;Aman
+;Talaud;;Gemeh;4;Bambung Timur;Aman
+;Talaud;;Gemeh;5;Bannada;Aman
+;Talaud;;Gemeh;6;Gemeh;Aman
+;Talaud;;Gemeh;7;Gemeh Raamata;Aman
+;Talaud;;Gemeh;8;Gemeh Wantane;Aman
+;Talaud;;Gemeh;9;Lahu;Aman
+;Talaud;;Gemeh;10;Malat;Aman
+;Talaud;;Gemeh;11;Malat Utara;Aman
+;Talaud;;Gemeh;12;Mamahan;Aman
+;Talaud;;Gemeh;13;Mamahan Barat;Aman
+;Talaud;;Gemeh;14;Taruan;Aman
+;Talaud;;Gemeh;15;Taturan;Aman
+;Talaud;8;Kabaruan;1;Bulude;Aman
+;Talaud;;Kabaruan;2;Bulude Selatan;Aman
+;Talaud;;Kabaruan;3;Kabaruan;Aman
+;Talaud;;Kabaruan;4;Kabaruan Timur;Aman
+;Talaud;;Kabaruan;5;Kordakel;Aman
+;Talaud;;Kabaruan;6;Mangaran;Aman
+;Talaud;;Kabaruan;7;Pangeran;Aman
+;Talaud;;Kabaruan;8;Pannulan;Aman
+;Talaud;;Kabaruan;9;Pantuge;Aman
+;Talaud;;Kabaruan;10;Pantuge Timur;Aman
+;Talaud;;Kabaruan;11;Rarange;Aman
+;Talaud;;Kabaruan;12;Taduna;Aman
+;Talaud;9;Kalongan;1;Alude;Aman
+;Talaud;;Kalongan;2;Kalongan;Aman
+;Talaud;;Kalongan;3;Kalongan Selatan;Aman
+;Talaud;;Kalongan;4;Kalongan Utara;Aman
+;Talaud;;Kalongan;5;Musi I;Aman
+;Talaud;10;Lirung;1;Lirung;Waspada
+;Talaud;;Lirung;2;Lirung I;Siaga
+;Talaud;;Lirung;3;Lirung Matane;Siaga
+;Talaud;;Lirung;4;Musi;Aman
+;Talaud;;Lirung;5;Sereh;Aman
+;Talaud;;Lirung;6;Sereh I;Aman
+;Talaud;;Lirung;7;Talolang;Aman
+;Talaud;11;Melonguane;1;Ambela;Aman
+;Talaud;;Melonguane;2;Kiama;Aman
+;Talaud;;Melonguane;3;Kiama Barat;Aman
+;Talaud;;Melonguane;4;Kiama Maredaren;Aman
+;Talaud;;Melonguane;5;Mala;Aman
+;Talaud;;Melonguane;6;Mala Timur;Aman
+;Talaud;;Melonguane;7;Mala Timur I;Aman
+;Talaud;;Melonguane;8;Melonguane;Waspada
+;Talaud;;Melonguane;9;Melonguane Timur;Waspada
+;Talaud;;Melonguane;10;Melonguane Barat;Waspada
+;Talaud;;Melonguane;11;Sawang;Aman
+;Talaud;;Melonguane;12;Sawang Utara;Aman
+;Talaud;;Melonguane;13;Tarun;Aman
+;Talaud;;Melonguane;14;Tarun Selatan;Aman
+;Talaud;12;Melonguane Timur;1;Bowombaru (Bawombaru);Aman
+;Talaud;;Melonguane Timur;2;Bowombaru Tengah;Aman
+;Talaud;;Melonguane Timur;3;Bowombaru Utara;Aman
+;Talaud;;Melonguane Timur;4;Tule;Aman
+;Talaud;;Melonguane Timur;5;Tule Tengah;Aman
+;Talaud;;Melonguane Timur;6;Tule Utara;Aman
+;Talaud;13;Miangas;1;Miangas;Waspada
+;Talaud;14;Moronge;1;Moronge;Aman
+;Talaud;;Moronge;2;Moronge I;Aman
+;Talaud;;Moronge;3;Moronge II;Aman
+;Talaud;;Moronge;4;Moronge Selatan;Aman
+;Talaud;;Moronge;5;Moronge Selatan I;Aman
+;Talaud;;Moronge;6;Moronge Selatan II;Aman
+;Talaud;15;Nanusa;1;Dampulis;Aman
+;Talaud;;Nanusa;2;Dampulis Selatan;Aman
+;Talaud;;Nanusa;3;Kakorotan;Aman
+;Talaud;;Nanusa;4;Karatung;Aman
+;Talaud;;Nanusa;5;Karatung Selatan;Aman
+;Talaud;;Nanusa;6;Karatung Tengah;Aman
+;Talaud;;Nanusa;7;Laluhe;Aman
+;Talaud;;Nanusa;8;Marampit;Aman
+;Talaud;;Nanusa;9;Marampit Timur;Aman
+;Talaud;16;Pulutan;1;Daran;Aman
+;Talaud;;Pulutan;2;Daran Utara;Aman
+;Talaud;;Pulutan;3;Pulutan;Aman
+;Talaud;;Pulutan;4;Pulutan Selatan;Aman
+;Talaud;;Pulutan;5;Pulutan Utara;Aman
+;Talaud;17;Rainis;1;Alo;Aman
+;Talaud;;Rainis;2;Alo Utara;Aman
+;Talaud;;Rainis;3;Bantane;Aman
+;Talaud;;Rainis;4;Bantane Utara;Aman
+;Talaud;;Rainis;5;Nunu;Aman
+;Talaud;;Rainis;6;Nunu Utara;Aman
+;Talaud;;Rainis;7;Parangen;Aman
+;Talaud;;Rainis;8;Rainis;Aman
+;Talaud;;Rainis;9;Rainis Baru Penga;Aman
+;Talaud;;Rainis;10;Tabang;Aman
+;Talaud;;Rainis;11;Tabang Barat;Aman
+;Talaud;18;Salibabu;1;Balang;Aman
+;Talaud;;Salibabu;2;Bitunuris;Aman
+;Talaud;;Salibabu;3;Bitunuris Selatan;Aman
+;Talaud;;Salibabu;4;Dalum;Aman
+;Talaud;;Salibabu;5;Salibabu;Aman
+;Talaud;;Salibabu;6;Salibabu Utara;Aman
+;Talaud;19;Tampan Amma;1;Ammat;Aman
+;Talaud;;Tampan Amma;2;Ammat Selatan;Aman
+;Talaud;;Tampan Amma;3;Binalang;Aman
+;Talaud;;Tampan Amma;4;Binalang Timur;Aman
+;Talaud;;Tampan Amma;5;Dapalan;Aman
+;Talaud;;Tampan Amma;6;Dapihe;Aman
+;Talaud;;Tampan Amma;7;Ganalo;Aman
+;Talaud;;Tampan Amma;8;Riung;Aman
+;Talaud;;Tampan Amma;9;Riung Utara;Aman
+;Talaud;;Tampan Amma;10;Tuabatu;Aman
+;Talaud;;Tampan Amma;11;Tuabatu Barat;Aman
+1;Minahasa;1;Eris;1;Eris;Aman
+;Minahasa;;Eris;2;Maumbi;Aman
+;Minahasa;;Eris;3;Ranomerut;Aman
+;Minahasa;;Eris;4;Tandengan;Aman
+;Minahasa;;Eris;5;Telap;Aman
+;Minahasa;;Eris;6;Touliang Oki;Siaga
+;Minahasa;;Eris;7;Watumea;Aman
+;Minahasa;;Eris;8;Tandengan Satu;Aman
+;Minahasa;2;Kakas;1;Kaweng;Aman
+;Minahasa;;Kakas;2;Kayuwatu;Aman
+;Minahasa;;Kakas;3;Pahaleten;Aman
+;Minahasa;;Kakas;4;Paslaten;Aman
+;Minahasa;;Kakas;5;Rinondor;Aman
+;Minahasa;;Kakas;6;Sendangan;Aman
+;Minahasa;;Kakas;7;Talikuran;Aman
+;Minahasa;;Kakas;8;Toulimembet;Aman
+;Minahasa;;Kakas;9;Tounelet;Aman
+;Minahasa;;Kakas;10;Wineru;Aman
+;Minahasa;;Kakas;11;Mahembang;Aman
+;Minahasa;;Kakas;12;Makalelon;Aman
+;Minahasa;;Kakas;13;Tumpaan;Aman
+;Minahasa;3;Kakas Barat;1;Bukittinggi;Aman
+;Minahasa;;Kakas Barat;2;Kalawiran;Siaga
+;Minahasa;;Kakas Barat;3;Panasen;Aman
+;Minahasa;;Kakas Barat;4;Passo;Siaga
+;Minahasa;;Kakas Barat;5;Simbel;Aman
+;Minahasa;;Kakas Barat;6;Totolan;Siaga
+;Minahasa;;Kakas Barat;7;Touliang;Siaga
+;Minahasa;;Kakas Barat;8;Tountimomor;Aman
+;Minahasa;;Kakas Barat;9;Wailang;Aman
+;Minahasa;;Kakas Barat;10;Wasian;Aman
+;Minahasa;4;Kawangkoan;1;Kinali;Siaga
+;Minahasa;;Kawangkoan;2;Kinali Satu;Aman
+;Minahasa;;Kawangkoan;3;Sendangan;Aman
+;Minahasa;;Kawangkoan;4;Sendangan Selatan;Aman
+;Minahasa;;Kawangkoan;5;Sendangan Utara;Aman
+;Minahasa;;Kawangkoan;6;Uner Satu;Aman
+;Minahasa;;Kawangkoan;7;Kanonang Tiga;Aman
+;Minahasa;;Kawangkoan;8;Tondegesan;Aman
+;Minahasa;;Kawangkoan;9;Tondegesan Satu;Aman
+;Minahasa;;Kawangkoan;10;Tondegesan Dua;Aman
+;Minahasa;5;Kawangkoan Barat;1;Kanonang Satu;Aman
+;Minahasa;;Kawangkoan Barat;2;Kanonang Dua;Aman
+;Minahasa;;Kawangkoan Barat;3;Kanonang Empat;Aman
+;Minahasa;;Kawangkoan Barat;4;Kanonang Lama;Aman
+;Minahasa;;Kawangkoan Barat;5;Kayuuwi;Aman
+;Minahasa;;Kawangkoan Barat;6;Kayuuwi Satu;Aman
+;Minahasa;;Kawangkoan Barat;7;Ranolambot;Aman
+;Minahasa;;Kawangkoan Barat;8;Tombasian Atas;Aman
+;Minahasa;;Kawangkoan Barat;9;Tombasian Atas Satu;Aman
+;Minahasa;;Kawangkoan Barat;10;Tombasian Bawah;Aman
+;Minahasa;6;Kawangkoan Utara;1;Talikuran;Aman
+;Minahasa;;Kawangkoan Utara;2;Talikuran Barat;Aman
+;Minahasa;;Kawangkoan Utara;3;Talikuran Utara;Aman
+;Minahasa;;Kawangkoan Utara;4;Uner;Siaga
+;Minahasa;;Kawangkoan Utara;5;Kiawa Satu;Aman
+;Minahasa;;Kawangkoan Utara;6;Kiawa Satu Barat;Aman
+;Minahasa;;Kawangkoan Utara;7;Kiawa Satu Utara;Aman
+;Minahasa;;Kawangkoan Utara;8;Kiawa Dua;Aman
+;Minahasa;;Kawangkoan Utara;9;Kiawa Dua Barat;Aman
+;Minahasa;;Kawangkoan Utara;10;Kiawa Dua Timur;Aman
+;Minahasa;7;Kombi;1;Kalawiran;Aman
+;Minahasa;;Kombi;2;Kayu Besi;Aman
+;Minahasa;;Kombi;3;Kinaleosan;Aman
+;Minahasa;;Kombi;4;Kolongan;Aman
+;Minahasa;;Kombi;5;Kolongan Satu;Aman
+;Minahasa;;Kombi;6;Kombi;Siaga
+;Minahasa;;Kombi;7;Lalumpe;Aman
+;Minahasa;;Kombi;8;Makalisung;Aman
+;Minahasa;;Kombi;9;Ranowangko Dua;Aman
+;Minahasa;;Kombi;10;Rerer;Aman
+;Minahasa;;Kombi;11;Rerer Satu;Aman
+;Minahasa;;Kombi;12;Sawangan;Aman
+;Minahasa;;Kombi;13;Tulap;Siaga
+;Minahasa;8;Langowan Barat;1;Ampreng;Aman
+;Minahasa;;Langowan Barat;2;Kopiwangker;Aman
+;Minahasa;;Langowan Barat;3;Koyawas;Aman
+;Minahasa;;Langowan Barat;4;Lowian;Siaga
+;Minahasa;;Langowan Barat;5;Noongan;Siaga
+;Minahasa;;Langowan Barat;6;Noongan II;Siaga
+;Minahasa;;Langowan Barat;7;Noongan III;Siaga
+;Minahasa;;Langowan Barat;8;Paslaten;Aman
+;Minahasa;;Langowan Barat;9;Raringis;Siaga
+;Minahasa;;Langowan Barat;10;Raranon;Aman
+;Minahasa;;Langowan Barat;11;Raranon Selatan;Aman
+;Minahasa;;Langowan Barat;12;Raranon Utara;Aman
+;Minahasa;;Langowan Barat;13;Tounelet;Siaga
+;Minahasa;;Langowan Barat;14;Tumaratas;Aman
+;Minahasa;;Langowan Barat;15;Tumaratas II;Aman
+;Minahasa;;Langowan Barat;16;Walewangko;Aman
+;Minahasa;9;Langowan Selatan;1;Atep;Aman
+;Minahasa;;Langowan Selatan;2;Atep Satu;Aman
+;Minahasa;;Langowan Selatan;3;Kaayuran Atas;Aman
+;Minahasa;;Langowan Selatan;4;Kaayuran Bawah;Aman
+;Minahasa;;Langowan Selatan;5;Kawatak;Aman
+;Minahasa;;Langowan Selatan;6;Manembo;Aman
+;Minahasa;;Langowan Selatan;7;Palamba;Aman
+;Minahasa;;Langowan Selatan;8;Rumbia;Aman
+;Minahasa;;Langowan Selatan;9;Temboan;Aman
+;Minahasa;;Langowan Selatan;10;Winebetan;Aman
+;Minahasa;10;Langowan Timur;1;Amongena Satu;Aman
+;Minahasa;;Langowan Timur;2;Amongena Dua;Aman
+;Minahasa;;Langowan Timur;3;Amongena Tiga;Aman
+;Minahasa;;Langowan Timur;4;Karondoran;Aman
+;Minahasa;;Langowan Timur;5;Sumarayar;Aman
+;Minahasa;;Langowan Timur;6;Teep;Aman
+;Minahasa;;Langowan Timur;7;Waleure;Aman
+;Minahasa;;Langowan Timur;8;Wolaang;Aman
+;Minahasa;11;Langowan Utara;1;Karumenga;Aman
+;Minahasa;;Langowan Utara;2;Taraitak;Aman
+;Minahasa;;Langowan Utara;3;Taraitak Satu;Aman
+;Minahasa;;Langowan Utara;4;Tempang I;Aman
+;Minahasa;;Langowan Utara;5;Tempang II;Aman
+;Minahasa;;Langowan Utara;6;Tempang III;Aman
+;Minahasa;;Langowan Utara;7;Toraget;Aman
+;Minahasa;;Langowan Utara;8;Walantakan;Aman
+;Minahasa;12;Lembean Timur;1;Atep Oki;Aman
+;Minahasa;;Lembean Timur;2;Kaleosan;Aman
+;Minahasa;;Lembean Timur;3;Kapataran;Aman
+;Minahasa;;Lembean Timur;4;Kapataran Satu;Aman
+;Minahasa;;Lembean Timur;5;Karor;Aman
+;Minahasa;;Lembean Timur;6;Kayuroya;Aman
+;Minahasa;;Lembean Timur;7;Parentek;Aman
+;Minahasa;;Lembean Timur;8;Seretan;Aman
+;Minahasa;;Lembean Timur;9;Seretan Timur;Aman
+;Minahasa;;Lembean Timur;10;Watulaney;Aman
+;Minahasa;;Lembean Timur;11;Watulaney Amian;Aman
+;Minahasa;13;Mandolang;1;Agotey;Aman
+;Minahasa;;Mandolang;2;Kalasey Dua;Aman
+;Minahasa;;Mandolang;3;Kalasey Satu;Bahaya
+;Minahasa;;Mandolang;4;Koha;Aman
+;Minahasa;;Mandolang;5;Koha Barat;Aman
+;Minahasa;;Mandolang;6;Koha Selatan;Aman
+;Minahasa;;Mandolang;7;Koha Timur;Aman
+;Minahasa;;Mandolang;8;Tateli;Waspada
+;Minahasa;;Mandolang;9;Tateli I;Aman
+;Minahasa;;Mandolang;10;Tateli II;Aman
+;Minahasa;;Mandolang;11;Tateli III;Aman
+;Minahasa;;Mandolang;12;Tateli Weru;Siaga
+;Minahasa;14;Pineleng;1;Kali;Aman
+;Minahasa;;Pineleng;2;Kali Selatan;Aman
+;Minahasa;;Pineleng;3;Lotta;Aman
+;Minahasa;;Pineleng;4;Pineleng Dua;Siaga
+;Minahasa;;Pineleng;5;Pineleng Dua Indah;Aman
+;Minahasa;;Pineleng;6;Pineleng Satu;Waspada
+;Minahasa;;Pineleng;7;Pineleng Satu Timur;Aman
+;Minahasa;;Pineleng;8;Sea;Siaga
+;Minahasa;;Pineleng;9;Sea I;Bahaya
+;Minahasa;;Pineleng;10;Sea II;Waspada
+;Minahasa;;Pineleng;11;Sea Mitra;Siaga
+;Minahasa;;Pineleng;12;Sea Tumpengan;Bahaya
+;Minahasa;;Pineleng;13;Warembungan;Bahaya
+;Minahasa;;Pineleng;14;Winangun Atas;Aman
+;Minahasa;15;Remboken;1;Kaima;Aman
+;Minahasa;;Remboken;2;Kasuratan;Aman
+;Minahasa;;Remboken;3;Leleko;Aman
+;Minahasa;;Remboken;4;Parepei;Aman
+;Minahasa;;Remboken;5;Paslaten;Aman
+;Minahasa;;Remboken;6;Pulutan;Aman
+;Minahasa;;Remboken;7;Sendangan;Aman
+;Minahasa;;Remboken;8;Sinuian;Aman
+;Minahasa;;Remboken;9;Talikuran;Aman
+;Minahasa;;Remboken;10;Tampusu;Aman
+;Minahasa;;Remboken;11;Timu;Aman
+;Minahasa;16;Sonder;1;Kauneran;Aman
+;Minahasa;;Sonder;2;Kauneran Satu;Aman
+;Minahasa;;Sonder;3;Kolongan Atas;Aman
+;Minahasa;;Sonder;4;Kolongan Atas I;Aman
+;Minahasa;;Sonder;5;Kolongan Atas II;Aman
+;Minahasa;;Sonder;6;Leilem;Siaga
+;Minahasa;;Sonder;7;Leilem II;Aman
+;Minahasa;;Sonder;8;Leilem III;Aman
+;Minahasa;;Sonder;9;Rambunan;Aman
+;Minahasa;;Sonder;10;Rambunan Amian;Aman
+;Minahasa;;Sonder;11;Sawangan;Aman
+;Minahasa;;Sonder;12;Sendangan;Aman
+;Minahasa;;Sonder;13;Sendangan I;Aman
+;Minahasa;;Sonder;14;Talikuran;Aman
+;Minahasa;;Sonder;15;Talikuran I;Aman
+;Minahasa;;Sonder;16;Timbukar;Aman
+;Minahasa;;Sonder;17;Tincep;Aman
+;Minahasa;;Sonder;18;Tounelet;Aman
+;Minahasa;;Sonder;19;Tounelet I;Aman
+;Minahasa;17;Tombariri;1;Borgo;Aman
+;Minahasa;;Tombariri;2;Kumu;Aman
+;Minahasa;;Tombariri;3;Mokupa;Aman
+;Minahasa;;Tombariri;4;Pinasungkulan;Aman
+;Minahasa;;Tombariri;5;Poopoh;Aman
+;Minahasa;;Tombariri;6;Ranowangko;Waspada
+;Minahasa;;Tombariri;7;Sarani Matani;Aman
+;Minahasa;;Tombariri;8;Senduk;Aman
+;Minahasa;;Tombariri;9;Tambala;Aman
+;Minahasa;;Tombariri;10;Teling;Aman
+;Minahasa;18;Tombariri Timur;1;Lemoh;Aman
+;Minahasa;;Tombariri Timur;2;Lemoh Barat;Aman
+;Minahasa;;Tombariri Timur;3;Lemoh Timur;Aman
+;Minahasa;;Tombariri Timur;4;Lemoh Uner;Aman
+;Minahasa;;Tombariri Timur;5;Lolah;Aman
+;Minahasa;;Tombariri Timur;6;Lolah Dua;Aman
+;Minahasa;;Tombariri Timur;7;Lolah Satu;Aman
+;Minahasa;;Tombariri Timur;8;Lolah Tiga;Aman
+;Minahasa;;Tombariri Timur;9;Ranotongkor;Aman
+;Minahasa;;Tombariri Timur;10;Ranotongkor Timur;Aman
+;Minahasa;19;Tombulu;1;Kamangta;Aman
+;Minahasa;;Tombulu;2;Kembes Dua;Aman
+;Minahasa;;Tombulu;3;Kembes Satu;Aman
+;Minahasa;;Tombulu;4;Koka;Aman
+;Minahasa;;Tombulu;5;Rumengkor;Aman
+;Minahasa;;Tombulu;6;Rumengkor I;Aman
+;Minahasa;;Tombulu;7;Rumengkor II;Aman
+;Minahasa;;Tombulu;8;Sawangan;Aman
+;Minahasa;;Tombulu;9;Suluan;Aman
+;Minahasa;;Tombulu;10;Tikela;Siaga
+;Minahasa;;Tombulu;11;Tombuluan;Aman
+;Minahasa;20;Tompaso;1;Kamanga;Aman
+;Minahasa;;Tompaso;2;Kamanga Satu;Aman
+;Minahasa;;Tompaso;3;Liba;Aman
+;Minahasa;;Tompaso;4;Sendangan II;Aman
+;Minahasa;;Tompaso;5;Talikuran;Aman
+;Minahasa;;Tompaso;6;Tember;Aman
+;Minahasa;;Tompaso;7;Tempok;Aman
+;Minahasa;;Tompaso;8;Tempok Selatan;Aman
+;Minahasa;;Tompaso;9;Tolok;Aman
+;Minahasa;;Tompaso;10;Tolok Satu;Aman
+;Minahasa;21;Tompaso Barat;1;Pinabetengan;Aman
+;Minahasa;;Tompaso Barat;2;Pinabetengan Selatan;Aman
+;Minahasa;;Tompaso Barat;3;Pinabetengan Utara;Aman
+;Minahasa;;Tompaso Barat;4;Pinaesaan;Aman
+;Minahasa;;Tompaso Barat;5;Tompaso Dua;Aman
+;Minahasa;;Tompaso Barat;6;Tompaso Dua Utara;Aman
+;Minahasa;;Tompaso Barat;7;Tonsewer;Aman
+;Minahasa;;Tompaso Barat;8;Tonsewer Selatan;Aman
+;Minahasa;;Tompaso Barat;9;Touure;Aman
+;Minahasa;;Tompaso Barat;10;Touure Dua;Aman
+;Minahasa;22;Tondano Barat;1;Rerewokan;Aman
+;Minahasa;;Tondano Barat;2;Watulambot;Aman
+;Minahasa;;Tondano Barat;3;Wewelen;Aman
+;Minahasa;;Tondano Barat;4;Masarang;Aman
+;Minahasa;;Tondano Barat;5;Tounkuramber;Aman
+;Minahasa;;Tondano Barat;6;Wawalintouan;Bahaya
+;Minahasa;;Tondano Barat;7;Rinegetan;Aman
+;Minahasa;;Tondano Barat;8;Roong;Siaga
+;Minahasa;;Tondano Barat;9;Tuutu;Aman
+;Minahasa;23;Tondano Selatan;1;Koya;Siaga
+;Minahasa;;Tondano Selatan;2;Maesa Unima;Siaga
+;Minahasa;;Tondano Selatan;3;Tataaran;Siaga
+;Minahasa;;Tondano Selatan;4;Tataaran Satu;Bahaya
+;Minahasa;;Tondano Selatan;5;Tataaran Patar;Aman
+;Minahasa;;Tondano Selatan;6;Peleloan;Aman
+;Minahasa;;Tondano Selatan;7;Tounsaru;Aman
+;Minahasa;;Tondano Selatan;8;Urongo;Siaga
+;Minahasa;24;Tondano Timur;1;Kiniar;Aman
+;Minahasa;;Tondano Timur;2;Taler;Aman
+;Minahasa;;Tondano Timur;3;Toulour;Aman
+;Minahasa;;Tondano Timur;4;Katinggolan;Aman
+;Minahasa;;Tondano Timur;5;Liningaan;Aman
+;Minahasa;;Tondano Timur;6;Makalonsouw;Aman
+;Minahasa;;Tondano Timur;7;Papakelan;Bahaya
+;Minahasa;;Tondano Timur;8;Kendis;Siaga
+;Minahasa;;Tondano Timur;9;Ranowangko;Aman
+;Minahasa;;Tondano Timur;10;Wengkol;Aman
+;Minahasa;;Tondano Timur;11;Luaan;Aman
+;Minahasa;25;Tondano Utara;1;Tonsea Lama;Aman
+;Minahasa;;Tondano Utara;2;Kampung Jawa;Bahaya
+;Minahasa;;Tondano Utara;3;Marawas;Aman
+;Minahasa;;Tondano Utara;4;Wulauan;Aman
+;Minahasa;;Tondano Utara;5;Kembuan;Aman
+;Minahasa;;Tondano Utara;6;Kembuan Satu;Aman
+;Minahasa;;Tondano Utara;7;Sasaran;Aman
+;Minahasa;;Tondano Utara;8;Sumalangka;Aman

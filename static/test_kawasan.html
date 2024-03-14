@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <base target="_top">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>GeoJSON tutorial - Leaflet</title>
+
+    <link rel="shortcut icon" type="image/x-icon" href="docs/images/favicon.ico" />
+
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+        integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+        integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"
+        integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g=="
+        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css"
+        integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-Fy6S3B9q64WdZWQUiU+q4/2Lc9npb8tCaSX9FK7E8HnRr0Jz8D6OP9dO5Vg3Q9ct" crossorigin="anonymous">
+    </script>
+    <style>
+        html,
+        body {
+            height: 100%;
+            margin: 0;
+        }
+
+        .leaflet-container {
+            height: 800px;
+            width: 100%;
+            max-width: 100%;
+            max-height: 100%;
+        }
+    </style>
+
+
+</head>
+
+<body>
+
+    <div id='map'></div>
+
+
+
+    <script>
+        const urlParams = new URLSearchParams(window.location.search);
+        const prov = urlParams.get('prov');
+        const tahun = urlParams.get('tahun');
+        console.log(prov);
+        console.log(tahun);
+
+        const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            maxZoom: 19,
+            attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+        });
+        var Esri_WorldImagery = L.tileLayer(
+            'https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
+                attribution: 'Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community'
+            });
+
+        const map = L.map('map', {
+            layers: [tiles]
+        }).setView([-2.548926, 118.0148634], 5);
+
+
+        const baseLayers = {
+            'OpenStreetMap': tiles,
+            'Esri Wolrd Imagery': Esri_WorldImagery
+        };
+
+        var layerControl = L.control.layers(baseLayers, null).addTo(map);
+
+        var waspada = null;
+        var bahaya = null;
+        var siaga = null
+
+        function onEachFeature(feature, layer) {
+            let popupContent =
+                `Desa ${feature.properties.desa}<br/>Kecamatan ${feature.properties.kecamatan}<br/>Kabupaten/Kota ${feature.properties.kabupaten}<br/>Propinsi ${feature.properties.propinsi}`;
+
+            if (feature.properties && feature.properties.popupContent) {
+                popupContent += feature.properties.popupContent;
+            }
+
+            layer.bindPopup(popupContent);
+        }
+
+        $.ajax("/dashboard/masters/api/v1/kawasan_rawan/map_waspada/?prov=" + prov + "&tahun=" + tahun, {
+            xhrFields: {
+                withCredentials: true
+            },
+            success: function (largeLoad) {
+                waspada = L.geoJSON(largeLoad, {
+                    style: {
+                        "color": "#ffc107",
+                        "weight": 2,
+                        "opacity": 0.65
+                    },
+                    onEachFeature,
+                });
+                layerControl.addOverlay(waspada, 'Waspada');
+                var bounds = waspada.getBounds();
+                var zoom = map.getBoundsZoom(bounds);
+                var swPoint = map.project(bounds.getSouthWest(), zoom);
+                var nePoint = map.project(bounds.getNorthEast(), zoom);
+                var center = map.unproject(swPoint.add(nePoint).divideBy(2), zoom);
+                map.flyTo(center, zoom);
+                //map.fitBounds(waspada.getBounds());
+                waspada.addTo(map).on('click', markerOnClick);
+            }
+        });
+        $.ajax("/dashboard/masters/api/v1/kawasan_rawan/map_bahaya/?prov=" + prov + "&tahun=" + tahun, {
+            xhrFields: {
+                withCredentials: true
+            },
+            success: function (largeLoad) {
+                bahaya = L.geoJSON(largeLoad, {
+                    style: {
+                        "color": "#dc3545",
+                        "weight": 2,
+                        "opacity": 0.65
+                    },
+                    onEachFeature,
+                });
+                layerControl.addOverlay(bahaya, 'Bahaya');
+                bahaya.addTo(map).on('click', markerOnClick);
+
+            }
+        });
+        $.ajax("/dashboard/masters/api/v1/kawasan_rawan/map_siaga/?prov=" + prov + "&tahun=" + tahun, {
+            xhrFields: {
+                withCredentials: true
+            },
+            success: function (largeLoad) {
+                siaga = L.geoJSON(largeLoad, {
+                    style: {
+                        "color": "#03fc2c",
+                        "weight": 1,
+                        "opacity": 0.65
+                    },
+                    onEachFeature,
+                });
+                layerControl.addOverlay(siaga, 'Siaga');
+                siaga.addTo(map).on('click', markerOnClick);
+            }
+        });
+
+        function markerOnClick(e) {
+            map.flyTo(e.latlng, 12);
+        }
+
+        map.on('click', function (e) {
+            map.flyTo(e.latlng, 9);
+        });
+    </script>
+
+
+
+</body>
+
+</html>

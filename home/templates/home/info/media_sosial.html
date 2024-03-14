@@ -1,0 +1,90 @@
+{% extends "home/base_home.html" %}
+{% load static %}
+
+{% block title %} Media Sosial {% endblock title %}
+{% block container %} container-fluid {% endblock container %}
+
+{% block content %}
+
+<section id="media_sosial" class="px-4">
+
+    <div class="container">
+        <section id="heading" class="row align-items-center justify-content-center g-5 py-5" data-aos="fade-up">
+            <div class="col-lg-2">
+                <img src="{% static 'assets/home/images/scm3.png' %}" class="d-block mx-lg-auto img-fluid"
+                    alt="Media Sosial Image" width="500" height="400" loading="eager" title="Media Sosial Image">
+            </div>
+            <div class="col-lg-8">
+                <h1 class="display-5 fw-bold text-body-emphasis lh-1 mb-3">Media Sosial</h1>
+                <p class="mt-3 mb-4">
+                    Berikut merupakan akun media sosial dari <b>Direktorat Pemberdayaan Alternatif</b>
+                    dari <b>Deputi Bidang Pemberdayaan Masyarakat</b>.
+                </p>
+            </div>
+        </section>
+
+    </div>
+
+    <div class="container">
+        <section id="sosial_feed" class="px-2">
+
+            {% comment %}
+            Instagram ID : 238674, 217357
+            Twitter ID   : 217363,
+            Tiktok ID    : 217445,
+            Youtube ID   : 217443, 240400
+            {% endcomment %}
+
+            <section id="instagram" class="px-2">
+                <h4 class="headline">Instagram</h4>
+
+                <hr>
+
+                <div class="sosial-container">
+                    <div class='sk-instagram-feed' data-embed-id='238674'></div>
+                    <script src='https://widgets.sociablekit.com/instagram-feed/widget.js' async defer></script>
+                </div>
+            </section>
+
+            <section id="twitter" class="px-2">
+                <h4 class="headline">Twitter</h4>
+
+                <hr>
+
+                <div class="sosial-container">
+                    <div class='sk-ww-twitter-feed' data-embed-id='217363'></div>
+                    <script src='https://widgets.sociablekit.com/twitter-feed/widget.js' async defer></script>
+                </div>
+            </section>
+
+            <section id="twitter" class="px-2">
+                <h4 class="headline">Tiktok</h4>
+
+                <hr>
+
+                <div class="sosial-container">
+                    <div class='sk-tiktok-feed' data-embed-id='217445'></div>
+                    <script src='https://widgets.sociablekit.com/tiktok-feed/widget.js' async defer></script>
+                </div>
+            </section>
+
+            <section id="twitter" class="px-2">
+                <h4 class="headline">YouTube</h4>
+
+                <hr>
+
+                <div class="sosial-container">
+                    <div class='sk-ww-youtube-channel-videos' data-embed-id='217443'></div>
+                    <script src='https://widgets.sociablekit.com/youtube-channel-videos/widget.js' async defer>
+                    </script>
+                </div>
+            </section>
+
+            {% comment %} <v-social-feed name="instagram" embedid="217357"></v-social-feed> {% endcomment %}
+            {% comment %} <v-social-feed name="twitter" embedid="217363"></v-social-feed> {% endcomment %}
+            {% comment %} <v-social-feed name="tiktok" embedid="217445"></v-social-feed> {% endcomment %}
+            {% comment %} <v-social-feed name="youtube" embedid="217443"></v-social-feed> {% endcomment %}
+        </section>
+    </div>
+</section>
+{% endblock content %}

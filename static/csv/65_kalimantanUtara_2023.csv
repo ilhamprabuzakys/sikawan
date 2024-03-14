@@ -1,0 +1,535 @@
+﻿1;Tarakan;1;Tarakan Timur;1;Pantai Amal;Waspada;Siaga
+;Tarakan;;Tarakan Timur;2;Lingkas Ujung;Waspada;Waspada
+;Tarakan;;Tarakan Timur;3;Gunung Lingkas;Aman;Aman
+;Tarakan;;Tarakan Timur;4;Kampung Empat;Aman;Aman
+;Tarakan;;Tarakan Timur;5;Kampung Enam;Aman;Aman
+;Tarakan;;Tarakan Timur;6;Mamburungan;Aman;Aman
+;Tarakan;;Tarakan Timur;7;Mamburungan Timur;Aman;Aman
+;Tarakan;2;Tarakan Barat;1;Karang Anyar Pantai;Waspada;Waspada
+;Tarakan;;Tarakan Barat;2;Karang Anyar;Aman;Aman
+;Tarakan;;Tarakan Barat;3;Karang Rejo;Aman;Aman
+;Tarakan;;Tarakan Barat;4;Karang Balik;Aman;Aman
+;Tarakan;;Tarakan Barat;5;Karang Harapan;Aman;Aman
+;Tarakan;3;Tarakan Utara;1;Juata Laut;Waspada;Waspada
+;Tarakan;;Tarakan Utara;2;Juata Permai;Aman;Aman
+;Tarakan;;Tarakan Utara;3;Juata Kerikil;Aman;Aman
+;Tarakan;4;Tarakan Tengah;1;Selumit Pantai;Waspada;waspada
+;Tarakan;;Tarakan Tengah;2;Kampung I Skip;Aman;Aman
+;Tarakan;;Tarakan Tengah;3;Pamusian;Aman;Aman
+;Tarakan;;Tarakan Tengah;4;Sebengkok;Aman;Aman
+;Tarakan;;Tarakan Tengah;5;Selumit;Aman;Aman
+2;Bulungan;1;Sekatak;1;Sekatak Buji;Waspada;Waspada
+;Bulungan;;Sekatak;2;Sekatak Bengara;Waspada;Waspada
+;Bulungan;;Sekatak;3;Paru Abang;Aman;Aman
+;Bulungan;;Sekatak;4;Bunau;Aman;Aman
+;Bulungan;;Sekatak;5;Ujang;Aman;Aman
+;Bulungan;;Sekatak;6;Tenggiling;Aman;Aman
+;Bulungan;;Sekatak;7;Kelembunan;Aman;Aman
+;Bulungan;;Sekatak;8;Turung;Aman;Aman
+;Bulungan;;Sekatak;9;Terindak;Aman;Aman
+;Bulungan;;Sekatak;10;Kelising;Aman;Aman
+;Bulungan;;Sekatak;11;Ambalat;Aman;Aman
+;Bulungan;;Sekatak;12;Keriting;Aman;Aman
+;Bulungan;;Sekatak;13;Kendari;Aman;Aman
+;Bulungan;;Sekatak;14;Bambang;Aman;Aman
+;Bulungan;;Sekatak;15;Maritam;Aman;Aman
+;Bulungan;;Sekatak;16;Pentian;Aman;Aman
+;Bulungan;;Sekatak;17;Punan Dulau;Aman;Aman
+;Bulungan;;Sekatak;18;Kelincauan;Aman;Aman
+;Bulungan;;Sekatak;19;Bekiliu;Aman;Aman
+;Bulungan;;Sekatak;20;Pungit;Aman;Aman
+;Bulungan;;Sekatak;21;Anjar Arip;Aman;Aman
+;Bulungan;;Sekatak;22;Liagu;Aman;Aman
+;Bulungan;2;Tanjung Palas Tengah;1;Salimbatu;Waspada;Waspada
+;Bulungan;;Tanjung Palas Tengah;2;Silva Rahayu;Aman;Aman
+;Bulungan;;Tanjung Palas Tengah;3;Tanjung Buka;Aman;Aman
+;Bulungan;3;Tanjung Palas;1;Tanjung Palas Hilir;Waspada;Waspada
+;Bulungan;;Tanjung Palas;2;Tanjung Palas Hulu;Aman;Aman
+;Bulungan;;Tanjung Palas;3;Tanjung palas Tengah;Aman;Aman
+;Bulungan;;Tanjung Palas;4;Karang Anyar;Aman;Aman
+;Bulungan;;Tanjung Palas;;Gunung Putih;Aman;Aman
+;Bulungan;;Tanjung Palas;;Pejalin;Aman;Aman
+;Bulungan;;Tanjung Palas;;Teras baru;Aman;Aman
+;Bulungan;;Tanjung Palas;;Teras Nawang;Aman;Aman
+;Bulungan;4;Tanjung Selor;1;Kampung Arab;Waspada;Waspada
+;Bulungan;;Tanjung Selor;2;Jelarai Selor;Waspada;Waspada
+;Bulungan;;Tanjung Selor;3;Tanjung Selor Hilir;Waspada;Waspada
+;Bulungan;;Tanjung Selor;4;Tanjung Selor Hulu;Aman;Aman
+;Bulungan;;Tanjung Selor;5;Gunung Seriang;Aman;Aman
+;Bulungan;;Tanjung Selor;6;Bumi Rahayu;Aman;Aman
+;Bulungan;;Tanjung Selor;7;Gunung Sari;Aman;Aman
+;Bulungan;;Tanjung Selor;8;Apung;Aman;Aman
+;Bulungan;;Tanjung Selor;9;Tengkapak;Aman;Aman
+;Bulungan;;Tanjung Selor;10;Tanjung Selor Timur;Aman;Aman
+;Bulungan;5;Tanjung Palas Barat;1;Long Beluah;Aman;Aman
+;Bulungan;;Tanjung Palas Barat;2;Long Sam;Aman;Aman
+;Bulungan;;Tanjung Palas Barat;3;Mara I;Aman;Aman
+;Bulungan;;Tanjung Palas Barat;4;Mara Hilir;Aman;Aman
+;Bulungan;;Tanjung Palas Barat;5;Long Pari;Aman;Aman
+;Bulungan;6;Tanjung Palas Utara;1;Karang Agung;Aman;Aman
+;Bulungan;;Tanjung Palas Utara;2;Pimping;Aman;Aman
+;Bulungan;;Tanjung Palas Utara;3;Panca Agung;Aman;Aman
+;Bulungan;;Tanjung Palas Utara;4;Ruhui Rahayu;Aman;Aman
+;Bulungan;;Tanjung Palas Utara;5;Ardi Mulyo;Aman;Aman
+;Bulungan;;Tanjung Palas Utara;6;Kelubir;Aman;Aman
+;Bulungan;7;Tanjung Palas Timur;1;Tahan Kuning;Aman;Aman
+;Bulungan;;Tanjung Palas Timur;2;Mangkupadi;Aman;Aman
+;Bulungan;;Tanjung Palas Timur;3;Sajau;Aman;Aman
+;Bulungan;;Tanjung Palas Timur;4;Wonomulyo;Aman;Aman
+;Bulungan;;Tanjung Palas Timur;5;Tanjung Agung;Aman;Aman
+;Bulungan;;Tanjung Palas Timur;6;Binai;Aman;Aman
+;Bulungan;;Tanjung Palas Timur;7;Sajau Hilir;Aman;Aman
+;Bulungan;;Tanjung Palas Timur;8;Pura Sajau;Aman;Aman
+;Bulungan;8;Peso;1;Lepak Aru;Aman;Aman
+;Bulungan;;Peso;2;Long Lasan;Aman;Aman
+;Bulungan;;Peso;3;Long Peso;Aman;Aman
+;Bulungan;;Peso;4;Long Bia;Aman;Aman
+;Bulungan;;Peso;5;Muara Pangean;Aman;Aman
+;Bulungan;;Peso;6;Long Lian;Aman;Aman
+;Bulungan;;Peso;7;Long Pelaah;Aman;Aman
+;Bulungan;;Peso;8;Long Lejuh;Aman;Aman
+;Bulungan;;Peso;9;Long Pelban;Aman;Aman
+;Bulungan;;Peso;10;Long Buang;Aman;Aman
+;Bulungan;9;Peso Hilir;1;Long Tungu;Aman;Aman
+;Bulungan;;Peso Hilir;2;Long Bang;Aman;Aman
+;Bulungan;;Peso Hilir;3;Long Telenjau;Aman;Aman
+;Bulungan;;Peso Hilir;4;Naha Aya;Aman;Aman
+;Bulungan;;Peso Hilir;5;Long Lembu;Aman;Aman
+;Bulungan;;Peso Hilir;6;Long Bang Hulu;Aman;Aman
+;Bulungan;10;Bunyu;1;Bunyu Barat;Aman;Aman
+;Bulungan;;Bunyu;2;Bunyu Selatan;Aman;Aman
+;Bulungan;;Bunyu;3;Bunyu Timur;Aman;Aman
+3;Malinau;1;Malinau Utara;1;Malinau Seberang;Waspada;Waspada
+;Malinau;;Malinau Utara;2;Semenggaris;Waspada;Waspada
+;Malinau;;Malinau Utara;3;Kelapis;Waspada;Waspada
+;Malinau;;Malinau Utara;4;Kaliamok;Aman;Aman
+;Malinau;;Malinau Utara;5;Luso;Aman;Aman
+;Malinau;;Malinau Utara;6;Putat;Aman;Aman
+;Malinau;;Malinau Utara;7;Salap;Aman;Aman
+;Malinau;;Malinau Utara;8;Seruyung;Aman;Aman
+;Malinau;;Malinau Utara;9;Respen Tubu;Aman;Aman
+;Malinau;;Malinau Utara;10;Belayan;Aman;Aman
+;Malinau;;Malinau Utara;11;Sembuak Warod;Aman;Aman
+;Malinau;;Malinau Utara;12;Lubak Manis;Aman;Aman
+;Malinau;2;Malinau Kota;1;Pelita Kanaan;Waspada;Waspada
+;Malinau;;Malinau Kota;2;Batu Lidung;Aman;Aman
+;Malinau;;Malinau Kota;3;Malinau Kota;Aman;Aman
+;Malinau;;Malinau Kota;4;Malinau Hulu;Aman;Aman
+;Malinau;;Malinau Kota;5;Malinau Hilir;Aman;Aman
+;Malinau;;Malinau Kota;6;Tanjung Keranjang;Aman;Aman
+;Malinau;3;Mentarang;1;Mentarang Baru;Waspada;Waspada
+;Malinau;;Mentarang;2;Long Gafid;Aman;Aman
+;Malinau;;Mentarang;3;Long Bisai;Aman;Aman
+;Malinau;;Mentarang;4;Temalang;Aman;Aman
+;Malinau;;Mentarang;5;Long Liku;Aman;Aman
+;Malinau;;Mentarang;6;Pulau Sapi;Aman;Aman
+;Malinau;;Mentarang;7;Paking;Aman;Aman
+;Malinau;;Mentarang;8;Lidung Kemenci;Aman;Aman
+;Malinau;;Mentarang;9;Harapan Maju;Aman;Aman
+;Malinau;4;Pujungan;1;Long Pujungan;Aman;Aman
+;Malinau;;Pujungan;2;Long Ketaman;Aman;Aman
+;Malinau;;Pujungan;3;Long Pua;Aman;Aman
+;Malinau;;Pujungan;4;Long Lame;Aman;Aman
+;Malinau;;Pujungan;5;Long Jelet;Aman;Aman
+;Malinau;;Pujungan;6;Long Aran;Aman;Aman
+;Malinau;;Pujungan;7;Long Paliran;Aman;Aman
+;Malinau;;Pujungan;8;Long Bena;Aman;Aman
+;Malinau;;Pujungan;9;Long Belaka Pitau;Aman;Aman
+;Malinau;5;Kayan Hilir;1;Data Dian;Aman;Aman
+;Malinau;;Kayan Hilir;2;Long Pipa;Aman;Aman
+;Malinau;;Kayan Hilir;3;Long Sule;Aman;Aman
+;Malinau;;Kayan Hilir;4;Sungai Anai;Aman;Aman
+;Malinau;;Kayan Hilir;5;Long Metun;Aman;Aman
+;Malinau;6;Kayan Hulu;1;Long Nawang;Aman;Aman
+;Malinau;;Kayan Hulu;2;Nawang Baru;Aman;Aman
+;Malinau;;Kayan Hulu;3;Long Temuyat;Aman;Aman
+;Malinau;;Kayan Hulu;4;Long Betaoh;Aman;Aman
+;Malinau;;Kayan Hulu;5;Long Payau;Aman;Aman
+;Malinau;7;Malinau Selatan;1;Bila Bekayuk;Aman;Aman
+;Malinau;;Malinau Selatan;2;Long Loreh;Aman;Aman
+;Malinau;;Malinau Selatan;3;Langap;Aman;Aman
+;Malinau;;Malinau Selatan;4;Laban Nyarit;Aman;Aman
+;Malinau;;Malinau Selatan;5;Nunuk Tana Kibang;Aman;Aman
+;Malinau;;Malinau Selatan;6;Pelencau;Aman;Aman
+;Malinau;;Malinau Selatan;7;Paya Seturan;Aman;Aman
+;Malinau;;Malinau Selatan;8;Punan Rian;Aman;Aman
+;Malinau;;Malinau Selatan;9;Senggayan;Aman;Aman
+;Malinau;8;Malinau Barat;1;Long Bila;Aman;Aman
+;Malinau;;Malinau Barat;2;Lone Kenipe;Aman;Aman
+;Malinau;;Malinau Barat;3;Punan Bengalun;Aman;Aman
+;Malinau;;Malinau Barat;4;Sesua;Aman;Aman
+;Malinau;;Malinau Barat;5;Sentaban;Aman;Aman
+;Malinau;;Malinau Barat;6;Tanjung Lapang;Aman;Aman
+;Malinau;;Malinau Barat;7;Teras;Aman;Aman
+;Malinau;;Malinau Barat;8;Kuala Lapang;Aman;Aman
+;Malinau;;Malinau Barat;9;Sempayang;Aman;Aman
+;Malinau;9;Sungai Boh;1;Dumu Mahak;Aman;Aman
+;Malinau;;Sungai Boh;2;Long Lebusan;Aman;Aman
+;Malinau;;Sungai Boh;3;Mahak Baru;Aman;Aman
+;Malinau;;Sungai Boh;4;Long Top;Aman;Aman
+;Malinau;;Sungai Boh;5;Agung Baru;Aman;Aman
+;Malinau;;Sungai Boh;6;Data Baru;Aman;Aman
+;Malinau;10;Kayan Selatan;1;Long Apung;Aman;Aman
+;Malinau;;Kayan Selatan;2;Long Uro;Aman;Aman
+;Malinau;;Kayan Selatan;3;Lidung Payau;Aman;Aman
+;Malinau;;Kayan Selatan;4;Sungai Barang;Aman;Aman
+;Malinau;;Kayan Selatan;5;Metualang;Aman;Aman
+;Malinau;11;Mentarang Hulu;1;Lung Fala;Aman;Aman
+;Malinau;;Mentarang Hulu;2;Lung Kebinu;Aman;Aman
+;Malinau;;Mentarang Hulu;3;Lung Mekatip;Aman;Aman
+;Malinau;;Mentarang Hulu;4;Lung Simau;Aman;Aman
+;Malinau;;Mentarang Hulu;5;Lung Barang;Aman;Aman
+;Malinau;;Mentarang Hulu;6;Lung Sulit;Aman;Aman
+;Malinau;;Mentarang Hulu;7;Semamu;Aman;Aman
+;Malinau;12;Bahau Hulu;1;Long Uli;Aman;Aman
+;Malinau;;Bahau Hulu;2;Alango;Aman;Aman
+;Malinau;;Bahau Hulu;3;Long Berini;Aman;Aman
+;Malinau;;Bahau Hulu;4;Long Tebulo;Aman;Aman
+;Malinau;;Bahau Hulu;5;Apau Ping;Aman;Aman
+;Malinau;;Bahau Hulu;6;Long Kemuat;Aman;Aman
+;Malinau;13;Malinau Selatan Hilir;1;Setulang;Aman;Aman
+;Malinau;;Malinau Selatan Hilir;2;Setarap;Aman;Aman
+;Malinau;;Malinau Selatan Hilir;3;Punan Setarap;Aman;Aman
+;Malinau;;Malinau Selatan Hilir;4;Batu Kajang;Aman;Aman
+;Malinau;;Malinau Selatan Hilir;5;Gong Solok;Aman;Aman
+;Malinau;;Malinau Selatan Hilir;6;Punan Gong Solok;Aman;Aman
+;Malinau;;Malinau Selatan Hilir;7;Long Adiu;Aman;Aman
+;Malinau;;Malinau Selatan Hilir;8;Punan Long Adiu;Aman;Aman
+;Malinau;14;Malinau Selatan Hulu;1;Long Lake;Aman;Aman
+;Malinau;;Malinau Selatan Hulu;2;Punan Mirau;Aman;Aman
+;Malinau;;Malinau Selatan Hulu;3;Long Rat;Aman;Aman
+;Malinau;;Malinau Selatan Hulu;4;Halanga;Aman;Aman
+;Malinau;;Malinau Selatan Hulu;5;Metut;Aman;Aman
+;Malinau;;Malinau Selatan Hulu;6;Long Jalan;Aman;Aman
+;Malinau;;Malinau Selatan Hulu;7;Nahakramo;Aman;Aman
+;Malinau;;Malinau Selatan Hulu;8;Tanjung Nanga;Aman;Aman
+;Malinau;15;Sungai Tubu;1;Long Nyau;Aman;Aman
+;Malinau;;Sungai Tubu;2;Long Titi;Aman;Aman
+;Malinau;;Sungai Tubu;3;Long Ranau;Aman;Aman
+;Malinau;;Sungai Tubu;4;Riang Tubu;Aman;Aman
+;Malinau;;Sungai Tubu;5;Long Pada;Aman;Aman
+4;Nunukan;1;Sebatik Tengah;1;Sungai Limau;Waspada;Waspada
+;Nunukan;;Sebatik Tengah;2;Maspul;Aman;Aman
+;Nunukan;;Sebatik Tengah;3;Aji Kuning;Aman;Aman
+;Nunukan;;Sebatik Tengah;4;Bukit Harapan;Aman;Aman
+;Nunukan;2;Sebuku;1;Pembeliangan;Siaga;siaga
+;Nunukan;;Sebuku;2;Apas;Aman;Aman
+;Nunukan;;Sebuku;3;Kunyit;Aman;Aman
+;Nunukan;;Sebuku;4;Tetaban;Aman;Aman
+;Nunukan;;Sebuku;5;Kekayap;Aman;Aman
+;Nunukan;;Sebuku;6;Bebanas;Aman;Aman
+;Nunukan;;Sebuku;7;Lulu;Aman;Aman
+;Nunukan;;Sebuku;8;Sujau;Aman;Aman
+;Nunukan;;Sebuku;9;Melasu Baru;Aman;Aman
+;Nunukan;;Sebuku;10;Harapan;Aman;Aman
+;Nunukan;3;Sebatik;1;Tanjungkarang;Aman;Aman
+;Nunukan;;Sebatik;2;Balansiku;Aman;Aman
+;Nunukan;;Sebatik;3;Sungai Manurung;Aman;Aman
+;Nunukan;;Sebatik;4;Padaidi;Aman;Aman
+;Nunukan;4;Nunukan;1;Nunukan Timur;Aman;aman
+;Nunukan;;Nunukan;2;Nunukan Barat;Aman;Aman
+;Nunukan;;Nunukan;3;Nunukan Utara;Aman;Aman
+;Nunukan;;Nunukan;4;Nunukan Tengah;Aman;Aman
+;Nunukan;;Nunukan;5;Binusan;Aman;Aman
+;Nunukan;5;Sembakung;1;Tagul;Aman;Aman
+;Nunukan;;Sembakung;2;Lubakan;Aman;Aman
+;Nunukan;;Sembakung;3;Atap;Aman;Aman
+;Nunukan;;Sembakung;4;Manuk Bungkul;Aman;Aman
+;Nunukan;;Sembakung;5;Tujung;Aman;Aman
+;Nunukan;;Sembakung;6;Pagar;Aman;Aman
+;Nunukan;;Sembakung;7;Labuk;Aman;Aman
+;Nunukan;;Sembakung;8;Butas Bagu;Aman;Aman
+;Nunukan;;Sembakung;9;Pelaju;Aman;Aman
+;Nunukan;;Sembakung;10;Tepian;Aman;Aman
+;Nunukan;6;Lumbis;1;Deralon;Aman;Aman
+;Nunukan;;Lumbis;2;Liang;Aman;Aman
+;Nunukan;;Lumbis;3;Dabulon;Aman;Aman
+;Nunukan;;Lumbis;4;Taluan;Aman;Aman
+;Nunukan;;Lumbis;5;Podong;Aman;Aman
+;Nunukan;;Lumbis;6;Patal I;Aman;Aman
+;Nunukan;;Lumbis;7;Siawang;Aman;Aman
+;Nunukan;;Lumbis;8;Sapuyan;Aman;Aman
+;Nunukan;;Lumbis;9;Nainsid;Aman;Aman
+;Nunukan;;Lumbis;10;Sasibu;Aman;Aman
+;Nunukan;;Lumbis;11;Saludan;Aman;Aman
+;Nunukan;;Lumbis;12;Semalat;Aman;Aman
+;Nunukan;;Lumbis;13;Libang;Aman;Aman
+;Nunukan;;Lumbis;14;Sedongon;Aman;Aman
+;Nunukan;;Lumbis;15;Tanjung Hilir;Aman;Aman
+;Nunukan;;Lumbis;16;Sumalumung;Aman;Aman
+;Nunukan;;Lumbis;17;Lintong;Aman;Aman
+;Nunukan;;Lumbis;18;Pulu Bulawan;Aman;Aman
+;Nunukan;;Lumbis;19;Tanjung Hulu;Aman;Aman
+;Nunukan;;Lumbis;20;Patal II;Aman;Aman
+;Nunukan;;Lumbis;21;Pa'loo;Aman;Aman
+;Nunukan;;Lumbis;22;Sangkub;Aman;Aman
+;Nunukan;;Lumbis;23;Tubus;Aman;Aman
+;Nunukan;;Lumbis;24;Likos;Aman;Aman
+;Nunukan;;Lumbis;25;Bulan-Bulan;Aman;Aman
+;Nunukan;;Lumbis;26;Kalampising;Aman;Aman
+;Nunukan;;Lumbis;27;Pa'lemumut;Aman;Aman
+;Nunukan;;Lumbis;28;Mansalong;Aman;Aman
+;Nunukan;7;Krayan;1;Pa'mulak;Aman;Aman
+;Nunukan;;Krayan;2;Pa'padi;Aman;Aman
+;Nunukan;;Krayan;3;Cinglat;Aman;Aman
+;Nunukan;;Krayan;4;Long Puak;Aman;Aman
+;Nunukan;;Krayan;5;Long Mangan;Aman;Aman
+;Nunukan;;Krayan;6;Buduk Kubul;Aman;Aman
+;Nunukan;;Krayan;7;Long Kabid;Aman;Aman
+;Nunukan;;Krayan;8;Pa'inan;Aman;Aman
+;Nunukan;;Krayan;9;Lembudud;Aman;Aman
+;Nunukan;;Krayan;10;Long Tugul;Aman;Aman
+;Nunukan;;Krayan;11;Pa'butal;Aman;Aman
+;Nunukan;;Krayan;12;Pa'delung;Aman;Aman
+;Nunukan;;Krayan;13;Pa'urud;Aman;Aman
+;Nunukan;;Krayan;14;Pa'kemut;Aman;Aman
+;Nunukan;;Krayan;15;Pa'kidang;Aman;Aman
+;Nunukan;;Krayan;16;Lembada;Aman;Aman
+;Nunukan;;Krayan;17;Pa'payak;Aman;Aman
+;Nunukan;;Krayan;18;Pa'pirit;Aman;Aman
+;Nunukan;;Krayan;19;Liang Aliq;Aman;Aman
+;Nunukan;;Krayan;20;Sembudud;Aman;Aman
+;Nunukan;;Krayan;21;Liang Turan;Aman;Aman
+;Nunukan;;Krayan;22;Liang Butan;Aman;Aman
+;Nunukan;;Krayan;23;Liang Bua;Aman;Aman
+;Nunukan;;Krayan;24;Lepatar;Aman;Aman
+;Nunukan;;Krayan;25;Pa'mering;Aman;Aman
+;Nunukan;;Krayan;26;Pa'pani;Aman;Aman
+;Nunukan;;Krayan;27;Pa'lutut;Aman;Aman
+;Nunukan;;Krayan;28;Ma'libu;Aman;Aman
+;Nunukan;;Krayan;29;Pa'rupai;Aman;Aman
+;Nunukan;;Krayan;30;Ba Sikor;Aman;Aman
+;Nunukan;;Krayan;31;Pa'nado;Aman;Aman
+;Nunukan;;Krayan;32;Buduk Kinangan;Aman;Aman
+;Nunukan;;Krayan;33;Liang Tuer;Aman;Aman
+;Nunukan;;Krayan;34;Buduk Tumu;Aman;Aman
+;Nunukan;;Krayan;35;Long Berayang;Aman;Aman
+;Nunukan;;Krayan;36;Pa'api;Aman;Aman
+;Nunukan;;Krayan;37;Pa'sire;Aman;Aman
+;Nunukan;;Krayan;38;Wa'yanud;Aman;Aman
+;Nunukan;;Krayan;39;Long Nawan;Aman;Aman
+;Nunukan;;Krayan;40;Long Katung;Aman;Aman
+;Nunukan;;Krayan;41;Long Bawan;Aman;Aman
+;Nunukan;;Krayan;42;kampung Baru;Aman;Aman
+;Nunukan;;Krayan;43;Pa'betung;Aman;Aman
+;Nunukan;;Krayan;44;Long Matung;Aman;Aman
+;Nunukan;;Krayan;45;Long Rupan;Aman;Aman
+;Nunukan;;Krayan;46;Liang Biadung;Aman;Aman
+;Nunukan;;Krayan;47;Wa'laya;Aman;Aman
+;Nunukan;;Krayan;48;Pa'matung;Aman;Aman
+;Nunukan;;Krayan;49;Pa'terutun;Aman;Aman
+;Nunukan;;Krayan;50;Pa'rangeb;Aman;Aman
+;Nunukan;;Krayan;51;Pa'kebuan;Aman;Aman
+;Nunukan;;Krayan;52;Pa'pawan;Aman;Aman
+;Nunukan;;Krayan;53;Long Umung;Aman;Aman
+;Nunukan;;Krayan;54;Long Tenem;Aman;Aman
+;Nunukan;;Krayan;55;Pa'umung;Aman;Aman
+;Nunukan;;Krayan;56;Pa'raye;Aman;Aman
+;Nunukan;;Krayan;57;Pa'melade;Aman;Aman
+;Nunukan;;Krayan;58;Bungayan;Aman;Aman
+;Nunukan;;Krayan;59;Pa'lidung;Aman;Aman
+;Nunukan;;Krayan;60;Wa'yagung;Aman;Aman
+;Nunukan;;Krayan;61;Pa'pala;Aman;Aman
+;Nunukan;;Krayan;62;Sinar Baru;Aman;Aman
+;Nunukan;;Krayan;63;Long Nuat;Aman;Aman
+;Nunukan;;Krayan;64;Long Sepayang;Aman;Aman
+;Nunukan;;Krayan;65;Pa'putuk;Aman;Aman
+;Nunukan;8;Krayan Selatan;1;Long Pasia;Aman;Aman
+;Nunukan;;Krayan Selatan;2;Liang Lunuk;Aman;Aman
+;Nunukan;;Krayan Selatan;3;Pa'ibang;Aman;Aman
+;Nunukan;;Krayan Selatan;4;Pa'amai;Aman;Aman
+;Nunukan;;Krayan Selatan;5;Pa'kaber;Aman;Aman
+;Nunukan;;Krayan Selatan;6;Pa'tera;Aman;Aman
+;Nunukan;;Krayan Selatan;7;Pa'sing;Aman;Aman
+;Nunukan;;Krayan Selatan;8;Long Padi;Aman;Aman
+;Nunukan;;Krayan Selatan;9;Pa'dalam;Aman;Aman
+;Nunukan;;Krayan Selatan;10;Long birar;Aman;Aman
+;Nunukan;;Krayan Selatan;11;Pa'upan;Aman;Aman
+;Nunukan;;Krayan Selatan;12;Tang Paye;Aman;Aman
+;Nunukan;;Krayan Selatan;13;Long Kelupan;Aman;Aman
+;Nunukan;;Krayan Selatan;14;Long Rungan;Aman;Aman
+;Nunukan;;Krayan Selatan;15;Long Mutan;Aman;Aman
+;Nunukan;;Krayan Selatan;16;Long Budung;Aman;Aman
+;Nunukan;;Krayan Selatan;17;Long Rian;Aman;Aman
+;Nunukan;;Krayan Selatan;18;Long Pupung;Aman;Aman
+;Nunukan;;Krayan Selatan;19;Ba'liku;Aman;Aman
+;Nunukan;;Krayan Selatan;20;Pa'urang;Aman;Aman
+;Nunukan;;Krayan Selatan;21;Pa'yalau;Aman;Aman
+;Nunukan;;Krayan Selatan;22;Binuang;Aman;Aman
+;Nunukan;;Krayan Selatan;23;Pa'milau;Aman;Aman
+;Nunukan;;Krayan Selatan;24;Tang Badui;Aman;Aman
+;Nunukan;9;Sebatik Barat;1;Lang Bunyu;Aman;Aman
+;Nunukan;;Sebatik Barat;2;Bina lawan;Aman;Aman
+;Nunukan;;Sebatik Barat;3;Betabu;Aman;Aman
+;Nunukan;;Sebatik Barat;4;Bambangan;Aman;Aman
+;Nunukan;10;Nunukan Selatan;1;Selisun;Aman;Aman
+;Nunukan;;Nunukan Selatan;2;NunukanSelatan;Aman;Aman
+;Nunukan;;Nunukan Selatan;3;Mansapa;Aman;Aman
+;Nunukan;;Nunukan Selatan;4;Tanjung Harapan;Aman;Aman
+;Nunukan;11;Sebatik Timur;1;Sungai Nyamuk;Aman;Aman
+;Nunukan;;Sebatik Timur;2;Tanjung Harapan;Aman;Aman
+;Nunukan;;Sebatik Timur;3;Bukit aru Indah;Aman;Aman
+;Nunukan;;Sebatik Timur;4;Tanjung Aru;Aman;Aman
+;Nunukan;12;Sebatik Utara;1;Sungai Pancang;Aman;Aman
+;Nunukan;;Sebatik Utara;2;Lapri;Aman;Aman
+;Nunukan;;Sebatik Utara;3;Seberang;Aman;Aman
+;Nunukan;13;Sei Menggaris;1;Srinanti;Aman;Aman
+;Nunukan;;Sei Menggaris;2;Tabur Lestari;Aman;Aman
+;Nunukan;;Sei Menggaris;3;Samaenre Semaja;Aman;Aman
+;Nunukan;;Sei Menggaris;4;Sekaduyan Taka;Aman;Aman
+;Nunukan;14;Tulin Onsoi;1;sanur;Aman;Aman
+;Nunukan;;Tulin Onsoi;2;Makmur;Aman;Aman
+;Nunukan;;Tulin Onsoi;3;semunad;Aman;Aman
+;Nunukan;;Tulin Onsoi;4;Sekikilian;Aman;Aman
+;Nunukan;;Tulin Onsoi;5;Kalunsayan;Aman;Aman
+;Nunukan;;Tulin Onsoi;6;Tembalang;Aman;Aman
+;Nunukan;;Tulin Onsoi;7;salam;Aman;Aman
+;Nunukan;;Tulin Onsoi;8;Tinampak I;Aman;Aman
+;Nunukan;;Tulin Onsoi;9;Tinampak II;Aman;Aman
+;Nunukan;;Tulin Onsoi;10;Naputi;Aman;Aman
+;Nunukan;;Tulin Onsoi;11;Tau Baru;Aman;Aman
+;Nunukan;;Tulin Onsoi;12;Balatikon;Aman;Aman
+;Nunukan;15;Lumbis Ogong;1;Payang;Aman;Aman
+;Nunukan;;Lumbis Ogong;2;suyadon;Aman;Aman
+;Nunukan;;Lumbis Ogong;3;Bulu Mengolom;Aman;Aman
+;Nunukan;;Lumbis Ogong;4;Tukulon;Aman;Aman
+;Nunukan;;Lumbis Ogong;5;Ubol Sulok;Aman;Aman
+;Nunukan;;Lumbis Ogong;6;Batung;Aman;Aman
+;Nunukan;;Lumbis Ogong;7;Ubol Alung;Aman;Aman
+;Nunukan;;Lumbis Ogong;8;Nansapan;Aman;Aman
+;Nunukan;;Lumbis Ogong;9;Samunti;Aman;Aman
+;Nunukan;;Lumbis Ogong;10;Semata;Aman;Aman
+;Nunukan;;Lumbis Ogong;11;sungoi;Aman;Aman
+;Nunukan;;Lumbis Ogong;12;Salan;Aman;Aman
+;Nunukan;;Lumbis Ogong;13;Sinampila I;Aman;Aman
+;Nunukan;;Lumbis Ogong;14;Paluan;Aman;Aman
+;Nunukan;;Lumbis Ogong;15;Sedalit;Aman;Aman
+;Nunukan;;Lumbis Ogong;16;Tambalang Hilir;Aman;Aman
+;Nunukan;;Lumbis Ogong;17;Tadungus;Aman;Aman
+;Nunukan;;Lumbis Ogong;18;Sinampila II;Aman;Aman
+;Nunukan;;Lumbis Ogong;19;Kalambuku;Aman;Aman
+;Nunukan;;Lumbis Ogong;20;Jukup;Aman;Aman
+;Nunukan;;Lumbis Ogong;21;Long Bulu;Aman;Aman
+;Nunukan;;Lumbis Ogong;22;Sumentobol;Aman;Aman
+;Nunukan;;Lumbis Ogong;23;Linsayung;Aman;Aman
+;Nunukan;;Lumbis Ogong;24;Tumantalas;Aman;Aman
+;Nunukan;;Lumbis Ogong;25;Sanal;Aman;Aman
+;Nunukan;;Lumbis Ogong;26;Limpakon;Aman;Aman
+;Nunukan;;Lumbis Ogong;27;Labuk;Aman;Aman
+;Nunukan;;Lumbis Ogong;28;Nantukidan;Aman;Aman
+;Nunukan;;Lumbis Ogong;29;Labang;Aman;Aman
+;Nunukan;;Lumbis Ogong;30;Sumantipal;Aman;Aman
+;Nunukan;;Lumbis Ogong;31;Ngawal;Aman;Aman
+;Nunukan;;Lumbis Ogong;32;Bululaun Hilir;Aman;Aman
+;Nunukan;;Lumbis Ogong;33;Lagas;Aman;Aman
+;Nunukan;;Lumbis Ogong;34;Panas;Aman;Aman
+;Nunukan;;Lumbis Ogong;35;Langgason;Aman;Aman
+;Nunukan;;Lumbis Ogong;36;Tambalang Hulu;Aman;Aman
+;Nunukan;;Lumbis Ogong;37;Kuyo;Aman;Aman
+;Nunukan;;Lumbis Ogong;38;Boko;Aman;Aman
+;Nunukan;;Lumbis Ogong;39;Tau lumbis;Aman;Aman
+;Nunukan;;Lumbis Ogong;40;Bululaun Hulu;Aman;Aman
+;Nunukan;;Lumbis Ogong;41;Kalisun;Aman;Aman
+;Nunukan;;Lumbis Ogong;42;Mamasin;Aman;Aman
+;Nunukan;;Lumbis Ogong;43;Sibalu;Aman;Aman
+;Nunukan;;Lumbis Ogong;44;Duyan;Aman;Aman
+;Nunukan;;Lumbis Ogong;45;Tuntulibing;Aman;Aman
+;Nunukan;;Lumbis Ogong;46;Tetagas;Aman;Aman
+;Nunukan;;Lumbis Ogong;47;Kabungolor;Aman;Aman
+;Nunukan;;Lumbis Ogong;48;Lipaga;Aman;Aman
+;Nunukan;;Lumbis Ogong;49;Tantalujung;Aman;Aman
+;Nunukan;16;sembakung atulai;1;Lubok Buat;Aman;Aman
+;Nunukan;;sembakung atulai;2;Katul;Aman;Aman
+;Nunukan;;sembakung atulai;3;Mambulu;Aman;Aman
+;Nunukan;;sembakung atulai;4;Pagaluyon;Aman;Aman
+;Nunukan;;sembakung atulai;5;Saduman;Aman;Aman
+;Nunukan;;sembakung atulai;6;Tulang;Aman;Aman
+;Nunukan;;sembakung atulai;7;sabuluan;Aman;Aman
+;Nunukan;;sembakung atulai;8;Pulau Keras;Aman;Aman
+;Nunukan;;sembakung atulai;9;Liuk Bulu;Aman;Aman
+;Nunukan;;sembakung atulai;10;Binanun;Aman;Aman
+;Nunukan;17;Kerayan Tengah;1;Tang Paye;Aman;Aman
+;Nunukan;;Kerayan Tengah;2;Long Rungan;Aman;Aman
+;Nunukan;;Kerayan Tengah;3;Long Kelupan;Aman;Aman
+;Nunukan;;Kerayan Tengah;4;Long Padi;Aman;Aman
+;Nunukan;;Kerayan Tengah;5;Tang Badui;Aman;Aman
+;Nunukan;;Kerayan Tengah;6;Binuang;Aman;Aman
+;Nunukan;;Kerayan Tengah;7;Long Mutan;Aman;Aman
+;Nunukan;;Kerayan Tengah;8;Pa'Milau;Aman;Aman
+;Nunukan;;Kerayan Tengah;9;Ba'liku;Aman;Aman
+;Nunukan;;Kerayan Tengah;10;Long Rian;Aman;Aman
+;Nunukan;;Kerayan Tengah;11;Pa'yalau;Aman;Aman
+;Nunukan;18;Krayan Timur;1;Pa'Betung;Aman;Aman
+;Nunukan;;Krayan Timur;2;Long Sepayang;Aman;Aman
+;Nunukan;;Krayan Timur;3;Pa'pawan;Aman;Aman
+;Nunukan;;Krayan Timur;4;Pa'melade;Aman;Aman
+;Nunukan;;Krayan Timur;5;Pa'kebuan;Aman;Aman
+;Nunukan;;Krayan Timur;6;Pa'umung;Aman;Aman
+;Nunukan;;Krayan Timur;7;Pa'rangeb;Aman;Aman
+;Nunukan;;Krayan Timur;8;Long Umung;Aman;Aman
+;Nunukan;;Krayan Timur;9;Long Tenem;Aman;Aman
+;Nunukan;;Krayan Timur;10;Long Nuat;Aman;Aman
+;Nunukan;;Krayan Timur;11;Pa'Pala;Aman;Aman
+;Nunukan;;Krayan Timur;12;Sinar Baru;Aman;Aman
+;Nunukan;;Krayan Timur;13;Pa'lidung;Aman;Aman
+;Nunukan;;Krayan Timur;14;Pa' Raye;Aman;Aman
+;Nunukan;;Krayan Timur;15;Bungayan;Aman;Aman
+;Nunukan;;Krayan Timur;16;Wa'yagung;Aman;Aman
+;Nunukan;;Krayan Timur;17;kampung Baru;Aman;Aman
+;Nunukan;19;Krayan Barat;1;Pa'Mulak;Aman;Aman
+;Nunukan;;Krayan Barat;2;Long Puak;Aman;Aman
+;Nunukan;;Krayan Barat;3;Long Mangan;Aman;Aman
+;Nunukan;;Krayan Barat;4;Buduk Kubul;Aman;Aman
+;Nunukan;;Krayan Barat;5;Long Kabid;Aman;Aman
+;Nunukan;;Krayan Barat;6;Pa'inan;Aman;Aman
+;Nunukan;;Krayan Barat;7;Lembudud;Aman;Aman
+;Nunukan;;Krayan Barat;8;Long Tugul;Aman;Aman
+;Nunukan;;Krayan Barat;9;Pa'butal;Aman;Aman
+;Nunukan;;Krayan Barat;10;Pa'delung;Aman;Aman
+;Nunukan;;Krayan Barat;11;Pa'urud;Aman;Aman
+;Nunukan;;Krayan Barat;12;Pa'kemut;Aman;Aman
+;Nunukan;;Krayan Barat;13;Pa'kidang;Aman;Aman
+;Nunukan;;Krayan Barat;14;Lembada;Aman;Aman
+;Nunukan;;Krayan Barat;15;Pa'payak;Aman;Aman
+;Nunukan;;Krayan Barat;16;Pa'pirit;Aman;Aman
+;Nunukan;;Krayan Barat;17;Liang Aliq;Aman;Aman
+;Nunukan;;Krayan Barat;18;Sembudud;Aman;Aman
+;Nunukan;;Krayan Barat;19;Liang Turan;Aman;Aman
+;Nunukan;;Krayan Barat;20;Liang bua;Aman;Aman
+;Nunukan;;Krayan Barat;21;Lepatur;Aman;Aman
+;Nunukan;;Krayan Barat;22;Pa'mering;Aman;Aman
+;Nunukan;;Krayan Barat;23;Pa'pani;Aman;Aman
+;Nunukan;;Krayan Barat;24;Pa'lutut;Aman;Aman
+;Nunukan;;Krayan Barat;25;Ma'libu;Aman;Aman
+5;Tana Tidung;1;Sesayap;1;Tideng Pale;Aman;Aman
+;Tana Tidung;;Sesayap;2;Limbu Sedulun;Aman;Aman
+;Tana Tidung;;Sesayap;3;Sebidai;Aman;Aman
+;Tana Tidung;;Sesayap;4;Sedulun;Aman;Aman
+;Tana Tidung;;Sesayap;5;Tideng Pale Timur;Aman;Aman
+;Tana Tidung;;Sesayap;6;Gunawan;Aman;Aman
+;Tana Tidung;;Sesayap;7;Sebawang;Aman;Aman
+;Tana Tidung;2;Sesayap Hilir;1;Sesayap;Waspada;Siaga
+;Tana Tidung;;Sesayap Hilir;2;Sengkong;Aman;Aman
+;Tana Tidung;;Sesayap Hilir;3;Bebatu;Aman;Aman
+;Tana Tidung;;Sesayap Hilir;4;Badan Bikis;Aman;Aman
+;Tana Tidung;;Sesayap Hilir;5;Sepala Dalung;Aman;Aman
+;Tana Tidung;;Sesayap Hilir;6;Seludau;Aman;Aman
+;Tana Tidung;;Sesayap Hilir;7;Menjelutung;Aman;Aman
+;Tana Tidung;;Sesayap Hilir;8;Sesayap selor;Aman;Aman
+;Tana Tidung;3;Tana Lia;1;Tanah Merah;Aman;Aman
+;Tana Tidung;;Tana Lia;2;Tengku Dacing;Aman;Aman
+;Tana Tidung;;Tana Lia;3;Sambungan;Aman;Aman
+;Tana Tidung;;Tana Lia;4;Tanah Merah Barat;Aman;Aman
+;Tana Tidung;;Tana Lia;5;Sambungan Selatan;Aman;Aman
+;Tana Tidung;4;Betayau;1;Buong Baru;Aman;Aman
+;Tana Tidung;;Betayau;2;Bebakung;Aman;Aman
+;Tana Tidung;;Betayau;3;Kujau;Aman;Aman
+;Tana Tidung;;Betayau;4;Mendupo;Aman;Aman
+;Tana Tidung;;Betayau;5;Maning;Aman;Aman
+;Tana Tidung;;Betayau;6;Periuk;Aman;Aman
+;Tana Tidung;5;Muruk Rian;;Seputuk;Aman;Aman
+;Tana Tidung;;Muruk Rian;;Rian;Aman;Aman
+;Tana Tidung;;Muruk Rian;;Balayan Ari;Aman;Aman
+;Tana Tidung;;Muruk Rian;;Rian Rayo;Aman;Aman
+;Tana Tidung;;Muruk Rian;;Kapuak;Aman;Aman
+;Tana Tidung;;Muruk Rian;;Sapari;Aman;Aman

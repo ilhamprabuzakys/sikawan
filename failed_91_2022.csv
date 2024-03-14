@@ -1,0 +1,624 @@
+﻿1;Kabupaten Asmat;1;Agats;1;Asuwetsi;Waspada
+;Kabupaten Asmat;;Agats;12;Suwuru;Aman
+;Kabupaten Asmat;;Akat;2;Menepsimmi;Aman
+;Kabupaten Asmat;;Pantai Kasuari;3;Saramait;Aman
+;Kabupaten Asmat;;Kolf Braza;2;Piribanak;Aman
+;Kabupaten Asmat;;Pulau Tiga;7;Euroko;Aman
+;Kabupaten Asmat;;Kopay;5;Kaipon;Aman
+;Kabupaten Asmat;17;Siters;1;Yaosakor;Aman
+;Kabupaten Asmat;;Siters;2;Damen;Aman
+;Kabupaten Asmat;;Siters;3;Biwar Darat;Aman
+;Kabupaten Asmat;;Siters;4;Kaimo;Aman
+;Kabupaten Asmat;;Siters;5;Awok;Aman
+;Kabupaten Asmat;;Siters;6;Fos;Aman
+;Kabupaten Asmat;;Siters;7;Waganu;Aman
+;Kabupaten Asmat;;Siters;8;Sakor;Aman
+2;Kabupaten Biak Numfor;1;Biak Kota;1;Bosnik Raya;Waspada
+;Kabupaten Biak Numfor;;Biak Kota;9;Swaipodibo;Aman
+;Kabupaten Biak Numfor;;Biak Kota;19;Manggaandisapi;Aman
+;Kabupaten Biak Numfor;2;Biak Utara;1;sarwon;Siaga
+;Kabupaten Biak Numfor;;Numfor Barat;12;Pom Sup;Aman
+;Kabupaten Biak Numfor;;Numfor Timur;5;Yenmaru;Aman
+;Kabupaten Biak Numfor;;Biak Barat;5;Amponbukor;Aman
+;Kabupaten Biak Numfor;;Yendidori;7;Maobaken;Aman
+;Kabupaten Biak Numfor;;Yendidori;12;Rarpimbo;Aman
+;Kabupaten Biak Numfor;;Yendidori;16;Amyabenram;Aman
+;Kabupaten Biak Numfor;;Yendidori;18;Binteri;Aman
+;Kabupaten Biak Numfor;;Samofa;12;Anjarew;Aman
+;Kabupaten Biak Numfor;11;Yawosi1;1;Asur;Aman
+;Kabupaten Biak Numfor;;Yawosi1;2;Bosnabraidi;Aman
+;Kabupaten Biak Numfor;;Yawosi1;3;Wasori;Aman
+;Kabupaten Biak Numfor;;Yawosi1;4;Syor;Aman
+;Kabupaten Biak Numfor;;Yawosi1;5;Karmon;Aman
+;Kabupaten Biak Numfor;;Yawosi1;6;Fanindi;Aman
+;Kabupaten Biak Numfor;;Yawosi1;7;Madirai;Aman
+;Kabupaten Biak Numfor;;Yawosi1;8;Indawi;Aman
+;Kabupaten Biak Numfor;;Andey;4;Wonakbraidi;Aman
+;Kabupaten Biak Numfor;;Swandiwe;2;Mendenderi;Aman
+;Kabupaten Biak Numfor;;Swandiwe;12;Orkolori;Aman
+;Kabupaten Biak Numfor;;Poiru;2;Syoribu;Aman
+;Kabupaten Biak Numfor;;Poiru;8;Serdori;Aman
+;Kabupaten Biak Numfor;;Poiru;9;Koryakan;Aman
+;Kabupaten Biak Numfor;17;Aimando Padaido;1;Mias Mangguandi;Aman
+;Kabupaten Biak Numfor;;Aimando Padaido;9;Sasarari;Aman
+;Kabupaten Biak Numfor;18;Oridek;1;OpiREF;Aman
+;Kabupaten Biak Numfor;;Oridek;3;Sawai;Aman
+;Kabupaten Biak Numfor;;Oridek;12;Sauribru;Aman
+;Kabupaten Biak Numfor;;Bondifuar;5;Sansudi;Aman
+;Kabupaten Boven Digoel;3;Waropko;1;Waropko;Aman
+;Kabupaten Boven Digoel;;Waropko;2;Winikit;Aman
+;Kabupaten Boven Digoel;;Waropko;4;Jatetkun;Aman
+;Kabupaten Boven Digoel;;Waropko;8;Upkin;Aman
+;Kabupaten Boven Digoel;5;jair;1;genteteri;Aman
+;Kabupaten Boven Digoel;;Bomakia;2;Bomkia II;Siaga
+;Kabupaten Boven Digoel;;Subur;3;Weghai;Aman
+;Kabupaten Boven Digoel;;Ninati;2;Upyatetko;Aman
+;Kabupaten Boven Digoel;20;Kawagit;1;Wenggom;Aman
+4;Kabupaten Deiyai;1;Tigi;1;Wanghete I;Aman
+;Kabupaten Deiyai;;Tigi;16;Ikiyamo;Aman
+;Kabupaten Deiyai;;Tigi Timur;14;Idayolagi;Aman
+;Kabupaten Deiyai;;Tigi Barat;12;Widmei;Aman
+;Kabupaten Dogiyai;;Piyaiye;6;Egipe;Aman
+;Kabupaten Dogiyai;;Piyaiye;8;Tipaugi;Aman
+;Kabupaten Dogiyai;5;Sukai Selatan;1;Unito;Aman
+;Kabupaten Dogiyai;;Sukai Selatan;2;Sukikai;Aman
+;Kabupaten Dogiyai;;Sukai Selatan;3;Iyaro;Aman
+;Kabupaten Dogiyai;;Sukai Selatan;4;Wigoumakida;Aman
+;Kabupaten Dogiyai;;Kamu Selatan;7;Bogoyo Teugi;Aman
+;Kabupaten Dogiyai;;Kamu Selatan;11;Upikagouda;Aman
+;Kabupaten Dogiyai;;Kamu Timur;6;Bonauwo;Aman
+;Kabupaten Dogiyai;;Mapia Tengah;3;Putapa;Aman
+;Kabupaten Dogiyai;;Mapia Tengah;7;Timopa;Aman
+;Kabupaten Dogiyai;;Mapia Tengah;10;Magaikebo;Aman
+;Kabupaten Intan Jaya;;Homeyo;4;Degesipa;Aman
+;Kabupaten Jayapura;;Sentani;6;Ifele;Aman
+;Kabupaten Jayapura;;Depapre;2;Etiyebo;Aman
+;Kabupaten Jayapura;;Depapre;4;Tablesupa;Aman
+;Kabupaten Jayapura;;Depapre;8;Doremena;Aman
+;Kabupaten Jayapura;;Sentani Barat;5;Sabron Yaru;Siaga
+;Kabupaten Jayapura;;Kemtuk;10;Skoam;Aman
+;Kabupaten Jayapura;;Nimbokrang;2;Benyon Jaya I;Aman
+;Kabupaten Jayapura;;Nimbokrang;3;Benyon Jaya II;Aman
+;Kabupaten Jayapura;;Nimbokrang;4;Berap;Aman
+;Kabupaten Jayapura;;Demta;3;Youngapsa;Aman
+;Kabupaten Jayapura;14;Nambulong;1;Sarmai Atas;Aman
+;Kabupaten Jayapura;;Nambulong;2;Sarmai Bawah;Aman
+;Kabupaten Jayapura;;Nambulong;3;Sanggai;Aman
+;Kabupaten Jayapura;;Nambulong;4;Yakasib;Aman
+;Kabupaten Jayapura;;Nambulong;5;Besum;Aman
+;Kabupaten Jayapura;;Nambulong;6;Imestum;Aman
+;Kabupaten Jayapura;;Nambulong;7;Karya Bumi;Aman
+;Kabupaten Jayapura;;Nambulong;8;Hanggaiy Hamong;Aman
+;Kabupaten Jayapura;;Nambulong;9;Sumbe;Aman
+;Kabupaten Jayapura;15;Yapsai;1;Tabbeyan;Aman
+;Kabupaten Jayapura;;Yapsai;2;Kwarja;Aman
+;Kabupaten Jayapura;;Yapsai;3;Ongan Jaya;Aman
+;Kabupaten Jayapura;;Yapsai;4;Bumi Sahaja;Aman
+;Kabupaten Jayapura;;Yapsai;5;Nawa Mulya;Aman
+;Kabupaten Jayapura;;Yapsai;6;Nawa Mukti;Aman
+;Kabupaten Jayapura;;Yapsai;7;Taqwa Bangun;Aman
+;Kabupaten Jayapura;;Yapsai;8;Purnama Jati;Aman
+;Kabupaten Jayapura;;Yapsai;9;Bundru;Aman
+;Kabupaten Jayapura;;Gresi Selatan;2;Imon;Aman
+;Kabupaten Jayapura;;Gresi Selatan;3;Klasu;Aman
+;Kabupaten Jayapura;;Yokari;4;Burseryo;Aman
+;Kabupaten Jayawijaya;;Hubikosi;4;Maegama;Aman
+;Kabupaten Jayawijaya;;Musatfak;5;Hamui;Aman
+;Kabupaten Jayawijaya;;Pelebaga;4;Waukailapok;Aman
+;Kabupaten Jayawijaya;16;Hubikiak;1;Hubikiak;Aman
+;Kabupaten Jayawijaya;;Hubikiak;3;Dekoptu;Aman
+;Kabupaten Jayawijaya;;Ibele;8;Holaiba;Aman
+;Kabupaten Jayawijaya;;Ibele;9;Yalebarek;Aman
+;Kabupaten Jayawijaya;;Ibele;10;Yokapalek;Aman
+;Kabupaten Jayawijaya;;Taelarek;5;Budiem;Aman
+;Kabupaten Jayawijaya;;Taelarek;7;Huluima;Aman
+;Kabupaten Jayawijaya;;Taelarek;8;Etagekokma;Aman
+;Kabupaten Jayawijaya;19;Italy Hisage;1;Lukaken;Aman
+;Kabupaten Jayawijaya;;Italy Hisage;2;Miami;Aman
+;Kabupaten Jayawijaya;;Italy Hisage;3;Waroba;Aman
+;Kabupaten Jayawijaya;;Italy Hisage;4;Yogonima;Aman
+;Kabupaten Jayawijaya;;Italy Hisage;5;Tomisa;Aman
+;Kabupaten Jayawijaya;;Italy Hisage;6;Helepalegem;Aman
+;Kabupaten Jayawijaya;;Italy Hisage;7;Siliwa;Aman
+;Kabupaten Jayawijaya;;Italy Hisage;8;Suminikama;Aman
+;Kabupaten Jayawijaya;;Italy Hisage;9;Kemisake;Aman
+;Kabupaten Jayawijaya;;Siepkosi;4;Naogalo;Aman
+;Kabupaten Jayawijaya;;Usilimo;7;Maegamia;Aman
+;Kabupaten Jayawijaya;;Usilimo;9;Abupuk;Aman
+;Kabupaten Jayawijaya;;Libarek;4;Masalfak;Aman
+;Kabupaten Jayawijaya;;Tagime;7;Wandianggunie;Aman
+;Kabupaten Jayawijaya;28;Molagalome;1;Tanah Merah;Aman
+;Kabupaten Jayawijaya;;Tagineri;5;Pagalauk;Aman
+;Kabupaten Jayawijaya;;Piramid;7;Skow Sae;Aman
+;Kabupaten Jayawijaya;;Muliama;4;Kolkima;Aman
+;Kabupaten Jayawijaya;;Muliama;10;Lonan;Aman
+;Kabupaten Jayawijaya;;Asotipo;3;Putugeima;Aman
+;Kabupaten Jayawijaya;;Asotipo;5;Hiberima;Aman
+;Kabupaten Jayawijaya;;Asotipo;10;Hukolimo;Aman
+;Kabupaten Jayawijaya;;Maima;2;Munimo;Aman
+;Kabupaten Keerom;;Arso;5;Samanawa;Aman
+;Kabupaten Keerom;;Senggi;7;Walay;Siaga
+;Kabupaten Keerom;;Towe;3;Terfonces;Aman
+;Kabupaten Keerom;8;Arso Barat;1;Dukwja;Aman
+;Kabupaten Keerom;;Arso Barat;6;Ifia-ifia;Aman
+;Kabupaten Keerom;;Mannem;6;Wambers;Aman
+;Kabupaten Kepulauan Yapen;;Yapen Selatan;11;Narawaikap;Aman
+;Kabupaten Kepulauan Yapen;;Yapen Timur;8;Mareruri;Aman
+;Kabupaten Kepulauan Yapen;;Yapen Utara;5;Soromasem;Aman
+;Kabupaten Kepulauan Yapen;;Yapen Utara;7;Doreimananona;Aman
+;Kabupaten Kepulauan Yapen;;Kepulauan Ambai;12;Parea;Aman
+;Kabupaten Kepulauan Yapen;;Kepulauan Ambai;15;Aiwaranggani;Aman
+;Kabupaten Kepulauan Yapen;;Pulau Kurudu;7;Mansesai;Aman
+;Kabupaten Kepulauan Yapen;15;Anotaurei;1;Anotaurei;Aman
+;Kabupaten Mamberamo Raya;;Mamberamo Tengah;9;Sosawakwesar;Aman
+;Kabupaten Mamberamo Raya;;Mamberamo Hulu;4;Pepasena I;Aman
+;Kabupaten Mamberamo Raya;;Mamberamo Hulu;5;Pepasena Ii;Aman
+;Kabupaten Mamberamo Raya;;Mamberamo Hulu;8;Haiya;Aman
+;Kabupaten Mamberamo Raya;;Mamberamo Tengah Timur;3;Obogai;Aman
+;Kabupaten Mamberamo Raya;;Mamberamo Tengah Timur;7;Towae;Aman
+;Kabupaten Mamberamo Raya;;Benuki;8;Baitanasa;Aman
+;Kabupaten Mamberamo Raya;;Sawai;5;Rapambrei;Aman
+ 14;Kabupaten Mappi;1;Obaa;1;Keppi;Siaga
+;Kabupaten Merauke;;Semangga;4;Sido Mulyo;Aman
+;Kabupaten Merauke;;Tanah Miring;3;Waninggap Say;Aman
+;Kabupaten Merauke;;Tanah Miring;4;Amun Kay;Aman
+;Kabupaten Merauke;;Jagebob;8;Blandin Kakayu;Aman
+;Kabupaten Merauke;;Jagebob;13;Obaathrw;Aman
+;Kabupaten Merauke;;Jagebob;14;Yemunain Jaya;Aman
+;Kabupaten Merauke;;Ulilin;7;Rawahayu;Aman
+;Kabupaten Merauke;;Ulilin;9;Kir Ely;Aman
+;Kabupaten Merauke;;Ulilin;10;Kandrakay;Aman
+;Kabupaten Merauke;;Kaptel;5;Bu Epe;Aman
+;Kabupaten Merauke;;Ilwayab;4;Wogekel;Aman
+;Kabupaten Merauke;;Ilwayab;5;Uli Uli;Aman
+;Kabupaten Mimika;;Tembagapura;4;T"Singa;Aman
+;Kabupaten Nabire;;Yaur;2;Akuidiomi;Aman
+;Kabupaten Nabire;6;Siriwo;1;Unipa;Aman
+;Kabupaten Nabire;;Siriwo;2;Aibone;Aman
+;Kabupaten Nabire;;Siriwo;5;Mabau;Aman
+;Kabupaten Nabire;;Wapoga;3;Kamarisanoi;Aman
+;Kabupaten Paniai;;Paniai Timur;21;Woeyubetu;Aman
+;Kabupaten Paniai;;Paniai Barat;7;Tuwouwo;Aman
+;Kabupaten Paniai;;Paniai Barat;13;Kadial Digiugi;Aman
+;Kabupaten Paniai;;Aradide;11;Ibouwago;Aman
+;Kabupaten Paniai;;Aradide;12;Ganiyataka;Aman
+;Kabupaten Paniai;;Bogabaida;5;Yamauwo;Aman
+;Kabupaten Paniai;;Kebo;5;Oyaiga;Aman
+;Kabupaten Paniai;;Ekadide;10;Kenegi;Aman
+;Kabupaten Paniai;;Wegee Muka;8;Kinoi;Aman
+;Kabupaten Paniai;;Wegee Muka;10;Yagio Butu;Aman
+;Kabupaten Paniai;12;Wegee Bino;1;Obaidagi;Aman
+;Kabupaten Paniai;;Wegee Bino;3;Obayaweta;Aman
+;Kabupaten Paniai;;Pugo Dagi;2;Waidede;Aman
+;Kabupaten Paniai;;Pugo Dagi;9;Walepo;Aman
+;Kabupaten Paniai;;Muye;2;Mogoya;Aman
+;Kabupaten Paniai;;Muye;3;Epabutu;Aman
+;Kabupaten Paniai;15;Nakama;1;Okaitadi;Aman
+;Kabupaten Paniai;;Nakama;6;Digiyo Tumataida;Aman
+;Kabupaten Paniai;;Teluk Deya;3;Okago;Aman
+;Kabupaten Paniai;;Yagai;5;Muniyepa;Aman
+;Kabupaten Paniai;;Yagai;6;Kebo Satu;Aman
+;Kabupaten Paniai;;Yagai;8;Datauwo;Aman
+;Kabupaten Paniai;;Yagai;10;Woyoutu;Aman
+;Kabupaten Paniai;21;Dogomo;1;Dogoma;Aman
+;Kabupaten Paniai;;Dogomo;2;Bomog Budoga;Aman
+;Kabupaten Paniai;;Dogomo;4;Odegapa;Aman
+;Kabupaten Paniai;;Aweida;3;Tuwogai Moma;Aman
+;Kabupaten Paniai;;Aweida;9;Jomamaida Ii;Aman
+ 20;Kabupaten Pegunungan Bintang;1;Oksibil;1;Kabiding;Waspada
+;Kabupaten Pegunungan Bintang;;Oksibil;2;Aldom;Siaga
+;Kabupaten Pegunungan Bintang;;Oksibil;3;Kutdol;Siaga
+;Kabupaten Pegunungan Bintang;;Oksibil;4;Polsam;Aman
+;Kabupaten Pegunungan Bintang;;Oksibil;5;Akmadot;Aman
+;Kabupaten Pegunungan Bintang;;Oksibil;6;Mabilabol;Siaga
+;Kabupaten Pegunungan Bintang;;Oksibil;7;Bunamdol;Aman
+;Kabupaten Pegunungan Bintang;;Oksibil;8;Molbib Silibib;Aman
+;Kabupaten Pegunungan Bintang;2;Kiwirok;1;Oknanggul;Aman
+;Kabupaten Pegunungan Bintang;;Kiwirok;2;Kukihil;Aman
+;Kabupaten Pegunungan Bintang;;Kiwirok;3;Kiwi;Aman
+;Kabupaten Pegunungan Bintang;;Kiwirok;4;Berusaha;Aman
+;Kabupaten Pegunungan Bintang;;Kiwirok;5;Pelebib;Aman
+;Kabupaten Pegunungan Bintang;;Kiwirok;6;Sopamikma;Aman
+;Kabupaten Pegunungan Bintang;;Kiwirok;7;Asua;Aman
+;Kabupaten Pegunungan Bintang;;Kiwirok;8;Lolim;Aman
+;Kabupaten Pegunungan Bintang;;Kiwirok;9;Pomding;Aman
+;Kabupaten Pegunungan Bintang;;Kiwirok;10;Diip;Aman
+;Kabupaten Pegunungan Bintang;;Kiwirok;11;Delpem;Aman
+;Kabupaten Pegunungan Bintang;;Kiwirok;12;Mangoldoki;Aman
+;Kabupaten Pegunungan Bintang;3;Okbibab;1;Okbifisil;Aman
+;Kabupaten Pegunungan Bintang;;Okbibab;2;Abmisibil;Aman
+;Kabupaten Pegunungan Bintang;;Okbibab;3;Manunggal;Aman
+;Kabupaten Pegunungan Bintang;;Okbibab;4;Iriding;Aman
+;Kabupaten Pegunungan Bintang;;Okbibab;5;Atolbol;Aman
+;Kabupaten Pegunungan Bintang;;Okbibab;6;Oktanglap;Aman
+;Kabupaten Pegunungan Bintang;;Okbibab;7;Oksemar;Aman
+;Kabupaten Pegunungan Bintang;;Okbibab;8;Okaplo;Aman
+;Kabupaten Pegunungan Bintang;4;Iwur;1;Iwur;Aman
+;Kabupaten Pegunungan Bintang;;Iwur;2;Kurumklin;Aman
+;Kabupaten Pegunungan Bintang;;Iwur;3;Walapkubun;Aman
+;Kabupaten Pegunungan Bintang;;Iwur;4;Dinmot Arim;Aman
+;Kabupaten Pegunungan Bintang;;Iwur;5;Ewenkatop;Aman
+;Kabupaten Pegunungan Bintang;;Iwur;6;Ulkubi;Aman
+;Kabupaten Pegunungan Bintang;;Iwur;7;Dipol;Aman
+;Kabupaten Pegunungan Bintang;;Iwur;8;Nenginum;Aman
+;Kabupaten Pegunungan Bintang;;Iwur;9;Narnger;Aman
+;Kabupaten Pegunungan Bintang;;Iwur;10;Kamyoim;Aman
+;Kabupaten Pegunungan Bintang;5;Batom;1;Batom;Aman
+;Kabupaten Pegunungan Bintang;;Batom;2;Oksip;Aman
+;Kabupaten Pegunungan Bintang;;Batom;3;Mongham;Aman
+;Kabupaten Pegunungan Bintang;;Batom;4;Sabi;Aman
+;Kabupaten Pegunungan Bintang;;Batom;5;Neep;Aman
+;Kabupaten Pegunungan Bintang;;Batom;6;Muara;Aman
+;Kabupaten Pegunungan Bintang;;Batom;7;Batom Dua;Aman
+;Kabupaten Pegunungan Bintang;;Batom;8;Akyako;Aman
+;Kabupaten Pegunungan Bintang;;Batom;9;Peteng;Aman
+;Kabupaten Pegunungan Bintang;;Batom;10;Belomo;Aman
+;Kabupaten Pegunungan Bintang;;Batom;11;Abukerom;Aman
+;Kabupaten Pegunungan Bintang;6;Borme;1;Borme;Aman
+;Kabupaten Pegunungan Bintang;;Borme;2;Omban;Aman
+;Kabupaten Pegunungan Bintang;;Borme;3;Sikibur;Aman
+;Kabupaten Pegunungan Bintang;;Borme;4;Onya;Aman
+;Kabupaten Pegunungan Bintang;;Borme;5;Arina;Aman
+;Kabupaten Pegunungan Bintang;;Borme;6;Bordamban;Aman
+;Kabupaten Pegunungan Bintang;;Borme;7;Aringgon;Aman
+;Kabupaten Pegunungan Bintang;;Borme;8;Bukam;Aman
+;Kabupaten Pegunungan Bintang;;Borme;9;Kwime;Aman
+;Kabupaten Pegunungan Bintang;;Borme;10;Kolgir;Aman
+;Kabupaten Pegunungan Bintang;;Borme;11;Cangdamban;Aman
+;Kabupaten Pegunungan Bintang;;Borme;12;Laydamban;Aman
+;Kabupaten Pegunungan Bintang;;Borme;13;Seban;Aman
+;Kabupaten Pegunungan Bintang;7;Kiwirok Timur;1;Okyop;Aman
+;Kabupaten Pegunungan Bintang;;Kiwirok Timur;2;Oketur;Aman
+;Kabupaten Pegunungan Bintang;;Kiwirok Timur;3;Ehipten;Aman
+;Kabupaten Pegunungan Bintang;;Kiwirok Timur;4;Wantem;Aman
+;Kabupaten Pegunungan Bintang;;Kiwirok Timur;5;Dikdon;Aman
+;Kabupaten Pegunungan Bintang;;Kiwirok Timur;6;Okyako;Aman
+;Kabupaten Pegunungan Bintang;;Kiwirok Timur;7;Okyaop;Aman
+;Kabupaten Pegunungan Bintang;;Kiwirok Timur;8;Tatam;Aman
+;Kabupaten Pegunungan Bintang;;Kiwirok Timur;9;Okhik;Aman
+;Kabupaten Pegunungan Bintang;8;Aboy;1;Aboy;Aman
+;Kabupaten Pegunungan Bintang;;Aboy;2;Luban;Aman
+;Kabupaten Pegunungan Bintang;;Aboy;3;Jubly;Aman
+;Kabupaten Pegunungan Bintang;;Aboy;4;Armise;Aman
+;Kabupaten Pegunungan Bintang;;Aboy;5;Woro;Aman
+;Kabupaten Pegunungan Bintang;;Aboy;6;Pipal;Aman
+;Kabupaten Pegunungan Bintang;;Aboy;7;Lulis Wii;Aman
+;Kabupaten Pegunungan Bintang;9;Pepera;1;Pepera;Aman
+;Kabupaten Pegunungan Bintang;;Pepera;2;Okbon;Aman
+;Kabupaten Pegunungan Bintang;;Pepera;3;Yun Muku;Aman
+;Kabupaten Pegunungan Bintang;;Pepera;4;Denom;Aman
+;Kabupaten Pegunungan Bintang;;Pepera;5;Bon Yakwol;Aman
+;Kabupaten Pegunungan Bintang;;Pepera;6;Ok Telabe;Aman
+;Kabupaten Pegunungan Bintang;;Pepera;7;Wok Bakon;Aman
+;Kabupaten Pegunungan Bintang;10;Bime;1;Bime;Aman
+;Kabupaten Pegunungan Bintang;;Bime;2;Bob;Aman
+;Kabupaten Pegunungan Bintang;;Bime;3;Kameme;Aman
+;Kabupaten Pegunungan Bintang;;Bime;4;Calab;Aman
+;Kabupaten Pegunungan Bintang;;Bime;5;Limiri;Aman
+;Kabupaten Pegunungan Bintang;;Bime;6;Teli;Aman
+;Kabupaten Pegunungan Bintang;;Bime;7;Limlim;Aman
+;Kabupaten Pegunungan Bintang;;Bime;8;Bunggon;Aman
+;Kabupaten Pegunungan Bintang;;Bime;9;Perem;Aman
+;Kabupaten Pegunungan Bintang;;Bime;10;Turwo;Aman
+;Kabupaten Pegunungan Bintang;11;Alemsom;1;Eraduman;Aman
+;Kabupaten Pegunungan Bintang;;Alemsom;2;Alemson;Aman
+;Kabupaten Pegunungan Bintang;;Alemsom;3;Tapasik;Aman
+;Kabupaten Pegunungan Bintang;;Alemsom;4;Payol Masumkon;Aman
+;Kabupaten Pegunungan Bintang;;Alemsom;5;Tapob;Aman
+;Kabupaten Pegunungan Bintang;;Alemsom;6;Bakwalin Yub;Aman
+;Kabupaten Pegunungan Bintang;;Alemsom;7;Imiryi;Aman
+;Kabupaten Pegunungan Bintang;;Alemsom;8;Sumtamon;Aman
+;Kabupaten Pegunungan Bintang;;Alemsom;9;Bondik;Aman
+;Kabupaten Pegunungan Bintang;;Alemsom;10;Muruman;Aman
+;Kabupaten Pegunungan Bintang;;Alemsom;11;Binalkom;Aman
+;Kabupaten Pegunungan Bintang;;Alemsom;12;Tibal;Aman
+;Kabupaten Pegunungan Bintang;12;Okbape;1;Bape;Aman
+;Kabupaten Pegunungan Bintang;;Okbape;2;masim;Aman
+;Kabupaten Pegunungan Bintang;;Okbape;3;akmer;Aman
+;Kabupaten Pegunungan Bintang;;Okbape;4;Kasawi;Aman
+;Kabupaten Pegunungan Bintang;;Okbape;5;Tapasik Dua Bapenka;Aman
+;Kabupaten Pegunungan Bintang;;Okbape;6;Ibot;Aman
+;Kabupaten Pegunungan Bintang;13;Kalomdol;1;Dabolding;Aman
+;Kabupaten Pegunungan Bintang;;Kalomdol;2;Kalomdol;Aman
+;Kabupaten Pegunungan Bintang;;Kalomdol;3;Tulo;Aman
+;Kabupaten Pegunungan Bintang;;Kalomdol;4;Arinkop;Aman
+;Kabupaten Pegunungan Bintang;;Kalomdol;5;Imik;Aman
+;Kabupaten Pegunungan Bintang;14;Oksop;1;Oksop;Waspada
+;Kabupaten Pegunungan Bintang;;Oksop;2;Mimin;Aman
+;Kabupaten Pegunungan Bintang;;Oksop;3;Atenor;Aman
+;Kabupaten Pegunungan Bintang;;Oksop;4;Oktumi;Aman
+;Kabupaten Pegunungan Bintang;;Oksop;5;Alutbakon;Aman
+;Kabupaten Pegunungan Bintang;15;Serambakon;1;Yapimakot;Aman
+;Kabupaten Pegunungan Bintang;;Serambakon;2;Seramkatop;Aman
+;Kabupaten Pegunungan Bintang;;Serambakon;3;Parim;Aman
+;Kabupaten Pegunungan Bintang;;Serambakon;4;Siminbuk;Aman
+;Kabupaten Pegunungan Bintang;;Serambakon;5;Modusit;Aman
+;Kabupaten Pegunungan Bintang;;Serambakon;6;Wanbakon;Aman
+;Kabupaten Pegunungan Bintang;;Serambakon;7;Yakmor;Aman
+;Kabupaten Pegunungan Bintang;;Serambakon;8;Okatem;Aman
+;Kabupaten Pegunungan Bintang;16;Ok Aom;1;Kungulding;Aman
+;Kabupaten Pegunungan Bintang;;Ok Aom;2;Bulangkop;Aman
+;Kabupaten Pegunungan Bintang;;Ok Aom;3;Limarum;Aman
+;Kabupaten Pegunungan Bintang;;Ok Aom;4;Yumakot;Aman
+;Kabupaten Pegunungan Bintang;;Ok Aom;5;Aplim;Aman
+;Kabupaten Pegunungan Bintang;;Ok Aom;6;Okdo;Aman
+;Kabupaten Pegunungan Bintang;17;Kawor;1;Arintap;Aman
+;Kabupaten Pegunungan Bintang;;Kawor;2;Tarngop;Aman
+;Kabupaten Pegunungan Bintang;;Kawor;3;Kawor;Aman
+;Kabupaten Pegunungan Bintang;;Kawor;4;Sakup;Aman
+;Kabupaten Pegunungan Bintang;;Kawor;5;Umding;Aman
+;Kabupaten Pegunungan Bintang;;Kawor;6;Nanum;Aman
+;Kabupaten Pegunungan Bintang;;Kawor;7;Ater;Aman
+;Kabupaten Pegunungan Bintang;18;Awinbon;1;Awinbon;Aman
+;Kabupaten Pegunungan Bintang;;Awinbon;2;Nanum Anaip;Aman
+;Kabupaten Pegunungan Bintang;;Awinbon;3;Mikir;Aman
+;Kabupaten Pegunungan Bintang;;Awinbon;4;Kawe;Aman
+;Kabupaten Pegunungan Bintang;;Awinbon;5;Yelobib;Aman
+;Kabupaten Pegunungan Bintang;19;Tarup;1;Tarup;Aman
+;Kabupaten Pegunungan Bintang;;Tarup;2;Marang Tiking;Aman
+;Kabupaten Pegunungan Bintang;;Tarup;3;Imsin;Aman
+;Kabupaten Pegunungan Bintang;;Tarup;4;Bitipding;Aman
+;Kabupaten Pegunungan Bintang;;Tarup;5;Onkor;Aman
+;Kabupaten Pegunungan Bintang;;Tarup;6;Beten Dua;Aman
+;Kabupaten Pegunungan Bintang;;Tarup;7;Omor;Aman
+;Kabupaten Pegunungan Bintang;20;Okhika;1;Okelwel;Aman
+;Kabupaten Pegunungan Bintang;;Okhika;2;Kotyobakon;Aman
+;Kabupaten Pegunungan Bintang;;Okhika;3;Okteneng;Aman
+;Kabupaten Pegunungan Bintang;;Okhika;4;Tengnong;Aman
+;Kabupaten Pegunungan Bintang;21;Oksamol;1;Okma;Aman
+;Kabupaten Pegunungan Bintang;;Oksamol;2;Oktae;Aman
+;Kabupaten Pegunungan Bintang;;Oksamol;3;Tinibil;Aman
+;Kabupaten Pegunungan Bintang;;Oksamol;4;Okdilam;Aman
+;Kabupaten Pegunungan Bintang;;Oksamol;5;Autpahik;Aman
+;Kabupaten Pegunungan Bintang;;Oksamol;6;Tomka;Aman
+;Kabupaten Pegunungan Bintang;;Oksamol;7;Okpa;Aman
+;Kabupaten Pegunungan Bintang;;Oksamol;8;Okhaka;Aman
+;Kabupaten Pegunungan Bintang;;Oksamol;9;Honkuding;Aman
+;Kabupaten Pegunungan Bintang;;Oksamol;10;Bomding;Aman
+;Kabupaten Pegunungan Bintang;;Oksamol;11;Okdunam;Aman
+;Kabupaten Pegunungan Bintang;;Oksamol;12;Paune;Aman
+;Kabupaten Pegunungan Bintang;22;Oklip;1;Oklip;Aman
+;Kabupaten Pegunungan Bintang;;Oklip;2;Okhim;Aman
+;Kabupaten Pegunungan Bintang;;Oklip;3;Oktem;Aman
+;Kabupaten Pegunungan Bintang;;Oklip;4;Okbumul;Aman
+;Kabupaten Pegunungan Bintang;;Oklip;5;Okamin;Aman
+;Kabupaten Pegunungan Bintang;;Oklip;6;Oktumi;Aman
+;Kabupaten Pegunungan Bintang;;Oklip;7;Komok;Aman
+;Kabupaten Pegunungan Bintang;23;Okbemtau;1;Kotau;Aman
+;Kabupaten Pegunungan Bintang;;Okbemtau;2;Oktaru;Aman
+;Kabupaten Pegunungan Bintang;;Okbemtau;3;okbem;Aman
+;Kabupaten Pegunungan Bintang;;Okbemtau;4;Okngam;Aman
+;Kabupaten Pegunungan Bintang;;Okbemtau;5;Bemhimiku;Aman
+;Kabupaten Pegunungan Bintang;;Okbemtau;6;Bilip Bayo;Aman
+;Kabupaten Pegunungan Bintang;;Okbemtau;7;Atang Doki;Aman
+;Kabupaten Pegunungan Bintang;;Okbemtau;8;Okalut Kumal;Aman
+;Kabupaten Pegunungan Bintang;;Okbemtau;9;Kaep;Aman
+;Kabupaten Pegunungan Bintang;24;Oksebang;1;Kubiphkop;Aman
+;Kabupaten Pegunungan Bintang;;Oksebang;2;Okano;Aman
+;Kabupaten Pegunungan Bintang;;Oksebang;3;Sebul;Aman
+;Kabupaten Pegunungan Bintang;;Oksebang;4;Mangabip;Aman
+;Kabupaten Pegunungan Bintang;25;Okbab;1;Sabin;Aman
+;Kabupaten Pegunungan Bintang;;Okbab;2;Borban;Aman
+;Kabupaten Pegunungan Bintang;;Okbab;3;Kirimu;Aman
+;Kabupaten Pegunungan Bintang;;Okbab;4;Dumpasi;Aman
+;Kabupaten Pegunungan Bintang;;Okbab;5;Maksum;Aman
+;Kabupaten Pegunungan Bintang;;Okbab;6;Pedam;Aman
+;Kabupaten Pegunungan Bintang;;Okbab;7;Tupoplyom;Aman
+;Kabupaten Pegunungan Bintang;;Okbab;8;Yapil;Aman
+;Kabupaten Pegunungan Bintang;;Okbab;9;Atembabol;Aman
+;Kabupaten Pegunungan Bintang;;Okbab;10;Omliom;Aman
+;Kabupaten Pegunungan Bintang;;Okbab;11;Peneli;Aman
+;Kabupaten Pegunungan Bintang;;Okbab;12;Markom;Aman
+;Kabupaten Pegunungan Bintang;26;Batani;1;Karye;Aman
+;Kabupaten Pegunungan Bintang;;Batani;2;Batani;Aman
+;Kabupaten Pegunungan Bintang;;Batani;3;Segame;Aman
+;Kabupaten Pegunungan Bintang;;Batani;4;Palur Satu;Aman
+;Kabupaten Pegunungan Bintang;;Batani;5;Palur Dua;Aman
+;Kabupaten Pegunungan Bintang;;Batani;6;Sople;Aman
+;Kabupaten Pegunungan Bintang;;Batani;7;Bakata;Aman
+;Kabupaten Pegunungan Bintang;27;Weime;1;Merpasikne;Aman
+;Kabupaten Pegunungan Bintang;;Weime;2;Taramlu;Aman
+;Kabupaten Pegunungan Bintang;;Weime;3;Weime;Aman
+;Kabupaten Pegunungan Bintang;;Weime;4;Meryang;Aman
+;Kabupaten Pegunungan Bintang;;Weime;5;Limrepasikne;Aman
+;Kabupaten Pegunungan Bintang;;Weime;6;Youlban;Aman
+;Kabupaten Pegunungan Bintang;;Weime;7;Mekdamgon;Aman
+;Kabupaten Pegunungan Bintang;;Weime;8;Daluban;Aman
+;Kabupaten Pegunungan Bintang;;Weime;9;Nomteren;Aman
+;Kabupaten Pegunungan Bintang;28;Murkim;1;Bias;Aman
+;Kabupaten Pegunungan Bintang;;Murkim;2;Bumi;Aman
+;Kabupaten Pegunungan Bintang;;Murkim;3;Tero;Aman
+;Kabupaten Pegunungan Bintang;;Murkim;4;Delemo;Aman
+;Kabupaten Pegunungan Bintang;29;Mofinop;1;Mot;Aman
+;Kabupaten Pegunungan Bintang;;Mofinop;2;Milki;Aman
+;Kabupaten Pegunungan Bintang;;Mofinop;3;Yubu;Aman
+;Kabupaten Pegunungan Bintang;;Mofinop;4;Muara Asbi;Aman
+;Kabupaten Pegunungan Bintang;;Mofinop;5;Tual;Aman
+;Kabupaten Pegunungan Bintang;30;Jetfa;1;Jetfa;Aman
+;Kabupaten Pegunungan Bintang;;Jetfa;2;Lulis;Aman
+;Kabupaten Pegunungan Bintang;;Jetfa;3;Tupalma Satu;Aman
+;Kabupaten Pegunungan Bintang;;Jetfa;4;Tupalma Dua;Aman
+;Kabupaten Pegunungan Bintang;;Jetfa;5;Kalimbu;Aman
+;Kabupaten Pegunungan Bintang;;Jetfa;6;Bris;Aman
+;Kabupaten Pegunungan Bintang;31;Teiraplu;1;Teiraplu;Aman
+;Kabupaten Pegunungan Bintang;;Teiraplu;2;Sinami;Aman
+;Kabupaten Pegunungan Bintang;;Teiraplu;3;Maigame;Aman
+;Kabupaten Pegunungan Bintang;;Teiraplu;4;Murme;Aman
+;Kabupaten Pegunungan Bintang;;Teiraplu;5;Yuaban Satu;Aman
+;Kabupaten Pegunungan Bintang;;Teiraplu;6;Yuaban Dua;Aman
+;Kabupaten Pegunungan Bintang;;Teiraplu;7;Terapdei;Aman
+;Kabupaten Pegunungan Bintang;;Teiraplu;8;Yitarget;Aman
+;Kabupaten Pegunungan Bintang;;Teiraplu;9;Teriame;Aman
+;Kabupaten Pegunungan Bintang;;Teiraplu;10;Bautme;Aman
+;Kabupaten Pegunungan Bintang;32;Eipumek;1;Eipumek;Aman
+;Kabupaten Pegunungan Bintang;;Eipumek;2;Lalakon;Aman
+;Kabupaten Pegunungan Bintang;;Eipumek;3;Londinin;Aman
+;Kabupaten Pegunungan Bintang;;Eipumek;4;Talemu;Aman
+;Kabupaten Pegunungan Bintang;;Eipumek;5;Wakidam;Aman
+;Kabupaten Pegunungan Bintang;;Eipumek;6;Bunyirye;Aman
+;Kabupaten Pegunungan Bintang;;Eipumek;7;Basiringe;Aman
+;Kabupaten Pegunungan Bintang;;Eipumek;8;Barama;Aman
+;Kabupaten Pegunungan Bintang;;Eipumek;9;Tanime;Aman
+;Kabupaten Pegunungan Bintang;;Eipumek;10;Serabum;Aman
+;Kabupaten Pegunungan Bintang;;Eipumek;11;Supleyu;Aman
+;Kabupaten Pegunungan Bintang;;Eipumek;12;Kweredala;Aman
+;Kabupaten Pegunungan Bintang;;Eipumek;13;Mungkona;Aman
+;Kabupaten Pegunungan Bintang;;Eipumek;14;Malingdam;Aman
+;Kabupaten Pegunungan Bintang;33;Pamek;1;Marikla;Aman
+;Kabupaten Pegunungan Bintang;;Pamek;2;Yabosorom;Aman
+;Kabupaten Pegunungan Bintang;;Pamek;3;Pamek;Aman
+;Kabupaten Pegunungan Bintang;;Pamek;4;Barice;Aman
+;Kabupaten Pegunungan Bintang;;Pamek;5;Imde;Aman
+;Kabupaten Pegunungan Bintang;;Pamek;6;Lumdakna;Aman
+;Kabupaten Pegunungan Bintang;;Pamek;7;Baramirye;Aman
+;Kabupaten Pegunungan Bintang;;Pamek;8;Mandalak;Aman
+;Kabupaten Pegunungan Bintang;;Pamek;9;Yokul;Aman
+;Kabupaten Pegunungan Bintang;;Pamek;10;Kalek;Aman
+;Kabupaten Pegunungan Bintang;;Pamek;11;Pinggon;Aman
+;Kabupaten Pegunungan Bintang;34;Nongme;1;Nongme;Aman
+;Kabupaten Pegunungan Bintang;;Nongme;2;Rubol;Aman
+;Kabupaten Pegunungan Bintang;;Nongme;3;Yokom;Aman
+;Kabupaten Pegunungan Bintang;;Nongme;4;Yarigon;Aman
+;Kabupaten Pegunungan Bintang;;Nongme;5;Omtamur;Aman
+;Kabupaten Pegunungan Bintang;;Nongme;6;Cangpally;Aman
+;Kabupaten Pegunungan Bintang;;Nongme;7;Kwarban;Aman
+;Kabupaten Puncak;;Sinak;8;GigobakII;Aman
+;Kabupaten Puncak;;Sinak;9;PasirPutih;Aman
+;Kabupaten Puncak;;Sinak;10;GinggaBaru;Aman
+;Kabupaten Puncak;10;BeogaBarat;1;Babe;Aman
+;Kabupaten Puncak;;BeogaBarat;2;Jambul;Aman
+;Kabupaten Puncak;;BeogaBarat;3;Nungai;Aman
+;Kabupaten Puncak;;BeogaBarat;4;Mugulip;Aman
+;Kabupaten Puncak;;BeogaBarat;5;Kelmabet;Aman
+;Kabupaten Puncak;;BeogaBarat;6;Jenggeren;Aman
+;Kabupaten Puncak;11;BeogaTimur;1;Puluk;Aman
+;Kabupaten Puncak;;BeogaTimur;2;Kelandiruma;Aman
+;Kabupaten Puncak;;BeogaTimur;3;Pupet;Aman
+;Kabupaten Puncak;;BeogaTimur;4;Pilokoma;Aman
+;Kabupaten Puncak;;BeogaTimur;5;Gimurik;Aman
+;Kabupaten Puncak;;BeogaTimur;6;Wandibet;Aman
+;Kabupaten Puncak;;BeogaTimur;7;Meningimte;Aman
+;Kabupaten Puncak;;BeogaTimur;8;Bungok;Aman
+;Kabupaten Puncak;12;Ogamanim;1;ErongBerong;Aman
+;Kabupaten Puncak;15;SinakBarat;1;Kilunggame;Aman
+;Kabupaten Puncak;;SinakBarat;2;Bakcini;Aman
+;Kabupaten Puncak;;SinakBarat;3;Timobut;Aman
+;Kabupaten Puncak;;SinakBarat;4;TagalameI;Aman
+;Kabupaten Puncak;;SinakBarat;5;Wonelupaga;Aman
+;Kabupaten Puncak;;SinakBarat;6;Komapaga;Aman
+;Kabupaten Puncak;;SinakBarat;7;TimobutEgewak;Aman
+;Kabupaten Puncak;18;IlagaUtara;1;Mayuberi;Aman
+;Kabupaten Puncak;;IlagaUtara;2;Maki;Aman
+;Kabupaten Puncak;;IlagaUtara;3;Paluga;Aman
+;Kabupaten Puncak;;IlagaUtara;4;Ayali;Aman
+;Kabupaten Puncak;;IlagaUtara;5;Toegi;Aman
+;Kabupaten Puncak;;IlagaUtara;6;Amungi;Aman
+;Kabupaten Puncak;;IlagaUtara;7;Olenki;Aman
+;Kabupaten Puncak;;IlagaUtara;8;Mundiba;Aman
+;Kabupaten Puncak;;IlagaUtara;9;Akonobak;Aman
+;Kabupaten Puncak;24;GomeUtara;1;Mundidok;Aman
+;Kabupaten Puncak;;GomeUtara;2;YaikiMaiki;Aman
+;Kabupaten Puncak;;GomeUtara;3;Tobenggi;Aman
+;Kabupaten Puncak;;GomeUtara;4;TowenggiII;Aman
+;Kabupaten Puncak;;GomeUtara;5;Welenggaru;Aman
+;Kabupaten Puncak;;Erelmakawia;9;AiArama;Aman
+;Kabupaten Puncak Jaya;;Mulia;8;BirakAmbut;Aman
+;Kabupaten Puncak Jaya;;Mulia;12;Ilaga;Aman
+;Kabupaten Puncak Jaya;;Ilu;7;PulauTimur;Aman
+;Kabupaten Puncak Jaya;;Ilu;11;JuriaSatu;Aman
+;Kabupaten Puncak Jaya;;Ilu;13;MegawiMegewa;Aman
+;Kabupaten Puncak Jaya;;Torere;8;GunungTayok;Aman
+;Kabupaten Puncak Jaya;;Pagaleme;5;KulokEnggame;Aman
+;Kabupaten Puncak Jaya;;Irimuli;3;PuncakSenyum;Aman
+;Kabupaten Puncak Jaya;;Wanwi;17;GerejaLama;Aman
+;Kabupaten Puncak Jaya;;Gubume;7;NobaNoba;Aman
+;Kabupaten Puncak Jaya;;Taganombak;5;MuaraMiguni;Aman
+;Kabupaten Puncak Jaya;;Dagai;2;DagaiDua;Aman
+;Kabupaten Puncak Jaya;;Dagai;8;MandaraLani;Aman
+;Kabupaten Sarmi;;Pantai Timur Bagian Barat;3;Timron/ Keder;Aman
+;Kabupaten Tolikara;;Karubaga;6;Ebenaiser;Aman
+;Kabupaten Tolikara;;Umagi;2;Yalikaluk;Aman
+;Kabupaten Tolikara;;Umagi;9;Priluk;Aman
+;Kabupaten Tolikara;;Woniki;3;Torepme;Aman
+;Kabupaten Tolikara;12;Konda / Kondaga;1;Konda;Aman
+;Kabupaten Tolikara;;Konda / Kondaga;2;Arulo;Aman
+;Kabupaten Tolikara;;Konda / Kondaga;3;Mandura;Aman
+;Kabupaten Tolikara;;Konda / Kondaga;4;Mowilome;Aman
+;Kabupaten Tolikara;;Konda / Kondaga;5;Arumagi;Aman
+;Kabupaten Tolikara;;Konda / Kondaga;6;Gimo;Aman
+;Kabupaten Tolikara;;Konda / Kondaga;7;Silabulo;Aman
+;Kabupaten Tolikara;;Konda / Kondaga;8;Arikoba;Aman
+;Kabupaten Tolikara;;Konda / Kondaga;9;Tingapura;Aman
+;Kabupaten Tolikara;;Konda / Kondaga;10;Ganage;Aman
+;Kabupaten Tolikara;;Konda / Kondaga;11;Yawaneri;Aman
+;Kabupaten Tolikara;;Kuari;3;Alopura;Aman
+;Kabupaten Tolikara;;Bokoneri;14;Tanabune;Aman
+;Kabupaten Tolikara;;Bewani;7;Bitilabur;Aman
+;Kabupaten Tolikara;;Bewani;14;Yianama;Aman
+;Kabupaten Tolikara;;Nunggawi;16;Berenggo;Aman
+;Kabupaten Tolikara;;Gundagi;17;Aworerre;Aman
+;Kabupaten Tolikara;;Timori;3;Trib;Aman
+;Kabupaten Tolikara;;Timori;4;Baremo;Aman
+;Kabupaten Tolikara;;Dundu;4;Krupu;Aman
+;Kabupaten Tolikara;;Dundu;9;Nakwil;Aman
+;Kabupaten Tolikara;;Geya;2;Alobga;Aman
+;Kabupaten Tolikara;;Geya;9;Kibur;Aman
+;Kabupaten Tolikara;25;Egaim;1;Egaim;Aman
+;Kabupaten Tolikara;;Egaim;2;Yonira;Aman
+;Kabupaten Tolikara;;Egaim;3;Tabonakme;Aman
+;Kabupaten Tolikara;;Egaim;4;Murni;Aman
+;Kabupaten Tolikara;;Egaim;5;Yoka;Aman
+;Kabupaten Tolikara;;Egaim;6;Wayongga;Aman
+;Kabupaten Tolikara;;Egaim;7;Weri;Aman
+;Kabupaten Tolikara;;Egaim;8;Pinde;Aman
+;Kabupaten Tolikara;;Egaim;9;Kurba;Aman
+;Kabupaten Tolikara;;Egaim;10;Kaliundi;Aman
+;Kabupaten Tolikara;29;Wari / Taiyeve;1;Yanora;Aman
+;Kabupaten Tolikara;;Wari / Taiyeve;2;Wari / Taiyeve;Aman
+;Kabupaten Tolikara;;Wari / Taiyeve;3;Papedari;Aman
+;Kabupaten Tolikara;;Wari / Taiyeve;4;Dotori;Aman
+;Kabupaten Tolikara;;Wari / Taiyeve;5;Arebe / Ninggame;Aman
+;Kabupaten Tolikara;;Wari / Taiyeve;6;Kowari;Aman
+;Kabupaten Tolikara;;Wari / Taiyeve;7;Wiki;Aman
+;Kabupaten Tolikara;;Wari / Taiyeve;8;Kuruku;Aman
+;Kabupaten Tolikara;;Wari / Taiyeve;9;Friji;Aman
+;Kabupaten Tolikara;;Wari / Taiyeve;10;Dorera;Aman
+;Kabupaten Tolikara;;Wari / Taiyeve;11;Dustra / Yamiriko;Aman
+;Kabupaten Tolikara;;Wari / Taiyeve;12;Munagame;Aman
+;Kabupaten Tolikara;;Wari / Taiyeve;13;Kalibu;Aman
+;Kabupaten Tolikara;;Wari / Taiyeve;14;Laniloma;Aman
+;Kabupaten Tolikara;;Wari / Taiyeve;15;Wakumendek;Aman
+;Kabupaten Tolikara;;Wari / Taiyeve;16;Toimoga / Kabupaga;Aman
+;Kabupaten Tolikara;;Wari / Taiyeve;17;Beleise;Aman
+;Kabupaten Tolikara;30;Dow;1;Dow / Bijere;Aman
+;Kabupaten Tolikara;31;Tangineri;1;Silo;Aman
+;Kabupaten Tolikara;;Tangineri;2;Logilome;Aman
+;Kabupaten Tolikara;;Tangineri;3;Tagi;Aman
+;Kabupaten Tolikara;;Tangineri;;Bini;Aman
+;Kabupaten Tolikara;;Tangineri;;Dunda;Aman
+;Kabupaten Tolikara;;Tangineri;;Geitiem;Aman
+;Kabupaten Tolikara;;Tangineri;;Rumbepaga;Aman
+;Kabupaten Tolikara;;Tangineri;;Yimabnime;Aman
+;Kabupaten Tolikara;;Tangineri;;Wanuk;Aman
+;Kabupaten Tolikara;;Tangineri;;Lamaluk;Aman
+;Kabupaten Tolikara;;Yuneri;7;Wonome;Aman
+;Kabupaten Tolikara;;Gika;2;Kwarini;Aman
+;Kabupaten Tolikara;;Anawi;2;Yaipura;Aman
+;Kabupaten Tolikara;;Anawi;7;Arinduda;Aman
+;Kabupaten Tolikara;;Tagime;8;Kadimbaga;Aman
+;Kabupaten Tolikara;;Kai;7;Piralame;Aman
+;Kabupaten Tolikara;;Aweku;6;Angin;Aman
+;Kabupaten Tolikara;;Li Anogomma;7;Tingwineri;Aman
+;Kabupaten Tolikara;;Li Anogomma;10;Bogone;Aman
+;Kabupaten Tolikara;46;Yuko;1;Pekalema;Aman
+;Kabupaten Tolikara;;Yuko;8;Tabunakme;Aman
+;Kabupaten Waropen;4;Urei Faisei;1;UreifaiseiI/Sanggae;Aman
+;Kabupaten Waropen;;Urei Faisei;2;UrfasII;Aman
+;Kabupaten Waropen;;Urei Faisei;4;UreifaiseiIII/Paradoi;Aman
+;Kabupaten Waropen;;Wonti;15;WontiKai;Aman
+;Kabupaten Yahukimo;;Sumo;5;J ibuk;Aman
+;Kabupaten Yalimo;;Abenaho;20;J inggiwi;Aman
+;Kota Jayapura;;Jayapura Selatan;5;Vim;Siaga
+;Kota Jayapura;;Jayapura Selatan;7;Wahno;Aman
+;Kota Jayapura;;Jayapura Selatan;8;Way Mhorock;Aman
+;Kota Jayapura;;Abepura;9;Waena;Aman

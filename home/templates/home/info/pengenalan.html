@@ -1,0 +1,30 @@
+{% extends "home/base_home.html" %}
+{% load static %}
+
+{% block title %} Apa itu Kawan? {% endblock title %}
+
+{% block content %}
+{% now "Y" as current_year %}
+<div class="container col-xxl-8 px-4">
+    <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
+        <div class="col-10 col-sm-8 col-lg-6">
+            <img src="{% static 'assets/images/icon.png' %}" class="d-block mx-lg-auto img-fluid"
+                alt="Website Main Logo" width="500" height="400" loading="eager">
+        </div>
+        <div class="col-lg-6">
+            <h1 class="display-5 fw-bold text-body-emphasis lh-1 mb-3">Apa itu Kawan?</h1>
+            <p class="mt-3 mb-4">Kawan merupakan singkataan dari <b>Kawasan Rawan</b> yang dimana memiliki arti sebagai
+                media dalam bentuk aplikasi yang diluncurkan dari Direktorat Pemberdayaan Alternatif BNN untuk
+                <b>memonitoring</b>
+                kawasan-kawasan dari seluruh wilayah desa/kelurahan di BNNP/BNNK di seluruh Indonesia beserta <b>status
+                    kerawanan</b> nya.</p>
+            <div class="d-grid gap-2 d-md-flex justify-content-md-start">
+                <a href="{% url 'home:kawasan_rawan' %}?tahun={{ current_year }}" class="btn btn-success btn-md px-4">
+                <i class="fas fa-sign-in-alt me-2"></i>
+                Lihat Informasi Kawasan Terbaru {{ current_year }}
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock content %}

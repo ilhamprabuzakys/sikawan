@@ -1,0 +1,396 @@
+{% extends "home/base_home.html" %}
+{% load static %}
+
+{% block title %} Info Kawasan Rawan {% endblock title %}
+{% block container %} container-fluid {% endblock container %}
+
+{% block vue %}
+{% include "home/plugins/vue.html" %}
+{% endblock vue %}
+
+{% block modals %}
+{% include "home/kawasan_rawan/partials/modals/filter_modal.html" %}
+{% include "home/kawasan_rawan/partials/modals/detail_daftar_kawasan_modal.html" %}
+{% include "home/kawasan_rawan/partials/modals/detail_daftar_kawasanv2_modal.html" %}
+{% endblock modals %}
+
+
+{% block content %}
+<section id="info_kawan" class="px-4" data-aos="fade-up">
+
+    <div class="container">
+        <section class="row align-items-center justify-content-center g-5 py-5" id="heading">
+            <div class="col-lg-2">
+                <img src="{% static 'assets/images/icon.png' %}" class="d-block mx-lg-auto img-fluid" alt="Main logo"
+                    width="500" height="400" loading="eager" title="Main logo">
+            </div>
+            <div class="col-lg-8">
+                <h1 class="display-5 fw-bold text-body-emphasis lh-1 mb-3">Kawasan Rawan tahun [[ tahun ]]</h1>
+                <p class="mt-3 mb-4">
+                    Berikut daftar kawasan rawan pada tahun <b>[[ tahun ]]</b> yang ada di seluruh
+                    daerah di Indonesia beserta informasi terkait status <b>kerawanannya</b> yang anda dapat lihat
+                    melalui poin-poin yang ada di map.</p>
+            </div>
+        </section>
+
+        {% include "home/kawasan_rawan/partials/search_bar.html" %}
+    </div>
+
+    <section id="data_map" class="px-5">
+        <div class="row align-items-start justify-content-between py-3 g-3">
+            <div class="col-lg-3">
+                <div class="box-data-wilayah">
+                    <h4>Data Provinsi</h4>
+
+                    <hr class="mt-1 mb-3">
+
+                    <div class="list-group">
+                        <div class="table-responsive">
+                            <table class="table table-bordered table-hover">
+                                <thead>
+                                    <tr class="bg-soft-success">
+                                        <th scope="col">Provinsi</th>
+                                        <th scope="col">Kawasan</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr v-for="province in list_provinces" :keys="province.id">
+                                        <td scope="row" class="nama_provinsi" v-on:click="focusOnProvince(province)">[[
+                                            province.nama_provinsi ]]</td>
+                                        <td class="text-center">[[ province.get_kawasan_count ]]</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-9">
+                <div id="map"></div>
+            </div>
+        </div>
+    </section>
+
+</section>
+{% endblock content %}
+
+{% block scripts %}
+<script>
+    const { createApp, ref } = Vue;
+
+    createApp({
+        delimiters: ['[[', ']]'],
+        data() {
+            return {
+                // Data map
+                nama: 'Kawasan Rawan',
+                list_provinces: null,
+                map: null,
+                markers: [],
+                circles: [],
+                popup: L.popup(),
+                search: null,
+                hideResults: false,
+                searchResults: [],
+
+                // Data filter map
+                url_params: null,
+                filter: [],
+                tahun: '{{ tahun }}',
+                status_kerawanan: '',
+                provinsi: '',
+                kota: '',
+                kecamatan: '',
+            };
+        },
+        mounted() {
+            this.filter.tahun = this.tahun;
+            
+            this.saveSelectValueFromSelect2();
+            
+            this.url_params = new URLSearchParams(window.location.search);
+            this.checkUrlFilter();
+            
+            this.fetchProvinsi();
+
+            this.map = L.map('map', {
+                gestureHandling: false,
+                
+            }).setView([2.6343, 114.6455], 5);
+
+            const googleLayer = L.tileLayer('https://{s}.google.com/vt/lyrs=m&x={x}&y={y}&z={z}', {
+                maxZoom: 20,
+                subdomains: ['mt0', 'mt1', 'mt2', 'mt3']
+            });
+
+            const osmLayer = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                attribution: '© OpenStreetMap contributors'
+            });
+            
+            const mapBoxLayer = L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoiaXJmYW5wdWxlIiwiYSI6ImNqdnpxbHFvbzAzM3UzeWxrcWtkbTVhamIifQ.TJM77G3WOEIOIYzk_IiWKQ', {
+                maxZoom: 18,
+                attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, ' +
+                    '<a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
+                    'Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
+                id: 'mapbox/streets-v11',
+                tileSize: 512,
+                zoomOffset: -1,
+            })
+
+            const esri_world_imagery_layer = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
+                attribution: 'Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community'
+            });
+
+            const layers = {
+                'Default': osmLayer,
+                'MapBox': mapBoxLayer,
+                'Google Maps': googleLayer,
+                'Realistis': esri_world_imagery_layer,
+            };
+
+            L.control.layers(layers).addTo(this.map);
+
+            osmLayer.addTo(this.map);
+
+            this.map.on('click', this.onMapClick);
+        },
+        methods: {
+            // Url handler
+            checkUrlFilter() {
+                const paramsToCheck = ['provinsi', 'tahun', 'status_kerawanan', 'kota', 'kecamatan'];
+
+                paramsToCheck.forEach(param => {
+                    if (this.url_params.has(param)) {
+                        this.filter[param] = this.url_params.get(param);
+                    } else {
+                        if (param != 'tahun') {
+                            this.filter[param] = ''
+                        }
+                    }
+                });
+            },
+            // Filter map
+            handleFilter() {
+                // console.log('Before Filtering...');
+
+                // console.log(`Tahun : ${this.tahun}`)
+                // console.log(`Status kerawanan : ${this.status_kerawanan}`)
+                // console.log(`Provinsi : ${this.provinsi}`)
+                // console.log(`Kota : ${this.kota}`)
+                // console.log(`Kecamatan : ${this.kecamatan}`)
+                
+                this.setValueFromFilter();
+                
+                // console.log('After Filtering...');
+
+                // console.log(`Tahun : ${this.tahun}`)
+                // console.log(`Status kerawanan : ${this.status_kerawanan}`)
+                // console.log(`Provinsi : ${this.provinsi}`)
+                // console.log(`Kota : ${this.kota}`)
+                // console.log(`Kecamatan : ${this.kecamatan}`)
+                // console.log(`Desa : ${this.desa}`)
+
+                this.setUrlParams();
+                this.updateUrl();
+                this.hideModal();
+            },
+            handleSelect2Change(value, field) {
+                if (field === 'provinsi') {
+                    this.filter.provinsi = value;
+                } else if (field === 'kota') {
+                    this.filter.provinsi = value;
+                }
+            },
+            saveSelectValueFromSelect2() {
+                $('#filter_form #provinsi').on('change', (event) => {
+                    this.handleSelect2Change(event.target.value, 'provinsi');
+                });
+            },
+            setValueFromFilter() {
+                console.log('Data filter : ', this.filter);
+                this.tahun = this.filter.tahun !== undefined ? this.filter.tahun : this.tahun;
+                this.status_kerawanan = this.filter.status_kerawanan !== undefined ? this.filter.status_kerawanan : this.status_kerawanan;
+                this.provinsi = this.filter.provinsi !== undefined ? this.filter.provinsi : this.provinsi;
+                this.kota = this.filter.kota !== undefined ? this.filter.kota : this.kota;
+                this.kecamatan = this.filter.kecamatan !== undefined ? this.filter.kecamatan : this.kecamatan;
+            },
+            handleResetFilter() {
+                toast('success', 'Filter berhasil direset!');
+            },
+            // Url
+            setUrlParams() {
+                this.url_params.set('tahun', this.tahun);
+                this.status_kerawanan !== '' ? this.url_params.set('status_kerawanan', this
+                    .status_kerawanan) : '';
+                this.provinsi !== '' ? this.url_params.set('provinsi', this.provinsi) : '';
+                this.kota !== '' ? this.url_params.set('kota', this.kota) : '';
+                this.kecamatan !== '' ? this.url_params.set('kecamatan', this.kecamatan) : '';
+            },
+            updateUrl() {
+                const newUrl = `${window.location.pathname}?${this.url_params.toString()}`;
+                window.history.replaceState({}, '', newUrl);
+            },
+            // Map
+            async fetchProvinsi() {
+                const response = await axios.get('/dashboard/masters/api/v1/provinces/');
+                console.log('Data provinsi : ', response.data)
+                this.list_provinces = response.data.results;
+
+                this.list_provinces.forEach(province => {
+
+                    const circle = L.circle([province.latitude, province.longitude], {
+                            color: 'red',
+                            fillColor: '#f03',
+                            fillOpacity: 0.5,
+                            radius: 50000 // Kebulatan
+                        })
+                        .addTo(this.map)
+                        .bindPopup(this.getProvinceBindPopup(province))
+                        .on('click', () => this.onCircleClick(province));
+
+                    this.circles.push(circle);
+
+                });
+            },
+            onMapClick(e) {
+                console.log(`Koordinat : ${e.latlng.lat.toFixed(4)}, ${e.latlng.lng.toFixed(4)}`);
+                /*
+                    this.popup
+                        .setLatLng(e.latlng)
+                        .setContent("Koordinat: " + e.latlng.lat.toFixed(4) + ", " + e.latlng.lng.toFixed(4))
+                        .openOn(this.map);
+                */
+            },
+            getProvinceBindPopup(province) {
+                return `
+                <b>${province.nama_provinsi}</b>
+                <br>Kawasan: ${this.getRandomInt(300)}<br>
+                <hr class="my-2">
+                <div class="info">
+                    <span class="keterangan">Bahaya</span>
+                    <span class="text-danger"> : ${this.getRandomInt(30)}</span><br>
+                    <span class="keterangan">Waspada</span>
+                    <span class="text-warning"> : ${this.getRandomInt(90)}</span><br>
+                    <span class="keterangan">Siaga</span>
+                    <span class="text-primary"> : ${this.getRandomInt(120)}</span><br>
+                    <span class="keterangan">Aman</span>
+                    <span class="text-success"> : ${this.getRandomInt(130)}</span><br>
+                </div>
+                <br>
+                <button type="button" class="btn btn-primary btn-sm w-100" data-bs-toggle="modal" data-bs-target="#detailDaftarKawasanModal">Lihat kawasan</button>
+                `
+            },
+            onSearchChange() {
+                this.hideResults = false;
+                this.searchResults = this.list_provinces.filter(province =>
+                    province.nama_provinsi.toLowerCase().includes(this.search.toLowerCase())
+                );
+            },
+            async focusOnProvince(province) {
+                this.hideResults = true;
+                const target = [province.latitude, province.longitude];
+
+                this.map.flyTo(target, 10, {
+                    animate: true,
+                    duration: 1.5
+                });
+
+                await this.sleep(1800);
+
+                const popupContent = this.getProvinceBindPopup(province);
+                this.popup
+                    .setLatLng(target)
+                    .setContent(popupContent)
+                    .openOn(this.map);
+            },
+            onCircleClick(province) {
+                console.log('Circle clicked:', province);
+            },
+            onMarkerClick(province) {
+                console.log('Marker clicked:', province);
+            },
+            async sleep(duration) {
+                return new Promise(resolve => setTimeout(resolve, duration));
+            },
+            getRandomInt(max) {
+                return Math.floor(Math.random() * max);
+            },
+            hideModal() {
+                $('.modal').modal('hide');
+            }
+        },
+    }).mount('#app');
+</script>
+{% endblock scripts %}
+
+{% block head %}
+{% include "home/plugins/leaflet.html" %}
+
+<style scoped>
+    #info_kawan {
+        height: 1300px;
+    }
+
+    #data_map #map_kawasan {
+        width: 100%;
+        height: 700px;
+    }
+
+    #data_map .box-data-wilayah {
+        background-color: #fcfcfc;
+        border-radius: 10px;
+        padding: 10px 0 0 10px;
+    }
+
+    #data_map .box-data-wilayah .list-group {
+        height: 600px;
+        overflow: auto;
+    }
+
+    #data_map .box-data-wilayah table thead {
+        position: sticky;
+        top: 0;
+        background-color: #fff;
+        z-index: 1;
+        box-shadow: 0px 5px 5px -5px rgba(255, 255, 255, 0.8), 0px -5px 5px -5px rgba(255, 255, 255, 0.8);
+    }
+
+    #data_map .box-data-wilayah .table-responsive {
+        border-top: 1px solid #dee2e6;
+    }
+
+    #data_map .box-data-wilayah table th {
+        position: sticky;
+        top: 0;
+    }
+
+    #data_map .box-data-wilayah .list-group .table .info .keterangan {
+        display: inline-block;
+        width: 70px;
+    }
+
+    #data_map .box-data-wilayah .list-group .table .nama_provinsi {
+        cursor: pointer;
+    }
+
+    #search_bar #search__results {
+        width: 100%;
+        z-index: 9999;
+        box-shadow: 1px 2px #d4d4d4;
+        top: 100%;
+        left: 0%;
+    }
+
+    .accordion .accordion-body {
+        padding: 10px 0 0px 20px;
+    }
+
+    .accordion .accordion-item {
+        border-radius: 0;
+    }
+
+    .accordion .accordion-button:not(.collapsed) {
+        background-color: #fff;
+    }
+</style>
+{% endblock head %}

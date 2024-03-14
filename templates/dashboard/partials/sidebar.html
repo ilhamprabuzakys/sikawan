@@ -1,0 +1,134 @@
+{% load static %}
+<aside id="layout-menu" class="layout-menu menu-vertical menu bg-menu-theme">
+    <div class="app-brand demo">
+        <a href="{% url 'home:index' %}" class="app-brand-link">
+            <img src="{% static '/assets/images/bnn.png' %}" alt="Sidebar Logo">
+            <span class="app-brand-text demo menu-text fw-bold">SIKAWAN</span>
+        </a>
+    </div>
+    <!-- <div class="menu-inner-shadow"></div> -->
+    <ul class="menu-inner py-1">
+
+        <li class="menu-header small text-uppercase">
+            <span class="menu-header-text" data-i18n="Menu">Menu</span>
+        </li>
+
+        <li class="menu-item {% if request.path == '/dashboard/' %} active {% endif %}">
+            <a href="{% url 'dashboard:index' %}" class="menu-link">
+                <i class="menu-icon tf-icons ti ti-home"></i>
+                <div data-i18n="Beranda">Beranda</div>
+            </a>
+        </li>
+        
+        {% if user.is_staff and not user.is_superuser %}
+        <!-- Untuk admin -->
+        <li class="menu-item {% if '/dashboard/masters/kawasan_rawan/tambah/' in request.path %} active {% endif %}">
+            <a href="{% url 'masters:kawasan_rawan_create' %}" class="menu-link">
+                <i class="menu-icon tf-icons ti ti-map-2"></i>
+                <div data-i18n="Masukan Data">Masukan Data</div>
+            </a>
+        </li>
+        {% comment %} <li class="menu-item {% if request.resolver_match.url_name == 'ambil' %} active {% endif %}">
+            <a href="{% url 'masters:kawasan_rawan_ambil' %}" class="menu-link">
+                <i class="menu-icon tf-icons ti ti-database"></i>
+                <div data-i18n="Ambil Data">Ambil Data</div>
+            </a>
+        </li> {% endcomment %}
+        {% endif %}
+
+        {% if user.is_staff and user.is_superuser %}
+        <!-- Untuk superadmin -->
+        <li class="menu-item {% if '/dashboard/masters/kawasan_rawan/' in request.path %}open{% endif %}">
+            <a href="javascript:void(0);" class="menu-link menu-toggle">
+                <i class='menu-icon tf-icons ti ti-map-2'></i>
+                <div data-i18n="Kelola Kawasan Rawan">Kelola Kawasan Rawan</div>
+            </a>
+            <ul class="menu-sub">
+                {% comment %} <li class="menu-item {% if '/masters/kawasan_rawan/2024/' in request.path %}active{% endif %}">
+                    <a href="{% url 'masters:kawasan_rawan' 2024 %}" class="menu-link">
+                        <div data-i18n="Tahun 2024">Tahun 2024</div>
+                    </a>
+                </li> {% endcomment %}
+                <li class="menu-item {% if '/masters/kawasan_rawan/2023/' in request.path %}active{% endif %}">
+                    <a href="{% url 'masters:kawasan_rawan' 2023 %}" class="menu-link">
+                        <div data-i18n="Tahun 2023">Tahun 2023</div>
+                    </a>
+                </li>
+                <li class="menu-item {% if '/masters/kawasan_rawan/2022/' in request.path %}active{% endif %}">
+                    <a href="{% url 'masters:kawasan_rawan' 2022 %}" class="menu-link">
+                        <div data-i18n="Tahun 2022">Tahun 2022</div>
+                    </a>
+                </li>
+                <li class="menu-item {% if '/masters/kawasan_rawan/2021/' in request.path %}active{% endif %}">
+                    <a href="{% url 'masters:kawasan_rawan' 2021 %}" class="menu-link">
+                        <div data-i18n="Tahun 2021">Tahun 2021</div>
+                    </a>
+                </li>
+            </ul>
+        </li>
+
+        <li class="menu-item {% if request.resolver_match.url_name == 'tabel_sebaran_kawasan_rawan' %} active {% endif %}">
+            <a href="{% url 'masters:tabel_sebaran_kawasan_rawan' %}" class="menu-link">
+                <i class='menu-icon tf-icons ti ti-building-bank'></i>
+                <div data-i18n="Tabel Sebaran Kawasan Rawan">Tabel Sebaran Kawasan Rawan</div>
+            </a>
+        </li>
+
+
+        {% comment %} <li class="menu-item {% if '/masters/data/' in request.path %}open{% endif %}">
+            <a href="javascript:void(0);" class="menu-link menu-toggle">
+                <i class='menu-icon tf-icons ti ti-building-bank'></i>
+                <div data-i18n="Tabel Sebaran Kawasan Rawan">Tabel Sebaran Kawasan Rawan</div>
+            </a>
+            <ul class="menu-sub">
+                <li class="menu-item {% if '/masters/data/provinsi/' in request.path %}active{% endif %}">
+                    <a href="{% url 'masters:provinsi' %}" class="menu-link">
+                        <div data-i18n="Data Provinsi">Data Provinsi</div>
+                    </a>
+                </li>
+                <li class="menu-item {% if '/masters/data/kota/' in request.path %}active{% endif %}">
+                    <a href="{% url 'masters:kota' %}" class="menu-link">
+                        <div data-i18n="Data Kota/Kabupaten">Data Kota/Kabupaten</div>
+                    </a>
+                </li>
+                <li class="menu-item {% if '/masters/data/kecamatan/' in request.path %}active{% endif %}">
+                    <a href="{% url 'masters:kecamatan' %}" class="menu-link">
+                        <div data-i18n="Data Kecamatan">Data Kecamatan</div>
+                    </a>
+                </li>
+                <li class="menu-item {% if '/masters/data/desa/' in request.path %}active{% endif %}">
+                    <a href="{% url 'masters:desa' %}" class="menu-link">
+                        <div data-i18n="Data Kelurahan/Desa">Data Kelurahan/Desa</div>
+                    </a>
+                </li>
+            </ul>
+        </li> {% endcomment %}
+
+        <li class="menu-item {% if '/dashboard/literasi/' in request.path %} active {% endif %}">
+            <a href="/dashboard/literasi/" class="menu-link">
+                <i class="menu-icon tf-icons ti ti-book"></i>
+                <div data-i18n="Literasi">Literasi</div>
+            </a>
+        </li>
+        
+        <li class="menu-item {% if '/dashboard/users/kelola_pengguna/' in request.path %} active {% endif %}">
+            <a href="{% url "kelola_pengguna" %}" class="menu-link">
+                <i class="menu-icon tf-icons ti ti-users"></i>
+                <div data-i18n="Kelola Pengguna">Kelola Pengguna</div>
+            </a>
+        </li>
+
+        {% endif %}
+    </ul>
+
+    <ul class="menu-inner menu-inner-logout">
+        <li class="menu-item mt-auto">
+            <hr class="mb-2">
+            <a href="javascript:void(0);" onclick="handleLogout()" class="menu-link mb-2">
+                <i class="menu-icon tf-icons ti ti-logout"></i>
+                <div data-i18n="Keluar">Keluar</div>
+            </a>
+        </li>
+    </ul>
+
+</aside>

@@ -1,0 +1,55 @@
+<div class="modal fade" id="importDataModal" tabindex="-1" role="dialog">
+    <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">
+                    Import Data <b>Kawasan Rawan</b>
+                </h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <form id="importDataForm" onsubmit="handleImportData(event)">
+                <div class="modal-body">
+
+
+                    <div class="row mb-3">
+                        <label class="col-sm-3 col-form-label required" for="import__tahun">Tahun</label>
+                        <div class="col-sm-9">
+                            <select id="import__tahun" class="select2 form-select" required>
+                                <option value="">--Pilih tahun--</option>
+                                {% for item in list_year %}
+                                <option value="{{ item }}">{{ item }}</option>
+                                {% endfor %}
+                            </select>
+                        </div>
+                    </div>
+
+                    <div class="row mb-3">
+                        <label class="col-sm-3 col-form-label required" for="import__file">File Excel</label>
+                        <div class="col-sm-9">
+                            <input type="file" class="form-control" id="import__file" onchange="validateExcel(event)"
+                                accept=".csv, .xls, .xlsx" required />
+                            <div class="mt-3">
+                                <span class="text-muted">
+                                    File yang diizinkan hanya berformat <b>xlsx, csv</b>
+                                </span>
+                            </div>
+                            
+                            <div class="mt-3 d-none" id="import__error_msg">
+                                <span class="text-danger">
+                                    Format file tidak sesuai, harap perbaiki excel anda atau anda dapat mengeksport terlebih dahulu data kawasan rawan sebelumnya di menu <b>Export Data</b>
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-label-secondary" data-bs-dismiss="modal">
+                        <i class="fas fa-xmark me-2"></i> Batalkan
+                    </button>
+                    <button type="submit" class="btn btn-success"><i class="fas fa-save me-2"></i>Import Data</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

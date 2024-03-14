@@ -1,0 +1,31 @@
+<div class="modal fade" id="filterModal" tabindex="-1" role="dialog">
+    <div class="modal-dialog modal-md modal-dialog-centered" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">
+                    Filter Data
+                </h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <form onsubmit="handleFilter(event)">
+                <div class="modal-body">
+                    <div class="mb-3">
+                        <label for="status_kerawanan" class="form-label">Filter Status Kerawanan : </label>
+    
+                        <select class="form-select" id="status_kerawanan">
+                            <option value="" selected disabled>--Pilih Status--</option>
+                            {% for item in list_status %}
+                                <option value="{{ item.value }}">{{ item.label }}</option>
+                            {% endfor %}
+                        </select>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-label-secondary" data-bs-dismiss="modal">
+                        <i class="fas fa-xmark me-2"></i>Batalkan</button>
+                    <button type="submit" class="btn btn-primary"><i class="fas fa-save me-2"></i>Terapkan</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

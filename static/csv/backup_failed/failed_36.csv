@@ -1,0 +1,402 @@
+; Lebak;;Banjarsari;5; Cilegong Ilir;Aman;Aman;Aman
+; Lebak;;Banjarsari;9; Jalupang Girang;Aman;Aman;Aman
+; Lebak;;Cibadak;44; Bojongleles ;Siaga;Siaga;Siaga
+; Lebak;;Cibeber;73; Sinargalih;Aman;Aman;Aman
+; Lebak;6;Cigemblong;78; Cibungur ;Aman;Aman;Aman
+; Lebak;;Cigemblong;79; Cigemblong ;Aman;Aman;Aman
+; Lebak;;Cigemblong;80; Cikadongdong ;Aman;Aman;Aman
+; Lebak;;Cigemblong;81; Cikaret ;Aman;Aman;Aman
+; Lebak;;Cigemblong;82; Cikate ;Aman;Aman;Aman
+; Lebak;;Cigemblong;83; Mugijaya ;Aman;Aman;Aman
+; Lebak;;Cigemblong;84; Peucangpari ;Aman;Aman;Aman
+; Lebak;;Cigemblong;85; Wangunjaya ;Aman;Aman;Aman
+; Lebak;;Cihara;89; Citepuseun;Aman;Aman;Aman
+; Lebak;;Cihara;91; Lebak Peundeuy;Aman;Aman;Aman
+; Lebak;;Cijaku;100; Cimega;Aman;Aman;Aman
+; Lebak;;Cikulur;118; Taman Jaya;Aman;Aman;Aman
+; Lebak;;Cimarga;143; Gunung Anten;Aman;Aman;Aman
+; Lebak;;Cimarga;153; Sangiang Jaya;Aman;Aman;Aman
+; Lebak;;Cipanas;169; Talagahiang;Siaga;Siaga;Siaga
+; Lebak;;Cirinten;180; Nangerang;Aman;Aman;Aman
+; Lebak;15;Curugbitung;182; Candi;Aman;Aman;Aman
+; Lebak;;Curugbitung;183; Ciburuy;Aman;Aman;Aman
+; Lebak;;Curugbitung;184; Cidadap;Aman;Aman;Aman
+; Lebak;;Curugbitung;185; Cilayang;Siaga;Siaga;Siaga
+; Lebak;;Curugbitung;186; Cipining;Aman;Aman;Aman
+; Lebak;;Curugbitung;187; Curugbitung;Aman;Aman;Aman
+; Lebak;;Curugbitung;188; Guradog;Aman;Aman;Aman
+; Lebak;;Curugbitung;189; Lebak Asih;Siaga;Siaga;Siaga
+; Lebak;;Curugbitung;190; Mayak;Aman;Aman;Aman
+; Lebak;;Curugbitung;191; Sekarwangi;Aman;Aman;Aman
+; Lebak;17;Kalang Anyar;204; Aweh;Aman;Aman;Aman
+; Lebak;;Kalang Anyar;205; Cikatapis;Siaga;Siaga;Siaga
+; Lebak;;Kalang Anyar;206; Cilangkap;Aman;Aman;Aman
+; Lebak;;Kalang Anyar;207; Kalang anyar;Aman;Aman;Aman
+; Lebak;;Kalang Anyar;208; Pasirkupa;Aman;Aman;Aman
+; Lebak;;Kalang Anyar;209; Sangiang Tanjung;Aman;Aman;Aman
+; Lebak;;Kalang Anyar;210; Sukamekarsari;Siaga;Siaga;Siaga
+; Lebak;18;Lebak Gedong;211; Banjar Irigasi;Aman;Aman;Aman
+; Lebak;;Lebak Gedong;212; Banjarsari;Aman;Aman;Aman
+; Lebak;;Lebak Gedong;213; Ciladaeun;Aman;Aman;Aman
+; Lebak;;Lebak Gedong;214; Lebakgedong;Aman;Aman;Aman
+; Lebak;;Lebak Gedong;215; Lebaksangka;Aman;Aman;Aman
+; Lebak;;Lebak Gedong;216; Lebaksitu;Aman;Aman;Aman
+; Lebak;;Leuwidamar;221; Jalupang Mulya;Aman;Aman;Aman
+; Lebak;;Leuwidamar;223; Lebak Parahiang;Aman;Aman;Aman
+; Lebak;;Maja;232; Curug Badak;Aman;Aman;Aman
+; Lebak;;Maja;233; Gubugcibeureum;Aman;Aman;Aman
+; Lebak;;Maja;238; Pasir Kecapi;Aman;Aman;Aman
+; Lebak;;Maja;239; Pasir Kembang;Aman;Aman;Aman
+; Lebak;;Maja;242; Tanjung Sari;Aman;Aman;Aman
+; Lebak;;Malingping;252; Sanghiang ;Aman;Aman;Aman
+; Lebak;;Muncang;261; Karangcombong;Aman;Aman;Aman
+; Lebak;;Panggarangan;271; Gunung Gede;Aman;Aman;Aman
+; Lebak;;Panggarangan;277; Situragen;Aman;Aman;Aman
+; Lebak;25;Sajira;296; Bangunmekar;Aman;Aman;Aman
+; Lebak;26;Sobang;311; Cilebang;Aman;Aman;Aman
+; Lebak;;Sobang;313; Citujah;Aman;Aman;Aman
+; Lebak;;Wanasalam;328; Ketapang;Aman;Aman;Aman
+; Lebak;;Warunggunung;340; Pasirtangkil ;Aman;Aman;Aman
+; Pandeglang;;Carita;47; Sukanagara;Aman;Aman;Aman
+; Pandeglang;;Cikedal;83; Karya Utama;Aman;Aman;Aman
+; Pandeglang;;Cikedal;85; Mekar Jaya;Siaga;Siaga;Siaga
+; Pandeglang;;Cimanggu;111; Tangkilsari;Aman;Aman;Aman
+; Pandeglang;;Cimanggu;113; Waringinkurung;Aman;Aman;Aman
+; Pandeglang;;Jiput;153; Simpang Bitung;Aman;Aman;Aman
+; Pandeglang;;Kaduhejo;158; Bayumundu ;Aman;Aman;Aman
+; Pandeglang;;Mandalawangi;198; Cikumbueun;Aman;Aman;Aman
+; Pandeglang;;Mekarjaya;219; Wirasinga ;Aman;Aman;Aman
+; Pandeglang;;Pagelaran;244; Kartasana ;Aman;Aman;Aman
+; Pandeglang;;Panimbang;261; Mekarsari ;Aman;Aman;Aman
+; Pandeglang;;Sindangresmi;307; Campakawarna ;Aman;Aman;Aman
+; Pandeglang;;Sindangresmi;314; Sindangresmi ;Aman;Aman;Aman
+; Serang;;Bandung;18; Panamping ;Aman;Aman;Aman
+; Serang;;Baros;29; Sukaindah ;Aman;Aman;Aman
+; Serang;;Bojonegara;43; Karangkepuh;Aman;Aman;Aman
+; Serang;;Bojonegara;50; Pengarengan;Aman;Aman;Aman
+; Serang;;Carenang;58; Ragasmesigit ;Aman;Aman;Aman
+; Serang;;Cikande;68; Leuwilimus ;Aman;Aman;Aman
+; Serang;;Cikande;72; Songgom Jaya ;Siaga;Siaga;Siaga
+; Serang;8;Cikeusal;74; Bantarpanjang ;Aman;Aman;Aman
+; Serang;9;Cinangka;91; Bantarwangi;Aman;Aman;Aman
+; Serang;;Cinangka;92; Bantarwaru;Aman;Aman;Aman
+; Serang;;Cinangka;98; Karangsuraga;Siaga;Siaga;Siaga
+; Serang;;Cinangka;99; Kubangbaros;Aman;Aman;Aman
+; Serang;;Cinangka;102; Rancasanggal;Aman;Aman;Aman
+; Serang;;Cinangka;103; Sindanglaya;Aman;Aman;Aman
+; Serang;;Cinangka;104; Umbultanjung;Aman;Aman;Aman
+; Serang;;Ciomas;110; Pondok Kahuru ;Aman;Aman;Aman
+; Serang;15;Kopo;156; Babakan Jaya ;Aman;Aman;Aman
+; Serang;;Kragilan;168; Jeruktipis ;Aman;Aman;Aman
+; Serang;;Mancak;205; Balekambang;Aman;Aman;Aman
+; Serang;;Mancak;209; Labuhan;Aman;Aman;Aman
+; Serang;;Padarincang;226; Batukuwung ;Siaga;Siaga;Siaga
+; Serang;;Padarincang;236; Kalumpang ;Aman;Aman;Aman
+; Serang;;Pamarayan;242; Kebon Cau ;Aman;Aman;Aman
+; Serang;;Petir;251; Cireundeu ;Aman;Aman;Aman
+; Serang;;Petir;255; Mekarbaru ;Aman;Aman;Aman
+; Serang;;Petir;256; Nagara Padang ;Aman;Aman;Aman
+; Serang;;Pontang;265; Kalapian;Aman;Aman;Aman
+; Serang;;Pontang;266; Keserangan;Aman;Aman;Aman
+; Serang;;Pontang;270; Pulo Kencana;Aman;Aman;Aman
+; Serang;;Pontang;272; Sukajaya;Aman;Aman;Aman
+; Serang;;Tanara;292; Tenjo Ayu;Aman;Aman;Aman
+; Serang;;Tirtayasa;296; Kemanisan;Aman;Aman;Aman
+; Serang;;Tirtayasa;302; Sidayu Kebon;Aman;Aman;Aman
+; Serang;;Tunjung Teja;310; Kamuning;Aman;Aman;Aman
+; Serang;;Tunjung Teja;315; Tunjung Teja;Aman;Aman;Aman
+; Serang;;Waringinkurung;324; Sukadalem;Aman;Aman;Aman
+; Serang;;Waringinkurung;325; Telaga Luhur;Aman;Aman;Aman
+4;Serang;1;Cipocok Jaya;1;Banjaragung;Aman;Aman;Aman
+;Serang;;Curug;12;Curugmanis;Aman;Aman;Aman
+;Serang;;Curug;13;Kamanisan;Aman;Aman;Aman
+;Serang;;Kasemen;28;Warungjaud;Aman;Aman;Aman
+;Serang;;Serang;33;Kotabaru;Aman;Aman;Aman
+;Serang;;Serang;38;Sumurpecung;Aman;Aman;Aman
+;Serang;5;Taktakan;41;Cibendung;Aman;Aman;Aman
+;Serang;;Taktakan;43;Dranggong;Siaga;Siaga;Siaga
+;Serang;;Taktakan;44;Kalang Anyar;Aman;Aman;Aman
+;Serang;;Taktakan;52;Tamanbaru;Aman;Aman;Aman
+;Serang;;Walantaka;61;Pageragung; Aman;Aman;Aman
+5; Tangerang;1;Balaraja;1;. Cangkudu; Siaga;Siaga;Siaga
+; Tangerang;;Balaraja;2;. Gembong; Siaga;Siaga;Siaga
+; Tangerang;;Balaraja;3;. Saga; Aman;Aman;Aman
+; Tangerang;;Balaraja;4;. Sentul; Aman;Aman;Aman
+; Tangerang;;Balaraja;5;. Sentul Jaya; Siaga;Siaga;Siaga
+; Tangerang;;Balaraja;6;. Sukamurni; Aman;Aman;Aman
+; Tangerang;;Balaraja;7;. Talagasari; Aman;Aman;Aman
+; Tangerang;;Balaraja;8;. Tobat; Siaga;Siaga;Siaga
+; Tangerang;2;Cikupa;10;. Bitung Jaya;Siaga;Siaga;Siaga
+; Tangerang;;Cikupa;11;. Bojong;Siaga;Siaga;Siaga
+; Tangerang;;Cikupa;13;. Cibadak;Aman;Aman;Aman
+; Tangerang;;Cikupa;14;. Cikupa;Siaga;Siaga;Siaga
+; Tangerang;;Cikupa;15;. Dukuh;Siaga;Siaga;Siaga
+; Tangerang;;Cikupa;16;. Pasir Gadung;Siaga;Siaga;Siaga
+; Tangerang;;Cikupa;17;. Pasir Jaya;Aman;Aman;Aman
+; Tangerang;;Cikupa;18;. Sukadamai;Aman;Aman;Aman
+; Tangerang;;Cikupa;19;. Sukanagara;Siaga;Siaga;Siaga
+; Tangerang;;Cikupa;20;. Talaga;Siaga;Siaga;Siaga
+; Tangerang;;Cikupa;21;. Talagasari;Siaga;Siaga;Siaga
+; Tangerang;3;Cisauk;24;. Cibogo;Aman;Aman;Aman
+; Tangerang;;Cisauk;25;. Dangdan;Aman;Aman;Aman
+; Tangerang;;Cisauk;26;. Mekar Wangi;Aman;Aman;Aman
+; Tangerang;;Cisauk;27;. Sampora;Aman;Aman;Aman
+; Tangerang;;Cisauk;28;. Suradita;Aman;Aman;Aman
+; Tangerang;4;Cisoka;30;. Bojong Loa; Siaga;Siaga;Siaga
+; Tangerang;;Cisoka;31;. Carenang; Aman;Aman;Aman
+; Tangerang;;Cisoka;32;. Caringin; Siaga;Siaga;Siaga
+; Tangerang;;Cisoka;33;. Cempaka; Siaga;Siaga;Siaga
+; Tangerang;;Cisoka;34;. Cibugel; Aman;Aman;Aman
+; Tangerang;;Cisoka;35;. Cisoka; Aman;Aman;Aman
+; Tangerang;;Cisoka;36;. Jeungjing; Aman;Aman;Aman
+; Tangerang;;Cisoka;37;. Karangharja; Aman;Aman;Aman
+; Tangerang;;Cisoka;38;. Selapajang; Siaga;Siaga;Siaga
+; Tangerang;;Cisoka;39;. Sukatani; Aman;Aman;Aman
+; Tangerang;5;Curug;40;. Cukanggalih; Aman;Aman;Aman
+; Tangerang;;Curug;41;. Curug Wetan; Siaga;Siaga;Siaga
+; Tangerang;;Curug;42;. Kadu; Siaga;Siaga;Siaga
+; Tangerang;;Curug;43;. Kadu Jaya; Aman;Aman;Aman
+; Tangerang;6;Gunung Kaler;47;. Cibetok; Aman;Aman;Aman
+; Tangerang;;Gunung Kaler;48;. Cipaeh; Aman;Aman;Aman
+; Tangerang;;Gunung Kaler;49;. Gunung Kaler; Aman;Aman;Aman
+; Tangerang;;Gunung Kaler;50;. Kandawati; Siaga;Siaga;Siaga
+; Tangerang;;Gunung Kaler;51;. Kedung; Aman;Aman;Aman
+; Tangerang;;Gunung Kaler;52;. Onyam; Siaga;Siaga;Siaga
+; Tangerang;;Gunung Kaler;53;. Rancagede; Aman;Aman;Aman
+; Tangerang;;Gunung Kaler;54;. Sidoko; Aman;Aman;Aman
+; Tangerang;;Gunung Kaler;55;. Tamiang; Aman;Aman;Aman
+; Tangerang;7;Jambe;56;. Ancol Pasir; Aman;Aman;Aman
+; Tangerang;;Jambe;57;. Daru; Aman;Aman;Aman
+; Tangerang;;Jambe;58;. Jambe; Aman;Aman;Aman
+; Tangerang;;Jambe;59;. Kutruk; Aman;Aman;Aman
+; Tangerang;;Jambe;60;. Mekarsari; Aman;Aman;Aman
+; Tangerang;;Jambe;61;. Pasir Barat; Aman;Aman;Aman
+; Tangerang;;Jambe;62;. Ranca Buaya; Siaga;Siaga;Siaga
+; Tangerang;;Jambe;63;. Sukamanah; Aman;Aman;Aman
+; Tangerang;;Jambe;64;. Taban; Aman;Aman;Aman
+; Tangerang;;Jambe;65;. Tipar Raya; Aman;Aman;Aman
+; Tangerang;8;Jayanti;66;. Cikande; Siaga;Siaga;Siaga
+; Tangerang;;Jayanti;67;. Dangdeur; Aman;Aman;Aman
+; Tangerang;;Jayanti;68;. Jayanti; Siaga;Siaga;Siaga
+; Tangerang;;Jayanti;69;. Pabuaran; Aman;Aman;Aman
+; Tangerang;;Jayanti;70;. Pangkat; Siaga;Siaga;Siaga
+; Tangerang;;Jayanti;71;. Pasir Gintung; Aman;Aman;Aman
+; Tangerang;;Jayanti;72;. Pasir Muncang; Aman;Aman;Aman
+; Tangerang;;Jayanti;73;. Sumurbandung; Aman;Aman;Aman
+; Tangerang;9;Kelapa Dua;74;. Curug Sangereng;Aman;Aman;Aman
+; Tangerang;10;Kemiri;80;. Karang Anyar; Aman;Aman;Aman
+; Tangerang;;Kemiri;81;. Kemiri; Aman;Aman;Aman
+; Tangerang;;Kemiri;82;. Klebet; Aman;Aman;Aman
+; Tangerang;;Kemiri;83;. Legok Suka Maju; Aman;Aman;Aman
+; Tangerang;;Kemiri;84;. Lontar; Aman;Aman;Aman
+; Tangerang;;Kemiri;85;. Patramanggala; Aman;Aman;Aman
+; Tangerang;;Kemiri;86;. Ranca Labuh; Aman;Aman;Aman
+; Tangerang;11;Kresek;87;. Jengkol; Aman;Aman;Aman
+; Tangerang;;Kresek;88;. Kemuning; Aman;Aman;Aman
+; Tangerang;;Kresek;89;. Koper; Aman;Aman;Aman
+; Tangerang;;Kresek;90;. Kresek; Siaga;Siaga;Siaga
+; Tangerang;;Kresek;91;. Pasir Ampo; Aman;Aman;Aman
+; Tangerang;;Kresek;92;. Patrasana; Siaga;Siaga;Siaga
+; Tangerang;;Kresek;93;. Rancailat; Aman;Aman;Aman
+; Tangerang;;Kresek;94;. Renged; Aman;Aman;Aman
+; Tangerang;;Kresek;95;. Talok; Aman;Aman;Aman
+; Tangerang;12;Kronjo;96;. Bakung; Aman;Aman;Aman
+; Tangerang;;Kronjo;97;. Blukbuk; Aman;Aman;Aman
+; Tangerang;;Kronjo;98;. Cirumpak; Aman;Aman;Aman
+; Tangerang;;Kronjo;99;. Kronjo; Aman;Aman;Aman
+; Tangerang;;Kronjo;100;. Muncung; Aman;Aman;Aman
+; Tangerang;;Kronjo;101;. Pagedangan Ilir; Aman;Aman;Aman
+; Tangerang;;Kronjo;102;. Pagedangan Udik; Aman;Aman;Aman
+; Tangerang;;Kronjo;103;. Pagenjahan; Aman;Aman;Aman
+; Tangerang;;Kronjo;104;. Pasilian; Siaga;Siaga;Siaga
+; Tangerang;;Kronjo;105;. Pasir; Aman;Aman;Aman
+; Tangerang;13;Kosambi;106;. Belimbing; Aman;Aman;Aman
+; Tangerang;;Kosambi;107;. Cengklong; Aman;Aman;Aman
+; Tangerang;;Kosambi;108;. Jati Mulya; Aman;Aman;Aman
+; Tangerang;;Kosambi;109;. Kosambi Timur; Aman;Aman;Aman
+; Tangerang;;Kosambi;110;. Rawa Burung; Aman;Aman;Aman
+; Tangerang;;Kosambi;111;. Rawa Rengas; Aman;Aman;Aman
+; Tangerang;;Kosambi;112;. Salembaran Jati; Aman;Aman;Aman
+; Tangerang;14;Legok;116;. Babat;Aman;Aman;Aman
+; Tangerang;;Legok;117;. Bojongkamal;Aman;Aman;Aman
+; Tangerang;;Legok;118;. Caringin;Aman;Aman;Aman
+; Tangerang;;Legok;119;. Ciangir;Aman;Aman;Aman
+; Tangerang;;Legok;120;. Cirarab;Siaga;Siaga;Siaga
+; Tangerang;;Legok;121;. Kemuning;Siaga;Siaga;Siaga
+; Tangerang;;Legok;122;. Legok ;Aman;Aman;Aman
+; Tangerang;;Legok;123;. Palasari;Aman;Aman;Aman
+; Tangerang;;Legok;124;. Rancagong;Aman;Aman;Aman
+; Tangerang;;Legok;125;. Serdang Wetan;Siaga;Siaga;Siaga
+; Tangerang;15;Mauk;127;. Banyu Asih; Aman;Aman;Aman
+; Tangerang;;Mauk;128;. Gunung Sari; Aman;Aman;Aman
+; Tangerang;;Mauk;129;. Jatiwaringin; Aman;Aman;Aman
+; Tangerang;;Mauk;130;. Kedung Dalem; Aman;Aman;Aman
+; Tangerang;;Mauk;131;. Ketapang; Aman;Aman;Aman
+; Tangerang;;Mauk;132;. Marga Mulya; Aman;Aman;Aman
+; Tangerang;;Mauk;133;. Mauk Barat; Aman;Aman;Aman
+; Tangerang;;Mauk;134;. Sasak; Aman;Aman;Aman
+; Tangerang;;Mauk;135;. Tanjung Anom; Aman;Aman;Aman
+; Tangerang;;Mauk;136;. Kunir Kidul; Aman;Aman;Aman
+; Tangerang;;Mauk;137;. Tegal Kunir Lor; Aman;Aman;Aman
+; Tangerang;16;Mekarbaru;139;. Cijeruk;Aman;Aman;Aman
+; Tangerang;;Mekarbaru;140;. Gandaria;Siaga;Siaga;Siaga
+; Tangerang;;Mekarbaru;141;. Jenggot;Aman;Aman;Aman
+; Tangerang;;Mekarbaru;142;. Kedaung;Aman;Aman;Aman
+; Tangerang;;Mekarbaru;143;. Klutuk;Aman;Aman;Aman
+; Tangerang;;Mekarbaru;144;. Kosambi Dalam;Aman;Aman;Aman
+; Tangerang;;Mekarbaru;145;. Mekarbaru;Aman;Aman;Aman
+; Tangerang;;Mekarbaru;146;. Waliwis;Aman;Aman;Aman
+; Tangerang;17;Pagedangan;147;. Cicalengka; Aman;Aman;Aman
+; Tangerang;;Pagedangan;148;. Cihuni; Aman;Aman;Aman
+; Tangerang;;Pagedangan;149;. Cijantra; Aman;Aman;Aman
+; Tangerang;;Pagedangan;150;. Jatake; Aman;Aman;Aman
+; Tangerang;;Pagedangan;151;. Kadu Sirung; Aman;Aman;Aman
+; Tangerang;;Pagedangan;152;. Karang Tenga; Aman;Aman;Aman
+; Tangerang;;Pagedangan;153;. Lengkong Kulon; Aman;Aman;Aman
+; Tangerang;;Pagedangan;154;. Malang Nengah; Aman;Aman;Aman
+; Tangerang;;Pagedangan;155;. Pagedangan; Aman;Aman;Aman
+; Tangerang;;Pagedangan;156;. Situ Gadung; Aman;Aman;Aman
+; Tangerang;18;Pakuhaji;158;. Buaran Bambu; Aman;Aman;Aman
+; Tangerang;;Pakuhaji;159;. Buaran Mangga; Aman;Aman;Aman
+; Tangerang;;Pakuhaji;160;. Bunisari; Aman;Aman;Aman
+; Tangerang;;Pakuhaji;161;. Gaga; Aman;Aman;Aman
+; Tangerang;;Pakuhaji;162;. Kalibaru; Aman;Aman;Aman
+; Tangerang;;Pakuhaji;163;. Kiara Payung; Aman;Aman;Aman
+; Tangerang;;Pakuhaji;164;. Kohod; Aman;Aman;Aman
+; Tangerang;;Pakuhaji;165;. Kramat; Aman;Aman;Aman
+; Tangerang;;Pakuhaji;166;. Laksana; Aman;Aman;Aman
+; Tangerang;;Pakuhaji;167;. Paku Alam; Aman;Aman;Aman
+; Tangerang;;Pakuhaji;168;. Rawan Boni; Aman;Aman;Aman
+; Tangerang;;Pakuhaji;169;. Sukawali; Aman;Aman;Aman
+; Tangerang;;Pakuhaji;170;. Surya Bahari; Aman;Aman;Aman
+; Tangerang;19;Panongan;172;. Ciakar; Aman;Aman;Aman
+; Tangerang;;Panongan;173;. Mekar Jaya; Aman;Aman;Aman
+; Tangerang;;Panongan;174;. Panongan; Aman;Aman;Aman
+; Tangerang;;Panongan;175;. Peusar; Siaga;Siaga;Siaga
+; Tangerang;;Panongan;176;. Ranca Iyuh; Aman;Aman;Aman
+; Tangerang;;Panongan;177;. Ranca Kalapa; Aman;Aman;Aman
+; Tangerang;;Panongan;178;. Serdang Kulon; Aman;Aman;Aman
+; Tangerang;20;Pasar Kemis;180;. Gelam Jaya; Siaga;Siaga;Siaga
+; Tangerang;;Pasar Kemis;181;. Pangadegan; Aman;Aman;Aman
+; Tangerang;;Pasar Kemis;182;. Pasar Kemis; Siaga;Siaga;Siaga
+; Tangerang;;Pasar Kemis;183;. Suka Asih; Aman;Aman;Aman
+; Tangerang;;Pasar Kemis;184;. Sukamantri; Aman;Aman;Aman
+; Tangerang;;Pasar Kemis;186;Kuta Bumi; Siaga;Siaga;Siaga
+; Tangerang;;Pasar Kemis;188;Sindang Sari; Siaga;Siaga;Siaga
+; Tangerang;21;Rajeg;189;. Daon; Aman;Aman
+; Tangerang;;Rajeg;190;. Jambu Karya; Aman;Aman
+; Tangerang;;Rajeg;191;. Lembang Sari; Aman;Aman
+; Tangerang;;Rajeg;192;. Mekarsari; Aman;Aman
+; Tangerang;;Rajeg;193;. Pangarengan; Aman;Aman
+; Tangerang;;Rajeg;194;. Rajeg; Aman;Aman
+; Tangerang;;Rajeg;195;. Rajeg Mulya;Siaga;Siaga;Siaga
+; Tangerang;;Rajeg;196;. Ranca Bango; Aman;Aman
+; Tangerang;;Rajeg;197;. Sukamanah;Siaga;Siaga;Siaga
+; Tangerang;;Rajeg;198;. Sukasari; Aman;Aman
+; Tangerang;;Rajeg;199;. Tanjakan;Siaga;Siaga;Siaga
+; Tangerang;;Rajeg;200;. Tanjakan Mekar; Aman;Aman
+; Tangerang;22;Sepatan;202;. Karet;Aman;Aman;Aman
+; Tangerang;;Sepatan;203;. Kayu Agung;Aman;Aman;Aman
+; Tangerang;;Sepatan;204;. Kayu Bangkok;Aman;Aman;Aman
+; Tangerang;;Sepatan;205;. Mekar Jaya;Aman;Aman;Aman
+; Tangerang;;Sepatan;206;. Pisangan Jaya;Aman;Aman;Aman
+; Tangerang;;Sepatan;207;. Pondok Jaya;Aman;Aman;Aman
+; Tangerang;;Sepatan;208;. SarakanAman;Aman;Aman
+; Tangerang;23;Sepatan Timur;210;. Gempol Sari; Aman;Aman;Aman
+; Tangerang;;Sepatan Timur;211;. Jati Mulya; Aman;Aman;Aman
+; Tangerang;;Sepatan Timur;212;. Kampung Kelor; Aman;Aman;Aman
+; Tangerang;;Sepatan Timur;213;. Kedung Barat; Aman;Aman;Aman
+; Tangerang;;Sepatan Timur;214;. Lebak Wangi; Aman;Aman;Aman
+; Tangerang;;Sepatan Timur;215;. Pondok Kelor; Aman;Aman;Aman
+; Tangerang;;Sepatan Timur;216;. Sangiang; Aman;Aman;Aman
+; Tangerang;;Sepatan Timur;217;. Tanah Merah; Aman;Aman;Aman
+; Tangerang;24;Sindang Jaya;218;. Badak Ambon; Siaga;Siaga;Siaga
+; Tangerang;;Sindang Jaya;219;. Sindangasih; Aman;Aman;Aman
+; Tangerang;;Sindang Jaya;220;. Sindang Jaya; Aman;Aman;Aman
+; Tangerang;;Sindang Jaya;221;. Sindang Panon; Siaga;Siaga;Siaga
+; Tangerang;;Sindang Jaya;222;. Sindangsono; Aman;Aman;Aman
+; Tangerang;;Sindang Jaya;223;. Sukaharja; Aman;Aman;Aman
+; Tangerang;;Sindang Jaya;224;. Wanakerta; Siaga;Siaga;Siaga
+; Tangerang;25;Solear;225;. Cikareao; Aman;Aman;Aman
+; Tangerang;;Solear;226;. Cikasungka; Aman;Aman;Aman
+; Tangerang;;Solear;227;. Cikuya; Aman;Aman;Aman
+; Tangerang;;Solear;228;. Cireundeu; Aman;Aman;Aman
+; Tangerang;;Solear;229;. Munjul; Aman;Aman;Aman
+; Tangerang;;Solear;230;. Pasanggrahan; Aman;Aman;Aman
+; Tangerang;;Solear;231;. Solear; Aman;Aman;Aman
+; Tangerang;26;Sukadiri;232;. Buaran Jati;Siaga;Siaga;Siaga
+; Tangerang;;Sukadiri;233;. Gintung;Aman;Aman;Aman
+; Tangerang;;Sukadiri;234;. Karang Serang;Aman;Aman;Aman
+; Tangerang;;Sukadiri;235;. Kosambi;Aman;Aman;Aman
+; Tangerang;;Sukadiri;236;. Mekar Kondang;Aman;Aman;Aman
+; Tangerang;;Sukadiri;237;. Pekayon;Aman;Aman;Aman
+; Tangerang;;Sukadiri;238;. Rawa Kidang;Aman;Aman;Aman
+; Tangerang;;Sukadiri;239;. Sukadiri;Aman;Aman;Aman
+; Tangerang;27;Sukamulya;240;. Benda; Aman;Aman;Aman
+; Tangerang;;Sukamulya;241;. Bunar; Aman;Aman;Aman
+; Tangerang;;Sukamulya;242;. Buniayu; Aman;Aman;Aman
+; Tangerang;;Sukamulya;243;. Kaliasin; Aman;Aman;Aman
+; Tangerang;;Sukamulya;244;. Kubang; Aman;Aman;Aman
+; Tangerang;;Sukamulya;245;. Merak; Aman;Aman;Aman
+; Tangerang;;Sukamulya;246;. Parahu; Siaga;Siaga;Siaga
+; Tangerang;;Sukamulya;247;. Sukamulya; Aman;Aman;Aman
+; Tangerang;28;Teluknaga;248;. Babakan Asem;Aman;Aman;Aman
+; Tangerang;;Teluknaga;249;. Bojong Renged;Aman;Aman;Aman
+; Tangerang;;Teluknaga;250;. Kampung Besar;Aman;Aman;Aman
+; Tangerang;;Teluknaga;251;. Kampung Melayu Barat;Aman;Aman;Aman
+; Tangerang;;Teluknaga;252;. Kampung Melayu;Aman;Aman;Aman
+; Tangerang;;Teluknaga;253;. Keboncau;Aman;Aman;Aman
+; Tangerang;;Teluknaga;254;. Lemo;Aman;Aman;Aman
+; Tangerang;;Teluknaga;255;. Muara;Aman;Aman;Aman
+; Tangerang;;Teluknaga;256;. Pangkalan;Siaga;Siaga;Siaga
+; Tangerang;;Teluknaga;257;. Tanjung Burung;Aman;Aman;Aman
+; Tangerang;;Teluknaga;258;. Tanjung Pasir ;Aman;Aman;Aman
+; Tangerang;;Teluknaga;259;. Tegal Angus;Aman;Aman;Aman
+; Tangerang;;Teluknaga;260;. Teluknaga;Aman;Aman;Aman
+; Tangerang;29;Tigaraksa;261;. Bantar Panjang;Aman;Aman;Aman
+; Tangerang;;Tigaraksa;262;. Cileles;Aman;Aman;Aman
+; Tangerang;;Tigaraksa;263;. Cisereh;Aman;Aman;Aman
+; Tangerang;;Tigaraksa;264;. Margasari;Siaga;Siaga;Siaga
+; Tangerang;;Tigaraksa;265;. Matagara;Siaga;Siaga;Siaga
+; Tangerang;;Tigaraksa;266;. Pasir Bolang;Aman;Aman;Aman
+; Tangerang;;Tigaraksa;267;. Pasir Nangka;Siaga;Siaga;Siaga
+; Tangerang;;Tigaraksa;268;. Pematang;Siaga;Siaga;Siaga
+; Tangerang;;Tigaraksa;269;. Bantar Panjang;Aman;Aman;Aman
+; Tangerang;;Tigaraksa;270;. Sodong;Siaga;Siaga;Siaga
+; Tangerang;;Tigaraksa;271;. Tapos;Aman;Aman;Aman
+; Tangerang;;Tigaraksa;272;. Tegalsari;Aman;Aman;Aman
+; Tangerang;;Tigaraksa;273;Kadu Adung;Siaga;Siaga;Siaga
+6;Tangerang;1;Batu Ceper;1;Batu Ceper;Siaga;Siaga;Siaga
+;Tangerang;;Batu Ceper;2;Batu Jaya;Siaga;Siaga;Siaga
+;Tangerang;;Batu Ceper;3;Poris Gaga;Siaga;Siaga;Siaga
+;Tangerang;;Batu Ceper;4;Batu Sari;Aman;Aman;Aman
+;Tangerang;;Batu Ceper;5;Kebon Besar;Aman;Aman;Aman
+;Tangerang;;Batu Ceper;6;Poris Gaga Baru;Aman;Aman;Aman
+;Tangerang;;Batu Ceper;7;Poris Jaya;Aman;Aman;Aman
+;Tangerang;;Cibodas;14;Panungganganbarat;Siaga;Siaga;Siaga
+;Tangerang;;Karang Tengah;48;Pedurenan;Aman;Aman;Aman
+;Tangerang;;Neglasari;78;Karangsari;Aman;Aman;Aman
+;Tangerang;;Tangerang;100;Suka Asih;Siaga;Siaga;Siaga
+7;Tangerang Selatan;1;Serpong;1;Rawa Buntu;Siaga;Siaga;Siaga
+;Tangerang Selatan;;Serpong;7;Rawa Mekar Jaya;Siaga;Siaga;Siaga
+;Tangerang Selatan;;Pamulang;21;Bambu Apus;Siaga;Siaga;Siaga
+;Tangerang Selatan;;Ciputat Timur;34;Cirendeu;Siaga;Siaga;Siaga
+;Tangerang Selatan;;Pondok Aren;39;Perigi;Siaga;Siaga;Siaga
+;Tangerang Selatan;;Pondok Aren;40;Jurang Mangu Barat;Siaga;Siaga;Siaga
+;Tangerang Selatan;;Pondok Aren;41;Jurang Mangu Timur;Siaga;Siaga;Siaga
+;Tangerang Selatan;;Pondok Aren;46;Perigi Baru;Aman;Aman;Aman
+;Tangerang Selatan;7;Serpong Utara;48;Paku Jaya;Siaga;Siaga;Siaga
+;Tangerang Selatan;;Serpong Utara;53;Paku Alam;Aman;Aman;Aman
+;Cilegon;;Cibeber;5;Karangasem;Aman;Aman;Aman
+;Cilegon;;Citangkil;13;Deringo;Aman;Aman;Aman
+;Cilegon;;Citangkil;15;Lebakdenok;Aman;Aman;Aman
+;Cilegon;;Citangkil;17;Tamanbaru;Aman;Aman;Aman
+;Cilegon;4;Ciwandan;19;Banjarnegara;Aman;Aman;Aman
+;Cilegon;;Ciwandan;20;Gunungsugih;Aman;Aman;Aman
+;Cilegon;5;Grogol;25;Gerem;Aman;Aman;Aman
+;Cilegon;;Grogol;26;Grogol;Aman;Aman;Aman
+;Cilegon;;Grogol;27;Kotasari;Aman;Aman;Aman
+;Cilegon;;Grogol;28;Rawaarum;Aman;Aman;Aman
+;Cilegon;6;Jombang;29;Gedongdalem;Aman;Aman;Aman
+;Cilegon;7;Pulomerak;34;Lebak Gede;Aman;Aman;Aman
+;Cilegon;8;Purwakarta;38;Kebondalerm;Siaga;Siaga;Siaga

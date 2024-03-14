@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Email Data Akun</title>
+    <style>
+        main p {
+            margin-bottom: 3px;
+        }
+
+        main ul li span.label {
+            font-weight: bold;
+            width: 100px;
+            display: inline-block;
+        }
+
+        main ul li span.value {
+
+        }
+    </style>
+</head>
+
+<body>
+    <main>
+        <h1>Halo {{ user.first_name }} {{ user.last_name|default:'' }}!</h1>
+        <p>Informasi ini dibuat secara otomatis oleh sistem dari Aplikasi Kawasan Rawan sebagai pengingat mengenai data
+            akun
+            anda, berikut merupakan data dari akun anda!</p>
+        <hr>
+        <ul>
+            <li><span class="label"><b>Email</b> </span> : <span class="value">{{ user.email }}</span></li>
+            <li><span class="label"><b>Username</b> </span> : <span class="value">{{ user.username }}</span></li>
+            <li><span class="label"><b>Password</b> </span> : <span class="value">{{ password }}</span></li>
+        </ul>
+        <hr>
+        <p>Silahkan masuk ke aplikasi <a href="http:/103.210.54.17:8003/accounts/login/">Kawasan Rawan</a> dengan menggunakan data kredensials diatas, dan ganti password akun
+            ada di <a href="http://103.210.54.17:8003/dashboard/keamanan/">halaman keamanan</a>, terimakasih</p>
+    </main>
+</body>
+
+</html>

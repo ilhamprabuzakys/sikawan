@@ -1,0 +1,30 @@
+{% extends "home/base_home.html" %}
+{% load static %}
+
+{% block title %} Beranda {% endblock title %}
+
+{% block content %}
+
+{% now "Y" as current_year %}
+<div class="container col-xxl-8 px-4">
+    <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
+        <div id="main_logo" data-aos="fade-left" class="col-10 col-sm-8 col-lg-6">
+            <img src="{% static 'assets/images/icon.png' %}" class="d-block mx-lg-auto img-fluid"
+                alt="Website Main Logo" width="500" height="400" loading="eager">
+        </div>
+        <div id="main_info" data-aos="fade-right" class="col-lg-6">
+            <h1 id="main_title" class="display-5 fw-bold text-body-emphasis lh-1 mb-3">Kawasan Rawan</h1>
+            <p id="main_description" class="mt-3 mb-4">Merupakan aplikasi dari Direktorat Pemberdayaan Alternatif untuk <b>memonitoring</b>
+                kawasan BNNP
+                dan BNNK di
+                seluruh Indonesia beserta <b>status kerawanan</b> nya.</p>
+            <div id="main_goto_link" class="d-grid gap-2 d-md-flex justify-content-md-start">
+                <a href="{% url 'home:kawasan_rawan' %}" class="btn btn-success btn-md px-4"><i
+                        class="fas fa-sign-in-alt me-2"></i>
+                    Kunjungi Kawan
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock content %}

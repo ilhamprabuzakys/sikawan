@@ -1,0 +1,99 @@
+{% load static %}
+{% now "Y" as current_year %}
+<header class="mb-5">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-success">
+        <div class="container">
+            <a class="navbar-brand" href="/">
+                {% comment %} <i class="fas fa-user-friends fa-sm me-3"></i> {% endcomment %}
+                <img src="{% static 'assets/images/icon.png' %}" alt="Main logo" width="60" height="50">
+                <span class="logo-text">Kawasan Rawan</span>
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link {% if request.path == '/' %}active{% endif %}" href="/">Beranda</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link {% if '/kawasan-rawan/' in request.path %}active{% endif %}"
+                        href="{% url 'home:kawasan_rawan' %}">Data Kawasan Rawan</a>
+                        {% comment %} <a class="nav-link {% if '/kawasan-rawan/' in request.path %}active{% endif %}"
+                        href="{% url 'home:kawasan_rawan' %}?tahun={{ current_year|add:"-1" }}">Data Kawasan Rawan</a> {% endcomment %}
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle {% if '/info/' in request.path %} active {% endif %}"
+                            href="javascript:void(0)" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            Info
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li><a class="dropdown-item {% if '/info/faq/' in request.path %} active {% endif %}"
+                                    href="{% url 'home:info_faq' %}">FAQ</a></li>
+                            <li><a class="dropdown-item {% if '/info/media-sosial/' in request.path %} active {% endif %}"
+                                    href="{% url 'home:info_media_sosial' %}">Media Sosial</a></li>
+                            <li><a class="dropdown-item {% if '/info/literasi/' in request.path %} active {% endif %}"
+                                    href="{% url 'home:info_literasi' %}">Literasi</a></li>
+                        </ul>
+                    </li>
+                    {% if user.is_authenticated %}
+                    {% if user.is_superuser %}
+                    <li class="nav-item">
+                        <a class="nav-link" href="/admin">Admin</a>
+                    </li>
+                    {% endif %}
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="javascript:;" role="button" data-bs-toggle="dropdown"
+                            aria-expanded="false"><img src="{{ user.profile.get_avatar }}" alt=""
+                                class="avatar rounded-circle mx-2" style="width: 30px; height: 30px;" />
+                            {{ user.username }}</a>
+                        <ul class="dropdown-menu">
+                            {% if user.profile.is_verified and user.profile.satker %}
+                            <li>
+                                <a class="dropdown-item" href="{% url 'dashboard:index' %}">
+                                    <i class="fas fa-computer me-2"></i>
+                                    Kembali ke dashboard
+                                </a>
+                            </li>
+                            <li>
+                                <hr class="dropdown-divider">
+                            </li>
+                            {% endif %}
+                            {% if user.is_staff and not user.is_superuser %}
+                            <li>
+                                <a class="dropdown-item" href="{% url 'dashboard:profil_saya' %}">
+                                    <i class="fas fa-user me-2"></i>
+                                    Profil saya
+                                </a>
+                                <a class="dropdown-item" href="{% url 'dashboard:keamanan' %}">
+                                    <i class="fas fa-lock me-2"></i>
+                                    Keamanan
+                                </a>
+                            </li>
+                            <li>
+                                <hr class="dropdown-divider">
+                            </li>
+                            {% endif %}
+                            <li>
+                                <a class="dropdown-item" href="javascript:void(0)" data-bs-toggle="modal"
+                                    data-bs-target="#logoutModal">
+                                    <i class="fas fa-sign-in-alt fa-sm me-2"></i>
+                                    Keluar
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
+                    {% else %}
+                    <li class="nav-item sign-in ms-1">
+                        <a class="nav-link {% if request.path == '/accounts/login/' %}active{% endif %}"
+                            href="/accounts/login">
+                            <i class="fas fa-sign-in fa-sm me-2"></i>Masuk
+                        </a>
+                    </li>
+                    {% endif %}
+                </ul>
+            </div>
+        </div>
+    </nav>
+</header>

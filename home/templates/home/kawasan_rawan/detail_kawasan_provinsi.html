@@ -1,0 +1,232 @@
+{% extends "home/base_home.html" %}
+{% load static %}
+
+{% block title %} {{ provinsi }} - Info Kawasan Rawan {% endblock title %}
+{% block container %} container-fluid {% endblock container %}
+
+{% block vue %}
+{% include "home/plugins/vue.html" %}
+{% endblock vue %}
+
+{% block head %}
+{% include "home/plugins/leaflet.html" %}
+<link rel="stylesheet" href="{% static 'home/kawasan_rawan/css/map_kawan.css' %}">
+{% endblock head %}
+
+{% block content %}
+<section id="info_kawan" class="px-0" data-aos="fade-up">
+
+    <div class="container">
+        <section class="row align-items-center justify-content-center g-5 pt-5 pb-0" id="heading">
+            <div class="col-lg-2">
+                <img src="{% static 'assets/images/icon.png' %}" class="d-block mx-lg-auto img-fluid" alt="Main logo"
+                    width="500" height="400" loading="eager" title="Main logo">
+            </div>
+            <div class="col-lg-8">
+                <h1 class="display-5 fw-bold text-body-emphasis lh-1 mb-3">Kawasan Rawan untuk provinsi <br>{{ provinsi }} {{ tahun }}</h1>
+                <p class="mt-3">
+                    Berikut daftar kawasan rawan untuk provinsi <b>{{ provinsi }}</b> tahun <b>{{ tahun }}</b> yang ada di seluruh
+                    daerah di Indonesia beserta informasi terkait status <b>kerawanannya</b> yang anda dapat lihat
+                    melalui poin-poin yang ada di map.</p>
+            </div>
+        </section>
+
+        {% comment %} {% include "home/kawasan_rawan/partials/search_bar.html" %} {% endcomment %}
+    </div>
+
+    <section id="data_map" class="px-5">
+        <div class="row align-items-start justify-content-between py-3 g-3">
+            <div class="col-lg-12">
+                <div id="map"></div>
+            </div>
+        </div>
+    </section>
+
+</section>
+{% endblock content %}
+
+{% block scripts %}
+<script>
+    const app = Vue.createApp({
+        data() {
+            return {
+                map: null,
+                waspada: null,
+                bahaya: null,
+                siaga: null,
+                layerControl: null,
+                alreadyZoomedIn: false,
+                prov: parseInt('{{ provinsi.pk }}'),
+                tahun: parseInt('{{ tahun }}'),
+
+                done: false,
+
+                color: {
+                    'bahaya' : '#ff0019',
+                    'waspada' : '#ffc107',
+                    'siaga' : '#033dfc',
+                    'aman' : '#03fc2c',
+                }
+            };
+        },
+        async mounted() {
+            this.initializeMap();
+
+            await this.loadWilayah();
+            
+            this.bahaya.addTo(this.map).on('click', this.markerOnClick);
+            this.layerControl.addOverlay(this.bahaya,'Bahaya');
+            
+            this.waspada.addTo(this.map).on('click', this.markerOnClick);
+            this.layerControl.addOverlay(this.waspada,'Waspada');
+            
+            // await sleep(3000);
+
+            this.siaga.addTo(this.map).on('click', this.markerOnClick);
+            this.layerControl.addOverlay(this.siaga,'Siaga');
+
+            this.aman.addTo(this.map).on('click', this.markerOnClick);
+            this.layerControl.addOverlay(this.aman,'Aman');
+            
+        },
+        methods: {
+            initializeMap() {
+                console.log('Tahun : ', this.tahun);
+                console.log('ID Provinsi : ', this.prov);
+
+                this.map = L.map('map', {
+                    gestureHandling: false,
+                    maxZoom: 19,
+                    minZoom: 5,
+                }).setView([-2.548926, 118.0148634], 5);
+
+                this.getLayers();
+            },
+            async loadWilayah() {
+                // this.map.spin(true);
+                const args = `?prov=${this.prov}&tahun=${this.tahun}`
+                await this.loadGeoJSON("/dashboard/masters/api/v1/kawasan_rawan/map_bahaya/" + args, 'bahaya');
+                await this.loadGeoJSON("/dashboard/masters/api/v1/kawasan_rawan/map_waspada/" + args, 'waspada');
+                await this.loadGeoJSON("/dashboard/masters/api/v1/kawasan_rawan/map_siaga/" + args, 'siaga');
+                await this.loadGeoJSON("/dashboard/masters/api/v1/kawasan_rawan/map_aman/" + args, 'aman');
+                // this.map.spin(false);
+                this.done = true;
+            },
+            async loadGeoJSON(url, type) {
+                try {
+                    const startTime = performance.now(); // Start time measurement
+                    const response = await axios.get(url, { withCredentials: true });
+                    const fetchingTime = performance.now() - startTime; // Calculate fetching time
+
+                    const geoJSON = response.data;
+                    let color = '';
+
+                    const colorMapping = {
+                        'bahaya': this.color.bahaya,
+                        'waspada': this.color.waspada,
+                        'siaga': this.color.siaga,
+                        'aman': this.color.aman
+                    };
+                      
+                    color = colorMapping[type] || '#fff';
+                      
+
+                    const layer = L.geoJSON(geoJSON, {
+                        style: {
+                            "color": color,
+                            "weight": 2,
+                            "opacity": 0.65
+                        },
+                        onEachFeature: function(feature, layer) {
+                            console.log(feature, layer)
+            
+                            let popupContent = `
+                            Desa <b>${feature.properties.desa}</b><br/>
+                            Kecamatan <b>${feature.properties.kecamatan}</b><br/>
+                            Kabupaten/Kota <b>${feature.properties.kabupaten}</b><br/>
+                            Provinsi <b>${feature.properties.propinsi}</b>`;
+            
+                            if (feature.properties && feature.properties.popupContent) {
+                                popupContent += feature.properties.popupContent;
+                            }
+            
+                            layer.bindPopup(popupContent);
+                        },
+                    });
+
+                    if (type === 'bahaya') {
+                        this.bahaya = layer;
+                    } else if (type === 'waspada') {
+                        this.waspada = layer;
+                    } else if (type === 'siaga') {
+                        this.siaga = layer;
+                    } else if (type === 'aman') {
+                        this.aman = layer;
+                    }
+
+                    if (!this.alreadyZoomedIn && layer != []) {
+                        const bounds = layer.getBounds();
+                        // const zoom = this.map.getBoundsZoom(bounds);
+                        const zoom = this.map.getZoom() + 7;
+                        const south_west = this.map.project(bounds.getSouthWest(), zoom);
+                        const north_west = this.map.project(bounds.getNorthEast(), zoom);
+                        const center = this.map.unproject(south_west.add(north_west).divideBy(2), zoom);
+                        this.map.flyTo(center, zoom);
+
+                        this.alreadyZoomedIn = true;
+
+                        console.log('Map was zoomed in to :', type)
+                    }
+
+                    console.log(`DONE : Fetching ${type} w/ time: ${fetchingTime.toFixed(2)}ms`); // Output with fetching time
+                } catch (error) {
+                    console.error('Terjadi Kesalahan :', error);
+                }
+            },
+            getLayers() {
+                const google_layer = L.tileLayer('https://{s}.google.com/vt/lyrs=m&x={x}&y={y}&z={z}', {
+                    maxZoom: 20,
+                    subdomains: ['mt0', 'mt1', 'mt2', 'mt3']
+                });
+
+                const osm_layer = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png');
+
+                const mapbox_layer = L.tileLayer(
+                    'https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoiaXJmYW5wdWxlIiwiYSI6ImNqdnpxbHFvbzAzM3UzeWxrcWtkbTVhamIifQ.TJM77G3WOEIOIYzk_IiWKQ', {
+                        maxZoom: 18,
+                        attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, ' +
+                            '<a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
+                            'Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
+                        id: 'mapbox/streets-v11',
+                        tileSize: 512,
+                        zoomOffset: -1,
+                    })
+
+                const esri_world_imagery_layer = L.tileLayer(
+                    'https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
+                        attribution: 'Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community'
+                    });
+
+                const layers = {
+                    'Default': osm_layer,
+                    'MapBox': mapbox_layer,
+                    'Google Maps': google_layer,
+                    'Realistis': esri_world_imagery_layer,
+                };
+
+                this.layerControl = L.control.layers(layers).addTo(this.map);
+                google_layer.addTo(this.map);
+            },
+            markerOnClick(e) {
+                let zoom = this.map.getZoom();
+
+                if (zoom < 12) zoom++
+                if (!zoom == 12) {
+                    console.log('Zoomed in to :', zoom)
+                    // this.map.flyTo(e.latlng, zoom);
+                }
+            }
+        }
+    }).mount('#app');
+</script>
+{% endblock scripts %}

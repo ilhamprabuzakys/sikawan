@@ -1,0 +1,82 @@
+﻿1;Pangkal pinang;1;Bukit Intan;1;Air Itam;SIAGA;WASPADA
+;Pangkal pinang;;Bukit Intan;2;Air Mawar;SIAGA;AMAN
+;Pangkal pinang;;Bukit Intan;3;Bacang;SIAGA;WASPADA
+;Pangkal pinang;;Bukit Intan;4;Pasir Putih;WASPADA;SIAGA
+;Pangkal pinang;;Bukit Intan;5;Semabung Lama;SIAGA;WASPADA
+;Pangkal pinang;;Bukit Intan;6;Sinar Bulan;SIAGA;WASPADA
+;Pangkal pinang;;Bukit Intan;7;Temberan;SIAGA;WASPADA
+;Pangkal pinang;2;Taman Sari;1;Batin Tikal;AMAN;SIAGA
+;Pangkal pinang;;Taman Sari;2;Gedung Nasional;AMAN;SIAGA
+;Pangkal pinang;;Taman Sari;3;Kejaksaan;AMAN;SIAGA
+;Pangkal pinang;;Taman Sari;4;Opas Indah;AMAN;WASPADA
+;Pangkal pinang;;Taman Sari;5;Rawa Bangun;AMAN;AMAN
+;Pangkal pinang;3;Pangkal Balam;1;Ampui;WASPADA;SIAGA
+;Pangkal pinang;;Pangkal Balam;2;Ketapang;WASPADA;SIAGA
+;Pangkal pinang;;Pangkal Balam;3;Lontong Pancur;WASPADA;WASPADA
+;Pangkal pinang;;Pangkal Balam;4;Pasir Garam;SIAGA;AMAN
+;Pangkal pinang;;Pangkal Balam;5;Rejosari;SIAGA;SIAGA
+;Pangkal pinang;4;Rangkui;1;Asam;SIAGA;WASPADA
+;Pangkal pinang;;Rangkui;2;Bintang;SIAGA;AMAN
+;Pangkal pinang;;Rangkui;3;Gajah Mada;SIAGA;SIAGA
+;Pangkal pinang;;Rangkui;4;Keramat;SIAGA;WASPADA
+;Pangkal pinang;;Rangkui;5;Masjid Jamik;SIAGA;AMAN
+;Pangkal pinang;;Rangkui;6;Melintang;SIAGA;WASPADA
+;Pangkal pinang;;Rangkui;7;Parit Lalang;SIAGA;WASPADA
+;Pangkal pinang;;Rangkui;8;Pintu Air;WASPADA;WASPADA
+;Pangkal pinang;5;Gerunggang;1;Air Kepala Tujuh;SIAGA;WASPADA
+;Pangkal pinang;;Gerunggang;2;Bukit Merapin;SIAGA;WASPADA
+;Pangkal pinang;;Gerunggang;3;Bukit Sari;SIAGA;WASPADA
+;Pangkal pinang;;Gerunggang;4;Kacang Pedang;SIAGA;WASPADA
+;Pangkal pinang;;Gerunggang;5;Taman Bunga;SIAGA;WASPADA
+;Pangkal pinang;;Gerunggang;6;Tua Tunu;WASPADA;WASPADA
+;Pangkal pinang;6;Gabek;1;muntokAir Salemba;SIAGA;AMAN
+;Pangkal pinang;;Gabek;2;muntokGabek Dua;SIAGA;WASPADA
+;Pangkal pinang;;Gabek;3;muntokGabek Satu;SIAGA;WASPADA
+;Pangkal pinang;;Gabek;4;muntokJerambah Gantung;SIAGA;SIAGA
+;Pangkal pinang;;Gabek;5;muntokSelindung;SIAGA;WASPADA
+;Pangkal pinang;;Gabek;6;muntokSelindung Baru;SIAGA;SIAGA
+;Pangkal pinang;7;Girimaya;1;muntokBukit Besar;AMAN;WASPADA
+;Pangkal pinang;;Girimaya;2;muntokBukit Intan;AMAN;WASPADA
+;Pangkal pinang;;Girimaya;3;muntokPasar Padi;SIAGA;AMAN
+;Pangkal pinang;;Girimaya;4;muntokSemabung Baru;SIAGA;SIAGA
+;Pangkal pinang;;Girimaya;5;muntokSriwijaya;AMAN;SIAGA
+2;Bangka Barat;1;muntok;1;Air Belo;WASPADA;AMAN
+;Bangka Barat;;muntok;2;Air Limau;WASPADA;SIAGA
+;Bangka Barat;;muntok;3;Air Putih;WASPADA;WASPADA
+;Bangka Barat;;muntok;4;Belo Laut;WASPADA;WASPADA
+;Bangka Barat;;muntok;5;Sungai Baru;WASPADA;WASPADA
+;Bangka Barat;;muntok;6;Sungai Daeng;WASPADA;WASPADA
+;Bangka Barat;;muntok;7;Tanjung;SIAGA;WASPADA
+;Bangka Barat;;muntok;8;Keranggan;-;SIAGA
+;Bangka Barat;;muntok;9;Menjelang;-;WASPADA
+;Bangka Barat;3;Kelapa;1;Kelapa;WASPADA;AMAN
+;Bangka Barat;;Kelapa;13;Tunggang;SIAGA;AMAN
+;Bangka;;Sungailiat;5;Kudai;WASPADA;WASPADA
+;Bangka;;Merawang;2;Balun ijuk;WASPADA;AMAN
+;Bangka;;Merawang;4;Dwi Makmur;SIAGA;AMAN
+4;Bangka Tengah;1;Koba;1;Guntung;SIAGA;AMAN
+;Bangka Tengah;;Koba;3;Kurau (Timur);SIAGA;SIAGA
+;Bangka Tengah;;Koba;6;Terentang III;SIAGA;AMAN
+;Bangka Tengah;;Namang;2;Bhaskara Bhakti;SIAGA;AMAN
+;Bangka Tengah;;Pangkalan Baru;11;Tanjung Gunung;WASPADA;SIAGA
+;Bangka Tengah;;Sungai Selan;9;Romadhon;SIAGA;AMAN
+;Bangka Selatan;;Toboali;9;Tanjung;WASPADA;WASPADA
+;Bangka Selatan;;Toboali;10;Teladan;WASPADA;WASPADA
+;Bangka Selatan;;Toboali;11;Toboali;WASPADA;WASPADA
+;Bangka Selatan;2;Air Gegas;1;Airbara;SIAGA;SIAGA
+;Bangka Selatan;4;PulauBesar;1;Batu Betumpang;AMAN;AMAN
+;Bangka Selatan;;PulauBesar;2;Pajar Indah;AMAN;AMAN
+;Bangka Selatan;;PulauBesar;3;Panca Tunggal;AMAN;AMAN
+;Bangka Selatan;;PulauBesar;4;Sukajaya;AMAN;SIAGA;
+;Bangka Selatan;;PulauBesar;5;Sumber Jaya Permai;AMAN;AMAN
+;Bangka Selatan;;Simpang Rimba;3;Jelutung II;WASPADA;SIAGA
+;Bangka Selatan;;Lepar Pongok;3;TanjungLabu;SIAGA;AMAN
+;Bangka Selatan;;Lepar Pongok;4;TanjungSangkar;AMAN;SIAGA
+;Bangka Selatan;8;Kepulauan Pongok;1;Celagen;AMAN;AMAN
+;Bangka Selatan;;kepulauan Pongok;2;Pongok;SIAGA;AMAN
+;Belitung;;Tanjung Pandan;4;PangkalLalang;SIAGA;WASPADA
+;Belitung;;Tanjung Pandan;6;Tanjung pandan;WASPADA;AMAN
+;Belitung;;Membalong;12;TanjungRusa;AMAN;AMAN
+;Belitung;;Sijuk;9;Tanjung Binga;AMAN;AMAN
+;Belitung Timur;;Gantung;5;Lilangan;AMAN;AMAN
+;Belitung Timur;7;Simpang Renggiang;1;Aik Madu;AMAN;AMAN

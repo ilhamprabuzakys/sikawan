@@ -1,0 +1,594 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <base target="_top">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Kawasan Rawan Narkoba</title>
+
+    <link rel="shortcut icon" type="image/x-icon" href="docs/images/favicon.ico" />
+
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+        integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+        integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"
+        integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g=="
+        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css"
+        integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-Fy6S3B9q64WdZWQUiU+q4/2Lc9npb8tCaSX9FK7E8HnRr0Jz8D6OP9dO5Vg3Q9ct" crossorigin="anonymous">
+    </script>
+    <script src="/static/assets/js/leaflet.time.js"></script>
+    <script src="/static/assets/js/spin.js"></script>
+    <script src="/static/assets/js/leaflet.spin.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/knockout/3.5.0/knockout-min.js"></script>
+    <style>
+        html,
+        body {
+            height: 100%;
+            margin: 0;
+        }
+
+        .leaflet-container {
+            height: 800px;
+            width: 100%;
+            max-width: 100%;
+            max-height: 100%;
+        }
+
+        .bloc,
+        aside {
+            color: white;
+            background: #4e42f5;
+            padding: 0.5rem;
+            width: 100px;
+        }
+
+        .bloc_danger {
+            color: white;
+            background: #f54e42;
+            padding: 0.5rem;
+            width: 100px;
+        }
+
+        .bloc.wide {
+            width: 460px;
+        }
+    </style>
+
+    <script>
+        L.HtmlOverlay = L.Layer.extend({
+            /*
+            en gros une copie modifiÃ©e de ImageOverlay
+            avec quand-mÃªme pas mal de soucis avec le scale du html
+            qui ne suit pas tout seul...
+            */
+
+            options: {
+                interactive: false,
+                zIndex: 1,
+                className: '',
+                idName: '',
+                zoom: '' // le niveau de zoom ou la div est affichÃ© Ã  l'Ã©chelle 1
+            },
+
+            initialize: function (code, coords, options) { // (String, LatLngBounds, Object)
+                this._code = code; // code brut
+
+                // astuce : on fournit une seule coordonnÃ©e
+                // this._bounds = L.latLngBounds(bounds);
+                this._bounds = L.latLngBounds([coords, coords]);
+                //console.log(this._bounds);
+                L.setOptions(this, options);
+
+                // scale de dÃ©part 1, au niveau de zoom actuel...
+                this._scale = 1;
+            },
+
+            // precious tool for moving around the htmlOverlay
+            // with only one set of coords
+            setLatLng: function (coords) {
+                this.setBounds(L.latLngBounds([coords, coords]));
+            },
+
+            onAdd: function () {
+                if (!this._dom) {
+                    this._initDom();
+                }
+
+                if (this.options.interactive) {
+                    L.DomUtil.addClass(this._dom, 'leaflet-interactive');
+                    this.addInteractiveTarget(this._dom);
+                }
+
+                this.getPane().appendChild(this._dom);
+                this._reset();
+
+                // zoom natif courant si pas indiquÃ©
+                if (this.options.zoom === '') this.options.zoom = this._map.getZoom();
+
+                // ok, par rapport au zoom natif il faudrait un scale de dÃ©part de...
+                this._scale = this._map.getZoomScale(this._map.getZoom(), this.options.zoom);
+
+                // on applique donc ce coef dÃ¨s maintenant, Ã§a servira de base de calcul par la suite
+                this._inner.style.transform = "scale(" + this._scale + ")";
+
+                // important : pdt le zoom il y a un scale css,
+                // mais Ã  la fin du zoom il est retirÃ©
+                // il faut le rÃ©tablir sur le contenu html seulement
+                this._map.on('zoomend', this._rescaleInnerHtml, this);
+            },
+
+            _rescaleInnerHtml() { // Ã  la fin du zoom on applique un scale Ã  l'intÃ©rieur
+                this._scale *= this._rescale;
+                this._inner.style.transform = "scale(" + this._scale + ")";
+            },
+
+            onRemove: function () {
+                // retirer l'Ã©coute du zoom
+                this._map.off('zoomend', this._rescaleInnerHtml, this);
+
+                L.DomUtil.remove(this._dom);
+                if (this.options.interactive) {
+                    this.removeInteractiveTarget(this._dom);
+                }
+            },
+
+            _initDom: function () {
+                // crea d'une div qui va contenir notre code html
+                var dom = L.DomUtil.create('div', 'leaflet-html-layer');
+
+                // Ã§a c'est comme ImageOverlay
+                if (this._zoomAnimated) {
+                    L.DomUtil.addClass(dom, 'leaflet-zoom-animated');
+                }
+                if (this.options.className) {
+                    L.DomUtil.addClass(dom, this.options.className);
+                }
+
+                dom.onselectstart = function () {
+                    return false;
+                };
+                dom.onmousemove = function () {
+                    return false;
+                };
+
+                if (this.options.zIndex) {
+                    this._updateZIndex();
+                }
+
+                // ok c'est lÃ  qu'on injecte le code html
+                dom.innerHTML = this._code;
+
+                this._dom = dom;
+                this._dom.style.position = "relative";
+
+                // avec des rÃ©glages css pour Ã©viter des soucis...
+                this._inner = this._dom.childNodes[0]; // un seul noeud
+                this._inner.style.position = "absolute";
+                this._inner.style.left = 0;
+                this._inner.style.top = 0;
+                this._inner.style['transform-origin'] = 'left top';
+            },
+
+
+            _animateZoom: function (e) {
+
+                var scale = this._map.getZoomScale(e.zoom),
+                    offset = this._map._latLngBoundsToNewLayerBounds(this._bounds, e.zoom, e.center).min;
+
+                L.DomUtil.setTransform(this._dom, offset, scale);
+
+                // _animateZoom() est lancÃ©e en dÃ©but de zoom
+                // on aura besoin du coef de scale Ã  la fin...
+                this._rescale = scale;
+            },
+
+
+            // la suite est une copie Ã  peine modifiÃ©e de ImageOverlay
+            bringToFront: function () {
+                if (this._map) {
+                    L.DomUtil.toFront(this._dom);
+                }
+                return this;
+            },
+            bringToBack: function () {
+                if (this._map) {
+                    L.DomUtil.toBack(this._dom);
+                }
+                return this;
+            },
+            getElement: function () {
+                return this._dom;
+            },
+
+            _reset: function () {
+                var dom = this._dom,
+                    bounds = new L.Bounds(
+                        this._map.latLngToLayerPoint(this._bounds.getNorthWest()),
+                        this._map.latLngToLayerPoint(this._bounds.getSouthEast())),
+                    size = bounds.getSize();
+                //console.log(bounds);
+                //console.log(this._bounds);
+
+                L.DomUtil.setPosition(dom, bounds.min);
+
+                dom.style.width = size.x + 'px';
+                dom.style.height = size.y + 'px';
+                //dom.style.width  = '100px';
+                //dom.style.height = '100px';
+            },
+            _updateZIndex: function () {
+                if (this._dom && this.options.zIndex !== undefined && this.options.zIndex !== null) {
+                    this._dom.style.zIndex = this.options.zIndex;
+                }
+            },
+            _overlayOnError: function () {
+                this.fire('error');
+            },
+
+            // copie extacte de ImageOverlay
+            setBounds: function (bounds) {
+                this._bounds = L.latLngBounds(bounds);
+
+                if (this._map) {
+                    this._reset();
+                }
+                return this;
+            },
+            getEvents: function () {
+                var events = {
+                    zoom: this._reset,
+                    viewreset: this._reset
+                };
+
+                if (this._zoomAnimated) {
+                    events.zoomanim = this._animateZoom;
+                }
+
+                return events;
+            },
+            setZIndex: function (value) {
+                this.options.zIndex = value;
+                this._updateZIndex();
+                return this;
+            },
+            getBounds: function () {
+                return this._bounds;
+            }
+
+        });
+
+        //  shorthand method
+        L.htmlOverlay = function (code, bounds, options) {
+            return new L.HtmlOverlay(code, bounds, options);
+        }
+
+
+
+        // Bonus : jQuery mini-library !
+
+        // only usable if you linked the jQuery library in your HTML document...
+        if (typeof $ != 'undefined') {
+
+            $.fn.htmlOverlay = function (coords, options) {
+                if (typeof options == 'undefined') {
+                    options = {};
+                }
+
+                var layers = [];
+
+                $(this).each(function (i) {
+                    // console.log("i", i);
+
+                    var code = $(this)[0].outerHTML;
+
+                    // zoom d'origine via code html : data-zoom="15"
+                    if ($(this).data('zoom')) {
+                        options.zoom = $(this).data('zoom');
+                    }
+                    // position via code html : data-pos="1.54, 48.25"
+                    if ($(this).data('pos')) {
+                        coords = $(this).data('pos').replace(' ', '').split(',');
+                    }
+                    //console.log("coords", coords);
+                    // console.log("code", code);
+
+                    // on retire le bloc html d'origine
+                    $(this).remove();
+
+                    // on retourne le nouveau layer Leaflet
+                    layers.push(L.htmlOverlay(code, coords, options));
+
+                });
+
+                if (layers.length > 1) {
+                    // on retourne un groupe de markers
+                    return L.layerGroup(layers);
+
+                } else if (layers.length == 1) {
+                    // on retourne juste le layer
+                    return layers[0];
+
+                } else {
+                    // aucun layer Ã  renvoyer !
+                    console.log("No html element to inject in map !");
+                    return {};
+                }
+            };
+
+        }
+    </script>
+
+</head>
+
+<body>
+
+    <div id='map'></div>
+    <section class="contents">
+        <div id="d11" class="bloc" data-pos="10.8680000,92.7470000">
+        </div>
+        <div id="d12" class="bloc" data-pos="6.6650000, 104.8100000">
+        </div>
+        <div id="d13" class="bloc" data-pos="0.6150000, 91.6260000">
+        </div>
+        <div id="d14" class="bloc" data-pos="4.4780000, 91.4500000">
+        </div>
+        <div id="d15" class="bloc" data-pos="-3.5570000, 91.2740000">
+        </div>
+        <div id="d16" class="bloc" data-pos="-7.9070000, 91.6700000">
+        </div>
+        <div id="d17" class="bloc" data-pos="-9.1890000, 97.9540000">
+        </div>
+        <div id="d18" class="bloc" data-pos="-12.38300000, 91.58200000">
+        </div>
+        <div id="d19" class="bloc" data-pos="10.1850000, 100.1510000">
+        </div>
+        <div id="d21" class="bloc" data-pos="6.5770000, 99.3600000">
+        </div>
+        <div id="d31" class="bloc" data-pos="-9.050000, 104.1940000">
+        </div>
+        <div id="d32" class="bloc" data-pos="-13.8380000,109.0280000">
+        </div>
+        <div id="d33" class="bloc" data-pos="-10.1420000,109.1600000">
+        </div>
+        <div id="d34" class="bloc" data-pos="-14.3920000,114.3020000">
+        </div>
+        <div id="d35" class="bloc" data-pos="-10.8330000,114.3020000">
+        </div>
+        <div id="d36" class="bloc" data-pos="-17.0150000,108.9840000">
+        </div>
+        <div id="d51" class="bloc" data-pos="-3.2060000, 111.2260000">
+        </div>
+        <div id="d52" class="bloc" data-pos="-12.8970000,121.7290000">
+        </div>
+        <div id="d53" class="bloc" data-pos="-11.8500000,126.3430000">
+        </div>
+        <div id="d61" class="bloc" data-pos="7.0140000, 115.6200000">
+        </div>
+        <div id="d62" class="bloc" data-pos="10.5310000, 105.1610000">
+        </div>
+        <div id="d63" class="bloc" data-pos="6.5340000, 110.7420000">
+        </div>
+        <div id="d64" class="bloc" data-pos="10.3150000, 115.3130000">
+        </div>
+        <div id="d65" class="bloc" data-pos="11.3940000, 110.2150000">
+        </div>
+        <div id="d71" class="bloc" data-pos="6.0530000, 126.2110000">
+        </div>
+        <div id="d72" class="bloc" data-pos="6.0090000, 121.5530000">
+        </div>
+        <div id="d73" class="bloc" data-pos="-8.0160000, 128.8920000">
+        </div>
+        <div id="d74" class="bloc" data-pos="-4.2150000, 125.0680000">
+        </div>
+        <div id="d75" class="bloc" data-pos="10.5740000, 121.0250000">
+        </div>
+        <div id="d76" class="bloc" data-pos="11.0060000, 125.5080000">
+        </div>
+        <div id="d81" class="bloc" data-pos="2.2410000,136.0990000">
+        </div>
+        <div id="d82" class="bloc" data-pos="3.8200000,130.8690000">
+        </div>
+        <div id="d91" class="bloc" data-pos="-8.0590000,136.4940000">
+        </div>
+        <div id="d92" class="bloc" data-pos="-11.9100000, 136.5820000">
+        </div>
+        <div id="d93" class="bloc" data-pos="-9.0150000, 141.6360000">
+        </div>
+        <div id="d94" class="bloc" data-pos="0.9670000,141.9430000">
+        </div>
+        <div id="d95" class="bloc" data-pos="3.0700000,140.9800000">
+        </div>
+        <div id="d96" class="bloc" data-pos="6.0530000,136.7140000">
+        </div>
+    </section>
+
+
+    <script>
+        var tahun = 2020;
+        var myViewModel = {
+            test: ko.observable('Test'),
+            provinsi: ko.observableArray([{
+                    prov: 11,
+                    html: 'Hallo'
+                },
+                {
+                    prov: 12,
+                    html: 'Hallo'
+                },
+                {
+                    prov: 13,
+                    html: 'Hallo'
+                },
+                {
+                    prov: 14,
+                    html: 'Hallo'
+                },
+                {
+                    prov: 15,
+                    html: 'Hallo'
+                },
+                {
+                    prov: 16,
+                    html: 'Hallo'
+                },
+                {
+                    prov: 17,
+                    html: 'Hallo'
+                },
+                {
+                    prov: 18,
+                    html: 'Hallo'
+                },
+                {
+                    prov: 19,
+                    html: 'Hallo'
+                }
+            ])
+        };
+        ko.applyBindings(myViewModel);
+        const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            maxZoom: 19,
+            attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+        });
+        var Esri_WorldImagery = L.tileLayer(
+            'https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
+                attribution: 'Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community'
+            });
+
+        const map = L.map('map', {
+            layers: [tiles],
+            //renderer : labelTextCollision
+        }).setView([-2.548926, 118.0148634], 5);
+
+        const baseLayers = {
+            'OpenStreetMap': tiles,
+            'Esri Wolrd Imagery': Esri_WorldImagery
+        };
+
+        var layerControl = L.control.layers(baseLayers, null).addTo(map);
+
+        var waspada = null;
+        var bahaya = null;
+        var siaga = null;
+        var layerGroup = null;
+        var layerHtml = null;
+        var htmlDiv = new Array();
+        layerGroup = L.layerGroup().addTo(map);
+        layerHtml = L.layerGroup().addTo(map);
+        layerControl.addOverlay(layerGroup, "Titik Lokasi");
+        layerControl.addOverlay(layerHtml, 'Div');
+
+
+        function onEachFeature(feature, layer) {
+            //        layer.options.text = `Provinsi ${feature.properties.provinsi}<br/>Waspada ${feature.properties.waspada}<br/>Bahaya ${feature.properties.bahaya}<br/>Siaga ${feature.properties.siaga}<br/>Aman ${feature.properties.aman}</br><a href='/static/test_kawasan.html?prov=${feature.properties.kd_prov}'>Buka Kerawaran</a>`;
+
+            let popupContent =
+                `<u>${feature.properties.provinsi_singkat}</u><br/>W: ${feature.properties.waspada}, B: ${feature.properties.bahaya}</br><a class='badge badge-warning' href='/static/test_kawasan.html?prov=${feature.properties.kd_prov}&tahun=${tahun}'>Buka</a>`;
+            //console.log(feature.geometry.coordinates);
+            if (feature.properties && feature.properties.popupContent) {
+                popupContent += feature.properties.popupContent;
+            }
+            $('#elementToChange').css('background-color', 'blue');
+            $("#d" + feature.properties.kd_prov).html(popupContent);
+            $("#d" + feature.properties.kd_prov).removeClass("bloc");
+            $("#d" + feature.properties.kd_prov).removeClass("bloc_danger");
+            if (feature.properties.bahaya > 50)
+                $("#d" + feature.properties.kd_prov).addClass("bloc_danger");
+            else
+                $("#d" + feature.properties.kd_prov).addClass("bloc");
+        }
+
+
+        getDataAddMarkers = function ({
+            label,
+            value,
+            map,
+            exclamation
+        }) {
+            console.log(label);
+            tahun = label;
+
+            function getColor(d) {
+                return d > 1000 ? '#800026' :
+                    d > 500 ? '#BD0026' :
+                    d > 200 ? '#E31A1C' :
+                    d > 100 ? '#FC4E2A' :
+                    d > 50 ? '#FD8D3C' :
+                    d > 20 ? '#FEB24C' :
+                    d > 10 ? '#FED976' :
+                    '#FFEDA0';
+            }
+
+            function style(feature) {
+                return {
+                    fillColor: getColor(feature.properties.bahaya),
+                    weight: 2,
+                    opacity: 1,
+                    color: 'white',
+                    dashArray: '3',
+                    fillOpacity: 0.7
+                };
+            }
+            layerGroup.eachLayer(function (layer) {
+                layerGroup.removeLayer(layer);
+            });
+            layerHtml.eachLayer(function (layer) {
+                console.log(layer._dom.firstChild.id);
+                $("#" + layer._dom.firstChild.id).html("");
+            });
+            map.spin(true);
+            $.ajax("/dashboard/masters/api/v1/kawasan_rawan/map_provinsi_geom/?tahun=" + tahun, {
+                xhrFields: {
+                    withCredentials: true
+                },
+                success: function (smallLoad) {
+                    waspada = L.geoJSON(smallLoad, {
+                        style,
+                        onEachFeature,
+                    });
+                    layerGroup.addLayer(waspada);
+                    map.spin(false);
+                }
+            });
+        };
+
+        L.control.timelineSlider({
+                timelineItems: ["2021", "2022", "2023", "2024"],
+                changeMap: getDataAddMarkers,
+                extraChangeMapParams: {
+                    exclamation: "Hello World!"
+                },
+                initializeChange: true,
+            })
+            .addTo(map);
+
+
+
+        function markerOnClick(e) {
+            //map.flyTo(e.latlng,12);
+        }
+        map.on('zoomend', function () {
+            console.log("zoom", map.getZoom());
+        });
+
+        map.on('click', function (e) {
+            //map.flyTo(e.latlng,9);
+        });
+        $('.bloc').each(function (i, obj) {
+            //      console.log(obj.id);      //test
+            htmlLayer = $("#" + obj.id).htmlOverlay().addTo(map);
+            layerHtml.addLayer(htmlLayer);
+        });
+    </script>
+
+
+
+</body>
+
+</html>

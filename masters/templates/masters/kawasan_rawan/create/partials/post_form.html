@@ -1,0 +1,107 @@
+<div class="col-sm-12 col-xl-12">
+    <div class="accordion" id="post_form">
+        <div class="card accordion-item">
+            <h2 class="accordion-header d-flex align-items-center">
+                <button type="button" class="accordion-button" data-bs-toggle="collapse" data-bs-target="#tambah_form"
+                    aria-expanded="true">
+                    <i class="ti ti-plus ti-xs me-2"></i>
+                    <b>Tambah Data Kawasan Rawan</b>
+                </button>
+            </h2>
+
+            <div id="tambah_form" class="accordion-collapse collapse">
+                <div class="accordion-body">
+                    <hr class="mx-n4 mb-4" />
+
+                    <div id="headline" class="row justify-content-between">
+                        <div id="info__selected_location"
+                            class="col-lg-9 col-sm-12 d-flex align-items-center mb-lg-0 mb-sm-3">
+                            <div>
+                                <h6 class="text-start mb-0">
+                                    <b>Kawasan yang terpilih</b> :
+                                    <span class="selected_location">
+                                        Kawasan <span id="selected_kawasan">____</span>,
+                                        Tahun <span id="selected_tahun">____</span>
+                                    </span>
+                                </h6>
+                            </div>
+                        </div>
+
+                        <div id="info__button_list" class="col-lg-3 col-sm-12 gap-3 d-flex justify-content-end">
+                            {% comment %} <div class="unduh_template_button">
+                                <button class="btn btn-label-primary" type="button" onclick="handleUnduhTemplate()">
+                                    <i class="fas fa-file-export me-2"></i>
+                                    Unduh Template
+                                </button>
+                            </div> {% endcomment %}
+                            {% comment %} <div class="import_data_button">
+                                <button class="btn btn-label-success" type="button" data-bs-toggle="modal"
+                                    data-bs-target="#importDataModal">
+                                    <i class="fas fa-file-import me-2"></i>
+                                    Import Data</button>
+                            </div> {% endcomment %}
+                        </div>
+                    </div>
+
+                    <hr class="mx-n4 mt-4 mb-4" />
+
+                    <form id="tambahForm" method="post" action="" onsubmit="handleAddKawasanRawan(event)">
+                        <div class="row mb-3">
+                            <label class="col-sm-3 col-form-label required" for="tahun">Tahun</label>
+                            <div class="col-sm-9">
+                                <select id="tahun" class="select2 form-select" required>
+                                    <option value="">--Pilih tahun--</option>
+                                    {% for item in list_year %}
+                                    <option value="{{ item }}">{{ item }}</option>
+                                    {% endfor %}
+                                </select>
+                            </div>
+                        </div>
+
+
+                        <div class="row mb-3">
+                            <label class="col-sm-3 col-form-label required" for="daftar_desa"
+                                data-placeholder="Masukkan minimal 1 karakter">Desa/Kelurahan yang diperiksa
+                                (Kawasan)</label>
+                            <div class="col-sm-9">
+                                <select id="daftar_desa" class="select2 form-select" required>
+                                    <option value="" selected>--Pilih kawasan --</option>
+                                </select>
+                            </div>
+                        </div>
+
+                        <div class="row mb-3">
+                            <label class="col-sm-3 col-form-label required" for="status">Status Kawasan</label>
+                            <div class="col-sm-9">
+                                <select id="status" class="select2 form-select" required>
+                                    <option selected value="">--Pilih status --</option>
+                                    {% for item in list_status %}
+                                    <option value="{{ item.value }}">{{ item.label }}</option>
+                                    {% endfor %}
+                                </select>
+                            </div>
+                        </div>
+
+                        <div class="row mb-4">
+                            <label class="col-sm-3 col-form-label optional" for="keterangan">Keterangan</label>
+                            <div class="col-sm-9">
+                                <textarea id="keterangan" class="form-control" rows="4"></textarea>
+                            </div>
+                        </div>
+
+                        <div class="d-flex justify-content-end gap-3">
+                            <a class="btn btn-label-secondary" href="{% url 'dashboard:index' %}">
+                                <i class="fas fa-arrow-left me-2"></i>
+                                Kembali ke Dashboard
+                            </a>
+                            <button class="btn btn-primary" type="submit">
+                                <i class="fas fa-save me-2"></i>
+                                Simpan data
+                            </button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

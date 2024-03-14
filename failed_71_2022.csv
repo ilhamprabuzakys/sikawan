@@ -1,0 +1,1051 @@
+﻿;KOTA KENDARI;1;Mandonga;1;1;Anggilowu;Waspada
+;KOTA KENDARI;;Mandonga;2;2;Alolama;Waspada
+;KOTA KENDARI;;Mandonga;3;3;Wawonbalata;Aman
+;KOTA KENDARI;;Mandonga;4;4;Korumba;Waspada
+;KOTA KENDARI;;Mandonga;5;5;Labibia;Waspada
+;KOTA KENDARI;;Mandonga;6;6;Mandonga;Waspada
+;KOTA KENDARI;2;Kambu;7;1;Kambu;Waspada
+;KOTA KENDARI;;Kambu;8;2;Lalolara;Waspada
+;KOTA KENDARI;;Kambu;9;3;Mokoau;Waspada
+;KOTA KENDARI;;Kambu;10;4;Padaleu;Waspada
+;KOTA KENDARI;3;Abeli;11;1;Abeli;Waspada
+;KOTA KENDARI;;Abeli;12;2;Anggalomelai;Aman
+;KOTA KENDARI;;Abeli;13;3;Benua Nirae;Aman
+;KOTA KENDARI;;Abeli;14;4;Lapulu;Waspada
+;KOTA KENDARI;;Abeli;15;5;Puday;Waspada
+;KOTA KENDARI;;Abeli;16;6;Poasia;Waspada
+;KOTA KENDARI;;Abeli;17;7;Talia;Waspada
+;KOTA KENDARI;4;Nambo;18;1;Bungkutoko;Aman
+;KOTA KENDARI;;Nambo;19;2;Nambo;Waspada
+;KOTA KENDARI;;Nambo;20;3;Petoaha;Aman
+;KOTA KENDARI;;Nambo;21;4;Tobimeita;Aman
+;KOTA KENDARI;;Nambo;22;5;Sambuli;Aman
+;KOTA KENDARI;;Nambo;23;6;Tondonggeu;Aman
+;KOTA KENDARI;5;Baruga;24;1;Baruga;Waspada
+;KOTA KENDARI;;Baruga;25;2;Lepo-Lepo;Waspada
+;KOTA KENDARI;;Baruga;26;3;Watubangga;Waspada
+;KOTA KENDARI;;Baruga;27;4;Wundupopi;Aman
+;KOTA KENDARI;6;Kadia;28;1;Kadia;Waspada
+;KOTA KENDARI;;Kadia;29;2;Pondambea;Waspada
+;KOTA KENDARI;;Kadia;30;3;Wowawanggu;Waspada
+;KOTA KENDARI;;Kadia;31;4;Anaiwoi;Waspada
+;KOTA KENDARI;;Kadia;32;5;Bende;Aman
+;KOTA KENDARI;7;Kendari;33;1;Jati Mekar;Aman
+;KOTA KENDARI;;Kendari;34;2;Kampung Salo;Waspada
+;KOTA KENDARI;;Kendari;35;3;Kessilampe;Waspada
+;KOTA KENDARI;;Kendari;36;4;Purirano;Waspada
+;KOTA KENDARI;;Kendari;37;5;Gunung Jati;Aman
+;KOTA KENDARI;;Kendari;38;6;Kendari Caddi;Aman
+;KOTA KENDARI;;Kendari;39;7;Kandai;Waspada
+;KOTA KENDARI;;Kendari;40;8;Mangga Dua;Aman
+;KOTA KENDARI;;Kendari;41;9;Mata;Aman
+;KOTA KENDARI;8;Kendari Barat;42;1;Kemaraya;Waspada
+;KOTA KENDARI;;Kendari Barat;43;2;Watu-Watu;Waspada
+;KOTA KENDARI;;Kendari Barat;44;3;Tipulu;Waspada
+;KOTA KENDARI;;Kendari Barat;45;4;Benu-Benua;Waspada
+;KOTA KENDARI;;Kendari Barat;46;5;Punggaloba;Waspada
+;KOTA KENDARI;;Kendari Barat;47;6;Sodoha;Waspada
+;KOTA KENDARI;;Kendari Barat;48;7;Dapu-Dapura;Aman
+;KOTA KENDARI;;Kendari Barat;49;8;Lahundape;Waspada
+;KOTA KENDARI;;Kendari Barat;50;9;Sanua;Waspada
+;KOTA KENDARI;9;Poasia;51;1;Anduonohu;Waspada
+;KOTA KENDARI;;Poasia;52;2;Anggoeya;Aman
+;KOTA KENDARI;;Poasia;53;3;Rahandouna;Waspada
+;KOTA KENDARI;;Poasia;54;4;Matabubu;Aman
+;KOTA KENDARI;;Poasia;55;5;Wundubatu;Aman
+;KOTA KENDARI;10;Puuwatu;56;1;Puuwatu;Waspada
+;KOTA KENDARI;;Puuwatu;57;2;Watulondo;Waspada
+;KOTA KENDARI;;Puuwatu;58;3;Abeli Dalam;Aman
+;KOTA KENDARI;;Puuwatu;59;4;Lalodati;Waspada
+;KOTA KENDARI;;Puuwatu;60;5;Punggolaka;Waspada
+;KOTA KENDARI;;Puuwatu;61;6;Tobuuha;Waspada
+;KOTA KENDARI;11;Wua-Wua;62;1;Wua-Wua;Waspada
+;KOTA KENDARI;;Wua-Wua;63;2;Anawai;Waspada
+;KOTA KENDARI;;Wua-Wua;64;3;Bonggoeya;Waspada
+;KOTA KENDARI;;Wua-Wua;65;4;Mataiwoi;Waspada
+2;Kabupaten Konawe;1;Abuki;66;1;Anggoro;Aman
+;Kabupaten Konawe;;Abuki;67;2;Arubia;Aman
+;Kabupaten Konawe;;Abuki;68;3;Asolu;Aman
+;Kabupaten Konawe;;Abuki;69;4;Epeeya;Aman
+;Kabupaten Konawe;;Abuki;70;5;Kasuwura Indah;Aman
+;Kabupaten Konawe;;Abuki;71;6;Kumapo;Aman
+;Kabupaten Konawe;;Abuki;72;7;Padangguni Utama;Aman
+;Kabupaten Konawe;;Abuki;73;8;Punggaluku;Aman
+;Kabupaten Konawe;;Abuki;74;9;Sambeani;Aman
+;Kabupaten Konawe;;Abuki;75;10;Unaasi Jaya;Aman
+;Kabupaten Konawe;;Abuki;76;11;Walay;Aman
+;Kabupaten Konawe;;Abuki;77;12;Abuki;Aman
+;Kabupaten Konawe;2;Amonggedo;78;1;Amonggedo;Aman
+;Kabupaten Konawe;;Amonggedo;79;2;Anahinunu;Aman
+;Kabupaten Konawe;;Amonggedo;80;3;Benua;Aman
+;Kabupaten Konawe;;Amonggedo;81;4;Dunggua;Aman
+;Kabupaten Konawe;;Amonggedo;82;5;Lalombonda;Aman
+;Kabupaten Konawe;;Amonggedo;83;6;Lalonona;Aman
+;Kabupaten Konawe;;Amonggedo;84;7;Matabura;Aman
+;Kabupaten Konawe;;Amonggedo;85;8;Mataiwoi;Aman
+;Kabupaten Konawe;;Amonggedo;86;9;Mendikonu;Aman
+;Kabupaten Konawe;;Amonggedo;87;10;Puasana;Aman
+;Kabupaten Konawe;;Amonggedo;88;11;Ulu Benua;Aman
+;Kabupaten Konawe;;Amonggedo;89;12;Warandete;Aman
+;Kabupaten Konawe;;Amonggedo;90;13;Watulawu;Aman
+;Kabupaten Konawe;;Amonggedo;91;14;Wawohine;Aman
+;Kabupaten Konawe;;Amonggedo;92;15;Amonggedo Baru;Aman
+;Kabupaten Konawe;3;Anggaberi;93;1;Lerehoma;Aman
+;Kabupaten Konawe;;Anggaberi;94;2;Wunduongohi;Aman
+;Kabupaten Konawe;;Anggaberi;95;3;Andabia;Aman
+;Kabupaten Konawe;;Anggaberi;96;4;Anggaberi;Aman
+;Kabupaten Konawe;;Anggaberi;97;5;Lawulo;Aman
+;Kabupaten Konawe;;Anggaberi;98;6;Parauna;Aman
+;Kabupaten Konawe;;Anggaberi;99;7;Toriki;Aman
+;Kabupaten Konawe;;Anggaberi;100;8;Unaasi;Aman
+;Kabupaten Konawe;4;Anggalomoare;101;1;Abelisawah;Aman
+;Kabupaten Konawe;;Anggalomoare;102;2;Andobeu Jaya;Aman
+;Kabupaten Konawe;;Anggalomoare;103;3;Anggalomoare;Aman
+;Kabupaten Konawe;;Anggalomoare;104;4;Anggalomoare Jaya;Aman
+;Kabupaten Konawe;;Anggalomoare;105;5;Galu;Aman
+;Kabupaten Konawe;;Anggalomoare;106;6;Lakomea;Aman
+;Kabupaten Konawe;;Anggalomoare;107;7;Lasoso;Aman
+;Kabupaten Konawe;;Anggalomoare;108;8;Pusawa Jaya;Aman
+;Kabupaten Konawe;;Anggalomoare;109;9;Puusangi;Aman
+;Kabupaten Konawe;;Anggalomoare;110;10;Tabanggele;Aman
+;Kabupaten Konawe;5;Anggotoa;111;1;Analahumbuti;Aman
+;Kabupaten Konawe;;Anggotoa;112;2;Anaosu;Aman
+;Kabupaten Konawe;;Anggotoa;113;3;Anggotoa;Aman
+;Kabupaten Konawe;;Anggotoa;114;4;Karandu;Aman
+;Kabupaten Konawe;;Anggotoa;115;5;Korumba;Aman
+;Kabupaten Konawe;;Anggotoa;116;6;Kukuluri;Aman
+;Kabupaten Konawe;;Anggotoa;117;7;Laloato;Aman
+;Kabupaten Konawe;;Anggotoa;118;8;Lawuka;Aman
+;Kabupaten Konawe;;Anggotoa;119;9;Manggialo;Aman
+;Kabupaten Konawe;;Anggotoa;120;10;Nario Indah;Aman
+;Kabupaten Konawe;;Anggotoa;121;11;Tonganggura;Aman
+;Kabupaten Konawe;;Anggotoa;122;12;Ulu Lamokuni;Aman
+;Kabupaten Konawe;;Anggotoa;123;13;Wowa Nario;Aman
+;Kabupaten Konawe;6;Asinua;124;1;Angohi;Aman
+;Kabupaten Konawe;;Asinua;125;2;Asinua Jaya;Aman
+;Kabupaten Konawe;;Asinua;126;3;Asipako;Aman
+;Kabupaten Konawe;;Asinua;127;4;Awua Jaya;Aman
+;Kabupaten Konawe;;Asinua;128;5;Awua Sari;Aman
+;Kabupaten Konawe;;Asinua;129;6;Lasada;Aman
+;Kabupaten Konawe;;Asinua;130;7;Nekudu;Aman
+;Kabupaten Konawe;;Asinua;131;8;Ambodiaa;Aman
+;Kabupaten Konawe;7;Besulutu;132;1;Amosilu;Waspada
+;Kabupaten Konawe;;Besulutu;133;2;Andomesinggo;Aman
+;Kabupaten Konawe;;Besulutu;134;3;asunde;Aman
+;Kabupaten Konawe;;Besulutu;135;4;Labela;Aman
+;Kabupaten Konawe;;Besulutu;136;5;Laloumera;Aman
+;Kabupaten Konawe;;Besulutu;137;6;Lalowulo;Aman
+;Kabupaten Konawe;;Besulutu;138;7;Lawonua;Aman
+;Kabupaten Konawe;;Besulutu;139;8;Onembute;Aman
+;Kabupaten Konawe;;Besulutu;140;9;Punggaluku;Aman
+;Kabupaten Konawe;;Besulutu;141;10;Puulowaru;Aman
+;Kabupaten Konawe;;Besulutu;142;11;Puundoho;Aman
+;Kabupaten Konawe;;Besulutu;143;12;Ranomolua;Aman
+;Kabupaten Konawe;;Besulutu;144;13;Silea;Aman
+;Kabupaten Konawe;;Besulutu;145;14;Ulupohara;Aman
+;Kabupaten Konawe;;Besulutu;146;15;Waworaha;Aman
+;Kabupaten Konawe;;Besulutu;147;16;Besulutu;Aman
+;Kabupaten Konawe;;Besulutu;148;17;Watumolamba;Aman
+;Kabupaten Konawe;8;Bondoala;149;1;Diolo;Aman
+;Kabupaten Konawe;;Bondoala;150;2;Lalonggaluku;Aman
+;Kabupaten Konawe;;Bondoala;151;3;Lalonggaluku Timur;Aman
+;Kabupaten Konawe;;Bondoala;152;4;Laosu Jaya;Aman
+;Kabupaten Konawe;;Bondoala;153;5;Pebunooha;Waspada
+;Kabupaten Konawe;;Bondoala;154;6;Pebunooha Dalam;Waspada
+;Kabupaten Konawe;;Bondoala;155;7;Rambu Kongga;Aman
+;Kabupaten Konawe;;Bondoala;156;8;Rumbia;Aman
+;Kabupaten Konawe;;Bondoala;157;9;Laosu;Aman
+;Kabupaten Konawe;9;Kapoiala;158;1;Kapoiala Baru;Aman
+;Kabupaten Konawe;;Kapoiala;159;2;Labotoy;Aman
+;Kabupaten Konawe;;Kapoiala;160;3;Labotoy Jaya;Aman
+;Kabupaten Konawe;;Kapoiala;161;4;Lalimbue;Aman
+;Kabupaten Konawe;;Kapoiala;162;5;Lalimbue Jaya;Aman
+;Kabupaten Konawe;;Kapoiala;163;6;Lalonggombuna;Aman
+;Kabupaten Konawe;;Kapoiala;164;7;Lamendora;Aman
+;Kabupaten Konawe;;Kapoiala;165;8;Muara Sampara;Aman
+;Kabupaten Konawe;;Kapoiala;166;9;Pereoe;Aman
+;Kabupaten Konawe;;Kapoiala;167;10;Sambaraasi;Waspada
+;Kabupaten Konawe;;Kapoiala;168;11;Tani Indah;Aman
+;Kabupaten Konawe;;Kapoiala;169;12;Tombawatu;Aman
+;Kabupaten Konawe;;Kapoiala;170;13;Ulu Lalimbue;Aman
+;Kabupaten Konawe;;Kapoiala;171;14;Kapoiala;Aman
+;Kabupaten Konawe;;Kapoiala;172;15;Labota;Aman
+;Kabupaten Konawe;10;Konawe;173;1;Asinowowo;Aman
+;Kabupaten Konawe;;Konawe;174;2;Hudoa;Aman
+;Kabupaten Konawe;;Konawe;175;3;Mekowu;Aman
+;Kabupaten Konawe;;Konawe;176;4;Puuwonua;Aman
+;Kabupaten Konawe;;Konawe;177;5;Sanggona;Aman
+;Kabupaten Konawe;;Konawe;178;6;Uelawu;Aman
+;Kabupaten Konawe;;Konawe;179;7;Uete;Aman
+;Kabupaten Konawe;;Konawe;180;8;Wonua Mbae;Aman
+;Kabupaten Konawe;;Konawe;181;9;Bungguosu;Aman
+;Kabupaten Konawe;;Konawe;182;10;Konawe;Aman
+;Kabupaten Konawe;;Konawe;183;11;Tawanga;Aman
+;Kabupaten Konawe;;Konawe;184;12;Tudaone;Aman
+;Kabupaten Konawe;;Konawe;185;13;Karandu;Aman
+;Kabupaten Konawe;;Konawe;186;14;Nario Indah;Aman
+;Kabupaten Konawe;11;Lalonggasumeeto;187;1;Batu Gong;Aman
+;Kabupaten Konawe;;Lalonggasumeeto;188;2;Bumi Indah;Aman
+;Kabupaten Konawe;;Lalonggasumeeto;189;3;Lalombonda;Aman
+;Kabupaten Konawe;;Lalonggasumeeto;190;4;Lalonggasumeeto;Aman
+;Kabupaten Konawe;;Lalonggasumeeto;191;5;Nii Tanasa;Aman
+;Kabupaten Konawe;;Lalonggasumeeto;192;6;Puuwonua;Aman
+;Kabupaten Konawe;;Lalonggasumeeto;193;7;Rapambinopaka;Aman
+;Kabupaten Konawe;;Lalonggasumeeto;194;8;Toli Toli;Aman
+;Kabupaten Konawe;;Lalonggasumeeto;195;9;Toolawawo;Aman
+;Kabupaten Konawe;;Lalonggasumeeto;196;10;Watunggarandu;Aman
+;Kabupaten Konawe;;Lalonggasumeeto;197;11;Wawobungi;Aman
+;Kabupaten Konawe;;Lalonggasumeeto;198;12;Watunggarandu;Aman
+;Kabupaten Konawe;12;Lambuya;199;1;Amberi;Aman
+;Kabupaten Konawe;;Lambuya;200;2;Asaki;Aman
+;Kabupaten Konawe;;Lambuya;201;3;Awuliti;Aman
+;Kabupaten Konawe;;Lambuya;202;4;Meraka;Aman
+;Kabupaten Konawe;;Lambuya;203;5;Tanggobu;Aman
+;Kabupaten Konawe;;Lambuya;204;6;Tetembomua;Aman
+;Kabupaten Konawe;;Lambuya;205;7;Wanua Hoa;Aman
+;Kabupaten Konawe;;Lambuya;206;8;Watarema;Aman
+;Kabupaten Konawe;;Lambuya;207;9;Waworaha;Aman
+;Kabupaten Konawe;;Lambuya;208;10;Lambuya;Aman
+;Kabupaten Konawe;13;Latoma;209;1;Ambekaeri Utama;Aman
+;Kabupaten Konawe;;Latoma;210;2;Amboniki;Aman
+;Kabupaten Konawe;;Latoma;211;3;Andoluto;Aman
+;Kabupaten Konawe;;Latoma;212;4;Angonga;Aman
+;Kabupaten Konawe;;Latoma;213;5;Arombu Utama;Aman
+;Kabupaten Konawe;;Latoma;214;6;Lalowata;Aman
+;Kabupaten Konawe;;Latoma;215;7;Latoma Jaya;Aman
+;Kabupaten Konawe;;Latoma;216;8;Napooha;Aman
+;Kabupaten Konawe;;Latoma;217;9;Nesowi;Aman
+;Kabupaten Konawe;;Latoma;218;10;Pinole;Aman
+;Kabupaten Konawe;;Latoma;219;11;Titioa;Aman
+;Kabupaten Konawe;;Latoma;220;12;Wawolatoma;Aman
+;Kabupaten Konawe;;Latoma;221;13;Waworaha;Aman
+;Kabupaten Konawe;14;Meluhu;222;1;Ahuhu;Aman
+;Kabupaten Konawe;;Meluhu;223;2;Ahuloa;Aman
+;Kabupaten Konawe;;Meluhu;224;3;Lalopisi;Aman
+;Kabupaten Konawe;;Meluhu;225;4;Lamelai;Aman
+;Kabupaten Konawe;;Meluhu;226;5;Larowiu;Aman
+;Kabupaten Konawe;;Meluhu;227;6;Sambasule;Aman
+;Kabupaten Konawe;;Meluhu;228;7;Tudameaso;Aman
+;Kabupaten Konawe;;Meluhu;229;8;Weorahi;Aman
+;Kabupaten Konawe;;Meluhu;230;9;Meluhu;Aman
+;Kabupaten Konawe;15;Morosi;231;1;Besu;Aman
+;Kabupaten Konawe;;Morosi;232;2;Mendikonu;Aman
+;Kabupaten Konawe;;Morosi;233;3;Morosi;Waspada
+;Kabupaten Konawe;;Morosi;234;4;Paku;Aman
+;Kabupaten Konawe;;Morosi;235;5;Paku Jaya;Aman
+;Kabupaten Konawe;;Morosi;236;6;Porara;Aman
+;Kabupaten Konawe;;Morosi;237;7;Puuruy;Aman
+;Kabupaten Konawe;;Morosi;238;8;Tanggobu;Aman
+;Kabupaten Konawe;;Morosi;239;9;Tondowatu;Aman
+;Kabupaten Konawe;;Morosi;240;10;Wonua Morini;Aman
+;Kabupaten Konawe;;Morosi;241;11;Tongobu;Waspada
+;Kabupaten Konawe;16;Onembute;242;1;Ana Onembute;Aman
+;Kabupaten Konawe;;Onembute;243;2;Anggaloosi;Aman
+;Kabupaten Konawe;;Onembute;244;3;Kasumeia;Aman
+;Kabupaten Konawe;;Onembute;245;4;Kumapo;Aman
+;Kabupaten Konawe;;Onembute;246;5;Mataiwoi;Aman
+;Kabupaten Konawe;;Onembute;247;6;Nopoosi;Aman
+;Kabupaten Konawe;;Onembute;248;7;Silea;Aman
+;Kabupaten Konawe;;Onembute;249;8;Tawapandere;Aman
+;Kabupaten Konawe;;Onembute;250;9;Trimulya;Aman
+;Kabupaten Konawe;;Onembute;251;10;Ulu Onembute;Aman
+;Kabupaten Konawe;;Onembute;252;11;Ulu Meraka;Aman
+;Kabupaten Konawe;;Onembute;253;12;Onembute;Aman
+;Kabupaten Konawe;17;Padangguni;254;1;Aleuti;Aman
+;Kabupaten Konawe;;Padangguni;255;2;Alosika;Aman
+;Kabupaten Konawe;;Padangguni;256;3;Atodopi;Aman
+;Kabupaten Konawe;;Padangguni;257;4;Garuda;Aman
+;Kabupaten Konawe;;Padangguni;258;5;Langgea;Aman
+;Kabupaten Konawe;;Padangguni;259;6;Matahori;Aman
+;Kabupaten Konawe;;Padangguni;260;7;Matanggorai;Aman
+;Kabupaten Konawe;;Padangguni;261;8;Mekar Jaya;Aman
+;Kabupaten Konawe;;Padangguni;262;9;Padang Mekar;Aman
+;Kabupaten Konawe;;Padangguni;263;10;Padangguni;Aman
+;Kabupaten Konawe;;Padangguni;264;11;Sambaosu;Aman
+;Kabupaten Konawe;18;Pondidaha;265;1;Ahuawatu;Aman
+;Kabupaten Konawe;;Pondidaha;266;2;Ambulanu;Aman
+;Kabupaten Konawe;;Pondidaha;267;3;Amesiu;Aman
+;Kabupaten Konawe;;Pondidaha;268;4;Belatu;Aman
+;Kabupaten Konawe;;Pondidaha;269;5;Hongoa;Aman
+;Kabupaten Konawe;;Pondidaha;270;6;Lahonggumbi;Aman
+;Kabupaten Konawe;;Pondidaha;271;7;Lalodangge;Aman
+;Kabupaten Konawe;;Pondidaha;272;8;Laloika;Aman
+;Kabupaten Konawe;;Pondidaha;273;9;Lalonggotomi;Aman
+;Kabupaten Konawe;;Pondidaha;274;10;Mumundowu;Aman
+;Kabupaten Konawe;;Pondidaha;275;11;Puumbinisi;Aman
+;Kabupaten Konawe;;Pondidaha;276;12;Sulemandara;Aman
+;Kabupaten Konawe;;Pondidaha;277;13;Tirawuta;Aman
+;Kabupaten Konawe;;Pondidaha;278;14;Wawolahumbuti;Aman
+;Kabupaten Konawe;;Pondidaha;279;15;Wawolemo;Waspada
+;Kabupaten Konawe;;Pondidaha;280;16;Wonua Mandara;Aman
+;Kabupaten Konawe;;Pondidaha;281;17;Wonua Monapa;Aman
+;Kabupaten Konawe;;Pondidaha;282;18;Pondidaha;Aman
+;Kabupaten Konawe;19;Puriala;283;1;Ahuawali;Aman
+;Kabupaten Konawe;;Puriala;284;2;Lalonggatu;Aman
+;Kabupaten Konawe;;Puriala;285;3;Laloonaha;Aman
+;Kabupaten Konawe;;Puriala;286;4;Mokaleleo;Aman
+;Kabupaten Konawe;;Puriala;287;5;Puanaha;Aman
+;Kabupaten Konawe;;Puriala;288;6;Puriala;Aman
+;Kabupaten Konawe;;Puriala;289;7;Puuhopa;Aman
+;Kabupaten Konawe;;Puriala;290;8;Puusangi;Aman
+;Kabupaten Konawe;;Puriala;291;9;Sonai;Aman
+;Kabupaten Konawe;;Puriala;292;10;Tetehaka;Aman
+;Kabupaten Konawe;;Puriala;293;11;Tetewatu;Aman
+;Kabupaten Konawe;;Puriala;294;12;Unggulino;Aman
+;Kabupaten Konawe;;Puriala;295;13;Watusa;Aman
+;Kabupaten Konawe;;Puriala;296;14;Wawosanggula;Aman
+;Kabupaten Konawe;;Puriala;297;15;Wonua Morome;Aman
+;Kabupaten Konawe;;Puriala;298;16;Watundehoa;Aman
+;Kabupaten Konawe;20;Routa;299;1;Lalomerui;Aman
+;Kabupaten Konawe;;Routa;300;2;Parudongka;Aman
+;Kabupaten Konawe;;Routa;301;3;Puuwiwirano;Aman
+;Kabupaten Konawe;;Routa;302;4;Tanggola;Aman
+;Kabupaten Konawe;;Routa;303;5;Tira Wonua;Aman
+;Kabupaten Konawe;;Routa;304;6;Walandawe;Aman
+;Kabupaten Konawe;;Routa;305;7;Wiau;Aman
+;Kabupaten Konawe;;Routa;306;8;Routa;Aman
+;Kabupaten Konawe;21;Sampara;307;1;Andadowi;Waspada
+;Kabupaten Konawe;;Sampara;308;2;Andaroa;Aman
+;Kabupaten Konawe;;Sampara;309;3;Andepali;Aman
+;Kabupaten Konawe;;Sampara;310;4;Baeni;Aman
+;Kabupaten Konawe;;Sampara;311;5;Boa-Boa;Aman
+;Kabupaten Konawe;;Sampara;312;6;Bondoala;Aman
+;Kabupaten Konawe;;Sampara;313;7;Kongga Mea;Aman
+;Kabupaten Konawe;;Sampara;314;8;Pohara;Aman
+;Kabupaten Konawe;;Sampara;315;9;Polua;Aman
+;Kabupaten Konawe;;Sampara;316;10;Puuloro;Aman
+;Kabupaten Konawe;;Sampara;317;11;Totombe Jaya;Aman
+;Kabupaten Konawe;;Sampara;318;12;Wawo Andaroa;Aman
+;Kabupaten Konawe;;Sampara;319;13;Wawolimbue;Aman
+;Kabupaten Konawe;;Sampara;320;14;Rawua;Aman
+;Kabupaten Konawe;;Sampara;321;15;Sampara;Waspada
+;Kabupaten Konawe;22;Soropia;322;1;Atowatu;Aman
+;Kabupaten Konawe;;Soropia;323;2;Bajo Indah;Aman
+;Kabupaten Konawe;;Soropia;324;3;Bajoe;Aman
+;Kabupaten Konawe;;Soropia;325;4;Bokori;Aman
+;Kabupaten Konawe;;Soropia;326;5;Leppe;Aman
+;Kabupaten Konawe;;Soropia;327;6;Mekar;Aman
+;Kabupaten Konawe;;Soropia;328;7;Saponda;Aman
+;Kabupaten Konawe;;Soropia;329;8;Saponda Laut;Aman
+;Kabupaten Konawe;;Soropia;330;9;Sawapudo;Aman
+;Kabupaten Konawe;;Soropia;331;10;Soropia;Aman
+;Kabupaten Konawe;;Soropia;332;11;Sorue Jaya;Aman
+;Kabupaten Konawe;;Soropia;333;12;Tapulaga;Aman
+;Kabupaten Konawe;;Soropia;334;13;Telaga Biru;Aman
+;Kabupaten Konawe;;Soropia;335;14;Waworaha;Aman
+;Kabupaten Konawe;;Soropia;336;15;Toronipa;Aman
+;Kabupaten Konawe;;Soropia;337;16;Wonua Roda;Aman
+;Kabupaten Konawe;;Soropia;338;17;Sama Jaya;Aman
+;Kabupaten Konawe;;Soropia;339;18;Pamata Jaya;Aman
+;Kabupaten Konawe;;Soropia;340;19;Lalanu;Aman
+;Kabupaten Konawe;23;Tongauna;341;1;Ambepulu;Aman
+;Kabupaten Konawe;;Tongauna;342;2;Ambopi;Aman
+;Kabupaten Konawe;;Tongauna;343;3;Andalambe;Aman
+;Kabupaten Konawe;;Tongauna;344;4;Andeposunde;Aman
+;Kabupaten Konawe;;Tongauna;345;5;Anggohu;Aman
+;Kabupaten Konawe;;Tongauna;346;6;Asao;Aman
+;Kabupaten Konawe;;Tongauna;347;7;Barowila;Aman
+;Kabupaten Konawe;;Tongauna;348;8;Lalonggowuna;Aman
+;Kabupaten Konawe;;Tongauna;349;9;Momea;Aman
+;Kabupaten Konawe;;Tongauna;350;10;Nambeaboru;Aman
+;Kabupaten Konawe;;Tongauna;351;11;Olua Onua;Aman
+;Kabupaten Konawe;;Tongauna;352;12;Olua Ao;Aman
+;Kabupaten Konawe;;Tongauna;353;13;Puundopi;Aman
+;Kabupaten Konawe;;Tongauna;354;14;Sanuanggamo;Aman
+;Kabupaten Konawe;;Tongauna;355;15;Waworoda Jaya;Aman
+;Kabupaten Konawe;;Tongauna;356;16;Mata Iwoi;Aman
+;Kabupaten Konawe;;Tongauna;357;17;Mekar Sari;Aman
+;Kabupaten Konawe;;Tongauna;358;18;Puosu;Aman
+;Kabupaten Konawe;;Tongauna;359;19;Sendang Mulya Sari;Aman
+;Kabupaten Konawe;;Tongauna;360;20;Tongauna;Aman
+;Kabupaten Konawe;24;Tongauna Utara;361;1;Ambopi;Aman
+;Kabupaten Konawe;;Tongauna Utara;362;2;Andalambe;Aman
+;Kabupaten Konawe;;Tongauna Utara;363;3;Waworoda Jaya;Aman
+;Kabupaten Konawe;;Tongauna Utara;364;4;Sanuanggamo;Aman
+;Kabupaten Konawe;;Tongauna Utara;365;5;Olo Onua;Aman
+;Kabupaten Konawe;;Tongauna Utara;366;6;Uluaao;Aman
+;Kabupaten Konawe;;Tongauna Utara;367;7;Anggohu;Aman
+;Kabupaten Konawe;;Tongauna Utara;368;8;Nambeoboru;Aman
+;Kabupaten Konawe;;Tongauna Utara;369;9;Barowila;Aman
+;Kabupaten Konawe;;Tongauna Utara;370;10;Puundombi;Aman
+;Kabupaten Konawe;25;Uepai;371;1;Amaroa;Aman
+;Kabupaten Konawe;;Uepai;372;2;Ameroro;Aman
+;Kabupaten Konawe;;Uepai;373;3;Anggawo;Aman
+;Kabupaten Konawe;;Uepai;374;4;Anggopiu;Aman
+;Kabupaten Konawe;;Uepai;375;5;Baruga;Aman
+;Kabupaten Konawe;;Uepai;376;6;Humboto;Aman
+;Kabupaten Konawe;;Uepai;377;7;Kasaeda;Aman
+;Kabupaten Konawe;;Uepai;378;8;Langgomea;Aman
+;Kabupaten Konawe;;Uepai;379;9;Matahoalu;Aman
+;Kabupaten Konawe;;Uepai;380;10;Olo-Oloho;Aman
+;Kabupaten Konawe;;Uepai;381;11;Panggulawu;Aman
+;Kabupaten Konawe;;Uepai;382;12;Puuroda Jaya;Aman
+;Kabupaten Konawe;;Uepai;383;13;Rawua;Aman
+;Kabupaten Konawe;;Uepai;384;14;Tamesandi;Aman
+;Kabupaten Konawe;;Uepai;385;15;Tanggodipo;Aman
+;Kabupaten Konawe;;Uepai;386;16;Tawamelewe;Aman
+;Kabupaten Konawe;;Uepai;387;17;Tawarotebota;Aman
+;Kabupaten Konawe;;Uepai;388;18;Uepai;Aman
+;Kabupaten Konawe;26;Unaaha;389;1;Ambekairi;Aman
+;Kabupaten Konawe;;Unaaha;390;2;Arombu;Waspada
+;Kabupaten Konawe;;Unaaha;391;3;Asambu;Waspada
+;Kabupaten Konawe;;Unaaha;392;4;Asinua;Aman
+;Kabupaten Konawe;;Unaaha;393;5;Inolobunggadue;Aman
+;Kabupaten Konawe;;Unaaha;394;6;Latoma;Waspada
+;Kabupaten Konawe;;Unaaha;395;7;Puunaaha;Waspada
+;Kabupaten Konawe;;Unaaha;396;8;Tobeu;Waspada
+;Kabupaten Konawe;;Unaaha;397;9;Tumpas;Waspada
+;Kabupaten Konawe;;Unaaha;398;10;Tuoy;Aman
+;Kabupaten Konawe;;Unaaha;399;11;Unaaha;Aman
+;Kabupaten Konawe;;Unaaha;400;12;Wawonggole;Aman
+;Kabupaten Konawe;27;Wawotobi;401;1;Analahumbuti;Aman
+;Kabupaten Konawe;;Wawotobi;402;2;Anggotoa;Aman
+;Kabupaten Konawe;;Wawotobi;403;3;Karandu;Aman
+;Kabupaten Konawe;;Wawotobi;404;4;Kasumewuho;Aman
+;Kabupaten Konawe;;Wawotobi;405;5;Korumba;Aman
+;Kabupaten Konawe;;Wawotobi;406;6;Kukuluri;Aman
+;Kabupaten Konawe;;Wawotobi;407;7;Nario Indah;Waspada
+;Kabupaten Konawe;;Wawotobi;408;8;Bose-Bose;Aman
+;Kabupaten Konawe;;Wawotobi;409;9;Hopa-Hopa;Waspada
+;Kabupaten Konawe;;Wawotobi;410;10;Inalahi;Aman
+;Kabupaten Konawe;;Wawotobi;411;11;Inolobu;Aman
+;Kabupaten Konawe;;Wawotobi;412;12;Kasupute;Aman
+;Kabupaten Konawe;;Wawotobi;413;13;Kulahi;Aman
+;Kabupaten Konawe;;Wawotobi;414;14;Lalosabila;Waspada
+;Kabupaten Konawe;;Wawotobi;415;15;Nohu-Nohu;Aman
+;Kabupaten Konawe;;Wawotobi;416;16;Palarahi;Waspada
+;Kabupaten Konawe;;Wawotobi;417;17;Puusinauwi;Aman
+;Kabupaten Konawe;;Wawotobi;418;18;Ranoeya;Aman
+;Kabupaten Konawe;;Wawotobi;419;19;Wawotobi;Waspada
+;Kabupaten Konawe;28;Wonggeduku;420;1;Anggoro;Aman
+;Kabupaten Konawe;;Wonggeduku;421;2;Bendewuta;Aman
+;Kabupaten Konawe;;Wonggeduku;422;3;Dawi-dawi;Aman
+;Kabupaten Konawe;;Wonggeduku;423;4;Duriaasi;Aman
+;Kabupaten Konawe;;Wonggeduku;424;5;Lalohao;Aman
+;Kabupaten Konawe;;Wonggeduku;425;6;Lalousu;Aman
+;Kabupaten Konawe;;Wonggeduku;426;7;Langgonawe;Aman
+;Kabupaten Konawe;;Wonggeduku;427;8;Polandangi;Aman
+;Kabupaten Konawe;;Wonggeduku;428;9;Tawarolondo;Aman
+;Kabupaten Konawe;;Wonggeduku;429;10;Tetemotaha;Aman
+;Kabupaten Konawe;;Wonggeduku;430;11;Tetewonua;Aman
+;Kabupaten Konawe;;Wonggeduku;431;12;Wawonggole;Aman
+;Kabupaten Konawe;;Wonggeduku;432;13;Wawoone;Aman
+;Kabupaten Konawe;;Wonggeduku;433;14;Wawosolo;Aman
+;Kabupaten Konawe;;Wonggeduku;434;15;Wukusao;Aman
+;Kabupaten Konawe;;Wonggeduku;435;16;Puuduria;Aman
+;Kabupaten Konawe;29;Wonggeduku Barat;436;1;Ambuwiu;Aman
+;Kabupaten Konawe;;Wonggeduku Barat;437;2;Anggadola;Aman
+;Kabupaten Konawe;;Wonggeduku Barat;438;3;Baruga;Aman
+;Kabupaten Konawe;;Wonggeduku Barat;439;4;Kasukia;Aman
+;Kabupaten Konawe;;Wonggeduku Barat;440;5;Lahotutu;Aman
+;Kabupaten Konawe;;Wonggeduku Barat;441;6;Lambangi;Aman
+;Kabupaten Konawe;;Wonggeduku Barat;442;7;Lamokuni;Aman
+;Kabupaten Konawe;;Wonggeduku Barat;443;8;Linonggasay;Aman
+;Kabupaten Konawe;;Wonggeduku Barat;444;9;Puday;Aman
+;Kabupaten Konawe;;Wonggeduku Barat;445;10;Ranotundobu;Aman
+;Kabupaten Konawe;;Wonggeduku Barat;446;11;Teteona;Aman
+;Kabupaten Konawe;;Wonggeduku Barat;447;12;Tobimeita;Aman
+;Kabupaten Konawe;;Wonggeduku Barat;448;13;Wonggeduku;Aman
+;Kabupaten Konawe;;Wonggeduku Barat;449;14;Wonggeduku;Aman
+;Kabupaten Konawe;;Wonggeduku Barat;450;15;Waturai;Aman
+;Kabupaten Konawe;;Wonggeduku Barat;451;16;Tetewonua;Aman
+;Kabupaten Konawe;;Wonggeduku Barat;452;17;Puumbuta;Aman
+3;Kabupaten Konawe Selatan;1;Angata;453;1;Angata;Aman
+;Kabupaten Konawe Selatan;;Angata;454;2;Aopa;Aman
+;Kabupaten Konawe Selatan;;Angata;455;3;Boloso;Aman
+;Kabupaten Konawe Selatan;;Angata;456;4;Kasebo;Aman
+;Kabupaten Konawe Selatan;;Angata;457;5;Lamoen;Aman
+;Kabupaten Konawe Selatan;;Angata;458;6;Lamoeri;Aman
+;Kabupaten Konawe Selatan;;Angata;459;7;Lamooso;Aman
+;Kabupaten Konawe Selatan;;Angata;460;8;Landabaro;Waspada
+;Kabupaten Konawe Selatan;;Angata;461;9;Langgea Indah;Aman
+;Kabupaten Konawe Selatan;;Angata;462;10;Matabondu;Aman
+;Kabupaten Konawe Selatan;;Angata;463;11;Mataiwoi;Aman
+;Kabupaten Konawe Selatan;;Angata;464;12;Mokoau;Aman
+;Kabupaten Konawe Selatan;;Angata;465;13;Motaha;Aman
+;Kabupaten Konawe Selatan;;Angata;466;14;Pewutaa;Waspada
+;Kabupaten Konawe Selatan;;Angata;467;15;Puao;Aman
+;Kabupaten Konawe Selatan;;Angata;468;16;Pudambu;Aman
+;Kabupaten Konawe Selatan;;Angata;469;17;Puulipu;Aman
+;Kabupaten Konawe Selatan;;Angata;470;18;Puungoni;Aman
+;Kabupaten Konawe Selatan;;Angata;471;19;Puuroe;Aman
+;Kabupaten Konawe Selatan;;Angata;472;20;Puusanggula;Aman
+;Kabupaten Konawe Selatan;;Angata;473;21;Sandarsi Jaya;Aman
+;Kabupaten Konawe Selatan;;Angata;474;22;Sandey;Aman
+;Kabupaten Konawe Selatan;;Angata;475;23;Simbangu;Aman
+;Kabupaten Konawe Selatan;;Angata;476;24;Teteasa;Aman
+;Kabupaten Konawe Selatan;2;Andoolo;477;1;Andoolo;Waspada
+;Kabupaten Konawe Selatan;;Andoolo;478;2;Alengge Agung;Aman
+;Kabupaten Konawe Selatan;;Andoolo;479;3;Ataku;Aman
+;Kabupaten Konawe Selatan;;Andoolo;480;4;Bumi Raya;Aman
+;Kabupaten Konawe Selatan;;Andoolo;481;5;Lalobao;Aman
+;Kabupaten Konawe Selatan;;Andoolo;482;6;Lalonggombu;Aman
+;Kabupaten Konawe Selatan;;Andoolo;483;7;Punggapu;Aman
+;Kabupaten Konawe Selatan;;Andoolo;484;8;Wunduwatu;Aman
+;Kabupaten Konawe Selatan;;Andoolo;485;9;Alangga;Aman
+;Kabupaten Konawe Selatan;;Andoolo;486;10;Potoro;Waspada
+;Kabupaten Konawe Selatan;3;Andoolo Barat;487;1;Anese;Aman
+;Kabupaten Konawe Selatan;;Andoolo Barat;488;2;Bimamaroa;Aman
+;Kabupaten Konawe Selatan;;Andoolo Barat;489;3;Bekenggasu;Aman
+;Kabupaten Konawe Selatan;;Andoolo Barat;490;4;Lapoa Indah;Aman
+;Kabupaten Konawe Selatan;;Andoolo Barat;491;5;Mataiwoi;Aman
+;Kabupaten Konawe Selatan;;Andoolo Barat;492;6;Mataupe;Aman
+;Kabupaten Konawe Selatan;;Andoolo Barat;493;7;Papawu;Aman
+;Kabupaten Konawe Selatan;;Andoolo Barat;494;8;Puundoho;Aman
+;Kabupaten Konawe Selatan;;Andoolo Barat;495;9;Wawobende;Aman
+;Kabupaten Konawe Selatan;;Andoolo Barat;496;10;Watumokala;Aman
+;Kabupaten Konawe Selatan;4;Baito;497;1;Ahuangguluri;Aman
+;Kabupaten Konawe Selatan;;Baito;498;2;Amosara;Aman
+;Kabupaten Konawe Selatan;;Baito;499;3;Baito;Aman
+;Kabupaten Konawe Selatan;;Baito;500;4;Matabubu;Aman
+;Kabupaten Konawe Selatan;;Baito;501;5;Mekar Jaya;Aman
+;Kabupaten Konawe Selatan;;Baito;502;6;Sambahule;Aman
+;Kabupaten Konawe Selatan;;Baito;503;7;Tolihe;Aman
+;Kabupaten Konawe Selatan;;Baito;504;8;Wonua Raya;Aman
+;Kabupaten Konawe Selatan;5;Basala;505;1;Basala;Aman
+;Kabupaten Konawe Selatan;;Basala;506;2;Epeesi;Aman
+;Kabupaten Konawe Selatan;;Basala;507;3;Iwoimendoro;Aman
+;Kabupaten Konawe Selatan;;Basala;508;4;Lambandia;Aman
+;Kabupaten Konawe Selatan;;Basala;509;5;Lere;Aman
+;Kabupaten Konawe Selatan;;Basala;510;6;Lipumasagena;Aman
+;Kabupaten Konawe Selatan;;Basala;511;7;Polo Pololi;Aman
+;Kabupaten Konawe Selatan;;Basala;512;8;Teporombua;Aman
+;Kabupaten Konawe Selatan;;Basala;513;9;Tombekuku;Aman
+;Kabupaten Konawe Selatan;6;Benua;514;1;Awalo;Aman
+;Kabupaten Konawe Selatan;;Benua;515;2;Benua;Aman
+;Kabupaten Konawe Selatan;;Benua;516;3;Benua Utama;Aman
+;Kabupaten Konawe Selatan;;Benua;517;4;Horodopi;Aman
+;Kabupaten Konawe Selatan;;Benua;518;5;Kosambi;Aman
+;Kabupaten Konawe Selatan;;Benua;519;6;Lamara;Aman
+;Kabupaten Konawe Selatan;;Benua;520;7;Palowewu;Aman
+;Kabupaten Konawe Selatan;;Benua;521;8;Punggawukawu;Aman
+;Kabupaten Konawe Selatan;;Benua;522;9;Puuosu;Aman
+;Kabupaten Konawe Selatan;;Benua;523;10;Puuwehuko;Aman
+;Kabupaten Konawe Selatan;;Benua;524;11;Tetehaka;Aman
+;Kabupaten Konawe Selatan;;Benua;525;12;Uelawa;Aman
+;Kabupaten Konawe Selatan;7;Buke;526;1;Adaka Jaya;Aman
+;Kabupaten Konawe Selatan;;Buke;527;2;Adayu Indah;Aman
+;Kabupaten Konawe Selatan;;Buke;528;3;Andoolo Utama;Aman
+;Kabupaten Konawe Selatan;;Buke;529;4;Anggokoti;Aman
+;Kabupaten Konawe Selatan;;Buke;530;5;Asembu Mulya;Aman
+;Kabupaten Konawe Selatan;;Buke;531;6;Awalo;Aman
+;Kabupaten Konawe Selatan;;Buke;532;7;Buke;Aman
+;Kabupaten Konawe Selatan;;Buke;533;8;Pelandia;Aman
+;Kabupaten Konawe Selatan;;Buke;534;9;Puudaria;Aman
+;Kabupaten Konawe Selatan;;Buke;535;10;Rahamendaa;Aman
+;Kabupaten Konawe Selatan;;Buke;536;11;Ranooha Lestari;Aman
+;Kabupaten Konawe Selatan;;Buke;537;12;Silea Jaya;Aman
+;Kabupaten Konawe Selatan;;Buke;538;13;Tetenggolasa;Aman
+;Kabupaten Konawe Selatan;;Buke;539;14;Tirto Martani;Aman
+;Kabupaten Konawe Selatan;;Buke;540;15;Wanua Maroa;Aman
+;Kabupaten Konawe Selatan;;Buke;541;16;Wulele Jaya;Aman
+;Kabupaten Konawe Selatan;8;Kolono;542;1;Alosi;Aman
+;Kabupaten Konawe Selatan;;Kolono;543;2;Andinete;Aman
+;Kabupaten Konawe Selatan;;Kolono;544;3;Awunio;Aman
+;Kabupaten Konawe Selatan;;Kolono;545;4;Lamapu;Aman
+;Kabupaten Konawe Selatan;;Kolono;546;5;Langgowala;Aman
+;Kabupaten Konawe Selatan;;Kolono;547;6;Lamotau;Aman
+;Kabupaten Konawe Selatan;;Kolono;548;7;Mataiwoi;Aman
+;Kabupaten Konawe Selatan;;Kolono;549;8;Matandahi;Aman
+;Kabupaten Konawe Selatan;;Kolono;550;9;Meletumbo;Aman
+;Kabupaten Konawe Selatan;;Kolono;551;10;Mondoe Jaya;Aman
+;Kabupaten Konawe Selatan;;Kolono;552;11;Puudongi;Aman
+;Kabupaten Konawe Selatan;;Kolono;553;12;Puupi;Aman
+;Kabupaten Konawe Selatan;;Kolono;554;13;Roda;Aman
+;Kabupaten Konawe Selatan;;Kolono;555;14;Sarandua;Aman
+;Kabupaten Konawe Selatan;;Kolono;556;15;Sawa;Aman
+;Kabupaten Konawe Selatan;;Kolono;557;16;Silea;Aman
+;Kabupaten Konawe Selatan;;Kolono;558;17;Tiraosu;Aman
+;Kabupaten Konawe Selatan;;Kolono;559;18;Wawoosu;Aman
+;Kabupaten Konawe Selatan;;Kolono;560;19;Waworano;Aman
+;Kabupaten Konawe Selatan;;Kolono;561;20;Ulusena Jaya;Aman
+;Kabupaten Konawe Selatan;;Kolono;562;21;Kolono;Aman
+;Kabupaten Konawe Selatan;9;Kolono Timur;563;1;Ampera;Aman
+;Kabupaten Konawe Selatan;;Kolono Timur;564;2;Amolengu;Aman
+;Kabupaten Konawe Selatan;;Kolono Timur;565;3;Batuh Putih;Aman
+;Kabupaten Konawe Selatan;;Kolono Timur;566;4;Lambangi;Aman
+;Kabupaten Konawe Selatan;;Kolono Timur;567;5;Langgapulu;Aman
+;Kabupaten Konawe Selatan;;Kolono Timur;568;6;Ngapawali;Aman
+;Kabupaten Konawe Selatan;;Kolono Timur;569;7;Rambu-Rambu;Aman
+;Kabupaten Konawe Selatan;;Kolono Timur;570;8;Rumba-Rumba;Aman
+;Kabupaten Konawe Selatan;;Kolono Timur;571;9;Tumbu-Tumbuh Jaya;Aman
+;Kabupaten Konawe Selatan;;Kolono Timur;572;10;Ulunese;Aman
+;Kabupaten Konawe Selatan;10;Konda;573;1;Alebo;Aman
+;Kabupaten Konawe Selatan;;Konda;574;2;Ambololi;Aman
+;Kabupaten Konawe Selatan;;Konda;575;3;Amohalo;Aman
+;Kabupaten Konawe Selatan;;Konda;576;4;Cialam Jaya;Aman
+;Kabupaten Konawe Selatan;;Konda;577;5;Konda Satu;Aman
+;Kabupaten Konawe Selatan;;Konda;578;6;Lamomea;Aman
+;Kabupaten Konawe Selatan;;Konda;579;7;Lawoila;Aman
+;Kabupaten Konawe Selatan;;Konda;580;8;Lembo Jaya;Waspada
+;Kabupaten Konawe Selatan;;Konda;581;9;Masagena;Aman
+;Kabupaten Konawe Selatan;;Konda;582;10;Morome;Aman
+;Kabupaten Konawe Selatan;;Konda;583;11;Pambulsa Jaya;Aman
+;Kabupaten Konawe Selatan;;Konda;584;12;Puosu Jaya;Aman
+;Kabupaten Konawe Selatan;;Konda;585;13;Ranowila;Aman
+;Kabupaten Konawe Selatan;;Konda;586;14;Tanea;Waspada
+;Kabupaten Konawe Selatan;;Konda;587;15;Wonua;Aman
+;Kabupaten Konawe Selatan;;Konda;588;16;Konda;Waspada
+;Kabupaten Konawe Selatan;11;Laeya;589;1;Aepodu;Aman
+;Kabupaten Konawe Selatan;;Laeya;590;2;Ambakumina;Aman
+;Kabupaten Konawe Selatan;;Laeya;591;3;Ambesea;Aman
+;Kabupaten Konawe Selatan;;Laeya;592;4;Anduna;Aman
+;Kabupaten Konawe Selatan;;Laeya;593;5;Anggoroboti;Aman
+;Kabupaten Konawe Selatan;;Laeya;594;6;Laeya;Aman
+;Kabupaten Konawe Selatan;;Laeya;595;7;Labokeo;Aman
+;Kabupaten Konawe Selatan;;Laeya;596;8;Lambakara;Aman
+;Kabupaten Konawe Selatan;;Laeya;597;9;Lamong Jaya;Aman
+;Kabupaten Konawe Selatan;;Laeya;598;10;Lerepako;Aman
+;Kabupaten Konawe Selatan;;Laeya;599;11;Ombu-Ombu Jaya;Waspada
+;Kabupaten Konawe Selatan;;Laeya;600;12;Puuwulo;Aman
+;Kabupaten Konawe Selatan;;Laeya;601;13;Rambu-Rambu;Aman
+;Kabupaten Konawe Selatan;;Laeya;602;14;Torobulu;Aman
+;Kabupaten Konawe Selatan;;Laeya;603;15;Wonua Kongga;Aman
+;Kabupaten Konawe Selatan;;Laeya;604;16;Ambalodangge;Waspada
+;Kabupaten Konawe Selatan;;Laeya;605;17;Puunggaluku;Aman
+;Kabupaten Konawe Selatan;12;Lainea;606;1;Aoroo;Aman
+;Kabupaten Konawe Selatan;;Lainea;607;2;Bangun Jaya;Aman
+;Kabupaten Konawe Selatan;;Lainea;608;3;Kaindi;Aman
+;Kabupaten Konawe Selatan;;Lainea;609;4;Kalo-Kalo;Aman
+;Kabupaten Konawe Selatan;;Lainea;610;5;Lainea;Aman
+;Kabupaten Konawe Selatan;;Lainea;611;6;Lalonggombu;Aman
+;Kabupaten Konawe Selatan;;Lainea;612;7;Matabubu Jaya;Aman
+;Kabupaten Konawe Selatan;;Lainea;613;8;Molinese;Aman
+;Kabupaten Konawe Selatan;;Lainea;614;9;Pamandati;Aman
+;Kabupaten Konawe Selatan;;Lainea;615;10;Pangan Jaya;Aman
+;Kabupaten Konawe Selatan;;Lainea;616;11;Polewali;Aman
+;Kabupaten Konawe Selatan;;Lainea;617;12;Watumeeto;Aman
+;Kabupaten Konawe Selatan;13;Lalembuu;618;1;Atari Jaya;Aman
+;Kabupaten Konawe Selatan;;Lalembuu;619;2;Kapuwila;Aman
+;Kabupaten Konawe Selatan;;Lalembuu;620;3;Lalouesamba;Aman
+;Kabupaten Konawe Selatan;;Lalembuu;621;4;Lambandia;Aman
+;Kabupaten Konawe Selatan;;Lalembuu;622;5;Lambodi Jaya;Aman
+;Kabupaten Konawe Selatan;;Lalembuu;623;6;Lelembu Jaya;Aman
+;Kabupaten Konawe Selatan;;Lalembuu;624;7;Merongga Raya;Aman
+;Kabupaten Konawe Selatan;;Lalembuu;625;8;Mokupa Jaya;Aman
+;Kabupaten Konawe Selatan;;Lalembuu;626;9;Mondoke;Aman
+;Kabupaten Konawe Selatan;;Lalembuu;627;10;Padaleu;Aman
+;Kabupaten Konawe Selatan;;Lalembuu;628;11;Potuho Jaya;Aman
+;Kabupaten Konawe Selatan;;Lalembuu;629;12;Puunangga;Aman
+;Kabupaten Konawe Selatan;;Lalembuu;630;13;Puurema Subur;Aman
+;Kabupaten Konawe Selatan;;Lalembuu;631;14;Sukamukti;Aman
+;Kabupaten Konawe Selatan;;Lalembuu;632;15;Sumber Jaya;Aman
+;Kabupaten Konawe Selatan;;Lalembuu;633;16;Teteinea;Aman
+;Kabupaten Konawe Selatan;;Lalembuu;634;17;Tombulue;Aman
+;Kabupaten Konawe Selatan;;Lalembuu;635;18;Atari Indah;Aman
+;Kabupaten Konawe Selatan;14;Landono;636;1;Abenggi;Aman
+;Kabupaten Konawe Selatan;;Landono;637;2;Amotowo;Aman
+;Kabupaten Konawe Selatan;;Landono;638;3;Arongo;Aman
+;Kabupaten Konawe Selatan;;Landono;639;4;Endanga;Aman
+;Kabupaten Konawe Selatan;;Landono;640;5;Lakomea;Aman
+;Kabupaten Konawe Selatan;;Landono;641;6;Lalonggapu;Aman
+;Kabupaten Konawe Selatan;;Landono;642;7;Landono Dua;Aman
+;Kabupaten Konawe Selatan;;Landono;643;8;Matabenua/Watawunua;Aman
+;Kabupaten Konawe Selatan;;Landono;644;9;Morini Mulya;Aman
+;Kabupaten Konawe Selatan;;Landono;645;10;Tridanan Mulia;Aman
+;Kabupaten Konawe Selatan;;Landono;646;11;Wonua Koa;Aman
+;Kabupaten Konawe Selatan;;Landono;647;12;Wonua Sangia;Aman
+;Kabupaten Konawe Selatan;;Landono;648;13;Landono;Aman
+;Kabupaten Konawe Selatan;15;Laonti;649;1;Batu Jaya;Aman
+;Kabupaten Konawe Selatan;;Laonti;650;2;Cempedak;Aman
+;Kabupaten Konawe Selatan;;Laonti;651;3;Kondono;Aman
+;Kabupaten Konawe Selatan;;Laonti;652;4;Labaun Beropa;Aman
+;Kabupaten Konawe Selatan;;Laonti;653;5;Labotaone;Aman
+;Kabupaten Konawe Selatan;;Laonti;654;6;Laonti;Aman
+;Kabupaten Konawe Selatan;;Laonti;655;7;Lawisata;Aman
+;Kabupaten Konawe Selatan;;Laonti;656;8;Malaringgi;Aman
+;Kabupaten Konawe Selatan;;Laonti;657;9;Namu;Aman
+;Kabupaten Konawe Selatan;;Laonti;658;10;Peo Indah;Aman
+;Kabupaten Konawe Selatan;;Laonti;659;11;Puudirangga;Aman
+;Kabupaten Konawe Selatan;;Laonti;660;12;Rumbi-Rumbia;Aman
+;Kabupaten Konawe Selatan;;Laonti;661;13;Sangi Sangi;Aman
+;Kabupaten Konawe Selatan;;Laonti;662;14;Tambeanga;Aman
+;Kabupaten Konawe Selatan;;Laonti;663;15;Tambolosu;Aman
+;Kabupaten Konawe Selatan;;Laonti;664;16;Tue Tue;Aman
+;Kabupaten Konawe Selatan;;Laonti;665;17;Ulu Sawa;Aman
+;Kabupaten Konawe Selatan;;Laonti;666;18;Wandaeha;Aman
+;Kabupaten Konawe Selatan;;Laonti;667;19;Woru-Woru;Aman
+;Kabupaten Konawe Selatan;16;Moramo;668;1;Amohola;Aman
+;Kabupaten Konawe Selatan;;Moramo;669;2;Bakutara;Aman
+;Kabupaten Konawe Selatan;;Moramo;670;3;Bisikori;Aman
+;Kabupaten Konawe Selatan;;Moramo;671;4;Lakomea;Aman
+;Kabupaten Konawe Selatan;;Moramo;672;5;Lamboo;Aman
+;Kabupaten Konawe Selatan;;Moramo;673;6;Landipo;Aman
+;Kabupaten Konawe Selatan;;Moramo;674;7;Marga Citta;Aman
+;Kabupaten Konawe Selatan;;Moramo;675;8;Moramo;Aman
+;Kabupaten Konawe Selatan;;Moramo;676;9;Penambea Barata;Aman
+;Kabupaten Konawe Selatan;;Moramo;677;10;Pudaria Jaya;Aman
+;Kabupaten Konawe Selatan;;Moramo;678;11;Ranooha Raya;Aman
+;Kabupaten Konawe Selatan;;Moramo;679;12;Selabangga;Aman
+;Kabupaten Konawe Selatan;;Moramo;680;13;Sumber Sari;Aman
+;Kabupaten Konawe Selatan;;Moramo;681;14;Tambosupa;Aman
+;Kabupaten Konawe Selatan;;Moramo;682;15;Ulusena;Aman
+;Kabupaten Konawe Selatan;;Moramo;683;16;Watu Porambaa;Aman
+;Kabupaten Konawe Selatan;;Moramo;684;17;Wawondengi;Aman
+;Kabupaten Konawe Selatan;;Moramo;685;18;Wonua Jaya;Aman
+;Kabupaten Konawe Selatan;;Moramo;686;19;Wowosunggu;Aman
+;Kabupaten Konawe Selatan;;Moramo;687;20;Lapuko;Aman
+;Kabupaten Konawe Selatan;17;Moramo Utara;688;1;Lamokula;Aman
+;Kabupaten Konawe Selatan;;Moramo Utara;689;2;Lombueya;Aman
+;Kabupaten Konawe Selatan;;Moramo Utara;690;3;Mata Lamokula;Aman
+;Kabupaten Konawe Selatan;;Moramo Utara;691;4;Mata Watu-Watu;Aman
+;Kabupaten Konawe Selatan;;Moramo Utara;692;5;Mekar Jaya;Aman
+;Kabupaten Konawe Selatan;;Moramo Utara;693;6;Puasana;Aman
+;Kabupaten Konawe Selatan;;Moramo Utara;694;7;Sanggula;Aman
+;Kabupaten Konawe Selatan;;Moramo Utara;695;8;Tanjung Tiram;Aman
+;Kabupaten Konawe Selatan;;Moramo Utara;696;9;Wawatu;Aman
+;Kabupaten Konawe Selatan;;Moramo Utara;697;10;Lalowaru;Aman
+;Kabupaten Konawe Selatan;18;Mowila;698;1;Kondoano;Aman
+;Kabupaten Konawe Selatan;;Mowila;699;2;Lalosingi;Aman
+;Kabupaten Konawe Selatan;;Mowila;700;3;Lamebara;Aman
+;Kabupaten Konawe Selatan;;Mowila;701;4;Lamolori;Aman
+;Kabupaten Konawe Selatan;;Mowila;702;5;Mataiwoi;Aman
+;Kabupaten Konawe Selatan;;Mowila;703;6;Monapa;Aman
+;Kabupaten Konawe Selatan;;Mowila;704;7;Mowila;Waspada
+;Kabupaten Konawe Selatan;;Mowila;705;8;Mulyasari;Aman
+;Kabupaten Konawe Selatan;;Mowila;706;9;Pudahoa;Aman
+;Kabupaten Konawe Selatan;;Mowila;707;10;Punggulahi;Aman
+;Kabupaten Konawe Selatan;;Mowila;708;11;Puuwehuko;Aman
+;Kabupaten Konawe Selatan;;Mowila;709;12;Rakawuta;Aman
+;Kabupaten Konawe Selatan;;Mowila;710;13;Ranoaopa;Aman
+;Kabupaten Konawe Selatan;;Mowila;711;14;Ranombayasa;Aman
+;Kabupaten Konawe Selatan;;Mowila;712;15;Tetesingi;Aman
+;Kabupaten Konawe Selatan;;Mowila;713;16;Toluwonua;Aman
+;Kabupaten Konawe Selatan;;Mowila;714;17;Wanuakongga;Aman
+;Kabupaten Konawe Selatan;;Mowila;715;18;Wonua Monapa;Aman
+;Kabupaten Konawe Selatan;;Mowila;716;19;Wonua Sari;Aman
+;Kabupaten Konawe Selatan;;Mowila;717;20;Wuura;Aman
+;Kabupaten Konawe Selatan;19;Palangga;718;1;Alakaya;Aman
+;Kabupaten Konawe Selatan;;Palangga;719;2;Anggondara;Aman
+;Kabupaten Konawe Selatan;;Palangga;720;3;Aosole;Aman
+;Kabupaten Konawe Selatan;;Palangga;721;4;Eewa;Aman
+;Kabupaten Konawe Selatan;;Palangga;722;5;Kapujaya;Aman
+;Kabupaten Konawe Selatan;;Palangga;723;6;Kiaea;Aman
+;Kabupaten Konawe Selatan;;Palangga;724;7;Mekar Sari;Aman
+;Kabupaten Konawe Selatan;;Palangga;725;8;Onembute;Aman
+;Kabupaten Konawe Selatan;;Palangga;726;9;Sanggi-Sanggi;Aman
+;Kabupaten Konawe Selatan;;Palangga;727;10;Wawonggura;Aman
+;Kabupaten Konawe Selatan;;Palangga;728;11;Waworaha;Aman
+;Kabupaten Konawe Selatan;;Palangga;729;12;Wawouru;Aman
+;Kabupaten Konawe Selatan;;Palangga;730;13;Watudemba;Aman
+;Kabupaten Konawe Selatan;;Palangga;731;14;Watumerembe;Aman
+;Kabupaten Konawe Selatan;;Palangga;732;15;Palangga;Waspada
+;Kabupaten Konawe Selatan;20;Palangga Selatan;733;1;Koeono;Aman
+;Kabupaten Konawe Selatan;;Palangga Selatan;734;2;Lakara;Aman
+;Kabupaten Konawe Selatan;;Palangga Selatan;735;3;Lalowua;Aman
+;Kabupaten Konawe Selatan;;Palangga Selatan;736;4;Mondoe;Aman
+;Kabupaten Konawe Selatan;;Palangga Selatan;737;5;Parasi;Aman
+;Kabupaten Konawe Selatan;;Palangga Selatan;738;6;Watu Mbohoti;Aman
+;Kabupaten Konawe Selatan;;Palangga Selatan;739;7;Watu Rapa;Aman
+;Kabupaten Konawe Selatan;;Palangga Selatan;740;8;Wawo Wonua;Aman
+;Kabupaten Konawe Selatan;;Palangga Selatan;741;9;Ulu Lakara;Aman
+;Kabupaten Konawe Selatan;;Palangga Selatan;742;10;Amondo;Aman
+;Kabupaten Konawe Selatan;21;Ranomeeto;743;1;Ambepua;Waspada
+;Kabupaten Konawe Selatan;;Ranomeeto;744;2;Amoito;Aman
+;Kabupaten Konawe Selatan;;Ranomeeto;745;3;Amoito Siama;Aman
+;Kabupaten Konawe Selatan;;Ranomeeto;746;4;Boro-Boro R;Aman
+;Kabupaten Konawe Selatan;;Ranomeeto;747;5;Duduria;Aman
+;Kabupaten Konawe Selatan;;Ranomeeto;748;6;Kota Bangun;Waspada
+;Kabupaten Konawe Selatan;;Ranomeeto;749;7;Laikaha;Aman
+;Kabupaten Konawe Selatan;;Ranomeeto;750;8;Langgea;Aman
+;Kabupaten Konawe Selatan;;Ranomeeto;751;9;Onewila;Aman
+;Kabupaten Konawe Selatan;;Ranomeeto;752;10;Rambu-Rambu Jaya;Aman
+;Kabupaten Konawe Selatan;;Ranomeeto;753;11;Ranooha;Waspada
+;Kabupaten Konawe Selatan;;Ranomeeto;754;12;Ranomeeto;Aman
+;Kabupaten Konawe Selatan;22;Ranomeeto Barat;755;1;Ambeko;Aman
+;Kabupaten Konawe Selatan;;Ranomeeto Barat;756;2;Amokuni;Aman
+;Kabupaten Konawe Selatan;;Ranomeeto Barat;757;3;Boro-Boro;Aman
+;Kabupaten Konawe Selatan;;Ranomeeto Barat;758;4;Jati Bali;Aman
+;Kabupaten Konawe Selatan;;Ranomeeto Barat;759;5;Laikadonga;Aman
+;Kabupaten Konawe Selatan;;Ranomeeto Barat;760;6;Lameuru;Aman
+;Kabupaten Konawe Selatan;;Ranomeeto Barat;761;7;Opaasi;Aman
+;Kabupaten Konawe Selatan;;Ranomeeto Barat;762;8;Sindangkasih;Aman
+;Kabupaten Konawe Selatan;;Ranomeeto Barat;763;9;Tunduno;Aman
+;Kabupaten Konawe Selatan;23;Sabulakoa;764;1;Asaria;Aman
+;Kabupaten Konawe Selatan;;Sabulakoa;765;2;Karoonua;Aman
+;Kabupaten Konawe Selatan;;Sabulakoa;766;3;Sabulakoa;Aman
+;Kabupaten Konawe Selatan;;Sabulakoa;767;4;Talumbinga;Aman
+;Kabupaten Konawe Selatan;;Sabulakoa;768;5;Tetenggabo;Aman
+;Kabupaten Konawe Selatan;;Sabulakoa;769;6;Watu-Watu;Aman
+;Kabupaten Konawe Selatan;;Sabulakoa;770;7;Wawobende;Aman
+;Kabupaten Konawe Selatan;;Sabulakoa;771;8;Ulu Sabulakoa;Aman
+;Kabupaten Konawe Selatan;24;Tinanggea;772;1;Akuni;Aman
+;Kabupaten Konawe Selatan;;Tinanggea;773;2;Asingi;Aman
+;Kabupaten Konawe Selatan;;Tinanggea;774;3;Bomba-Bomba;Aman
+;Kabupaten Konawe Selatan;;Tinanggea;775;4;Bungin Permai;Aman
+;Kabupaten Konawe Selatan;;Tinanggea;776;5;Lalo Watu;Aman
+;Kabupaten Konawe Selatan;;Tinanggea;777;6;Lalonggasu;Waspada
+;Kabupaten Konawe Selatan;;Tinanggea;778;7;Lanowulu;Aman
+;Kabupaten Konawe Selatan;;Tinanggea;779;8;Lapoa;Aman
+;Kabupaten Konawe Selatan;;Tinanggea;780;9;Lapulu;Waspada
+;Kabupaten Konawe Selatan;;Tinanggea;781;10;Lasuai;Aman
+;Kabupaten Konawe Selatan;;Tinanggea;782;11;Pangoosi;Aman
+;Kabupaten Konawe Selatan;;Tinanggea;783;12;Palotawo;Aman
+;Kabupaten Konawe Selatan;;Tinanggea;784;13;Matambawi;Aman
+;Kabupaten Konawe Selatan;;Tinanggea;785;14;Matandahi;Aman
+;Kabupaten Konawe Selatan;;Tinanggea;786;15;Moolo Indah;Aman
+;Kabupaten Konawe Selatan;;Tinanggea;787;16;Roraya;Aman
+;Kabupaten Konawe Selatan;;Tinanggea;788;17;Tatangge;Aman
+;Kabupaten Konawe Selatan;;Tinanggea;789;18;Telutu Jaya;Aman
+;Kabupaten Konawe Selatan;;Tinanggea;790;19;Torokeku;Aman
+;Kabupaten Konawe Selatan;;Tinanggea;791;20;Wadonggo;Aman
+;Kabupaten Konawe Selatan;;Tinanggea;792;21;Watu Melewe;Aman
+;Kabupaten Konawe Selatan;;Tinanggea;793;22;Wundumbolo;Aman
+;Kabupaten Konawe Selatan;;Tinanggea;794;23;Ngapaah Tinanggea;Waspada
+;Kabupaten Konawe Selatan;25;Wolasi;795;1;Amoito Jaya;Aman
+;Kabupaten Konawe Selatan;;Wolasi;796;2;Aoma;Aman
+;Kabupaten Konawe Selatan;;Wolasi;797;3;Aunupe;Waspada
+;Kabupaten Konawe Selatan;;Wolasi;798;4;Mata Wolasi;Aman
+;Kabupaten Konawe Selatan;;Wolasi;799;5;Wolasi;Aman
+4;Kabupaten Konawe Utara;1;Andowia;800;1;Ambake;Aman
+;Kabupaten Konawe Utara;;Andowia;801;2;Amolame;Aman
+;Kabupaten Konawe Utara;;Andowia;802;3;Anggolohipo;Aman
+;Kabupaten Konawe Utara;;Andowia;803;4;Banggarema;Aman
+;Kabupaten Konawe Utara;;Andowia;804;5;Labungga;Aman
+;Kabupaten Konawe Utara;;Andowia;805;6;Lahimbua;Aman
+;Kabupaten Konawe Utara;;Andowia;806;7;Lambudoni;Aman
+;Kabupaten Konawe Utara;;Andowia;807;8;Lamondowo;Aman
+;Kabupaten Konawe Utara;;Andowia;808;9;Larobende;Aman
+;Kabupaten Konawe Utara;;Andowia;809;10;Laronanga;Aman
+;Kabupaten Konawe Utara;;Andowia;810;11;Mataiwoi;Aman
+;Kabupaten Konawe Utara;;Andowia;811;12;Puusuli;Aman
+;Kabupaten Konawe Utara;;Andowia;812;13;Puuwonua;Aman
+;Kabupaten Konawe Utara;;Andowia;813;14;Waworate;Aman
+;Kabupaten Konawe Utara;;Andowia;814;15;Andowia;Aman
+;Kabupaten Konawe Utara;2;Asera;815;1;Alaa Wanggudu;Aman
+;Kabupaten Konawe Utara;;Asera;816;2;Amorome;Aman
+;Kabupaten Konawe Utara;;Asera;817;3;Amorome Utama;Aman
+;Kabupaten Konawe Utara;;Asera;818;4;Andedao;Aman
+;Kabupaten Konawe Utara;;Asera;819;5;Aseminunulai;Aman
+;Kabupaten Konawe Utara;;Asera;820;6;Kota Mulya;Aman
+;Kabupaten Konawe Utara;;Asera;821;7;Longeo Utama;Aman
+;Kabupaten Konawe Utara;;Asera;822;8;Oheo Trans;Aman
+;Kabupaten Konawe Utara;;Asera;823;9;Puunggomosi;Aman
+;Kabupaten Konawe Utara;;Asera;824;10;Puuwanggudu;Aman
+;Kabupaten Konawe Utara;;Asera;825;11;Tangguluri;Aman
+;Kabupaten Konawe Utara;;Asera;826;12;Tapuwatu;Aman
+;Kabupaten Konawe Utara;;Asera;827;13;Walalindu;Aman
+;Kabupaten Konawe Utara;;Asera;828;14;Walasolo;Aman
+;Kabupaten Konawe Utara;;Asera;829;15;Wanggudu Raya;Aman
+;Kabupaten Konawe Utara;;Asera;830;16;Wawolimbue;Aman
+;Kabupaten Konawe Utara;;Asera;831;17;Wunduhaka;Aman
+;Kabupaten Konawe Utara;;Asera;832;18;Asera Wanggudu;Aman
+;Kabupaten Konawe Utara;3;Langgikima;833;1;Alenggo;Aman
+;Kabupaten Konawe Utara;;Langgikima;834;2;Lameruru;Aman
+;Kabupaten Konawe Utara;;Langgikima;835;3;Mekar Jaya;Aman
+;Kabupaten Konawe Utara;;Langgikima;836;4;Molore;Aman
+;Kabupaten Konawe Utara;;Langgikima;837;5;Molore Pantai;Aman
+;Kabupaten Konawe Utara;;Langgikima;838;6;Morombo Pantai;Aman
+;Kabupaten Konawe Utara;;Langgikima;839;7;Ngapa Inia;Aman
+;Kabupaten Konawe Utara;;Langgikima;840;8;Pariama;Aman
+;Kabupaten Konawe Utara;;Langgikima;841;9;Polora Indah;Aman
+;Kabupaten Konawe Utara;;Langgikima;842;10;Sarimukti;Aman
+;Kabupaten Konawe Utara;;Langgikima;843;11;Tobimeita;Aman
+;Kabupaten Konawe Utara;;Langgikima;844;12;Langgikima;Aman
+;Kabupaten Konawe Utara;4;Landawe;845;1;Hialu;Aman
+;Kabupaten Konawe Utara;;Landawe;846;2;Hialu Utama;Aman
+;Kabupaten Konawe Utara;;Landawe;847;3;Kolosua;Aman
+;Kabupaten Konawe Utara;;Landawe;848;4;Kuratao;Aman
+;Kabupaten Konawe Utara;;Landawe;849;5;Landawe Utama;Aman
+;Kabupaten Konawe Utara;;Landawe;850;6;Landiwo;Aman
+;Kabupaten Konawe Utara;;Landawe;851;7;Laumoso;Aman
+;Kabupaten Konawe Utara;;Landawe;852;8;Mata Benua;Aman
+;Kabupaten Konawe Utara;;Landawe;853;9;Matabaho;Aman
+;Kabupaten Konawe Utara;;Landawe;854;10;Polo-polora;Aman
+;Kabupaten Konawe Utara;;Landawe;855;11;Tambakua;Aman
+;Kabupaten Konawe Utara;5;Lasolo;856;1;Abola;Aman
+;Kabupaten Konawe Utara;;Lasolo;857;2;Andeo ;Aman
+;Kabupaten Konawe Utara;;Lasolo;858;3;Andumowu ;Aman
+;Kabupaten Konawe Utara;;Lasolo;859;4;Basule ;Aman
+;Kabupaten Konawe Utara;;Lasolo;860;5;Belalo ;Aman
+;Kabupaten Konawe Utara;;Lasolo;861;6;Lalowaru;Aman
+;Kabupaten Konawe Utara;;Lasolo;862;7;Lametono ;Aman
+;Kabupaten Konawe Utara;;Lasolo;863;8;Larodangge;Aman
+;Kabupaten Konawe Utara;;Lasolo;864;9;Marombo Pantai;Aman
+;Kabupaten Konawe Utara;;Lasolo;865;10;Matapila;Aman
+;Kabupaten Konawe Utara;;Lasolo;866;11;Muara Tinobu;Aman
+;Kabupaten Konawe Utara;;Lasolo;867;12;Otole;Aman
+;Kabupaten Konawe Utara;;Lasolo;868;13;Tetelupai;Aman
+;Kabupaten Konawe Utara;;Lasolo;869;14;Tokowuta;Aman
+;Kabupaten Konawe Utara;;Lasolo;870;15;Watukila;Aman
+;Kabupaten Konawe Utara;;Lasolo;871;16;Waworaha;Waspada
+;Kabupaten Konawe Utara;;Lasolo;872;17;Tinobu;Aman
+;Kabupaten Konawe Utara;6;Lasolo Kepulauan;873;1;Boedingi;Aman
+;Kabupaten Konawe Utara;;Lasolo Kepulauan;874;2;Boenaga;Aman
+;Kabupaten Konawe Utara;;Lasolo Kepulauan;875;3;Labengki;Aman
+;Kabupaten Konawe Utara;;Lasolo Kepulauan;876;4;Morombo;Aman
+;Kabupaten Konawe Utara;;Lasolo Kepulauan;877;5;Tapunopaka;Aman
+;Kabupaten Konawe Utara;;Lasolo Kepulauan;878;6;Waturambaha;Aman
+;Kabupaten Konawe Utara;7;Lembo;879;1;Alo Alo;Aman
+;Kabupaten Konawe Utara;;Lembo;880;2;Bungguosu;Aman
+;Kabupaten Konawe Utara;;Lembo;881;3;Lapulu;Aman
+;Kabupaten Konawe Utara;;Lembo;882;4;Laramo;Aman
+;Kabupaten Konawe Utara;;Lembo;883;5;Padaleu;Aman
+;Kabupaten Konawe Utara;;Lembo;884;6;Pasir Putih;Aman
+;Kabupaten Konawe Utara;;Lembo;885;7;Puulemo;Aman
+;Kabupaten Konawe Utara;;Lembo;886;8;Puusiambu;Aman
+;Kabupaten Konawe Utara;;Lembo;887;9;Taipa;Aman
+;Kabupaten Konawe Utara;;Lembo;888;10;Tongalino;Aman
+;Kabupaten Konawe Utara;;Lembo;889;11;Watuwula;Aman
+;Kabupaten Konawe Utara;;Lembo;890;12;Lembo;Aman
+;Kabupaten Konawe Utara;8;Molawe;891;1;Awila;Aman
+;Kabupaten Konawe Utara;;Molawe;892;2;Awila Puncak;Aman
+;Kabupaten Konawe Utara;;Molawe;893;3;Bandaeha;Aman
+;Kabupaten Konawe Utara;;Molawe;894;4;Mandiodo;Aman
+;Kabupaten Konawe Utara;;Molawe;895;5;Mataiwoi;Aman
+;Kabupaten Konawe Utara;;Molawe;896;6;Mowundo;Aman
+;Kabupaten Konawe Utara;;Molawe;897;7;Tapuemea;Aman
+;Kabupaten Konawe Utara;;Molawe;898;8;Tapunggaya;Aman
+;Kabupaten Konawe Utara;;Molawe;899;9;Molawe;Aman
+;Kabupaten Konawe Utara;9;Motui;900;1;Banggina;Aman
+;Kabupaten Konawe Utara;;Motui;901;2;Kapolano;Aman
+;Kabupaten Konawe Utara;;Motui;902;3;Lambuluo;Aman
+;Kabupaten Konawe Utara;;Motui;903;4;Matandahi;Aman
+;Kabupaten Konawe Utara;;Motui;904;5;Motui;Aman
+;Kabupaten Konawe Utara;;Motui;905;6;Poni Poniki;Aman
+;Kabupaten Konawe Utara;;Motui;906;7;Punggulahi;Aman
+;Kabupaten Konawe Utara;;Motui;907;8;Puuwonggia ;Aman
+;Kabupaten Konawe Utara;;Motui;908;9;Ranombupulu;Aman
+;Kabupaten Konawe Utara;;Motui;909;10;Sama Subur;Aman
+;Kabupaten Konawe Utara;;Motui;910;11;Sambasule;Aman
+;Kabupaten Konawe Utara;;Motui;911;12;Tobimeita;Aman
+;Kabupaten Konawe Utara;;Motui;912;13;Tondowatu;Waspada
+;Kabupaten Konawe Utara;;Motui;913;14;Wawoluri;Aman
+;Kabupaten Konawe Utara;;Motui;914;15;Bende;Aman
+;Kabupaten Konawe Utara;10;Oheo;915;1;Bandaeha;Aman
+;Kabupaten Konawe Utara;;Oheo;916;2;Bendewuta;Aman
+;Kabupaten Konawe Utara;;Oheo;917;3;Horoe;Aman
+;Kabupaten Konawe Utara;;Oheo;918;4;Kota Maju;Aman
+;Kabupaten Konawe Utara;;Oheo;919;5;Lameoru;Aman
+;Kabupaten Konawe Utara;;Oheo;920;6;Landawe ;Aman
+;Kabupaten Konawe Utara;;Oheo;921;7;Laroonaha;Aman
+;Kabupaten Konawe Utara;;Oheo;922;8;Mopute;Aman
+;Kabupaten Konawe Utara;;Oheo;923;9;Paka Indah;Aman
+;Kabupaten Konawe Utara;;Oheo;924;10;Puuhialu;Aman
+;Kabupaten Konawe Utara;;Oheo;925;11;Sambandete;Aman
+;Kabupaten Konawe Utara;;Oheo;926;12;Tadoloiyo;Aman
+;Kabupaten Konawe Utara;;Oheo;927;13;Tadoloiyo Trans;Aman
+;Kabupaten Konawe Utara;;Oheo;928;14;Tinondo ;Aman
+;Kabupaten Konawe Utara;;Oheo;929;15;Walandawe;Aman
+;Kabupaten Konawe Utara;;Oheo;930;16;Wiwirano;Aman
+;Kabupaten Konawe Utara;;Oheo;931;17;Linomoiyo;Aman
+;Kabupaten Konawe Utara;11;Sawa;932;1;Kokapi;Aman
+;Kabupaten Konawe Utara;;Sawa;933;2;Laimeo;Aman
+;Kabupaten Konawe Utara;;Sawa;934;3;Lalembo;Aman
+;Kabupaten Konawe Utara;;Sawa;935;4;Matanggonawe ;Aman
+;Kabupaten Konawe Utara;;Sawa;936;5;Panggulawu ;Aman
+;Kabupaten Konawe Utara;;Sawa;937;6;Pekaroa ;Aman
+;Kabupaten Konawe Utara;;Sawa;938;7;Pudonggala ;Aman
+;Kabupaten Konawe Utara;;Sawa;939;8;Pudonggala Utama ;Aman
+;Kabupaten Konawe Utara;;Sawa;940;9;Puupi;Aman
+;Kabupaten Konawe Utara;;Sawa;941;10;Tanjung Laimeo;Aman
+;Kabupaten Konawe Utara;;Sawa;942;11;Tongauna;Aman
+;Kabupaten Konawe Utara;;Sawa;943;12;Tudungano;Aman
+;Kabupaten Konawe Utara;;Sawa;944;13;Ulu Sawa;Aman
+;Kabupaten Konawe Utara;;Sawa;945;14;Sawa;Aman
+;Kabupaten Konawe Utara;12;Wawolesea;946;1;Barasanga;Aman
+;Kabupaten Konawe Utara;;Wawolesea;947;2;Bunga;Aman
+;Kabupaten Konawe Utara;;Wawolesea;948;3;Kampoh;Aman
+;Kabupaten Konawe Utara;;Wawolesea;949;4;Desa Kampoh Cina;Aman
+;Kabupaten Konawe Utara;;Wawolesea;950;5;Desa Lemo Bajo;Aman
+;Kabupaten Konawe Utara;;Wawolesea;951;6;Desa Otipulu;Aman
+;Kabupaten Konawe Utara;;Wawolesea;952;7;Tanjung Bunga;Aman
+;Kabupaten Konawe Utara;;Wawolesea;953;8;Toreo;Aman
+;Kabupaten Konawe Utara;;Wawolesea;954;9;Wawolesea;Aman
+;Kabupaten Konawe Utara;;Wawolesea;955;10;Wawolesea;Aman
+;Kabupaten Konawe Utara;13;Wiwirano;956;1;Culambatu;Aman
+;Kabupaten Konawe Utara;;Wiwirano;957;2;Lamonae Utama;Aman
+;Kabupaten Konawe Utara;;Wiwirano;958;3;Lamparinga;Aman
+;Kabupaten Konawe Utara;;Wiwirano;959;4;Larompana;Aman
+;Kabupaten Konawe Utara;;Wiwirano;960;5;Mata Osole;Aman
+;Kabupaten Konawe Utara;;Wiwirano;961;6;Padalere;Aman
+;Kabupaten Konawe Utara;;Wiwirano;962;7;Padalere Utama;Aman
+;Kabupaten Konawe Utara;;Wiwirano;963;8;Pondoa;Aman
+;Kabupaten Konawe Utara;;Wiwirano;964;9;Tetewatu;Aman
+;Kabupaten Konawe Utara;;Wiwirano;965;10;Wacu Pinodo;Aman
+;Kabupaten Konawe Utara;;Wiwirano;966;11;Wacumelewe ;Aman
+;Kabupaten Konawe Utara;;Wiwirano;967;12;Wawoheo;Aman
+;Kabupaten Konawe Utara;;Wiwirano;968;13;Wawonsangi;Aman
+;Kabupaten Konawe Utara;;Wiwirano;969;14;Wawontoaho;Aman
+;Kabupaten Konawe Utara;;Wiwirano;970;15;Lamonae;Aman
+5;Kabupaten Konawe Kepulauan;1;Wawonii Barat;971;1;Bukit Permai;Aman
+;Kabupaten Konawe Kepulauan;;Wawonii Barat;972;2;Kawa-Kawali;Aman
+;Kabupaten Konawe Kepulauan;;Wawonii Barat;973;3;Lamoluo;Aman
+;Kabupaten Konawe Kepulauan;;Wawonii Barat;974;4;Langara Bajo;Aman
+;Kabupaten Konawe Kepulauan;;Wawonii Barat;975;5;Langara Indah;Aman
+;Kabupaten Konawe Kepulauan;;Wawonii Barat;976;6;Langara Iwawo;Aman
+;Kabupaten Konawe Kepulauan;;Wawonii Barat;977;7;Langara Tanjung Batu;Aman
+;Kabupaten Konawe Kepulauan;;Wawonii Barat;978;8;Langkowala;Aman
+;Kabupaten Konawe Kepulauan;;Wawonii Barat;979;9;Lanowatu;Aman
+;Kabupaten Konawe Kepulauan;;Wawonii Barat;980;10;Lantula;Aman
+;Kabupaten Konawe Kepulauan;;Wawonii Barat;981;11;Mata Baho;Aman
+;Kabupaten Konawe Kepulauan;;Wawonii Barat;982;12;Mata Langara;Aman
+;Kabupaten Konawe Kepulauan;;Wawonii Barat;983;13;Pasir Putih;Aman
+;Kabupaten Konawe Kepulauan;;Wawonii Barat;984;14;Wawobili;Aman
+;Kabupaten Konawe Kepulauan;;Wawonii Barat;985;15;Wawolaa;Aman
+;Kabupaten Konawe Kepulauan;;Wawonii Barat;986;16;Langara Laut;Aman
+;Kabupaten Konawe Kepulauan;2;Wawonii Selatan;987;1;Baku-Baku;Aman
+;Kabupaten Konawe Kepulauan;;Wawonii Selatan;988;2;Bobolio;Aman
+;Kabupaten Konawe Kepulauan;;Wawonii Selatan;989;3;Langara Jaya;Aman
+;Kabupaten Konawe Kepulauan;;Wawonii Selatan;990;4;Lawey;Aman
+;Kabupaten Konawe Kepulauan;;Wawonii Selatan;991;5;Puuwatu;Aman
+;Kabupaten Konawe Kepulauan;;Wawonii Selatan;992;6;Sawa Patani;Aman
+;Kabupaten Konawe Kepulauan;;Wawonii Selatan;993;7;Wawoone;Aman
+;Kabupaten Konawe Kepulauan;;Wawonii Selatan;994;8;Wawouso;Aman
+;Kabupaten Konawe Kepulauan;;Wawonii Selatan;995;9;Wawouso Baru;Aman
+;Kabupaten Konawe Kepulauan;;Wawonii Selatan;996;10;Wungkolo;Aman
+;Kabupaten Konawe Kepulauan;;Wawonii Selatan;997;11;Sawaea;Aman
+;Kabupaten Konawe Kepulauan;3;Wawonii Tengah;998;1;Baho Puuwulu;Aman
+;Kabupaten Konawe Kepulauan;;Wawonii Tengah;999;2;Batumea;Aman
+;Kabupaten Konawe Kepulauan;;Wawonii Tengah;1000;3;Lamongupa;Aman
+;Kabupaten Konawe Kepulauan;;Wawonii Tengah;1001;4;Lampeapi Baru;Aman
+;Kabupaten Konawe Kepulauan;;Wawonii Tengah;1002;5;Mekar Sari;Aman
+;Kabupaten Konawe Kepulauan;;Wawonii Tengah;1003;6;Morobea;Aman
+;Kabupaten Konawe Kepulauan;;Wawonii Tengah;1004;7;Pesue;Aman
+;Kabupaten Konawe Kepulauan;;Wawonii Tengah;1005;8;Puurau;Aman
+;Kabupaten Konawe Kepulauan;;Wawonii Tengah;1006;9;Rawa Indah;Aman
+;Kabupaten Konawe Kepulauan;;Wawonii Tengah;1007;10;Tumbu-Tumbu Jaya;Aman
+;Kabupaten Konawe Kepulauan;;Wawonii Tengah;1008;11;Wawe Indah;Aman
+;Kabupaten Konawe Kepulauan;;Wawonii Tengah;1009;12;Lampeapi;Aman
+;Kabupaten Konawe Kepulauan;4;Wawonii Tenggara;1010;1;Bahaba;Aman
+;Kabupaten Konawe Kepulauan;;Wawonii Tenggara;1011;2;Dompo-Dompo Jaya;Aman
+;Kabupaten Konawe Kepulauan;;Wawonii Tenggara;1012;3;Kekea;Aman
+;Kabupaten Konawe Kepulauan;;Wawonii Tenggara;1013;4;Mosolo;Aman
+;Kabupaten Konawe Kepulauan;;Wawonii Tenggara;1014;5;Nambo Jaya;Aman
+;Kabupaten Konawe Kepulauan;;Wawonii Tenggara;1015;6;Roko-Roko;Aman
+;Kabupaten Konawe Kepulauan;;Wawonii Tenggara;1016;7;Sainoa Indah;Aman
+;Kabupaten Konawe Kepulauan;;Wawonii Tenggara;1017;8;Sinar Mosolo;Aman
+;Kabupaten Konawe Kepulauan;;Wawonii Tenggara;1018;9;Sinaulu Jaya;Aman
+;Kabupaten Konawe Kepulauan;;Wawonii Tenggara;1019;10;Sukarela;Aman
+;Kabupaten Konawe Kepulauan;;Wawonii Tenggara;1020;11;Temporoko;Aman
+;Kabupaten Konawe Kepulauan;;Wawonii Tenggara;1021;12;Tondonggito;Aman
+;Kabupaten Konawe Kepulauan;;Wawonii Tenggara;1022;13;Waturai;Aman
+;Kabupaten Konawe Kepulauan;;Wawonii Tenggara;1023;14;Wunse Jaya;Aman
+;Kabupaten Konawe Kepulauan;;Wawonii Tenggara;1024;15;Polara;Aman
+;Kabupaten Konawe Kepulauan;5;Wawonii Timur;1025;1;Butuea;Aman
+;Kabupaten Konawe Kepulauan;;Wawonii Timur;1026;2;Lapulu;Aman
+;Kabupaten Konawe Kepulauan;;Wawonii Timur;1027;3;Laywo Jaya;Aman
+;Kabupaten Konawe Kepulauan;;Wawonii Timur;1028;4;Lebo;Aman
+;Kabupaten Konawe Kepulauan;;Wawonii Timur;1029;5;Lembono;Aman
+;Kabupaten Konawe Kepulauan;;Wawonii Timur;1030;6;Munse Indah;Aman
+;Kabupaten Konawe Kepulauan;;Wawonii Timur;1031;7;Nanga;Aman
+;Kabupaten Konawe Kepulauan;;Wawonii Timur;1032;8;Saburano;Aman
+;Kabupaten Konawe Kepulauan;;Wawonii Timur;1033;9;Tekonea;Aman
+;Kabupaten Konawe Kepulauan;;Wawonii Timur;1034;10;Wakadawu;Aman
+;Kabupaten Konawe Kepulauan;;Wawonii Timur;1035;11;Munse;Aman
+;Kabupaten Konawe Kepulauan;6;Wawonii Timur Laut;1036;1;Baho Bubu;Aman
+;Kabupaten Konawe Kepulauan;;Wawonii Timur Laut;1037;2;Bangun Mekar;Aman
+;Kabupaten Konawe Kepulauan;;Wawonii Timur Laut;1038;3;Dimba;Aman
+;Kabupaten Konawe Kepulauan;;Wawonii Timur Laut;1039;4;Mata Dimba;Aman
+;Kabupaten Konawe Kepulauan;;Wawonii Timur Laut;1040;5;Noko;Aman
+;Kabupaten Konawe Kepulauan;;Wawonii Timur Laut;1041;6;Patande;Aman
+;Kabupaten Konawe Kepulauan;;Wawonii Timur Laut;1042;7;Puurau;Aman
+;Kabupaten Konawe Kepulauan;;Wawonii Timur Laut;1043;8;Tangkombuno;Aman
+;Kabupaten Konawe Kepulauan;;Wawonii Timur Laut;1044;9;Watuondo;Aman
+;Kabupaten Konawe Kepulauan;;Wawonii Timur Laut;1045;10;Ladianta;Aman
+;Kabupaten Konawe Kepulauan;7;Wawonii Utara;1046;1;Dongkalaea;Aman
+;Kabupaten Konawe Kepulauan;;Wawonii Utara;1047;2;Labeau;Aman
+;Kabupaten Konawe Kepulauan;;Wawonii Utara;1048;3;Labisa;Aman
+;Kabupaten Konawe Kepulauan;;Wawonii Utara;1049;4;Mata Bubu;Aman
+;Kabupaten Konawe Kepulauan;;Wawonii Utara;1050;5;Mata Buranga;Aman
+;Kabupaten Konawe Kepulauan;;Wawonii Utara;1051;6;Mataiwoi;Aman

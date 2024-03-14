@@ -1,0 +1,86 @@
+<div class="modal fade" id="filterLokasiModal" tabindex="-1" role="dialog">
+    <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">
+                    Filter lokasi
+                </h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <form action="" id="filter_form" ref="filterForm" @submit.prevent="handleFilter()">
+
+                <div class="modal-body">
+
+                    <div class="row">
+                        <div class="col-lg-6 mb-3">
+                            <label for="tahun" class="form-label required">Filter tahun : </label>
+
+                            <select class="form-select" id="tahun" name="tahun" v-model="filter.tahun" required>
+                                <option value="" disabled>--Pilih Tahun--</option>
+                                {% for year in list_year %}
+                                <option value="{{ year }}" :selected="'{{ year }}' == filter.tahun">{{ year }}</option>
+                                {% endfor %}
+                            </select>
+                        </div>
+                        <div class="col-lg-6 mb-3">
+                            <label for="status_kerawanan" class="form-label">Filter status kerawanan : </label>
+                            <select class="form-select" id="status_kerawanan" name="status_kerawanan"
+                                v-model="filter.status_kerawanan">
+                                <option value="" selected disabled>--Pilih status--</option>
+                                {% for status_kerawanan in list_status_kerawanan %}
+                                <option value="{{ status_kerawanan.value }}"
+                                    :selected="'{{ status_kerawanan.value }}' == filter.status_kerawanan">
+                                    {{ status_kerawanan.label }}</option>
+                                {% endfor %}
+                            </select>
+                        </div>
+                    </div>
+
+                    <hr class="mx-n4">
+
+                    <h6>Filter lokasi</h6>
+                    <div class="row">
+                        <div class="col-lg-6 mb-3">
+                            <label for="provinsi" class="form-label">Provinsi : </label>
+                            <select class="form-select select2" id="provinsi" name="provinsi" v-model="filter.provinsi">
+                                <option value="" selected disabled>--Pilih Provinsi--</option>
+                                <option v-if="list_provinces" v-for="province in list_provinces" :value="province.id"
+                                    :selected="'{{ province.id }}' == filter.province">[[
+                                    province.nama_provinsi ]]</option>
+                            </select>
+                        </div>
+                        <div class="col-lg-6 mb-3">
+                            <label for="kota" class="form-label">Kabupaten/Kota : </label>
+                            <select class="form-select" id="kota" name="kota" v-model="filter.kota">
+                                <option value="">--Pilih kota--</option>
+                            </select>
+                        </div>
+                        <div class="col-lg-12 mb-3">
+                            <label for="kecamatan" class="form-label">Kecamatan : </label>
+                            <select class="form-select" id="kecamatan" name="kecamatan" v-model="filter.kecamatan">
+                                <option value="">--Pilih Kecamatan--</option>
+                            </select>
+                        </div>
+                    </div>
+
+                    {% comment %} <div class="text-end">
+                        <button type="button" class="btn btn-danger" data-bs-dismiss="modal"
+                            @click="handleResetFilter()">
+                            <i class="fas fa-xmark me-2"></i> Reset filter
+                        </button>
+                    </div> {% endcomment %}
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-danger" data-bs-dismiss="modal" @click="handleResetFilter()">
+                        <i class="fas fa-xmark me-2"></i> Reset filter
+                    </button>
+                    {% comment %} <button type="button" class="btn btn-cancel" data-bs-dismiss="modal"
+                        @click="handleResetFilter()">
+                        <i class="fas fa-xmark me-2"></i> Batalkan
+                    </button> {% endcomment %}
+                    <button type="submit" class="btn btn-success"><i class="fas fa-save me-2"></i>Terapkan</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

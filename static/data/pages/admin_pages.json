@@ -1,0 +1,24 @@
+{
+    "pages": [
+        {
+            "name": "Beranda",
+            "icon": "fas fa-home",
+            "url": "/dashboard"
+        },
+        {
+            "name": "Tambah Data Kawasan Rawan",
+            "icon": "fas fa-map-location-dot",
+            "url": "/dashboard/masters/kawasan_rawan/tambah/"
+        },
+        {
+            "name": "Pengaturan Profil",
+            "icon": "fas fa-user",
+            "url": "/dashboard/profil_saya/"
+        },
+        {
+            "name": "Pengaturan Keamanan",
+            "icon": "fas fa-lock",
+            "url": "/dashboard/keamanan/"
+        }
+    ]
+}
